@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Fein-Owl-117-First-Lines-Index-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Index of First Lines</title><author>Fein, Susanna</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp><resp from="2022-05" to="2023-09">Entered corrections for digital edition</resp><resp from="2022-05" to="2023-09">Entered corrections for print edition</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2020-02" to="2020-03">Copyedited and proofread</resp><resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2022-05" to="2023-11">Entered corrections for digital edition</resp><resp from="2020-02" to="2023-09">Entered corrections for print edition</resp><resp from="2020-02" to="2020-03">Formatted for print edition</resp><resp from="2020-02" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2023-11" to="2024-01">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-01">Entered corrections for digital edition</resp><resp from="2023-11" to="2024-01">Formatted for XML export</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-02" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2023-10" to="2023-11">Entered corrections for digital edition</resp><resp from="2023-10" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2021-11" to="2024-05">Audited documents prior to print/export</resp><resp>Collated and entered corrections</resp><resp from="2021-11" to="2021-12">Copyedited and proofread</resp><resp from="2021-11" to="2021-12">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-12">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-12">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Thomas of Hales</author><author>Unknown</author><editor>Fein, Susanna</editor><editor role="translator">Fein, Susanna</editor><title>The Owl and the Nightingale and the English Poems of Oxford, Jesus College, MS 29 (II)</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2022</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/fein-owl/blob/main/fein-owl-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Fein-Owl-117-First-Lines-Index"/><div type="text">
+ <p style="appendix-headnote1">This index lists first lines, titles, and incipits.</p>
+ <list type="index-firstlines"><item>A mayde Cristes me bit yorne that ich hire wurche a luve ron: art. 19</item>
+ <item><hi rend="italic">Annunciation, The</hi>: art. 10</item>
+ <item><hi rend="italic">Antiphon of Saint Thomas the Martyr in </hi><hi rend="italic">English</hi>: art. 17</item>
+ <item>At Sevorde sete theynes monye: art. 24</item>
+ <item><hi rend="italic">Death</hi>: art. 14</item>
+ <item><hi rend="italic">Death’s Wither-Clench</hi>: art. 7</item>
+ <item><hi rend="italic">Doomsday</hi>: art. 13</item>
+ <item><hi rend="italic">Eleven Pains of Hell, The</hi>: art. 28</item>
+ <item>Englelond is eyhte hundred myle long: art. 27</item>
+ <item><hi rend="italic">Fire and Ice</hi>: art. 21</item>
+ <item><hi rend="italic">Five Joys of Our Lady Saint Mary, The</hi>: art. 11</item>
+ <item>From heovene into eorthe, God gretynge he sende: art. 20</item>
+ <item>Haly Thomas of heoveriche: art. 17</item>
+ <item><hi rend="italic">Her bigynneth the syren and the hundredes of Engelonde</hi>: art. 27</item>
+ <item><hi rend="italic">Her bigynneth </hi><hi rend="italic">the vif blyssen of ure Levedi Seynte Marie</hi>: art. 11</item>
+ <item>Herkneth alle gode men, and stylle sitteth adun: art. 16</item>
+ <item><hi rend="italic">Homily on Sooth Love</hi>: art. 26</item>
+ <item>Hwan thu sixst on leode: art. 15</item>
+ <item>Hwenne ich thenche of Domesday, ful sore ich may adrede: art. 13</item>
+ <item>Hwenne thin heou bloketh: art. 22</item>
+ <item>Hwenne-so Wil Wit oferstieth, thenne is Wil and Wit forlore: art. 9</item>
+ <item>Hwi ne serve we Crist and secheth his sauht: art. 18</item>
+ <item>Hwile wes Seynte Peter icleped Symon: art. 12</item>
+ <item><hi rend="italic">Hwon Holy Chireche is under vote</hi>: art. 12</item>
+ <item>Ich am eldre than ich wes, a winter and ek on lore: art. 3</item>
+ <item>Ich wes in one sumere dale: art. 2</item>
+ <item><hi rend="italic">Ici comencent les unze peynes de </hi><hi rend="italic">enfern les queus Seynt Pool vist</hi>: art. 28</item>
+ <item><hi rend="italic">Ici cumence </hi><hi rend="italic">la passyon Jhesu Crist en Engleys</hi>: art. 1</item>
+ <item>Ihereth nu one lutele tale that ich eu wille telle: art. 1</item>
+ <item>Ihereth of one thinge that ye owen ofthenche: art. 14</item>
+ <item><hi rend="italic">Incipit altercatio inter filomenam et </hi><hi rend="italic">bubonem</hi>: art. 2</item>
+ <item><hi rend="italic">Incipit antiphona de sancto Thoma martyre in</hi><hi rend="italic"> anglico</hi>: art. 17</item>
+ <item><hi rend="italic">Incipit de die judicii</hi>: art. 13</item>
+ <item><hi rend="italic">Incipit</hi><hi rend="italic"> de muliere Samaritana</hi>: art. 5</item>
+ <item><hi rend="italic">Incipit quidam cantus quem composuit</hi><hi rend="italic"> frater Thomas de Hales</hi>: art. 19</item>
+ <item><hi rend="italic">Incipiunt documenta regis Alvredi</hi>: art. 24</item>
+ <item><hi rend="italic">Item cantus</hi>: art. 20</item>
+ <item>Levedy, for thare blisse that thu heddest at the frume: art. 11</item>
+ <item><hi rend="italic">Little Sooth</hi><hi rend="italic"> Sermon, A</hi>: art. 16</item>
+ <item>Louerd Crist, ich the grete: art. 25</item>
+ <item><hi rend="italic">Love Rune</hi>: art. 19</item>
+ <item>Mon may longe lyves wene: art. 7</item>
+ <item><hi rend="italic">Moral Ode, A</hi>: art. 3</item>
+ <item>Naveth my saule bute fur and ys, and the lichome eorthe and treo: art. 21</item>
+ <item>Of thine swete wordes, ich am swithe glad: art. 10</item>
+ <item>On hire is al my lif ilong: art. 8</item>
+ <item><hi rend="italic">On Serving Christ</hi>: art. 18</item>
+ <item><hi rend="italic">Orison to Our Lady</hi><hi rend="italic">, An</hi>: art. 8</item>
+ <item><hi rend="italic">Orison to Our Lord, An</hi>: art. 25</item>
+ <item><hi rend="italic">Owl and the Nightingale, The</hi>: art. 2</item>
+ <item><hi rend="italic">Passion of Our</hi><hi rend="italic"> Lord in English, The</hi>: art. 1</item>
+ <item><hi rend="italic">Plest vus oyer une</hi><hi rend="italic"> demaunde</hi>: art. 28</item>
+ <item><hi rend="italic">Proverbs of Alfred, The</hi>: art. 24</item>
+ <item><hi rend="italic">Saws</hi><hi rend="italic"> of Saint Bede</hi>: art. 4</item>
+ <item><hi rend="italic">Shires and Hundreds of</hi><hi rend="italic"> England, The</hi>: art. 27</item>
+ <item><hi rend="italic">Signs of Death</hi>: art. 22</item>
+ <item><hi rend="italic">Song</hi><hi rend="italic"> of the Annunciation</hi>: art. 20</item>
+ <item><hi rend="italic">Ten Abuses</hi>:art. 15</item>
+ <item>Theo sothe luve among us beo wythuten euch endynge: art. 26</item>
+ <item>Theos Holy Gostes myhte: art. 4</item>
+ <item>Tho Jhesu Crist an eorth was, mylde weren his dede: art. 5</item>
+ <item><hi rend="italic">Three Sorrowful Tidings</hi>: art. 23</item>
+ <item><hi rend="italic">Tractatus quidam</hi>: art. 25</item>
+ <item><hi rend="italic">Tractatus quidam</hi>: art. 26</item>
+ <item><hi rend="italic">Tractatus quidam in anglico</hi>: art. 3</item>
+ <item>Unsely gost, hwat dostu here: art. 28</item>
+ <item>Uyche day me cumeth tydinges threo: art. 23</item>
+ <item><hi rend="italic">Weal</hi>: art. 6</item>
+ <item>Weole, thu art a waried thing; uneven constu dele: art. 6</item>
+ <item><hi rend="italic">When Holy Church Is</hi><hi rend="italic"> Under Foot</hi>: art. 12</item>
+ <item><hi rend="italic">Will and Wit</hi>: art. 9</item>
+ <item><hi rend="italic">Woman of Samaria, The</hi>: art. 5</item></list>
+ </div></body></text></TEI>

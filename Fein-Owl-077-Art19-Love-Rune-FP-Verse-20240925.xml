@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Fein-Owl-077-Art19-Love-Rune-FP-Verse-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>19. Thomas of Hales, Love Rune</title>
+        <author>Thomas of Hales</author>
+        <editor>Fein, Susanna</editor>
+        <editor role="translator">Fein, Susanna</editor>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Conklin, Ashley R.</persName>
+          <resp>Audited documents prior to print/export</resp>
+          <resp from="2020-02" to="2020-04">Ensured adherence to METS Style Guide</resp>
+          <resp from="2022-05" to="2023-09">Entered corrections for digital edition</resp>
+          <resp from="2020-02" to="2023-09">Entered corrections for print edition</resp>
+          <resp from="2020-02" to="2020-04">Reviewed transcription of base manuscript or early print
+            witness</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp>
+          <resp from="2020-02" to="2020-03">Copyedited and proofread</resp>
+          <resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2022-05" to="2023-11">Entered corrections for digital edition</resp>
+          <resp from="2020-02" to="2023-09">Entered corrections for print edition</resp>
+          <resp from="2020-02" to="2020-03">Formatted for print edition</resp>
+          <resp from="2020-02" to="2023-11">Formatted for XML export</resp>
+          <resp from="2024-05" to="2024-06">Encoded TEI</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp>
+          <resp from="2023-10" to="2023-10">Collected metadata</resp>
+          <resp from="2023-11" to="2024-01">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-11" to="2024-01">Entered corrections for digital edition</resp>
+          <resp from="2023-11" to="2024-01">Formatted for XML export</resp>
+          <resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2021-11" to="2021-11">Copyedited and proofread</resp>
+          <resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2021-11" to="2021-11">Reviewed and suggested glosses</resp>
+          <resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp>
+          <resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp>
+          <resp from="2021-11" to="2021-11">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2024-02" to="2024-05">Collected metadata</resp>
+          <resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp from="2021-11" to="2021-11">Copyedited and proofread</resp>
+          <resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2021-11" to="2021-11">Reviewed and suggested glosses</resp>
+          <resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp>
+          <resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp>
+          <resp from="2021-11" to="2021-11">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp>
+          <resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-10" to="2023-11">Entered corrections for digital edition</resp>
+          <resp from="2023-10" to="2023-11">Formatted for XML export</resp>
+          <resp from="2024-05" to="2024-06">Encoded TEI</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2021-11" to="2024-05">Audited documents prior to print/export</resp>
+          <resp>Collated and entered corrections</resp>
+          <resp from="2021-11" to="2021-12">Copyedited and proofread</resp>
+          <resp from="2021-11" to="2021-12">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-05" to="2023-08">Entered corrections for digital edition</resp>
+          <resp from="2023-05" to="2023-08">Entered corrections for print edition</resp>
+          <resp from="2021-11" to="2021-12">Reviewed edition for consistency and audience</resp>
+          <resp from="2021-11" to="2021-12">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2024</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mead Bowen</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Theresa Coletti</persName>
+          <orgName>University of Maryland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ashley R. Conklin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa Fagin Davis</persName>
+          <orgName>Medieval Academy of America</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steffi Delcourt</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Margaret Dull</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Director of Metadata Strategies, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Susanna Fein</persName>
+          <orgName>Kent State University</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John Geck</persName>
+          <orgName>Memorial University of Newfoundland</orgName>
+          <resp>TEI Consultant, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alexandra Gillespie</persName>
+          <orgName>University of Toronto</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas Goodmann</persName>
+          <orgName>University of Miami</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Consulting Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David A. Lawton</persName>
+          <orgName>Washington University in St. Louis</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Michael Livingston</persName>
+          <orgName>The Citadel</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peter Nowak</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katie Papas</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eleanor Price</persName>
+          <orgName>Eastman School of Music at the University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Raybin</persName>
+          <orgName>Eastern Illinois University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eve Salisbury</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Anna Siebach-Larsen</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lynn Staley</persName>
+          <orgName>Colgate University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jeff Suszczynski</persName>
+          <orgName>Univeristy of Rochester</orgName>
+          <resp>Web Applications Programmer, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Victoria Szabo</persName>
+          <orgName>Duke University</orgName>
+          <resp>Consulting Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Wallace</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Pamela M. Yee</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Thomas of Hales</author>
+            <author>Unknown</author>
+            <editor>Fein, Susanna</editor>
+            <editor role="translator">Fein, Susanna</editor>
+            <title>The Owl and the Nightingale and the English Poems of Oxford, Jesus College, MS 29
+              (II)</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/fein-owl/blob/main/fein-owl-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="enm">English, Middle (1100-1500)</language>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Fein-Owl-077-Art19-Love-Rune-FP-Verse"/>
+      <div type="versotext" xml:lang="enm">
+        <p style="incipit"><l><locus type="foliation">fol. 187r</locus><space rend="indent1"
+              /><foreign xml:lang="lat">Incipit quidam cantus quem composuit frater
+                </foreign><persName><foreign xml:lang="lat">Thomas</foreign></persName><foreign
+              xml:lang="lat"> de <placeName>Hales</placeName> de ordine fratrum
+            minorum</foreign></l><l><space rend="indent1"/><foreign xml:lang="lat">ad instanciam cuiusdam puelle</foreign>
+                <persName><foreign xml:lang="lat">Deo</foreign></persName><foreign xml:lang="lat">
+              dicate</foreign><hi rend="italic">.</hi><note type="tnote-indicator" n="1">T</note>
+          </l></p>
+        <lg>
+          <l><space rend="indent1"/>A<note type="tnote-indicator" n="2">T</note> mayde
+              <persName>Cristes</persName><note type="enote-indicator" n="1">N</note> me bit
+            yorne<caesura/>that ich hire wurche a luve ron,<note type="enote-indicator" n="2"
+              >N</note>
+          </l>
+          <l><space rend="indent1"/>For-hwan<note type="enote-indicator" n="3">N</note> heo myhte
+            best ileorne<caesura/>to taken onother soth lefmon<note type="enote-indicator" n="4"
+              >N</note>
+          </l>
+          <l><space rend="indent1"/>That treowest<note type="tnote-indicator" n="3">T</note> were of
+            alle berne,<caesura/>and best wyte cuthe<note type="enote-indicator" n="5">N</note> a
+              freo<note type="enote-indicator" n="6">N</note> wymmon.</l>
+          <l><space rend="indent1"/>Ich hire nule nowiht werne —<caesura/>ich hire wule teche as ic
+            con.</l>
+        </lg>
+        <lg>
+          <l><milestone n="5" unit="line"/><space rend="indent1"/>Mayde, her thu myht
+            biholde<caesura/>this worldes luve nys bute o res,<note type="enote-indicator" n="7"
+              >N</note>
+          </l>
+          <l><space rend="indent1"/>And is byset so felevolde,<caesura/>vikel and frakel and wok and
+            les.</l>
+          <l><space rend="indent1"/>Theos theines<note type="enote-indicator" n="8">N</note> that
+            her weren bolde<caesura/>beoth aglyden so wyndes bles;</l>
+          <l><space rend="indent1"/>Under molde hi liggeth colde,<caesura/>and faleweth so doth
+            medewe gres.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Nis no mon iboren o lyve<caesura/>that her may beon
+            studevest,</l>
+          <l><milestone n="10" unit="line"/><space rend="indent1"/>For her he haveth seorewen
+            ryve,<caesura/>ne tyt him never ro ne rest;<note type="tnote-indicator" n="4">T</note>
+          </l>
+          <l><space rend="indent1"/>Toward his ende he hyeth blyve,<caesura/>and lutle hwile he her
+            ilest;</l>
+          <l><space rend="indent1"/>Pyne and deth him wile ofdryve<note type="enote-indicator" n="9"
+              >N</note>
+            <caesura/>hwenne he weneth to libben best.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Nis non so riche, ne non so freo,<caesura/>that he ne schal
+            heonne sone away.<note type="tnote-indicator" n="5">T</note>
+          </l>
+          <l><space rend="indent1"/>Ne may hit never his waraunt beo<caesura/>gold ne seolver, vouh
+            ne gray;<note type="enote-indicator" n="10">N</note>
+          </l>
+          <l><milestone n="15" unit="line"/><space rend="indent1"/>Ne beo he no the swift, ne may he
+            fleo,<caesura/>ne weren his lif enne<note type="enote-indicator" n="11">N</note> day
+            —</l>
+          <l><space rend="indent1"/>Thus is thes world, as thu mayht seo,<caesura/>al so the
+            schadewe that glyt away.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>This world fareth hwilynde:<caesura/>hwenne on cumeth, another
+            goth.</l>
+          <l><space rend="indent1"/>That wes bifore nu is<note type="tnote-indicator" n="6">T</note>
+            bihynde;<caesura/>that er was leof nu hit is loth.</l>
+          <l><space rend="indent1"/>Forthi he doth as the blynde<caesura/>that in this world his
+            luve doth.</l>
+          <l><locus type="foliation">fol. 187v</locus><space rend="indent1"/>Ye<note
+              type="enote-indicator" n="12">N</note> mowen iseo the world aswynde —<caesura/>that
+            wouh goth forth, abak that soth.<note type="enote-indicator" n="13">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><milestone n="21" unit="line"/><space rend="indent1"/>Theo luve that ne may her
+            abyde,<caesura/>thu treowest hire myd muchel wouh</l>
+          <l><space rend="indent1"/>Al so hwenne hit schal toglide —<caesura/>hit is fals and
+              mereuh<note type="enote-indicator" n="14">N</note> and frouh,</l>
+          <l><space rend="indent1"/>And fromward is uychon tide —<caesura/>hwile hit lesteth, is
+            seorewe inouh.</l>
+          <l><space rend="indent1"/>An ende, ne werie mon so syde,<caesura/>he schal todreosen so
+            lef on bouh.<note type="enote-indicator" n="15">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><milestone n="25" unit="line"/><space rend="indent1"/>Monnes luve nys buten o
+            stunde:<caesura/>nu he luveth, nu he is sad;<note type="tnote-indicator" n="7">T</note>
+          </l>
+          <l><space rend="indent1"/>Nu he cumeth, nu wile he funde;<note type="enote-indicator"
+              n="16">N</note>
+            <caesura/>nu he is wroth, nu he is gled;</l>
+          <l><space rend="indent1"/>His luve is her and ek alunde;<note type="enote-indicator"
+              n="17">N</note>
+            <caesura/>nu he luveth sum that he er bed;<note type="enote-indicator" n="18">N</note>
+          </l>
+          <l><space rend="indent1"/>Nis he never treowe ifunde —<caesura/>that him tristeth, he<note
+              type="tnote-indicator" n="8">T</note> is amed!</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Yf mon is riche of worldes weole,<caesura/>hit maketh his heorte
+            smerte and ake;</l>
+          <l><milestone n="30" unit="line"/><space rend="indent1"/>If he dret that me him
+            stele,<caesura/>thenne doth him pyne nyhtes wake.</l>
+          <l><space rend="indent1"/>Him waxeth thouhtes, monye and fele,<caesura/>hw he hit may
+            witen withuten sake.</l>
+          <l><space rend="indent1"/>An ende, hwat helpeth hit to hele?<caesura/>Al
+              <persName>Deth</persName> hit wile from him take.<note type="enote-indicator" n="19"
+              >N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Hwer is <persName>Paris</persName> and
+              <persName>Heleyne</persName>,<caesura/>that weren so bryht and feyre on bleo?</l>
+          <l><space rend="indent1"/><persName>Amadas</persName> and <persName>Dideyne</persName>,
+              <persName>Tristram</persName>,<note type="tnote-indicator" n="9">T</note>
+            <caesura/><persName>Yseude</persName>, and alle theo?</l>
+          <l><milestone n="35" unit="line"/><space rend="indent1"/>Ector with his scharpe
+            meyne,<caesura/>and <persName>Cesar</persName> riche of wordes<note
+              type="tnote-indicator" n="10">T</note> feo?</l>
+          <l><space rend="indent1"/>Heo beoth iglyden ut of the reyne<caesura/>so the schef<note
+              type="tnote-indicator" n="11">T</note> is of the cleo.<note type="enote-indicator"
+              n="20">N</note>
+            <note type="enote-indicator" n="21">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Hit is of heom al so hit nere<note type="tnote-indicator" n="12"
+              >T</note> —<caesura/>of heom me haveth wunder itold!</l>
+          <l><space rend="indent1"/>Nere hit reuthe for to heren<note type="tnote-indicator" n="13"
+              >T</note>
+            <caesura/>hw hi were with pyne aquold,</l>
+          <l><space rend="indent1"/>And hwat hi tholeden alyve here?<note type="tnote-indicator"
+              n="14">T</note>
+            <caesura/>Al is heore hot iturnd to cold —</l>
+          <l><milestone n="40" unit="line"/><space rend="indent1"/>Thus is thes world of false
+              fere!<note type="enote-indicator" n="22">N</note>
+            <caesura/>Fol he is the on hire is bold.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Theyh he were so riche mon<caesura/>as
+              <persName>Henry</persName> ure kyng,<note type="enote-indicator" n="23">N</note>
+          </l>
+          <l><space rend="indent1"/>And al so veyr as <persName>Absalon</persName>,<note
+              type="enote-indicator" n="24">N</note>
+            <caesura/>that nevede on eorthe non evenyng,</l>
+          <l><space rend="indent1"/>Al were sone his prute agon —<caesura/>hit nere on ende wrth on
+            heryng!</l>
+          <l><space rend="indent1"/>Mayde, if thu wilnest after leofmon,<caesura/>ich teche the enne
+            treowe King.<note type="enote-indicator" n="25">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><milestone n="45" unit="line"/><space rend="indent1"/>A, swete, if thu iknowe<note
+              type="tnote-indicator" n="15">T</note>
+            <caesura/>the gode thewes of thisse childe<note type="enote-indicator" n="26">N</note>
+            —</l>
+          <l><space rend="indent1"/>He is feyr and bryht on heowe,<caesura/>of glede chere, of mode
+            mylde,</l>
+          <l><space rend="indent1"/>Of lufsum lost, of trueste treowe,<caesura/>freo of heort, of
+            wisdom wilde<note type="enote-indicator" n="27">N</note> —</l>
+          <l><space rend="indent1"/>Ne thurhte the never rewe,<note type="tnote-indicator" n="16"
+              >T</note>
+            <caesura/>myhtestu do the in his ylde!</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>He is ricchest mon of londe,<caesura/>so wide so mon speketh
+            with muth;</l>
+          <l><milestone n="50" unit="line"/><space rend="indent1"/>Alle heo beoth to his
+            honde,<caesura/>est and west, north and suth!<note type="enote-indicator" n="28"
+              >N</note>
+          </l>
+          <l><locus type="foliation">fol. 188r</locus><space rend="indent1"
+              /><persName>Henri</persName>, King of <placeName>Engelonde</placeName>,<caesura/>of
+            hym he halt and to hym buhth.<note type="enote-indicator" n="29">N</note>
+          </l>
+          <l><space rend="indent1"/>Mayde, to the he send his sonde,<note type="enote-indicator"
+              n="30">N</note>
+            <note type="tnote-indicator" n="17">T</note>
+            <caesura/>and wilneth for to beo the cuth.<note type="enote-indicator" n="31">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Ne byt he with the lond ne leode,<caesura/>vouh ne gray<note
+              type="enote-indicator" n="32">N</note> ne rencyan;<note type="enote-indicator" n="33"
+              >N</note>
+          </l>
+          <l><space rend="indent1"/>Naveth he therto none neode —<caesura/>he is riche and weli
+              man!<note type="tnote-indicator" n="18">T</note>
+          </l>
+          <l><milestone n="55" unit="line"/><space rend="indent1"/>If thu him woldest luve
+            beode<caesura/>and bycumen his leovemon,</l>
+          <l><space rend="indent1"/>He brouhte the to suche wede<caesura/>that naveth king ne kayser
+            non!</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Hwat spekestu of eny bolde<note type="enote-indicator" n="34"
+              >N</note>
+            <caesura/>that wrouhte the wise <persName>Salomon</persName><note type="enote-indicator"
+              n="35">N</note>
+          </l>
+          <l><space rend="indent1"/>Of jaspe, of saphir, of merede golde,<caesura/>and of mony
+            onother ston?<note type="enote-indicator" n="36">N</note>
+          </l>
+          <l><space rend="indent1"/>Hit is feyrure of feolevolde —<caesura/>more than ich eu telle
+            con!</l>
+          <l><milestone n="60" unit="line"/><space rend="indent1"/>This bold,<note
+              type="enote-indicator" n="37">N</note> mayde, the is bihote<caesura/>if that thu bist
+            his leovemon.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Hit stont uppon a treowe mote<note type="enote-indicator" n="38"
+              >N</note>
+            <caesura/>that hit never truke ne schal;</l>
+          <l><space rend="indent1"/>Ne may no mynur hire underwrote,<note type="enote-indicator"
+              n="39">N</note>
+            <caesura/>ne never false thene grundwal;</l>
+          <l><space rend="indent1"/>Tharinne is uich balewes bote,<note type="tnote-indicator"
+              n="19">T</note>
+            <caesura/>blisse and joye, and gleo and gal!<note type="enote-indicator" n="40">N</note>
+            <note type="tnote-indicator" n="20">T</note>
+          </l>
+          <l><space rend="indent1"/>This bold, mayde, is the bihote<note type="tnote-indicator"
+              n="21">T</note>
+            <caesura/>and uych o blisse tharwythal.</l>
+        </lg>
+        <lg>
+          <l><milestone n="65" unit="line"/><space rend="indent1"/>Ther ne may no freond fleon
+            other,<caesura/>ne non furleosen his iryhte;</l>
+          <l><space rend="indent1"/>Ther nys hate, ne wreththe nouther,<caesura/>of prude ne of onde
+            of none wihte.</l>
+          <l><space rend="indent1"/>Alle heo schule wyth engles pleye,<caesura/>some and sauhte in
+            heovene lyhte.</l>
+          <l><space rend="indent1"/>Ne beoth heo, mayde, in gode weye<caesura/>that wel luveth ure
+            Dryhte?</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Ne may no mon hine iseo<caesura/>al so he is in his mihte</l>
+          <l><milestone n="70" unit="line"/><space rend="indent1"/>That may withuten blisse
+            beo;<caesura/>hwanne he isihth ure Drihte,</l>
+          <l><space rend="indent1"/>His sihte is al joye and gleo!<caesura/>He is day withute
+              nyhte!<note type="enote-indicator" n="41">N</note>
+          </l>
+          <l><space rend="indent1"/>Nere he, mayde, ful seoly<note type="tnote-indicator" n="22"
+              >T</note>
+            <caesura/>that myhte wunye myd such a knyhte?<note type="enote-indicator" n="42"
+              >N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>He haveth bitauht the o tresur<note type="enote-indicator"
+              n="43">N</note>
+            <caesura/>that is betere than gold other pel,</l>
+          <l><space rend="indent1"/>And bit the luke thine bur,<caesura/>and wilneth that thu hit
+            wyte wel.<note type="enote-indicator" n="44">N</note>
+          </l>
+          <l><milestone n="75" unit="line"/><space rend="indent1"/>Wyth theoves,<note
+              type="tnote-indicator" n="23">T</note> with reveres,<note type="tnote-indicator"
+              n="24">T</note> with lechurs,<note type="tnote-indicator" n="25">T</note>
+            <caesura/>thu most beo waker and snel.</l>
+          <l><space rend="indent1"/>Thu art swetture than eny flur<caesura/>hwile thu witest thene
+              kastel.<note type="enote-indicator" n="45">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Hit is ymston of feor iboren —<caesura/>nys non betere under
+            heovene grunde;</l>
+          <l><space rend="indent1"/>He is tofore alle othre icoren;<caesura/>he heleth alle luve
+            wunde.</l>
+          <l><space rend="indent1"/>Wel were alyve iboren<caesura/>that myhte wyten this ilke
+            stunde,</l>
+          <l><milestone n="80" unit="line"/><space rend="indent1"/>For habbe thu hine enes
+              forloren,<note type="tnote-indicator" n="26">T</note>
+            <caesura/>ne byth he never eft ifunde.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>This ilke ston that ich the nemne<caesura/>“maydenhod” icleoped
+            is.</l>
+          <l><locus type="foliation">fol. 188v</locus><space rend="indent1"/>Hit is o derewurthe
+            gemme;<caesura/>of alle othre, he berth that pris,</l>
+          <l><space rend="indent1"/>And bryngeth the withute wemme<caesura/>into the blysse of
+            paradis.</l>
+          <l><space rend="indent1"/>The hwile thu hyne witest under thine hemme,<note
+              type="enote-indicator" n="46">N</note>
+            <caesura/>thu ert swetture than<note type="tnote-indicator" n="27">T</note> eny
+            spis.</l>
+        </lg>
+        <lg>
+          <l><milestone n="85" unit="line"/><space rend="indent1"/>Hwat spekstu of eny stone<note
+              type="tnote-indicator" n="28">T</note>
+            <caesura/>that beoth in vertu<note type="enote-indicator" n="47">N</note> other in
+              grace<note type="tnote-indicator" n="29">T</note> —</l>
+          <l><space rend="indent1"/>Of amatiste, of calcydone,<note type="tnote-indicator" n="30"
+              >T</note>
+            <caesura/>of lectorie<note type="enote-indicator" n="48">N</note> and tupace,<note
+              type="tnote-indicator" n="31">T</note>
+          </l>
+          <l><space rend="indent1"/>Of jaspe, of saphir, of sardone,<caesura/>smaragde, beril, and
+            crisopace?</l>
+          <l><space rend="indent1"/>Among<note type="tnote-indicator" n="32">T</note> alle othre
+            ymstone,<caesura/>thes beoth deorre in uyche place!</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Mayde, al so ich the tolde,<caesura/>the ymston of thi bur</l>
+          <l><milestone n="90" unit="line"/><space rend="indent1"/>He is betere an
+            hundred-folde<caesura/>than alle theos in heore culur;</l>
+          <l><space rend="indent1"/>He is idon in heovene golde,<caesura/>and is ful of <foreign
+              xml:lang="fro">fyn amur</foreign>.<note type="enote-indicator" n="49">N</note>
+          </l>
+          <l><space rend="indent1"/>Alle that myhte hine wite scholde;<caesura/>he schyneth so bryht
+            in heovene bur!<note type="enote-indicator" n="50">N</note>
+            <note type="enote-indicator" n="51">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Hwen thu me dost in thine rede<caesura/>for the to cheose a
+            leofmon,</l>
+          <l><space rend="indent1"/>Ich wile don, as thu me bede,<caesura/>the beste that ich fynde
+            con;</l>
+          <l><milestone n="95" unit="line"/><space rend="indent1"/>Ne doth he,<note
+              type="tnote-indicator" n="33">T</note> mayde, on uvele dede<caesura/>that may cheose
+            of two that on,</l>
+          <l><space rend="indent1"/>And he wile, withute neode,<caesura/>that thet wurse the betere
+            let gon?<note type="enote-indicator" n="52">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>This rym, mayde, ich the sende,<caesura/>open and withute
+            sel.</l>
+          <l><space rend="indent1"/>Bidde ic that thu hit untrende,<note type="enote-indicator"
+              n="53">N</note>
+            <caesura/>and leorny bute bok uych del,</l>
+          <l><space rend="indent1"/>Herof that thu beo swithe hende,<caesura/>and tech hit other
+            maydenes wel:</l>
+          <l><milestone n="100" unit="line"/><space rend="indent1"/>Hwoso cuthe hit<note
+              type="enote-indicator" n="54">N</note> to than ende,<caesura/>hit wolde him stonde
+            muchel stel.<note type="enote-indicator" n="55">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Hwenne thu sittest in longynge,<caesura/>drauh the forth this
+            ilke wryt<note type="enote-indicator" n="56">N</note> —</l>
+          <l><space rend="indent1"/>Mid swete stephne thu hit singe,<caesura/>and do al so hit the
+              byt.<note type="enote-indicator" n="57">N</note>
+          </l>
+          <l><space rend="indent1"/>To the he<note type="enote-indicator" n="58">N</note> haveth
+            send one gretynge:<caesura/><persName>God</persName> Almyhti the beo myd,</l>
+          <l><space rend="indent1"/>And leve cumes to his brudthinge<note type="enote-indicator"
+              n="59">N</note>
+            <caesura/>heye in <placeName>heovene</placeName> ther he sit!</l>
+          <l><milestone n="105" unit="line"/><space rend="indent1"/>And yeve him god
+            endynge<caesura/>that haveth iwryten this ilke wryt.<note type="enote-indicator" n="60"
+              >N</note> Amen.</l>
+        </lg>
+      </div>
+      <div type="rectotext" xml:lang="en">
+        <p style="incipit"><l><locus type="foliation">fol. 187r</locus><space rend="indent1"/>Here
+            begins a certain song which Brother Thomas of Hales of the order of Minorites
+            composed</l><l><space rend="indent1"/>at the request of a young girl dedicated to
+            God.</l></p>
+        <lg>
+          <l><space rend="indent1"/>A maid of Christ longingly asked me<caesura/>to make a love rune
+            for her,</l>
+          <l><space rend="indent1"/>From which she might best learn<caesura/>how to take another
+            true lover</l>
+          <l><space rend="indent1"/>Who is truest of all men,<caesura/>and best able to protect a
+            noblewoman.</l>
+          <l><space rend="indent1"/>I won’t deny her at all —<caesura/>I will teach her as I am
+            able.</l>
+        </lg>
+        <lg>
+          <l><milestone n="5" unit="line"/><space rend="indent1"/>Maid, here you may
+            behold<caesura/>that worldly love is but madness,</l>
+          <l><space rend="indent1"/>And is afflicted so many times over,<caesura/>fickle and vile
+            and weak and false.</l>
+          <l><space rend="indent1"/>These men who here were bold<caesura/>have passed away like a
+            gust of wind;</l>
+          <l><space rend="indent1"/>Under earth they lie cold,<caesura/>and wither as does meadow
+            grass.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>There is no man born alive<caesura/>who can here be
+            steadfast,</l>
+          <l><milestone n="10" unit="line"/><space rend="indent1"/>For here he has many
+            sorrows,<caesura/>and he never attains peace or rest;</l>
+          <l><space rend="indent1"/>Toward his end he hastens fast,<caesura/>and a short while he
+            here endures;</l>
+          <l><space rend="indent1"/>Suffering and death will drive him away<caesura/>when he hopes
+            to prosper best.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>There’s none so rich, none so noble,<caesura/>that he won’t soon
+            go from here.</l>
+          <l><space rend="indent1"/>His insurance can never be<caesura/>gold or silver, variegated
+            or gray fur;</l>
+          <l><milestone n="15" unit="line"/><space rend="indent1"/>However swift he is, he cannot
+            flee,<caesura/>nor guard his life a single day —</l>
+          <l><space rend="indent1"/>Thus is this world, as you may see,<caesura/>just like the
+            shadow that glides away.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>This world changes constantly:<caesura/>when one comes, another
+            goes.</l>
+          <l><space rend="indent1"/>He who was ahead is now behind;<caesura/>who once was beloved
+            now is despised.</l>
+          <l><space rend="indent1"/>Therefore he acts like the blind man<caesura/>who in this world
+            seeks his love.</l>
+          <l><locus type="foliation">fol. 187v</locus><space rend="indent1"/>You may see the world
+            languish —<caesura/>while grief advances, truth retreats.</l>
+        </lg>
+        <lg>
+          <l><milestone n="21" unit="line"/><space rend="indent1"/>The love that may not here
+            abide,<caesura/>you trust in it with much grief</l>
+          <l><space rend="indent1"/>Until the time when it shall pass —<caesura/>it is false and
+            unstable and weak,</l>
+          <l><space rend="indent1"/>And unruly in every season —<caesura/>while it lasts, there’s
+            plenty of sorrow.</l>
+          <l><space rend="indent1"/>In the end, however man guards himself,<caesura/>he shall die
+            like a leaf on bough.</l>
+        </lg>
+        <lg>
+          <l><milestone n="25" unit="line"/><space rend="indent1"/>Man’s love lasts but a
+            moment:<caesura/>now he loves, now he is sated;</l>
+          <l><space rend="indent1"/>Now he comes, now he will depart;<caesura/>now he is angry, now
+            he is glad;</l>
+          <l><space rend="indent1"/>His love is here and also elsewhere;<caesura/>now he loves some
+            he formerly fought;</l>
+          <l><space rend="indent1"/>He is never found to be true —<caesura/>whoever trusts him, he
+            is mad!</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>If one is rich of worldly wealth,<caesura/>it makes his heart
+            sting and ache;</l>
+          <l><milestone n="30" unit="line"/><space rend="indent1"/>If he dreads someone will rob
+            him,<caesura/>then worry keeps him awake at night.</l>
+          <l><space rend="indent1"/>His thoughts grow, numerous and many,<caesura/>how he may
+            protect it without sin.</l>
+          <l><space rend="indent1"/>In the end, what good is it to hide it?<caesura/>Death will take
+            it all from him.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Where are Paris and Helen,<caesura/>so beautiful and fair in
+            face?</l>
+          <l><space rend="indent1"/>Amadas and Idoine, Tristram,<caesura/>Isolde, and all those?</l>
+          <l><milestone n="35" unit="line"/><space rend="indent1"/>Hector with his powerful
+            strength,<caesura/>and Caesar rich of worldly wealth?</l>
+          <l><space rend="indent1"/>They have vanished from the realm<caesura/>as the sheaf is cut
+            by the scythe.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>It is as if they never were —<caesura/>I’ve been told wonders of
+            them!</l>
+          <l><space rend="indent1"/>Isn’t it a pity to hear<caesura/>how they were painfully
+            killed,</l>
+          <l><space rend="indent1"/>And what they suffered in life here?<caesura/>All their hot is
+            turned to cold —</l>
+          <l><milestone n="40" unit="line"/><space rend="indent1"/>Thus is this world of false
+            appearance!<caesura/>Foolish is he who here is bold.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Although he were as powerful a man<caesura/>as Henry our
+            king,</l>
+          <l><space rend="indent1"/>And just as fair as Absolon,<caesura/>who never on earth had an
+            equal,</l>
+          <l><space rend="indent1"/>All too soon was his pride gone —<caesura/>in the end it wasn’t
+            worth a herring!</l>
+          <l><space rend="indent1"/>Maid, if you long for a lover,<caesura/>I’ll teach you about the
+            one true King.</l>
+        </lg>
+        <lg>
+          <l><milestone n="45" unit="line"/><space rend="indent1"/>Ah, sweet, if you
+            knew<caesura/>the good qualities of this noble youth —</l>
+          <l><space rend="indent1"/>He is fair and handsome in appearance,<caesura/>of glad face, of
+            mild manner,</l>
+          <l><space rend="indent1"/>Of lovely disposition, of true faith,<caesura/>noble of heart,
+            strong of wisdom —</l>
+          <l><space rend="indent1"/>You’d never regret it<caesura/>if you were to put yourself in
+            his protection!</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>He is the richest man on earth,<caesura/>as far as men speak
+            with mouths;</l>
+          <l><milestone n="50" unit="line"/><space rend="indent1"/>Everything is at his
+            command,<caesura/>east and west, north and south!</l>
+          <l><locus type="foliation">fol. 188r</locus><space rend="indent1"/>Henry, King of
+            England,<caesura/>holds power from him and bows to him.</l>
+          <l><space rend="indent1"/>Maid, to you he sends his message,<caesura/>and desires to be
+            known by you.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>He asks from you neither lands nor people,<caesura/>nor fine
+            furs or cloth;</l>
+          <l><space rend="indent1"/>He has no need to do so —<caesura/>he’s a rich and prosperous
+            man!</l>
+          <l><milestone n="55" unit="line"/><space rend="indent1"/>If you would grant him
+            love<caesura/>and become his beloved,</l>
+          <l><space rend="indent1"/>He would bring you to such a wedding<caesura/>as never had king
+            or emperor!</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>What can you say of the castle<caesura/>that the wise Solomon
+            constructed</l>
+          <l><space rend="indent1"/>Of jasper, of sapphire, of refined gold,<caesura/>and of many
+            other gems?</l>
+          <l><space rend="indent1"/>It is fairer by many times —<caesura/>more than I am able to
+            tell you!</l>
+          <l><milestone n="60" unit="line"/><space rend="indent1"/>This castle, maid, is promised to
+            you<caesura/>if you become his beloved.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>It stands upon a fine hill<caesura/>where it won’t ever
+            fall;</l>
+          <l><space rend="indent1"/>No miner may undermine it,<caesura/>or ever cause the foundation
+            to give way; </l>
+          <l><space rend="indent1"/>Therein is remedy for every sorrow,<caesura/>bliss and joy, and
+            mirth and song!</l>
+          <l><space rend="indent1"/>This castle, maid, is promised you<caesura/>and every bliss
+            belonging to it.</l>
+        </lg>
+        <lg>
+          <l><milestone n="65" unit="line"/><space rend="indent1"/>There may no friend leave
+            another,<caesura/>nor may any lose his rights;</l>
+          <l><space rend="indent1"/>There isn’t hate, or anger either,<caesura/>for pride or envy
+            against anyone.</l>
+          <l><space rend="indent1"/>They all will play with angels,<caesura/>united and accorded in
+            heaven’s light.</l>
+          <l><space rend="indent1"/>Isn’t she, mayde, in a good way<caesura/>who loves well our
+            Lord?</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>No one is allowed to see him<caesura/>as he is in his power</l>
+          <l><milestone n="70" unit="line"/><space rend="indent1"/>Who is without
+            bliss;<caesura/>when he sees our Lord,</l>
+          <l><space rend="indent1"/>His sight is full of joy and gladness!<caesura/>He is day
+            without night!</l>
+          <l><space rend="indent1"/>Were he not, maid, fully blessed<caesura/>who might dwell with
+            such a knight?</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>He has committed to you a treasure<caesura/>that is better than
+            gold or fine cloth,</l>
+          <l><space rend="indent1"/>And bids you lock your bower,<caesura/>and desires that you
+            guard it well.</l>
+          <l><milestone n="75" unit="line"/><space rend="indent1"/>Against thieves, against robbers,
+            against lechers,<caesura/>you must be alert and vigilant.</l>
+          <l><space rend="indent1"/>You are sweeter than any flower<caesura/>while you defend your
+            castle.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>It is the gemstone borne from afar —<caesura/>there’s none
+            better under heaven;</l>
+          <l><space rend="indent1"/>It is chosen before all others;<caesura/>it heals all love
+            wounds.</l>
+          <l><space rend="indent1"/>Fortunate are they born alive<caesura/>who might keep this same
+            condition,</l>
+          <l><milestone n="80" unit="line"/><space rend="indent1"/>For once you have lost
+            it,<caesura/>it is never again found.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>This same stone that I describe to you<caesura/>is called
+            “virginity.”</l>
+          <l><locus type="foliation">fol. 188v</locus><space rend="indent1"/>It is a precious
+            gem;<caesura/>among all others, it bears the prize,</l>
+          <l><space rend="indent1"/>And brings you without blemish<caesura/>into the bliss of
+            paradise.</l>
+          <l><space rend="indent1"/>While you guard it under your skirt,<caesura/>you are sweeter
+            than any spice.</l>
+        </lg>
+        <lg>
+          <l><milestone n="85" unit="line"/><space rend="indent1"/>What may you say of any
+            stone<caesura/>that abides in power or grace —</l>
+          <l><space rend="indent1"/>Of amethyst, of chalcedony,<caesura/>of cock-stone and
+            topaz,</l>
+          <l><space rend="indent1"/>Of jasper, of sapphire, of sardonyx,<caesura/>emerald, beryl,
+            and chrysoprase?</l>
+          <l><space rend="indent1"/>Among all other gemstones,<caesura/>these are precious
+            everywhere!</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Maid, as I told you,<caesura/>the gemstone of your bower,</l>
+          <l><milestone n="90" unit="line"/><space rend="indent1"/>He is better a
+            hundredfold<caesura/>than all these in their colors;</l>
+          <l><space rend="indent1"/>He is set in the gold of heaven,<caesura/>and is full of <hi
+              rend="italic">fin amour</hi>.</l>
+          <l><space rend="indent1"/>All who’d know him ought to do so;<caesura/>he shines bright in
+            heaven’s bower!</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>When you asked me for advice<caesura/>in your choosing of a
+            lover,</l>
+          <l><space rend="indent1"/>I will select, as you asked me,<caesura/>the best that I’m able
+            to find;</l>
+          <l><milestone n="95" unit="line"/><space rend="indent1"/>Does he not, maid, do an evil
+            deed<caesura/>who may choose one of two things,</l>
+          <l><space rend="indent1"/>If he should, without need,<caesura/>pick the worse and neglect
+            the better?</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>This poem, maid, I send to you,<caesura/>openly and without
+            seal.</l>
+          <l><space rend="indent1"/>I ask that you unroll it,<caesura/>and learn each part of it
+            without book,</l>
+          <l><space rend="indent1"/>So that you may be very expert in it,<caesura/>and teach it well
+            to other maidens:</l>
+          <l><milestone n="100" unit="line"/><space rend="indent1"/>Whoever knows it to the
+            end,<caesura/>it would afford him much help.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>When you sit in longing,<caesura/>draw forth this same writ
+            —</l>
+          <l><space rend="indent1"/>In a sweet voice sing it,<caesura/>and do everything as it
+            directs you.</l>
+          <l><space rend="indent1"/>To you he has sent a greeting:<caesura/>God Almighty be with
+            you,</l>
+          <l><space rend="indent1"/>And allow you to come to his bridal chamber<caesura/>high in
+            heaven where he sits!</l>
+          <l><milestone n="105" unit="line"/><space rend="indent1"/>And give to him a good
+            ending<caesura/>who has written this very writ. Amen.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

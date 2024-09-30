@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Fein-Owl-118-Proper-Names-Index-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Index of Proper Names</title><author>Fein, Susanna</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp><resp from="2022-05" to="2023-09">Entered corrections for digital edition</resp><resp from="2022-05" to="2023-09">Entered corrections for print edition</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2020-02" to="2020-03">Copyedited and proofread</resp><resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2022-05" to="2023-11">Entered corrections for digital edition</resp><resp from="2020-02" to="2023-09">Entered corrections for print edition</resp><resp from="2020-02" to="2020-03">Formatted for print edition</resp><resp from="2020-02" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2023-11" to="2024-01">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-01">Entered corrections for digital edition</resp><resp from="2023-11" to="2024-01">Formatted for XML export</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-02" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2023-10" to="2023-11">Entered corrections for digital edition</resp><resp from="2023-10" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2021-11" to="2024-05">Audited documents prior to print/export</resp><resp>Collated and entered corrections</resp><resp from="2021-11" to="2021-12">Copyedited and proofread</resp><resp from="2021-11" to="2021-12">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-12">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-12">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Thomas of Hales</author><author>Unknown</author><editor>Fein, Susanna</editor><editor role="translator">Fein, Susanna</editor><title>The Owl and the Nightingale and the English Poems of Oxford, Jesus College, MS 29 (II)</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2022</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/fein-owl/blob/main/fein-owl-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Fein-Owl-118-Proper-Names-Index"/><div type="text">
+ <p style="bodyfirst" n="1">This index lists the proper names found in the English articles of Oxford, Jesus College, MS 29 (II). Each entry is listed by variant spellings in parentheses (if any), article numbers, and lines. For the prose text, art. 27, references are listed by article number and paragraph, and multiple appearances within a paragraph are indicated parenthetically. Translated forms are listed separately and indicated by italic font. Where Middle English and modern English forms are identical, they are listed on the same line separated by a comma. Excluded from this list are terms for God, terms for Mary, and titles (Earl, King, Saint, etc.).</p>
+ </div>
+ <div type="blarg">
+ <list type="index-propernames"><item><hi rend="bold">Absalon</hi>: art. 19.42</item>
+ <item><hi rend="bolditalic">Absolon</hi>: See <hi rend="bold">Absalon</hi></item>
+ <item><hi rend="bold">Adam</hi>, <hi rend="bolditalic">Adam</hi>: art. 1.23, 34; art. 3.173, 207; art. 13.13, 27; art. 16.4; art. 18.14, 27</item>
+ <item><hi rend="bold">Admund</hi>: art. 12.23</item>
+ <item><hi rend="bold">Adversary</hi>: See <hi rend="bold">Wytherwynne</hi></item>
+ <item><hi rend="bolditalic">Alfred</hi>: See <hi rend="bold">Alvred</hi></item>
+ <item><hi rend="bolditalic">Alfrich</hi>: See <hi rend="bold">Alvrich</hi></item>
+ <item><hi rend="bold">Alvred (Ealvred)</hi>: art. 2.235, 299, 349, 685, 697, 761, 1223, 1269; art. 24 passim</item>
+ <item><hi rend="bold">Alvrich</hi>: art. 24.4</item>
+ <item><hi rend="bold">Amadas</hi><hi rend="bold">,</hi> <hi rend="bolditalic">Amadas</hi>: art. 19.34</item>
+ <item><hi rend="bolditalic">Arimathea</hi>: See <hi rend="bold">Arymathia</hi></item>
+ <item><hi rend="bold">Arymathia</hi>: art. 1.504</item>
+ <item><hi rend="bold">Barraban</hi>: art. 1.374, 375</item>
+ <item><hi rend="bolditalic">Barrabas</hi>: See <hi rend="bold">Barraban</hi></item>
+ <item><hi rend="bolditalic">Bath</hi>: See <hi rend="bold">Bathe</hi></item>
+ <item><hi rend="bold">Bathe (Bathun)</hi>: art. 27.¶1(2x)</item>
+ <item><hi rend="bold">Bearrucschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bold">Bede,</hi> <hi rend="bolditalic">Bede</hi>: art. 15.13</item>
+ <item><hi rend="bold">Bedefordschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Bedfordshire</hi>: See <hi rend="bold">Bedefordschire</hi></item>
+ <item><hi rend="bold">Beelzebub</hi>: art. 3.281</item>
+ <item><hi rend="bolditalic">Belzebub</hi>: See <hi rend="bold">Beelzebub</hi></item>
+ <item><hi rend="bolditalic">Berkshire</hi>: See <hi rend="bold">Bearrucschire</hi></item>
+ <item><hi rend="bold">Bethany,</hi> <hi rend="bolditalic">Bethany</hi>: art. 1.639</item>
+ <item><hi rend="bold">Beverley,</hi> <hi rend="bolditalic">Beverley</hi>: art. 27.¶1</item>
+ <item><hi rend="bolditalic">Bible</hi>: See <hi rend="bold">Bok(e)</hi></item>
+ <item><hi rend="bold">Bok(e)</hi>: art. 5.2; art. 28.263</item>
+ <item><hi rend="bolditalic">Bridport</hi>: See <hi rend="bold">Bridyport</hi></item>
+ <item><hi rend="bold">Bridyport</hi>: art. 27.¶1</item>
+ <item><hi rend="bolditalic">Britain</hi>: See <hi rend="bold">Brutlaund</hi></item>
+ <item><hi rend="bold">Brutlaund</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Buckinghamshire</hi>: See <hi rend="bold">Bukinghamschire</hi></item>
+ <item><hi rend="bold">Bukinghamschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Caesar</hi>: See <hi rend="bold">Cesar(e)</hi></item>
+ <item><hi rend="bolditalic">Cain</hi>: See <hi rend="bold">Kaym</hi></item>
+ <item><hi rend="bolditalic">Caiphas</hi>: See <hi rend="bold">Kayphas</hi></item>
+ <item><hi rend="bolditalic">Caithness</hi>: See <hi rend="bold">Katenes</hi></item>
+ <item><hi rend="bolditalic">Calvary</hi>: See <hi rend="bold">Kalvarie</hi></item>
+ <item><hi rend="bolditalic">Cambridgeshire</hi>: See <hi rend="bold">Grauntebruggeschire</hi></item>
+ <item><hi rend="bolditalic">Canterbury</hi>: See <hi rend="bold">Kanterbury</hi></item>
+ <item><hi rend="bold">Cayphas</hi>: See <hi rend="bold">Kayphas</hi></item>
+ <item><hi rend="bold">Cesar(</hi><hi rend="bold">e)</hi>: art. 1.329, 420, 422, 430; art. 19.35</item>
+ <item><hi rend="bolditalic">Charlemagne</hi>: See <hi rend="bold">Karlemeyne</hi></item>
+ <item><hi rend="bolditalic">Cheshire</hi>: See <hi rend="bold">Chestreschire</hi></item>
+ <item><hi rend="bold">Chestreschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Chicester</hi>: See <hi rend="bold">Cicestre</hi></item>
+ <item><hi rend="bold">Chireche</hi>: art. 12.incipit, 3; art. 24.57. See also <hi rend="bold">Holy Chir(e)che</hi></item>
+ <item><hi rend="bolditalic">Christian</hi>: See <hi rend="bold">Cristen(e)</hi></item>
+ <item><hi rend="bolditalic">Christians</hi>: See <hi rend="bold">Cristes men</hi></item>
+ <item><hi rend="bolditalic">Christianity</hi>: See <hi rend="bold">Cristendom(e)</hi></item>
+ <item><hi rend="bolditalic">Christmastime</hi>: See <hi rend="bold">Cristesmasse</hi></item>
+ <item><hi rend="bolditalic">Church</hi>: See <hi rend="bold">Chireche</hi></item>
+ <item><hi rend="bold">Cicestre</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Cornwale</hi>: art. 27.¶1(2x), ¶2(2x)</item>
+ <item><hi rend="bolditalic">Cornwall</hi>: See <hi rend="bold">Cornwale</hi></item>
+ <item><hi rend="bold">Crede</hi>: art. 18.16</item>
+ <item><hi rend="bolditalic">Creed</hi>: See <hi rend="bold">Crede</hi></item>
+ <item><hi rend="bold">Cristen(e) (Crystene)</hi>: art. 3.291, 304; art. 4.129</item>
+ <item><hi rend="bold">Cristendom(e)</hi>: art. 3.292; art. 12.12</item>
+ <item><hi rend="bold">Cristes</hi><hi rend="bold"> men</hi>: art. 12.15</item>
+ <item><hi rend="bold">Cristesmasse</hi>: art. 2.481</item>
+ <item><hi rend="bold">Crystene</hi>: See <hi rend="bold">Cristen(e</hi><hi rend="bold">)</hi></item>
+ <item><hi rend="bolditalic">Cumberland</hi>: See <hi rend="bold">Cumberlond</hi></item>
+ <item><hi rend="bold">Cumberlond</hi>: art. 27.¶2</item>
+ <item><hi rend="bold">Dacyen</hi>: art. 1.686</item>
+ <item><hi rend="bolditalic">Danelaw</hi>: See <hi rend="bold">Denelawe</hi></item>
+ <item><hi rend="bold">Deable</hi>: See <hi rend="bold">Deovel</hi></item>
+ <item><hi rend="bolditalic">Deastow</hi>: See <hi rend="bold">Dewyes</hi><hi rend="bold">-steowe</hi></item>
+ <item><hi rend="bolditalic">Death</hi>: See <hi rend="bold">Deth</hi></item>
+ <item><hi rend="bolditalic">Decius</hi>: See <hi rend="bold">Dacyen</hi></item>
+ <item><hi rend="bold">Denelawe</hi>: art. 27.¶2(2x)</item>
+ <item><hi rend="bold">Deorebyschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bold">Deovel (Deable)</hi>: art. 2.1412; art. 3.214, 250, 267; art. 28.2. See also <hi rend="bold">Feond</hi>, <hi rend="bold">Ivo</hi>, <hi rend="bold">Puke</hi>, <hi rend="bold">Qued</hi>, <hi rend="bold">Sathanas</hi>, <hi rend="bold">Unwihte</hi>, <hi rend="bold">Uvele Wihte</hi>, <hi rend="bold">Wytherwynne</hi></item>
+ <item><hi rend="bolditalic">Derbyshire</hi>: See <hi rend="bold">Deorebyschire</hi></item>
+ <item><hi rend="bold">Deth</hi>: art. 3.124, 127; art. 4.118; art. 7.8, 12, 29, 37; art. 8.44; art. 14.4, 25, 27; art. 19.32; art. 21.5</item>
+ <item><hi rend="bold">Devenaschre</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Devil</hi>: See <hi rend="bold">Deovel</hi></item>
+ <item><hi rend="bolditalic">Devon</hi>: See <hi rend="bold">Devenaschre</hi></item>
+ <item><hi rend="bold">Dewyes-steowe</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Dideyne</hi>: art. 19.34</item>
+ <item><hi rend="bold">Dom(e)</hi>: art. 3.91, 126, 161, 169; art. 4.65; art. 13.16; art. 14.128; art. 18.24; art. 21.2; art. 26.23</item>
+ <item><hi rend="bold">Domesday</hi>: art. 3.136, 162; art. 4.347; art. 13.1, 13</item>
+ <item><hi rend="bolditalic">Doom</hi>: See <hi rend="bold">Dom(e)</hi></item>
+ <item><hi rend="bolditalic">Doomsday</hi>: See <hi rend="bold">Domesday</hi></item>
+ <item><hi rend="bolditalic">Dorset</hi>: See <hi rend="bold">Dorsete, Dorsetschire</hi></item>
+ <item><hi rend="bold">Dorsete</hi>: art. 2.1753</item>
+ <item><hi rend="bold">Dorsetschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Dover</hi>: See <hi rend="bold">Doveran</hi></item>
+ <item><hi rend="bold">Doveran</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Dunholme</hi>: art. 27.¶1</item>
+ <item><hi rend="bolditalic">Durham</hi>: See <hi rend="bold">Dunholme</hi></item>
+ <item><hi rend="bold">Eadward</hi>: art. 27.¶1(2x)</item>
+ <item><hi rend="bold">Ealvred</hi>: See <hi rend="bold">Alvred</hi></item>
+ <item><hi rend="bold">Eastsexe</hi>: art. 27.¶2</item>
+ <item><hi rend="bold">Ebreu</hi>: art. 1.470</item>
+ <item><hi rend="bold">Ector</hi>: art. 19.35</item>
+ <item><hi rend="bolditalic">Edmund [Rich]</hi>: See <hi rend="bold">Admund</hi></item>
+ <item><hi rend="bolditalic">Edward [the Confessor</hi><hi rend="bolditalic">]</hi>: See <hi rend="bold">Eadward</hi></item>
+ <item><hi rend="bolditalic">Enemy</hi>: See <hi rend="bold">Unwihte</hi></item>
+ <item><hi rend="bold">Engelonde (Engelaunde, Englelond(e))</hi>: art. 2.749; art. 17.7; art. 19.51; art. 24.18; art. 27.incipit, ¶1(3x), ¶2</item>
+ <item><hi rend="bolditalic">England</hi>: See <hi rend="bold">Engelonde</hi></item>
+ <item><hi rend="bold">Englene</hi> <hi rend="bolditalic">(of the</hi><hi rend="bolditalic"> English)</hi>: art. 24.6, 7, 8, 12</item>
+ <item><hi rend="bolditalic">English</hi>: See <hi rend="bold">Englene</hi></item>
+ <item><hi rend="bolditalic">Essex</hi>: See <hi rend="bold">Eastsexe</hi></item>
+ <item><hi rend="bold">Eve,</hi> <hi rend="bolditalic">Eve</hi>: art. 3.173; art. 8.15</item>
+ <item><hi rend="bold">Everwich</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Everwichschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Evil Creature</hi>: See <hi rend="bold">Uvele Wihte</hi></item>
+ <item><hi rend="bolditalic">Evil One</hi>: See <hi rend="bold">Qued</hi></item>
+ <item><hi rend="bold">Excestre</hi>: art. 27.¶1(2x)</item>
+ <item><hi rend="bolditalic">Exeter</hi>: See <hi rend="bold">Excestre</hi></item>
+ <item><hi rend="bold">Faryseus</hi>: See <hi rend="bold">Phariseus</hi></item>
+ <item><hi rend="bold">Feond (Veond, </hi><hi rend="bold">Wonde)</hi>: art. 1.108, 549, 681; art. 3.177, 264; art. 4.101, 230; art. 14.7, 56; art. 16.21; art. 26.4, 14. See also <hi rend="bold">Deovel</hi></item>
+ <item><hi rend="bolditalic">Fiend</hi>: See <hi rend="bold">Feond</hi></item>
+ <item><hi rend="bold">Flum Jurdan</hi>: art. 1.25; art. 18.75</item>
+ <item><hi rend="bolditalic">Foe</hi>: See <hi rend="bold">Ivo</hi></item>
+ <item><hi rend="bold">Gabriel,</hi> <hi rend="bolditalic">Gabriel</hi>: art. 10.5; art. 20.5</item>
+ <item><hi rend="bold">Galeweye</hi>: art. 2.910</item>
+ <item><hi rend="bold">Galile (Galyle)</hi>: art. 1.136, 647, 670</item>
+ <item><hi rend="bolditalic">Galilean</hi>: See <hi rend="bold">Galilewis</hi></item>
+ <item><hi rend="bolditalic">Galilee</hi>: See <hi rend="bold">Galile</hi></item>
+ <item><hi rend="bold">Galilewis</hi>: art. 1.286</item>
+ <item><hi rend="bolditalic">Galloway</hi>: See <hi rend="bold">Galeweye</hi></item>
+ <item><hi rend="bold">Galyle</hi>: See <hi rend="bold">Galile</hi></item>
+ <item><hi rend="bolditalic">Gethsemane</hi>: See <hi rend="bold">Gethsemany</hi></item>
+ <item><hi rend="bold">Gethsemany</hi>: art. 1.148</item>
+ <item><hi rend="bolditalic">Giloth</hi>: See <hi rend="bold">Gilothe</hi></item>
+ <item><hi rend="bold">Gilothe</hi>: art. 16.41</item>
+ <item><hi rend="bolditalic">Gloucestershire</hi>: See <hi rend="bold">Gloucestreschire</hi></item>
+ <item><hi rend="bold">Gloucestreschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Good Friday</hi>: See <hi rend="bold">Vryday</hi></item>
+ <item><hi rend="bold">Grauntebruggeschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Greek</hi>: See <hi rend="bold">Gryv</hi></item>
+ <item><hi rend="bold">Gryv</hi>: art. 1.470</item>
+ <item><hi rend="bolditalic">Guildford</hi>: See <hi rend="bold">Guldevorde</hi></item>
+ <item><hi rend="bold">Guldevorde</hi>: art. 2.191</item>
+ <item><hi rend="bold">Gyu</hi>: art. 1.351</item>
+ <item><hi rend="bold">Gywene</hi> <hi rend="bolditalic">(of the Jews, Jewish)</hi>: art. 1.332, 348, 357, 372, 387, 468, 473</item>
+ <item><hi rend="bold">Gywes (Gyues)</hi>: art. 1 passim</item>
+ <item><hi rend="bolditalic">Hebrew</hi>: See <hi rend="bold">Ebreu</hi></item>
+ <item><hi rend="bolditalic">Hector</hi>: See <hi rend="bold">Ector</hi></item>
+ <item><hi rend="bolditalic">Helen</hi>: See <hi rend="bold">Heleyne</hi></item>
+ <item><hi rend="bold">Heleyne</hi>: art. 19.33</item>
+ <item><hi rend="bold">Henri</hi>: art. 2.1091</item>
+ <item><hi rend="bold">Henry</hi>: art. 19.41, 51</item>
+ <item><hi rend="bolditalic">Henry II</hi>: See <hi rend="bold">Henri</hi></item>
+ <item><hi rend="bolditalic">Henry III</hi>: See <hi rend="bold">Henri, Henry</hi></item>
+ <item><hi rend="bolditalic">Hereford</hi>: See <hi rend="bold">Hereforde</hi></item>
+ <item><hi rend="bold">Hereforde</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Herefordschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Herefordshire</hi>: See <hi rend="bold">Herefordschire</hi></item>
+ <item><hi rend="bold">Heremon,</hi> <hi rend="bolditalic">Heremon</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Hertfordschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Hertfordshire</hi>: See <hi rend="bold">Hertfordschire</hi></item>
+ <item><hi rend="bold">Holy Chir(e)che (Holi </hi><hi rend="bold">Chireche)</hi>: art. 2.721; art. 12.16, 25; art. 14.66, 127; art. 28.173, 278. See also <hi rend="bold">Chireche</hi></item>
+ <item><hi rend="bolditalic">Holy Church</hi>: See <hi rend="bold">Holy Chir</hi><hi rend="bold">(e)che</hi></item>
+ <item><hi rend="bolditalic">Holy Thursday</hi>: See <hi rend="bold">Schere Thursday</hi></item>
+ <item><hi rend="bold">Hug’</hi>: art. 28.288</item>
+ <item><hi rend="bolditalic">Hug[h]</hi>: See <hi rend="bold">Hug’</hi></item>
+ <item><hi rend="bolditalic">Huntingdonshire</hi>: See <hi rend="bold">Huntynduneschire</hi></item>
+ <item><hi rend="bold">Huntynduneschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bold">Hwytebi</hi>: art. 27.¶1</item>
+ <item><hi rend="bolditalic">Idoine</hi>: See <hi rend="bold">Dideyne</hi></item>
+ <item><hi rend="bolditalic">Ireland</hi>: See <hi rend="bold">Irlonde</hi></item>
+ <item><hi rend="bold">Irlonde</hi>: art. 2.907</item>
+ <item><hi rend="bolditalic">Iscariot</hi>: See <hi rend="bold">Skariot</hi></item>
+ <item><hi rend="bolditalic">Isle of Wight</hi>: See <hi rend="bold">Wyht</hi></item>
+ <item><hi rend="bolditalic">Isolde</hi>: See <hi rend="bold">Yseude</hi></item>
+ <item><hi rend="bolditalic">Israel</hi>: See <hi rend="bold">Yrahel</hi></item>
+ <item><hi rend="bold">Ivo</hi>: art. 11.7. See also <hi rend="bold">Deovel</hi></item>
+ <item><hi rend="bold">Jame</hi>: art. 1.151</item>
+ <item><hi rend="bolditalic">James</hi>: See <hi rend="bold">Jame</hi></item>
+ <item><hi rend="bold">Janekyn</hi>: art. 16.32</item>
+ <item><hi rend="bolditalic">Jankin</hi>: See <hi rend="bold">Janekyn</hi></item>
+ <item><hi rend="bolditalic">Jerusalem</hi>: See <hi rend="bold">Jherusalem</hi></item>
+ <item><hi rend="bolditalic">Jew</hi>: See <hi rend="bold">Gyu</hi></item>
+ <item><hi rend="bolditalic">Jewish</hi>: See <hi rend="bold">Gywene, Judaysse</hi></item>
+ <item><hi rend="bolditalic">Jews</hi>: See <hi rend="bold">Gywene, Gywes</hi></item>
+ <item><hi rend="bold">Jherusalem (Jerusalem)</hi>: art. 1.65, 665; art. 5.50</item>
+ <item><hi rend="bold">Johan</hi><hi rend="subscript">1</hi>: art. 1.26; art. 18.51, 76</item>
+ <item><hi rend="bold">Johan</hi><hi rend="subscript">2</hi>: art. 27.¶1</item>
+ <item><hi rend="bolditalic">John [King]</hi>: See <hi rend="bold">Johan</hi><hi rend="subscript">2</hi></item>
+ <item><hi rend="bolditalic">John [the Baptist</hi><hi rend="bolditalic">]</hi>: See <hi rend="bold">Johan</hi><hi rend="subscript">1</hi></item>
+ <item><hi rend="bolditalic">John [the Evangelist]</hi>: See <hi rend="bold">Jon</hi></item>
+ <item><hi rend="bold">Jon</hi>: art. 1.151, 231</item>
+ <item><hi rend="bolditalic">Jordan</hi>: See <hi rend="bold">Jurdan</hi></item>
+ <item><hi rend="bold">Joseph,</hi> <hi rend="bolditalic">Joseph [of Arimathea</hi><hi rend="bolditalic">]</hi>: art. 1.503, 509</item>
+ <item><hi rend="bold">Judas,</hi> <hi rend="bolditalic">Judas</hi>: art. 1.105, 109, 120, 125, 174, 177</item>
+ <item><hi rend="bold">Judaysse</hi>: art. 5.54</item>
+ <item><hi rend="bolditalic">Judea</hi>: See <hi rend="bold">Judelonde</hi></item>
+ <item><hi rend="bold">Judelonde</hi>: art. 5.19</item>
+ <item><hi rend="bolditalic">Judgment</hi>: See <hi rend="bold">Dom(e)</hi></item>
+ <item><hi rend="bold">Jurdan</hi>: art. 1.25; art. 18.75</item>
+ <item><hi rend="bold">Kalvarie</hi>: art. 1.436</item>
+ <item><hi rend="bold">Kanterbury</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Karlemeyne</hi>: art. 1.3</item>
+ <item><hi rend="bold">Katenes</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Kaym</hi>: art. 28.266</item>
+ <item><hi rend="bold">Kayphas</hi><hi rend="bold"> (Cayphas)</hi>: art. 1.219, 237, 251, 279, 315</item>
+ <item><hi rend="bold">Kent,</hi> <hi rend="bolditalic">Kent</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Latin</hi>: See <hi rend="bold">Latyn</hi></item>
+ <item><hi rend="bold">Latyn</hi>: art. 1.470</item>
+ <item><hi rend="bold">Laurence</hi>: art. 18.44</item>
+ <item><hi rend="bolditalic">Lawrence</hi>: See <hi rend="bold">Laurence</hi></item>
+ <item><hi rend="bolditalic">Leicestershire</hi>: See <hi rend="bold">Leycestreschire</hi></item>
+ <item><hi rend="bolditalic">Leofric</hi>: See <hi rend="bold">Leofrych</hi></item>
+ <item><hi rend="bold">Leofrych</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Leycestreschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Lichfield</hi>: See <hi rend="bold">Lycchesfeld</hi></item>
+ <item><hi rend="bolditalic">Lincoln</hi>: See <hi rend="bold">Lyncholne</hi></item>
+ <item><hi rend="bolditalic">Lincolnshire</hi>: See <hi rend="bold">Lyncolneschire</hi></item>
+ <item><hi rend="bolditalic">London</hi>: See <hi rend="bold">Lundene</hi></item>
+ <item><hi rend="bold">Lothen</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Lothian</hi>: See <hi rend="bold">Lothen</hi></item>
+ <item><hi rend="bold">Lundene</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Lycchesfeld</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Lyncholne</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Lyncolneschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Magdalene</hi>: See <hi rend="bold">Maudeleyne</hi></item>
+ <item><hi rend="bolditalic">Malchus</hi>: See <hi rend="bold">Malkes</hi></item>
+ <item><hi rend="bold">Malekyn</hi>: art. 16.31</item>
+ <item><hi rend="bold">Malkes</hi>: art. 1.198, 290</item>
+ <item><hi rend="bolditalic">Malkin</hi>: See <hi rend="bold">Malekyn</hi></item>
+ <item><hi rend="bold">Marie</hi>: art. 1.554, 557, 565, 569, 577, 578, 581, 587</item>
+ <item><hi rend="bolditalic">Mary [Magdalene]</hi>: See <hi rend="bold">Marie</hi></item>
+ <item><hi rend="bold">Maudeleyne</hi>: art. 1.554</item>
+ <item><hi rend="bold">Mercena lawe</hi>: art. 27.¶2(2x)</item>
+ <item><hi rend="bolditalic">Mercian </hi><hi rend="bolditalic">law</hi>: See <hi rend="bold">Mercena lawe</hi></item>
+ <item><hi rend="bolditalic">Michaelstow</hi>: See <hi rend="bold">Mihhales-steowe</hi></item>
+ <item><hi rend="bold">Middelsex</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Middlesex</hi>: See <hi rend="bold">Middelsex</hi></item>
+ <item><hi rend="bold">Mihhales-steowe</hi>: art. 27.¶1</item>
+ <item><hi rend="bolditalic">Mount of Olives</hi>: See <hi rend="bold">Munt(e) of Olyvete</hi></item>
+ <item><hi rend="bold">Munt(</hi><hi rend="bold">e) of Olyvete</hi>: art. 1.127; art. 4.259; art. 11.13</item>
+ <item><hi rend="bold">Nazaren</hi>: art. 1.183</item>
+ <item><hi rend="bolditalic">Nazarene</hi>: See <hi rend="bold">Nazaren</hi></item>
+ <item><hi rend="bold">Nazareth,</hi> <hi rend="bolditalic">Nazareth</hi>: art. 1.468</item>
+ <item><hi rend="bolditalic">Nero</hi>: See <hi rend="bold">Nerun</hi></item>
+ <item><hi rend="bold">Nerun</hi>: art. 1.686</item>
+ <item><hi rend="bolditalic">New Law</hi>: See <hi rend="bold">Newe Lawe</hi></item>
+ <item><hi rend="bold">Newe Lawe</hi>: art. 3.307</item>
+ <item><hi rend="bold">Nichol of Guldevorde</hi>: art. 2.191</item>
+ <item><hi rend="bolditalic">Nicholas</hi><hi rend="bolditalic"> of Guildford</hi>: See <hi rend="bold">Nichol of Guldevorde, Nichole</hi></item>
+ <item><hi rend="bold">Nichole</hi>: art. 2.1746, 1778</item>
+ <item><hi rend="bolditalic">Norfolk</hi>: See <hi rend="bold">Northfolk</hi></item>
+ <item><hi rend="bold">Norhamtoneschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Northamptonshire</hi>: See <hi rend="bold">Norhamtoneschire</hi></item>
+ <item><hi rend="bold">Northfolk</hi>: art. 27.¶2</item>
+ <item><hi rend="bold">Northhumbre</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Northumberland</hi>: See <hi rend="bold">Northhumbre</hi></item>
+ <item><hi rend="bold">Northwych</hi>: art. 27.¶1</item>
+ <item><hi rend="bolditalic">Norway</hi>: See <hi rend="bold">Norweye</hi></item>
+ <item><hi rend="bold">Norweye</hi>: art. 2.909</item>
+ <item><hi rend="bolditalic">Norwich</hi>: See <hi rend="bold">Northwych</hi></item>
+ <item><hi rend="bolditalic">Nottinghamshire</hi>: See <hi rend="bold">Snotingham</hi></item>
+ <item><hi rend="bolditalic">Old Law</hi>: See <hi rend="bold">Olde Lawe</hi></item>
+ <item><hi rend="bold">Olde Lawe</hi>: art. 3.307</item>
+ <item><hi rend="bold">Oxenefordschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Oxfordshire</hi>: See <hi rend="bold">Oxenefordschire</hi></item>
+ <item><hi rend="bolditalic">Palm Sunday</hi>: See <hi rend="bold">Palme Suneday</hi></item>
+ <item><hi rend="bold">Palme Suneday</hi>: art. 1.65</item>
+ <item><hi rend="bold">Paris,</hi> <hi rend="bolditalic">Paris</hi>: art. 19.33</item>
+ <item><hi rend="bold">Paternoster,</hi> <hi rend="bolditalic">Paternoster</hi>: art. 16.38</item>
+ <item><hi rend="bolditalic">Paul</hi>: See <hi rend="bold">Pol</hi></item>
+ <item><hi rend="bolditalic">Penwith</hi>: See <hi rend="bold">Penwyth</hi></item>
+ <item><hi rend="bold">Penwyth</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Peter,</hi> <hi rend="bolditalic">Peter</hi>: art. 1 passim; art. 12.1, 11; art. 18.39</item>
+ <item><hi rend="bolditalic">Pharisees</hi>: See <hi rend="bold">Phariseus, Faryseus</hi></item>
+ <item><hi rend="bold">Phariseus (</hi><hi rend="bold">Faryseus)</hi>: art. 1.57, 178, 516</item>
+ <item><hi rend="bold">Pilate,</hi> <hi rend="bolditalic">Pilate</hi>: art. 1 passim. See also <hi rend="bold">Pylate</hi></item>
+ <item><hi rend="bold">Pol (Paulus, Pool)</hi>: art. 28.incipit, 14, explicit</item>
+ <item><hi rend="bold">Pope,</hi> <hi rend="bolditalic">Pope</hi>: art. 2.746; art. 12.11, 29</item>
+ <item><hi rend="bolditalic">Portesham</hi>: See <hi rend="bold">Porteshom</hi></item>
+ <item><hi rend="bold">Porteshom (Portesham)</hi>: art. 2.1752, 1791</item>
+ <item><hi rend="bold">Puke</hi>: art. 4.120. See also <hi rend="bold">Deovel</hi></item>
+ <item><hi rend="bold">Pylate</hi>: See <hi rend="bold">Pilate</hi></item>
+ <item><hi rend="bold">Qued</hi>: art. 13.24; art. 14.107, 113, 123. See also <hi rend="bold">Deovel</hi></item>
+ <item><hi rend="bolditalic">Ramsbury</hi>: See <hi rend="bold">Remmesbury</hi></item>
+ <item><hi rend="bold">Remmesbury</hi>: art. 27.¶1</item>
+ <item><hi rend="bolditalic">Ripon</hi>: See <hi rend="bold">Rypon</hi></item>
+ <item><hi rend="bolditalic">River Jordan</hi>: See <hi rend="bold">Flum Jurdan</hi></item>
+ <item><hi rend="bolditalic">Robin</hi>: See <hi rend="bold">Robyn</hi></item>
+ <item><hi rend="bold">Robyn</hi>: art. 16.41, 46</item>
+ <item><hi rend="bolditalic">Rochester</hi>: See <hi rend="bold">Rouecestre</hi></item>
+ <item><hi rend="bold">Rome,</hi> <hi rend="bolditalic">Rome</hi>: art. 2.746, 1016; art. 12.11</item>
+ <item><hi rend="bold">Rouecestre</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Rypon</hi>: art. 27.¶1</item>
+ <item><hi rend="bolditalic">Salisbury</hi>: See <hi rend="bold">Saresbury</hi></item>
+ <item><hi rend="bold">Salomon</hi>: art. 1.245; art. 7.21; art. 19.57</item>
+ <item><hi rend="bolditalic">Samaria</hi>: See <hi rend="bold">Samarie</hi></item>
+ <item><hi rend="bold">Samarie (Samarye)</hi>: art. 5.6, 41</item>
+ <item><hi rend="bold">Saresbury (Saresburi</hi><hi rend="bold">)</hi>: art. 27.¶1(2x)</item>
+ <item><hi rend="bolditalic">Satan</hi>: See <hi rend="bold">Sathanas</hi></item>
+ <item><hi rend="bold">Sathanas (Sathan</hi><hi rend="bold">)</hi>: art. 1.28, 31, 38; art. 3.281; art. 4.106, 130, 143, 221, 287; art. 14.107; art. 28.17. See also <hi rend="bold">Deovel</hi></item>
+ <item><hi rend="bolditalic">Saturday night</hi>: See <hi rend="bold">Sone-nyhte</hi></item>
+ <item><hi rend="bold">Schere Thursday</hi>: art. 1.89</item>
+ <item><hi rend="bolditalic">Scotland</hi>: See <hi rend="bold">Scotlonde</hi></item>
+ <item><hi rend="bold">Scotlonde (Scotlaund)</hi>: art. 2.908, 1758; art. 27.¶2</item>
+ <item><hi rend="bold">Sevorde</hi>: art. 24.1</item>
+ <item><hi rend="bold">Seynte Germane</hi>: art. 27.¶1</item>
+ <item><hi rend="bolditalic">Shefford</hi>: See <hi rend="bold">Sevorde</hi></item>
+ <item><hi rend="bolditalic">Sherborne</hi>: See <hi rend="bold">Shireburne</hi></item>
+ <item><hi rend="bold">Shireburne</hi>: art. 27.¶1</item>
+ <item><hi rend="bolditalic">Shropshire</hi>: See <hi rend="bold">Slobschire</hi></item>
+ <item><hi rend="bolditalic">Simon</hi>: See <hi rend="bold">Symon</hi></item>
+ <item><hi rend="bold">Skariot</hi>: art. 1.125</item>
+ <item><hi rend="bold">Slobschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bold">Snotingham</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Solomon</hi>: See <hi rend="bold">Salomon</hi></item>
+ <item><hi rend="bolditalic">Somerset</hi>: See <hi rend="bold">Sumersethschire</hi></item>
+ <item><hi rend="bold">Sone-nyhte</hi>: art. 13.5</item>
+ <item><hi rend="bolditalic">Southamptonshire</hi>: See <hi rend="bold">Suthhamptounschire</hi></item>
+ <item><hi rend="bolditalic">St. Germans</hi>: See <hi rend="bold">Seynte Germane</hi></item>
+ <item><hi rend="bold">Staffordschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Staffordshire</hi>: See <hi rend="bold">Staffordschire</hi></item>
+ <item><hi rend="bolditalic">Stephen [Langton]</hi>: See <hi rend="bold">Stephne</hi></item>
+ <item><hi rend="bold">Stephne</hi>: art. 12.22</item>
+ <item><hi rend="bolditalic">Suffolk</hi>: See <hi rend="bold">Suthfolk</hi></item>
+ <item><hi rend="bold">Sumersethschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Surrey</hi>: See <hi rend="bold">Sutheray</hi></item>
+ <item><hi rend="bolditalic">Sussex</hi>: See <hi rend="bold">Suthsex</hi></item>
+ <item><hi rend="bold">Sutheray</hi>: art. 27.¶2</item>
+ <item><hi rend="bold">Suthfolk</hi>: art. 27.¶2</item>
+ <item><hi rend="bold">Suthhamptounschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bold">Suthsex</hi>: art. 27.¶2</item>
+ <item><hi rend="bold">Symon</hi>: art. 12.1, 7</item>
+ <item><hi rend="bold">Thomas,</hi> <hi rend="bolditalic">Thomas [of </hi><hi rend="bolditalic">Canterbury]</hi>: art. 12.21; art. 17.1; art. 18.57</item>
+ <item><hi rend="bold">Tristram,</hi> <hi rend="bolditalic">Tristram</hi>: art. 19.34</item>
+ <item><hi rend="bold">Unwihte</hi>: art. 4.4. See also <hi rend="bold">Deovel</hi></item>
+ <item><hi rend="bold">Uvele Wihte</hi>: art. 14.130. See also <hi rend="bold">Deovel</hi></item>
+ <item><hi rend="bold">Veond</hi>: See <hi rend="bold">Feond</hi></item>
+ <item><hi rend="bold">Vryday</hi>: art. 1.424</item>
+ <item><hi rend="bold">Warewikschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Warwickshire</hi>: See <hi rend="bold">Warewikschire</hi></item>
+ <item><hi rend="bold">Watekin</hi><hi rend="bold"> (Watekyn)</hi>: art. 16.37, 40</item>
+ <item><hi rend="bolditalic">Watkin</hi>: See <hi rend="bold">Watekin</hi></item>
+ <item><hi rend="bolditalic">Wealth</hi>: See <hi rend="bold">Weole</hi></item>
+ <item><hi rend="bold">Well</hi>: art. 27.¶1</item>
+ <item><hi rend="bolditalic">Wells</hi>: See <hi rend="bold">Well</hi></item>
+ <item><hi rend="bold">Weole</hi>: art. 6.1; art. 7.41, 43</item>
+ <item><hi rend="bolditalic">West Saxon law</hi>: See <hi rend="bold">West Sexene</hi><hi rend="bold"> lawe</hi></item>
+ <item><hi rend="bold">West Sexene lawe</hi>: art. 27.¶2(2x)</item>
+ <item><hi rend="bold">Westmaralond</hi>: art. 27.¶2</item>
+ <item><hi rend="bolditalic">Westmorland</hi>: See <hi rend="bold">Westmaralond</hi></item>
+ <item><hi rend="bolditalic">Whitby</hi>: See <hi rend="bold">Hwytebi</hi></item>
+ <item><hi rend="bolditalic">Whitsunday</hi>: See <hi rend="bold">Witsuneday</hi></item>
+ <item><hi rend="bold">Wil</hi>: art. 9.1, 2, 3, 4</item>
+ <item><hi rend="bold">Wilekyn</hi>: art. 16.40</item>
+ <item><hi rend="bolditalic">Wilkin</hi>: See <hi rend="bold">Wilekyn</hi></item>
+ <item><hi rend="bolditalic">Will</hi>: See <hi rend="bold">Wil</hi></item>
+ <item><hi rend="bold">Willam</hi>: art. 27.¶1</item>
+ <item><hi rend="bolditalic">William [II]</hi>: See <hi rend="bold">Willam</hi></item>
+ <item><hi rend="bold">Wiltoneschire</hi>: art. 27.¶2(2x)</item>
+ <item><hi rend="bolditalic">Wiltshire</hi>: See <hi rend="bold">Wiltoneschire</hi></item>
+ <item><hi rend="bolditalic">Winchester</hi>: See <hi rend="bold">Wyncestre</hi></item>
+ <item><hi rend="bold">Wirecestre</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Wisdom,</hi> <hi rend="bolditalic">Wisdom</hi>: art. 9.4</item>
+ <item><hi rend="bold">Wit,</hi> <hi rend="bolditalic">Wit</hi>: art. 9.1, 2, 3</item>
+ <item><hi rend="bold">Witsuneday</hi>: art. 1.657</item>
+ <item><hi rend="bold">Wonde</hi>: See <hi rend="bold">Feonde</hi></item>
+ <item><hi rend="bolditalic">Worcester</hi>: See <hi rend="bold">Wirecestre</hi></item>
+ <item><hi rend="bolditalic">Worcestershire</hi>: See <hi rend="bold">Wyricestreschire</hi></item>
+ <item><hi rend="bold">World,</hi> <hi rend="bolditalic">World</hi>: art. 7.41, 43</item>
+ <item><hi rend="bold">Wyht</hi>: art. 27.¶2</item>
+ <item><hi rend="bold">Wyncestre</hi>: art. 27.¶1</item>
+ <item><hi rend="bold">Wyricestreschire</hi>: art. 27.¶2</item>
+ <item><hi rend="bold">Wytherwynne (Wytherwine)</hi>: art. 4.77, 226. See also <hi rend="bold">Deovel</hi></item>
+ <item><hi rend="bolditalic">York</hi>: See <hi rend="bold">Everwich</hi></item>
+ <item><hi rend="bolditalic">Yorkshire</hi>: See <hi rend="bold">Everwichschire</hi></item>
+ <item><hi rend="bold">Yrahel</hi>: art. 1.451</item>
+ <item><hi rend="bold">Yseude</hi>: art. 19.34</item></list>
+ </div></body></text></TEI>

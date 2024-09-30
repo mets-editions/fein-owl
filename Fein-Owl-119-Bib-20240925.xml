@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Fein-Owl-119-Bib-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Bibliography</title><author>Fein, Susanna</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp><resp from="2022-05" to="2023-09">Entered corrections for digital edition</resp><resp from="2022-05" to="2023-09">Entered corrections for print edition</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2020-07" to="2021-12">Checked and corrected bibliographic references</resp><resp from="2020-02" to="2020-03">Copyedited and proofread</resp><resp from="2020-07" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2022-05" to="2023-11">Entered corrections for digital edition</resp><resp from="2020-02" to="2023-09">Entered corrections for print edition</resp><resp from="2020-02" to="2020-03">Formatted for print edition</resp><resp from="2020-02" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2023-11" to="2024-01">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-01">Entered corrections for digital edition</resp><resp from="2023-11" to="2024-01">Formatted for XML export</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-02" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2023-10" to="2023-11">Entered corrections for digital edition</resp><resp from="2023-10" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2021-11" to="2024-05">Audited documents prior to print/export</resp><resp from="2021-11" to="2021-12">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2021-11" to="2021-12">Copyedited and proofread</resp><resp from="2021-11" to="2021-12">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-12">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-12">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Thomas of Hales</author><author>Unknown</author><editor>Fein, Susanna</editor><editor role="translator">Fein, Susanna</editor><title>The Owl and the Nightingale and the English Poems of Oxford, Jesus College, MS 29 (II)</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2022</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/fein-owl/blob/main/fein-owl-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Fein-Owl-119-Bib"/><div type="text">
+ <p style="heading">Manuscripts and Documents</p>
+ <listBibl><bibl>Aberystwyth, National Library of Wales, MS Peniarth 120. Online at <ref target="https://viewer.library.wales/4619123#?c=&amp;m=&amp;s=&amp;cv=&amp;manifest=https%3A%2F%2Fdamsssl.llgc.org.uk%2Fiiif%2F2.0%2F4619123%2Fmanifest.json&amp;xywh=-1177%2C-318%2C6058%2C6352" type="external">https://viewer.library.wales/4619123#?c=&amp;m=&amp;s=&amp;cv=&amp;manifest=https%3A%2F%2Fdamsssl.llgc.org.uk%2Fiiif%2F2.0%2F4619123%2Fmanifest.json&amp;xywh=-1177%2C-318%2C6058%2C6352</ref>.</bibl>
+ <bibl>Cambridge, Cambridge University Library, MS Ee.3.59. Online at <ref target="https://iiif.biblissima.fr/collections/manifest/6c5301d59a190827bb1d1bd36c468b122d7bbc5f" type="external">https://iiif.biblissima.fr/collections/manifest/6c5301d59a190827bb1d1bd36c468b122d7bbc5f</ref>.</bibl>
+ <bibl>Cambridge, Corpus Christi College, MS 471. Online at <ref target="https://parker.stanford.edu/parker/catalog/mj062xw5755" type="external">https://parker.stanford.edu/parker/catalog/mj062xw5755</ref>.</bibl>
+ <bibl>Cambridge, Emmanuel College, MS I.2.6.</bibl>
+ <bibl>Cambridge, Fitzwilliam Museum, MS McClean 123.</bibl>
+ <bibl>Cambridge, Pembroke College, MS 258.</bibl>
+ <bibl>Cambridge, Trinity College, MS B.14.39. Online at <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.14.39-40" type="external">https://mss-cat.trin.cam.ac.uk/Manuscript/B.14.39-40</ref>.</bibl>
+ <bibl>Cambridge, Trinity College, MS B.14.52. Online at <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/B.14.52" type="external">https://mss-cat.trin.cam.ac.uk/Manuscript/B.14.52</ref>.</bibl>
+ <bibl>Cambridge, Trinity College, MS R.16.2. Online at <ref target="https://mss-cat.trin.cam.ac.uk/Manuscript/R.16.2" type="external">https://mss-cat.trin.cam.ac.uk/Manuscript/R.16.2</ref>.</bibl>
+ <bibl>Edinburgh, National Library of Scotland, MS Advocates 19.2.1. Online at <ref target="https://auchinleck.nls.uk" type="external">https://auchinleck.nls.uk</ref>.</bibl>
+ <bibl>Exeter, Exeter Cathedral Library, MS 3501. Online at <ref target="https://theexeterbook.exeter.ac.uk" type="external">https://theexeterbook.exeter.ac.uk</ref>.</bibl>
+ <bibl>London, British Library, MS Arundel 57. Online at <ref target="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_MS_57" type="external">http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_MS_57</ref>.</bibl>
+ <bibl>London, British Library, MS Cotton Caligula A.ix. Online at <ref target="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Caligula_A_IX" type="external">http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Caligula_A_IX</ref>.</bibl>
+ <bibl>London, British Library, MS Cotton Galba A.xix.</bibl>
+ <bibl>London, British Library, MS Egerton 613. Online at <ref target="https://www.bl.uk/manuscripts/Viewer.aspx?ref=egerton_ms_613_f001r" type="external">https://www.bl.uk/manuscripts/Viewer.aspx?ref=egerton_ms_613_f001r</ref>.</bibl>
+ <bibl>London, British Library, MS Royal 2.F.viii.</bibl>
+ <bibl>London, Lambeth Palace Library, MS 487.</bibl>
+ <bibl>Maidstone, Kent, Maidstone Museum, MS A.13.</bibl>
+ <bibl>Oxford, Bodleian Library, MS Ashmole 1449.</bibl>
+ <bibl>Oxford, Bodleian Library, MS Bodley 416.</bibl>
+ <bibl>Oxford, Bodleian Library, MS Digby 4.</bibl>
+ <bibl>Oxford, Bodleian Library, MS Digby 86. Online at <ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4426" type="external">https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4426</ref>.</bibl>
+ <bibl>Oxford, Bodleian Library, MS Douce 302.</bibl>
+ <bibl>Oxford, Bodleian Library, MS Eng. poet A.1. Online at <ref target="https://digital.bodleian.ox.ac.uk/objects/52f0a31a-1478-40e4-b05b-fddb1ad076ff/" type="external">https://digital.bodleian.ox.ac.uk/objects/52f0a31a-1478-40e4-b05b-fddb1ad076ff/</ref>.</bibl>
+ <bibl>Oxford, Bodleian Library, MS Laud Misc. 108. Online at <ref target="https://digital.bodleian.ox.ac.uk/objects/c5438c30-71dd-4cec-ac59-eb1e5a11f2a4/" type="external">https://digital.bodleian.ox.ac.uk/objects/c5438c30-71dd-4cec-ac59-eb1e5a11f2a4/</ref>.</bibl>
+ <bibl>Oxford, Bodleian Library, MS Laud Misc. 471. Online at <ref target="https://digital.bodleian.ox.ac.uk/objects/57c060ff-0cc9-408b-a9c5-78170864f305/" type="external">https://digital.bodleian.ox.ac.uk/objects/57c060ff-0cc9-408b-a9c5-78170864f305/</ref>.</bibl>
+ <bibl>Oxford, Jesus College, MS 29 (II).</bibl>
+ <bibl>Oxford, St. John’s College, MS 190.</bibl>
+ <bibl>Rome, Vatican Library, MS Reg. lat. 1659. Online at <ref target="https://digi.vatlib.it/view/MSS_Reg.lat.1659" type="external">https://digi.vatlib.it/view/MSS_Reg.lat.1659</ref>.</bibl>
+ <bibl>Titchfield, Titchfield Abbey, MS C.II.</bibl>
+ <bibl>Titchfield, Titchfield Abbey, MS M.XI.</bibl>
+ <bibl>Titchfield, Titchfield Abbey, MS N.III.</bibl>
+ <bibl>Titchfield, Titchfield Abbey, MS Q.III.</bibl>
+ <bibl>Titchfield, Titchfield Abbey, MS Q.XI.</bibl>
+ <bibl>Winchester, Winchester College, MS 4.</bibl></listBibl>
+ <p style="heading">Primary Sources</p>
+ <listBibl><bibl>Adamson, Margot Robert, trans. <hi rend="italic">A Treasury of Middle English Verse, Selected and Rendered into Modern English</hi>. London: J. M. Dent, 1930.</bibl>
+ <bibl>Andrew, Malcolm, and Ronald Waldron, eds. <hi rend="italic">Pearl</hi>. In <hi rend="italic">The Poems of the Pearl Manuscript: Pearl, Cleanness, Patience, Sir Gawain and the Green Knight.</hi> 5th ed. Exeter: University of Exeter Press, 2007. Pp. 53–110.</bibl>
+ <bibl>Arngart, Olof Sigfrid, ed. <hi rend="italic">The Proverbs of Alfred. II. The Texts Edited with Introduction, Notes and Glossary</hi>. Lund: Gleerup, 1955.</bibl>
+ <bibl>Aspin, Isabel S. T., ed. and trans. <hi rend="italic">Anglo-Norman Political Songs</hi>. ANTS 11. Oxford: Anglo-Norman Text Society, 1953.</bibl>
+ <bibl>Atkins, J. W. H., ed. and trans. <hi rend="italic">The Owl and the Nightingale: Edited with Introduction, Texts, Notes, Translation and Glossary</hi>. Cambridge: Cambridge University Press, 1922.</bibl>
+ <bibl>Audelay, John the Blind. <hi rend="italic">Poems and Carols (Oxford, Bodleian Library MS Douce 302)</hi>. Ed. Susanna Fein. METS. Kalamazoo, MI: Medieval Institute Publications, 2009.</bibl>
+ <bibl>Baird, J. L., and John R. Kane, eds. and trans. <hi rend="italic">Rossignol: An Edition and Translation</hi>. Kent, OH: Kent State University Press, 1978.</bibl>
+ <bibl>Barber, Richard, trans. <hi rend="italic">Bestiary: Being an English Version of the Bodleian Library, Oxford, M.S. Bodley 764 with All the Original Miniatures Reproduced in Facsimile</hi>. Woodbridge: Boydell Press, 1993.</bibl>
+ <bibl>Bennett, J. A. W., and G. V. Smithers, eds. <hi rend="italic">Early Middle English Verse and Prose</hi>. Oxford: Clarendon, 1966.</bibl>
+ <bibl>Borgström, Edvard, ed. <hi rend="italic">The Proverbs of Alfred: Re-Edited from the Manuscripts with an Introduction, Notes, and Glossary</hi>. Lund: Printed by Hakan Ohlsson, 1908.</bibl>
+ <bibl>Bossy, Michel-André, ed. and trans. <hi rend="italic">Medieval Debate Poetry: Vernacular Works</hi>. New York: Garland, 1987.</bibl>
+ <bibl>Boulton, Maureen B. M., trans. <hi rend="italic">Piety and Persecution in the French Texts of England</hi>. FRETS 6. Tempe: Arizona Center for Medieval and Renaissance Studies, 2013.</bibl>
+ <bibl>Brown, Carleton, ed. <hi rend="italic">English Lyrics of the XIIIth Century</hi>. Oxford: Clarendon, 1932.</bibl>
+ <bibl>Bunt, G. H. V., ed. <hi rend="italic">William of Palerne: An Alliterative Romance</hi>. Groningen: Bouma’s Boekhuis, 1985.</bibl>
+ <bibl>Capes, William W., ed. <hi rend="italic">The Register of Richard de Swinfield, Bishop of Hereford (A.D. 1283–1317)</hi>. Hereford: Wilson and Phillips, 1909.</bibl>
+ <bibl>Cartlidge, Neil, ed. and trans. <hi rend="italic">The Owl and the Nightingale: Text and Translation</hi>. Exeter: University of Exeter Press, 2001.</bibl>
+ <bibl>Chardri. <hi rend="italic">La Vie des Set Dormanz by Chardri</hi>. Ed. Brian S. Merrilees. ANTS 35. London: Anglo-Norman Text Society, 1977.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Works of Chardri: Three Poems in the French of Thirteenth-Century England</hi>. Trans. Neil Cartlidge. FRETS 9. Tempe: Arizona Center for Medieval and Renaissance Studies, 2015.</bibl>
+ <bibl>Chaucer, Geoffrey. <hi rend="italic">The Riverside Chaucer</hi>. Ed. Larry D. Benson et al. 3rd ed. Boston: Houghton Mifflin, 1987.</bibl>
+ <bibl>Conlee, John W., ed. <hi rend="italic">Middle English Debate Poetry: A Critical Anthology</hi>. East Lansing, MI: Colleagues Press, 1991.</bibl>
+ <bibl>Dante Alighieri. <hi rend="italic">Dante Alighieri’s Divine Comedy</hi>. Ed. and trans. Mark Musa. 6 vols. Bloomington: Indiana University Press, 1996.</bibl>
+ <bibl>Dean, James M., ed. <hi rend="italic">Medieval English Political Writings</hi>. METS. Kalamazoo, MI: Medieval Institute Publications, 1996.</bibl>
+ <bibl>D’Evelyn, Charlotte, ed. <hi rend="italic">Meditations on the Life and Passion of Christ, from British Museum Addit. Ms. 11307</hi>. EETS o.s. 158. London: Oxford University Press, 1921. Reprint, 2000.</bibl>
+ <bibl>Dickins, Bruce, ed. <hi rend="italic">The Conflict of Wit and Will: Fragments of a Middle English Alliterative Poem</hi>. Leeds Texts and Monographs 4. Leeds: Titus Wilson of Kendal, 1937.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, and R. M. Wilson, eds. <hi rend="italic">Early Middle English Texts</hi>. Cambridge: Bowes and Bowes, 1951.</bibl>
+ <bibl>Dobson, E. J., and F. Ll. Harrison, eds. <hi rend="italic">Medieval English Songs</hi>. New York: Cambridge University Press, 1979.</bibl>
+ <bibl>Dunn, Charles W., and Edward T. Byrnes, eds. <hi rend="italic">Middle English Literature</hi>. 2nd ed. New York: Garland, 1990.</bibl>
+ <bibl>Einenkel, Eugene, ed. <hi rend="italic">The Life of Saint Katherine: From the Royal MS. 17 A.xxvii, &amp;c., With Its Latin Original</hi>. EETS o.s. 80. 1884. Reprint, Millwood, NY: Kraus Reprint Co., 1975.</bibl>
+ <bibl>Embree, Dan, and Elizabeth Urquhart, eds. <hi rend="italic">The Simonie: A Parallel-Text Edition</hi>. Middle English Texts 24. Heidelberg: Carl Winter, 1991.</bibl>
+ <bibl>Epp, Garrett P. J., ed. <hi rend="italic">The Towneley Plays</hi>. METS. Kalamazoo, MI: Medieval Institute Publications, 2017.</bibl>
+ <bibl>Fein, Susanna, ed. <hi rend="italic">Moral Love Songs and Laments</hi>. METS. Kalamazoo, MI: Medieval Institute Publications, 1998.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, ed. and trans., with David Raybin and Jan Ziolkowski. <hi rend="italic">The Complete Harley 2253 Manuscript</hi>. 3 vols. METS. Kalamazoo, MI: Medieval Institute Publications, 2014–2015.</bibl>
+ <bibl>Furnivall, Frederick J., ed. <hi rend="italic">Early English Poems and Lives of Saints (With Those of the Wicked Birds Pilate and Judas)</hi>. Transactions of the Philological Society. Part 2. Berlin: A. Asher, 1862.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, ed. <hi rend="italic">The Minor Poems of the Vernon MS., Part II (with a few more from the Digby MSS. 2 and 86)</hi>. EETS o.s. 117. London: Kegan Paul, Trench, Trübner and Co., 1901.</bibl>
+ <bibl>Gadow, Wilhelm, ed. <hi rend="italic">Das Mittelenglische Streitgedicht Eule und Nachtigall</hi>. Palaestra 65. Berlin: Mayer und Müller, 1909.</bibl>
+ <bibl>Gardner, John, trans. <hi rend="italic">The Alliterative Morte Arthure, The Owl and the Nightingale, and Five Other Middle English Poems: In a Modernized Version with Comments on the Poems and Notes</hi>. Carbondale: Southern Illinois University Press, 1971.</bibl>
+ <bibl>“Gloucester 9.3: An owl being mocked by lesser birds.” <hi rend="italic">Misericords</hi>. Online at <ref target="https://misericords.co.uk/images/Gloucester/Gloucester%209.3.jpg" type="external">https://misericords.co.uk/images/Gloucester/Gloucester%209.3.jpg</ref>.</bibl>
+ <bibl>Grattan, J. H. G., and G. F. H. Sykes, eds. <hi rend="italic">The Owl and the Nightingale</hi>. EETS e.s. 119. London: Oxford University Press, 1935.</bibl>
+ <bibl>Hall, Joseph, ed. <hi rend="italic">Selections from Early Middle English 1130–1250</hi>. 2 vols. Oxford: Clarendon, 1920.</bibl>
+ <bibl>Heffernan, Thomas J. “Unpublished Middle English Verses on the ‘Three Sorrowful Things.’” <hi rend="italic">Neuphilologische Mitteilungen</hi> 83 (1982), 31–33.</bibl>
+ <bibl><hi rend="italic">The Holy Bible: Douay-Rheims Bible</hi>. Rockford, IL: Tan Books and Publishers, 1899. Online at <ref target="https://www.drbo.org" type="external">https://www.drbo.org</ref>.</bibl>
+ <bibl>Horrall, Sarah M., ed. <hi rend="italic">The Lyf of Oure Lady: The ME Translation of Thomas of Hales’ Vita sancte Marie</hi>. Middle English Texts 17. Heidelberg: Carl Winter, 1985.</bibl>
+ <bibl>Horstmann, Carl, ed. “Nachträge zu den Legenden: II. Zu S. Paul’s Vision von der Hölle, aus Ms. Digby 86, fol. 132 (c. 1290).” <hi rend="italic">Archiv fü</hi><hi rend="italic">r das Studium der neueren Sprachen und Literaturen</hi> 62 (1879), 403–06.</bibl>
+ <bibl>Hugh of Saint-Victor. <hi rend="italic">Selected Spiritual Writings</hi>. Trans. a Religious of the Community of St. Mary the Virgin. Introduction by Aelred Squire. London: Faber and Faber, 1962.</bibl>
+ <bibl>Jacobus de Voragine. <hi rend="italic">The Golden Legend: Readings on the Saints</hi>. Trans. William Granger Ryan. 2 vols. Princeton: Princeton University Press, 1993.</bibl>
+ <bibl>John of Howden. <hi rend="italic">Rossignos by John of Howden</hi>. Ed. Glynn Hesketh. ANTS 63. London: Anglo-Norman Text Society, 2006.</bibl>
+ <bibl>Kaiser, Rolf, ed. <hi rend="italic">Medieval English: An Old English and Middle English Anthology</hi>. 3rd ed. Berlin West: Rolf Kaiser, 1958.</bibl>
+ <bibl>Kemble, John M., ed. and trans. <hi rend="italic">The Dialogue of Salomon and Saturnus, with an Historical Introduction</hi>. London: Printed for the Ælfric Society, 1848.</bibl>
+ <bibl>Ker, N. R., ed. <hi rend="italic">The Owl and the Nightingale Reproduced in Facsimile from the Surviving Manuscripts Jesus College Oxford 29 and British Museum Cotton Caligula A.ix</hi>. EETS o.s. 251. London: Oxford University Press, 1963.</bibl>
+ <bibl>Kluge, Friedrich, ed. <hi rend="italic">Mittelenglisches Lesebuch</hi>. Halle: Max Niemeyer, 1912.</bibl>
+ <bibl>Lawrence, C. H., ed. and trans. <hi rend="italic">The Letters of Adam Marsh</hi>. 2 vols. Oxford: Clarendon, 2006–2010.</bibl>
+ <bibl>Laȝamon (Layamon). <hi rend="italic">Brut or Hystoria Brutonum</hi>. Ed. and trans. W. R. J. Barron and S. C. Weinberg. Essex: Longman Group, 1995.</bibl>
+ <bibl>Legge, M. Dominica, ed. “The Anglo-Norman Sermon of Thomas of Hales.” <hi rend="italic">Modern Language Review</hi> 30 (1935), 212–18.</bibl>
+ <bibl>Lewin, Hermann, ed. <hi rend="italic">Das mittelenglische Poema Morale im kritischen text</hi>. Halle: Max Niemeyer, 1881.</bibl>
+ <bibl>Luria, Maxwell S., and Richard L. Hoffman, eds. <hi rend="italic">Middle English Lyrics</hi>. New York: Norton, 1974.</bibl>
+ <bibl>Marie de France. <hi rend="italic">The Lais of Marie de France</hi>. Trans. Robert Hanning and Joan Ferrante. Grand Rapids, MI: Baker Academic, 1978.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Fables</hi>. Ed. and trans. Harriet Spiegel. Toronto: University of Toronto Press, 1987.</bibl>
+ <bibl>McKitterick, David, ed. <hi rend="italic">The Trinity Apocalypse (Trinity College Cambridge, MS R.16.2)</hi>. London: The British Library, 2005.</bibl>
+ <bibl>Mead, Brenna, ed. and trans. “17. Guillaume le Clerc de Normandie, <hi rend="italic">Le Bestiaire divin</hi> [Dean 702], Prologue and extracts: New Haven, Yale University Beinecke Library, MS 395, ff. 153<hi rend="italic">r</hi>, 158<hi rend="italic">r</hi>–159<hi rend="italic">r</hi>.” In <hi rend="italic">Vernacular Literary Theory from the French of England: Texts and Translations, c. 1120–c. 1450</hi>. Ed. and trans. Jocelyn Wogan-Browne, Thelma Fenster, and Delbert Russell. Cambridge: D. S. Brewer, 2016. Pp. 156–60.</bibl>
+ <bibl>Michel, Dan. <hi rend="italic">Dan Michel’s Ayenbite of Inwyt, or, Remorse of Conscience</hi>. Ed. Richard Morris. Vol. 1. EETS o.s. 23. London: Oxford University Press, 1866.</bibl>
+ <bibl>Millett, Bella, trans. <hi rend="italic">The Owl and the Nightingale</hi>. Wessex Parallel WebTexts. University of Southampton, 2003. Online at <ref target="http://wpwt.soton.ac.uk/trans/owl/owltrans.htm" type="external">http://wpwt.soton.ac.uk/trans/owl/owltrans.htm</ref>.</bibl>
+ <bibl>Morris, Richard, ed. <hi rend="italic">An Old English Miscellany Containing a Bestiary, Kentish Sermons, Proverbs of Alfred, Religious Poems of the Thirteenth Century, from Manuscripts in the British Museum, Bodleian Library, Jesus College Library, etc</hi>. EETS o.s. 49. London: N. Trübner &amp; Co., 1872.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, ed. <hi rend="italic">Specimens of Early English. Part I. From ‘Old English Homilies’ to ‘King Horn’ A. D. 1150–A. D. 1300</hi>. 2nd ed. Oxford: Clarendon, 1887.</bibl>
+ <bibl>Neckam, Alexander. <hi rend="italic">De naturis rerum libri duo, with the poem of the same author, De Laudibus divinæ sapientiæ</hi>. Ed. Thomas Wright. London: Longman, Green, Longman, Roberts, and Green, 1863.</bibl>
+ <bibl>Odo of Cheriton. <hi rend="italic">The Fables of Odo of Cheriton</hi>. Trans. and ed. John C. Jacobs. Syracuse, NY: Syracuse University Press, 1985.</bibl>
+ <bibl>Ovid (Publius Ovidius Naso). <hi rend="italic">The Metamorphoses of Ovid</hi>. Trans. Allen Mandelbaum. San Diego, CA: Harcourt, 1993.</bibl>
+ <bibl>Paris, Matthew. <hi rend="italic">The Life of St Edmund by Matthew Paris</hi>. Trans. and ed. C. H. Lawrence. Oxford: Alan Sutton Publishing Limited, 1996.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The History of Saint Edward the King by Matthew Paris</hi>. Trans. Thelma S. Fenster and Jocelyn Wogan-Browne. FRETS 1. Tempe: Arizona Center for Medieval and Renaissance Studies, 2008.</bibl>
+ <bibl>Patterson, Frank Allen, ed. <hi rend="italic">The Middle English Penitential Lyric: A Study and Collection of Early Religious Verse</hi>. New York: Columbia University Press, 1911.</bibl>
+ <bibl>Paues, Anna C. “A Newly Discovered Manuscript of the <hi rend="italic">Poema Morale</hi>.” <hi rend="italic">Anglia</hi> 30 (1907), 217–37.</bibl>
+ <bibl>Reichl, Karl, ed. <hi rend="italic">Religiöse Dichtung im englischen hochmittelalter: Untersuchung und Edition der Handschrift B. 14. 39 des Trinity College in Cambridge</hi>. Munich: Wilhelm Fink, 1973.</bibl>
+ <bibl>Reinsch, Robert, ed. “La vie de Tobie de Guillaume le Clerc de Normandie.” <hi rend="italic">Archiv für das Studium der Neueren Sprachen und Literaturen</hi> 62 (1879), 375–96.</bibl>
+ <bibl>Robbins, Rossell Hope, ed. <hi rend="italic">Historical Poems of the XIVth and XVth Centuries</hi>. New York: Columbia University Press, 1959.</bibl>
+ <bibl>Robertson, James Craigie, ed. <hi rend="italic">Materials for the History of Thomas Becket, Archbishop of Canterbury (Canonized by Pope Alexander III, A.D. 1173)</hi>. 7 vols. Rolls Series 67. London: Her Majesty’s Stationery Office, 1875–1885.</bibl>
+ <bibl>Sakari, Aimo, ed. <hi rend="italic">Doctrinal Sauvage, publié d’après tous les manuscrits</hi>. Studia philologica Jyväskyläensia 3. Jyväskylä: Jyväskylän Yliopisto, 1967.</bibl>
+ <bibl>Saupe, Karen, ed. <hi rend="italic">Middle English Marian Lyrics</hi>. METS. Kalamazoo, MI: Medieval Institute Publications, 1998.</bibl>
+ <bibl>Savage, Anne, and Nicholas Watson, trans. <hi rend="italic">Anchoritic Spirituality: “Ancrene Wisse” and Associated Works</hi>. New York: Paulist Press, 1991.</bibl>
+ <bibl>Segar, Mary G., trans. <hi rend="italic">A Mediæval Anthology, Being Lyrics and Other Short Poems, Chiefly Religious</hi>. London: Longmans, Green, 1915.</bibl>
+ <bibl>Shakespeare, William. <hi rend="italic">All’s Well That Ends Well</hi>. In <hi rend="italic">The Riverside Shakespeare</hi>. Ed. G. Blakemore Evans et al. Boston: Houghton Mifflin, 1974. Pp. 499–544.</bibl>
+ <bibl>Short, Ian, ed. <hi rend="italic">Trinity Apocalypse</hi>. ANTS 73. Oxford: Anglo-Norman Text Society, 2016.</bibl>
+ <bibl>Silverstein, Theodore, ed. <hi rend="italic">English Lyrics Before 1500</hi>. Evanston, IL: Northwestern University Press, 1971.</bibl>
+ <bibl>Sisam, Celia, and Kenneth Sisam, eds. <hi rend="italic">The Oxford Book of Medieval English Verse</hi>. Oxford: Clarendon, 1970.</bibl>
+ <bibl>Skeat, Walter W., ed. <hi rend="italic">The Proverbs of Alfred</hi>. Oxford: Clarendon, 1907.</bibl>
+ <bibl>South, Helen Pennock, ed. <hi rend="italic">The Proverbs of Alfred Studied in the Light of the Recently Discovered Maidstone Manuscript</hi>. New York: The New York University Press, 1931. Reprint, New York: Haskell House, 1970.</bibl>
+ <bibl>Stanley, Eric Gerald, ed. <hi rend="italic">The Owl and the Nightingale</hi>. New York: Barnes and Noble, 1960.</bibl>
+ <bibl>Stengel, E., ed. <hi rend="italic">Codicem manu scriptum Digby 86 in Bibliotheca Bodleiana asservatum</hi>. Halis: Libraria Orphanotrophei, 1871.</bibl>
+ <bibl>Stevick, Robert, ed. <hi rend="italic">One Hundred Middle English Lyrics</hi>. Revised edition. Urbana: University of Illinois Press, 1994.</bibl>
+ <bibl>Stone, Brian, trans. <hi rend="italic">Medieval English Verse</hi>. 2nd ed. New York: Penguin, 1971.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, trans. <hi rend="italic">The Owl and the Nightingale, Cleanness, St Erkenwald</hi>. 2nd ed. London: Penguin, 1988.</bibl>
+ <bibl>Thomas, Carla M., ed. and trans. “<hi rend="italic">Poema Morale</hi>.” In <hi rend="italic">Old and Middle English c.890–c.1450: An Anthology</hi>. Ed. Elaine Treharne. 3rd ed. Oxford: Wiley-Blackwell, 2010. Pp. 336–53.</bibl>
+ <bibl>Treharne, Elaine, ed. <hi rend="italic">Old and Middle English c.890–c.1450: An Anthology</hi>. 3rd ed. Oxford: Wiley-Blackwell, 2010.</bibl>
+ <bibl>Tschann, Judith, and M. B. Parkes, eds. <hi rend="italic">Facsimile of Oxford, Bodleian Library, MS Digby 86</hi>. EETS s.s. 16. Oxford: Oxford University Press, 1996.</bibl>
+ <bibl>Webb, John, ed. <hi rend="italic">A Roll of the Household Expenses of Richard de Swinfield, Bishop of Hereford, During Part of the Years 1289 and 1290</hi>. 2 vols. Camden Society o.s. 59, 62. London: Camden Society, 1854–1855. Reprint, New York: AMS Press, 1968.</bibl>
+ <bibl>Wells, John Edwin, ed. <hi rend="italic">The Owl and the Nightingale</hi>. Boston: D. C. Heath, 1907.</bibl>
+ <bibl>Weston, Jessie L., trans. <hi rend="italic">The Chief Middle English Poets: Selected Poems</hi>. Boston: Houghton Mifflin, 1914.</bibl>
+ <bibl>Williamson, Craig, trans. <hi rend="italic">The Complete Old English Poems</hi>. Philadelphia: University of Pennsylvania Press, 2017.</bibl>
+ <bibl>Wogan-Browne, Jocelyn, Thelma Fenster, and Delbert W. Russell, eds. and trans. <hi rend="italic">Vernacular Literary Theory from the French of Medieval England: Texts and Translations, c. 1120–c. 1450</hi>. Cambridge: D. S. Brewer, 2016.</bibl>
+ <bibl>Wright, Thomas, ed. <hi rend="italic">Political Songs of England, from the Reign of John to That of Edward II</hi>. London: Nichols and Son, Printed for the Camden Society, 1839. Reprint with an introduction by Peter Coss, Cambridge: Cambridge University Press, 1996.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, and James Orchard Halliwell, eds. <hi rend="italic">Reliquiæ Antiquæ. Vol. 1</hi>. London: William Pickering, 1841. Reprint, New York: AMS Press, 1966.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, ed. <hi rend="italic">The Owl and the Nightingale: An Early English Poem Attributed to Nicholas de Guildford, with Some Shorter Poems from the Same Manuscript</hi>. Percy Society 11. London: Printed for the Percy Society by T. Richards, 1843.</bibl>
+ <bibl>Zupitza, Julius, J. Schipper, and Albert Eichler, eds. <hi rend="italic">Alt- und mittelenglisches Übungsbuch mit einem Wörterbuch</hi>. 12th ed. Vienna: Braumüller, 1922.</bibl></listBibl>
+ <p style="heading">Secondary Sources</p>
+ <listBibl><bibl>Allen, Richard E. “The Voices of <hi rend="italic">The Owl and the Nightingale</hi>.” <hi rend="italic">Studies in Medieval Culture</hi> 3 (1970), 52–58.</bibl>
+ <bibl>Arngart, Olof Sigfrid. <hi rend="italic">The Proverbs of Alfred. I. A Study of the Texts</hi>. Lund: Gleerup, 1942.</bibl>
+ <bibl>Barratt, Alexandra. “Flying in the Face of Tradition: A New View of <hi rend="italic">The Owl and the Nightingale</hi>.” <hi rend="italic">University of Toronto Quarterly</hi> 56 (1987), 471–85.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Avian Self-Fashioning and Self-Doubt in <hi rend="italic">The Owl and the Nightingale</hi>.” In <hi rend="italic">Individuality and Achievement in Middle English Poetry</hi>. Ed. O. S. Pickering. Cambridge: D. S. Brewer, 1997. Pp. 1–18.</bibl>
+ <bibl>Bell, Kimberly K., and Julie Nelson Couch, eds. <hi rend="italic">The Texts and Contexts of Oxford, Bodleian Library, MS Laud Misc. 108: The Shaping of English Vernacular Narrative</hi>. Leiden: Brill, 2011.</bibl>
+ <bibl>Bestul, Thomas H. <hi rend="italic">Texts of the Passion: Latin Devotional Literature and Medieval Society</hi>. Philadelphia: University of Pennsylvania Press, 1996.</bibl>
+ <bibl>Biggs, Sarah J. “Knight v Snail.” <hi rend="italic">British Library Medieval manuscripts blog</hi>. 26 September 2013. Online at <ref target="https://blogs.bl.uk/digitisedmanuscripts/2013/09/knight-v-snail.html" type="external">https://blogs.bl.uk/digitisedmanuscripts/2013/09/knight-v-snail.html</ref>.</bibl>
+ <bibl>Bloch, R. Howard. <hi rend="italic">Medieval Misogyny and the Invention of Western Romantic Love</hi>. Chicago: University of Chicago Press, 1991.</bibl>
+ <bibl>Bloomfield, Morton W. “Thomas of Hales’ ‘A Love Rune’ (1250–1270): A Christian Didactic Poem.” In <hi rend="italic">Europäische Lehrdichtung: Festschrift für Walter Naumann zum 70. Geburtstag</hi>. Ed. Hans Gerd Rötzer and Herbert Walz. Darmstadt: Wissenschaftliche Buchgesellschaft, 1981. Pp. 49–60.</bibl>
+ <bibl>Brundage, James A. <hi rend="italic">Medieval Canon Law</hi>. London: Longman, 1995.</bibl>
+ <bibl>Bugge, John. <hi rend="italic">Virginitas: An Essay in the History of a Medieval Ideal</hi>. The Hague: Martinus Nijhoff, 1975.</bibl>
+ <bibl>Burton, Edwin. “Ancient See of York.” In <hi rend="italic">Catholic Encyclopedia</hi>. Gen. ed. Kevin Knight, 1995–2018. Online at <ref target="http://www.newadvent.org/cathen/15733b.htm" type="external">http://www.newadvent.org/cathen/15733b.htm</ref>.</bibl>
+ <bibl>Cannon, Christopher. <hi rend="italic">The Grounds of English Literature</hi>. Oxford: Oxford University Press, 2004.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Proverbs and the Wisdom of Literature: <hi rend="italic">The Proverbs of Alfred</hi> and Chaucer’s <hi rend="italic">Tale of Melibee</hi>." <hi rend="italic">Textual Practice</hi> 24 (2010), 407–34.</bibl>
+ <bibl>Cartlidge, Neil. “The Date of <hi rend="italic">The Owl and the Nightingale</hi>.” <hi rend="italic">Medium Ævum</hi> 65 (1996), 230–47.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Composition and Social Context of Oxford, Jesus College, MS 29(II) and London, British Library, MS Cotton Caligula A.ix.” <hi rend="italic">Medium Ævum</hi> 66 (1997), 250–69.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Medieval Marriage: Literary Approaches, 1100–1300</hi>. Cambridge: D. S. Brewer, 1997.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Imagining X: A Lost Early Vernacular Miscellany.” In <hi rend="italic">Imagining the Book</hi>. Ed. Stephen Kelly and John J. Thompson. Turnhout: Brepols, 2005. Pp. 31–44. </bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Nicholas of Guildford and <hi rend="italic">The Owl and the Nightingale</hi>.” <hi rend="italic">Medium Ævum</hi> 79 (2010), 14–24.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “<hi rend="italic">The Owl and the Nightingale</hi>.” In <hi rend="italic">Oxford Bibliographies in Medieval Studies</hi>. Ed. Paul E. Szarmach. New York: Oxford University Press, 2016. Online at <ref target="https://www.oxfordbibliographies.com/view/document/obo-9780195396584/obo-9780195396584-0205.xml" type="external">https://www.oxfordbibliographies.com/view/document/obo-9780195396584/obo-9780195396584-0205.xml</ref>.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Gender Trouble? Fabliau and Debate in MS Digby 86.” In Fein, <hi rend="italic">Interpreting MS Digby 86</hi>, pp. 130–61.</bibl>
+ <bibl>Cawley, A. C. “Astrology in ‘The Owl and the Nightingale.’” <hi rend="italic">Modern Language Review</hi> 46 (1951), 161–74.</bibl>
+ <bibl>Clanchy, M. T. <hi rend="italic">England and Its Rulers 1066–1307</hi>. 3rd ed. Malden, MA: Blackwell Publishing, 2006.</bibl>
+ <bibl>Coleman, Janet. “The <hi rend="italic">Owl and the Nightingale</hi> and Papal Theories of Marriage.” <hi rend="italic">Journal of Ecclesiastical History</hi> 38 (1987), 517–68.</bibl>
+ <bibl>Corrie, Marilyn. “Misogyny in MS Digby 86.” In Fein, <hi rend="italic">Interpreting MS Digby 86</hi>, pp. 113–29.</bibl>
+ <bibl>D’Angelo, Benito, O.F.M. “English Franciscan Poetry before Geoffrey Chaucer (1340?–1400).” Trans. Luke M. Ciampi, O.F.M. <hi rend="italic">Franciscan Studies</hi> 43 (1983), 218–60.</bibl>
+ <bibl>Dean, Ruth J. “A Missing Chapter of the ‘Vie de Tobie.’” <hi rend="italic">Modern Philology</hi> 33 (1935), 13–19.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, with Maureen B. M. Boulton. <hi rend="italic">Anglo-Norman Literature: A Guide to Texts and Manuscripts</hi>. London: Anglo-Norman Text Society, 1999.</bibl>
+ <bibl><hi rend="italic">DIMEV: An Open-Access, Digital Edition of the Index of Middle English Verse</hi>. Ed. Linne R. Mooney and Daniel W. Mosser, and Elizabeth Solopova, with Deborah Thorpe, David Hill Radcliffe, and Len Hatfield. Virginia Poyltechnic Institute and State University, 1995. Online at <ref target="https://www.dimev.net" type="external">https://www.dimev.net</ref>.</bibl>
+ <bibl>Djordjevic, Ivana. “<hi rend="italic">The Owl and the Nightingale</hi> and the Perils of Criticism.” <hi rend="italic">Neuphilologische Mitteilungen</hi> 96 (1995), 367–80.</bibl>
+ <bibl>Dove, Mary. “Evading Textual Intimacy: The French Secular Verse.” In Fein, <hi rend="italic">Studies in the Harley Manuscript</hi>. Pp. 329–49.</bibl>
+ <bibl>Duffy, Eamon. “Religious Belief.” In <hi rend="italic">A Social History of England</hi><hi rend="italic">, 1200–1500</hi>. Ed. Rosemary Horrox and W. Mark Ormrod. Cambridge: Cambridge University Press, 2006. Pp. 293–339.</bibl>
+ <bibl>Eadie, J. “The Authorship of <hi rend="italic">The Owl and the Nightingale</hi>: A Reappraisal.” <hi rend="italic">English Studies</hi> 67 (1986), 471–77.</bibl>
+ <bibl>Fein, Susanna. “Roll or Codex? The Diptych Layout of Thomas of Hales’s <hi rend="italic">Love Rune</hi>.” <hi rend="italic">Trivium</hi> 31 (1999), 13–23.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “A Saint ‘Geynest under Gore’: Marina and the Love Lyrics of the Seventh Quire.” In Fein, <hi rend="italic">Studies in the Harley Manuscript</hi>. Pp. 351–76.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, ed. <hi rend="italic">Studies in the Harley Manuscript: The Scribes, Contents, and Social Contexts of British Library MS Harley 2253</hi>. TEAMS Varia. Kalamazoo, MI: Medieval Institute Publications, 2000.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “XXVII. The Lyrics of MS Harley 2253.” In <hi rend="italic">A Manual of the Writings in Middle English, 1050–1500</hi>. Vol. 11. Ed. Peter G. Beidler. New Haven: Connecticut Academy of Arts and Sciences, 2005. Pp. 4168–4206, 4311–61.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, ed. <hi rend="italic">The Auchinleck Manuscript: New Perspectives</hi>. Woodbridge: Boydell and Brewer, 2016.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “All Adam’s Children: The Early Middle English Lyric Sequence in Oxford, Jesus College, MS 29 (II).” In <hi rend="italic">Middle English Lyrics: New Readings of Short Poems</hi>. Ed. Julia Boffey and Christiania Whitehead. Woodbridge: D. S. Brewer, 2018. Pp. 213–26.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Designing English: Early Middle English Verse on the Page in Oxford, Jesus College MS 29 (II).” <hi rend="italic">Journal of the Early Book Society</hi> 22 (2019), 43–71.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, ed. <hi rend="italic">Interpreting MS Digby 86: A Trilingual Book from Thirteenth-Century Worcestershire</hi>. Woodbridge: Boydell and Brewer, 2019.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Middle English Poetry of MS Digby 86.” In Fein, <hi rend="italic">Interpreting MS Digby 86</hi>. Pp. 162–96.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “<hi rend="italic">When Holy Church Is Under Foot</hi>: A Precursor to <hi rend="italic">The Simonie</hi> in Oxford, Jesus College MS 29.” <hi rend="italic">Medium Ævum</hi> 91(2022)10–27.</bibl>
+ <bibl>Fleming, John V. “The Friars and Medieval English Literature.” In Wallace, <hi rend="italic">The Cambridge History of Medieval English Literature</hi>. Pp. 349–75.</bibl>
+ <bibl>Foster, Frances A. “7. Legends of the After-Life.” In <hi rend="italic">A Manual of the Writings in Middle English, 1050–1500</hi>. Vol. 2. Ed. J. Burke Severs. New Haven: Connecticut Academy of Arts and Sciences, 1970. Pp. 452–57, 645–49.</bibl>
+ <bibl>Frankis, John. “The Social Context of Vernacular Writing in Thirteenth Century England: The Evidence of the Manuscripts.” In <hi rend="italic">Thirteenth Century England I: Proceedings of the Newcastle upon Tyne Conference 1985</hi>. Ed. P. R. Coss and S. D. Lloyd. Woodbridge: Boydell Press, 1986. Pp. 175–84.</bibl>
+ <bibl>Girouard, Mark. <hi rend="italic">Life in the English Country House: A Social and Architectural History</hi>. New Haven: Yale University Press, 1978.</bibl>
+ <bibl>Hahn, Thomas. “Early Middle English.” In Wallace, <hi rend="italic">The Cambridge History of Medieval English Literature</hi>. Pp. 61–91.</bibl>
+ <bibl>Heffernan, Thomas J. “II. Single Early Sermons and Homilies.” In <hi rend="italic">A Manual of the Writings in Middle English, 1050–1500</hi>. Vol. 11. Ed. Peter G. Beidler. New Haven: Connecticut Academy of Arts and Sciences, 2005. Pp. 4041–56, 4263–70.</bibl>
+ <bibl>Hill, Betty. “The History of Jesus College, Oxford MS. 29.” <hi rend="italic">Medium Ævum</hi> 32 (1963), 203–13.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The ‘Luue-Ron’ and Thomas de Hales.” <hi rend="italic">Modern Language Review</hi> 59 (1964), 321–30.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Oxford, Jesus College MS. 29: Addenda on Donation, Acquisition, Dating and Relevance of the ‘Broaken Leafe’ Note to ‘The Owl and the Nightingale.’” <hi rend="italic">Notes and Queries</hi> 22 (1975), 98–105.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Twelfth-Century <hi rend="italic">Conduct of Life</hi>, Formerly the <hi rend="italic">Poema Morale</hi> or <hi rend="italic">A Moral Ode</hi>.” <hi rend="italic">Leeds Studies in English</hi> 9 (1976–77), 97–144.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “A Manuscript from Nuneaton: Cambridge Fitzwilliam Museum MS McLean 123.” <hi rend="italic">Transactions of the Cambridge Bibliographical Society</hi> 12 (2002), 191–205.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Oxford, Jesus College MS 29, Part II: Contents, Technical Matters, Compilation, and Its History to c. 1695.” <hi rend="italic">Notes and Queries</hi> 50 (2003), 268–76.</bibl>
+ <bibl>Hines, John, and Melissa Julian-Jones. “Below Malvern: MS Digby 86, the Grimhills and the Underhills in Their Regional and Social Context.” In Fein, <hi rend="italic">Interpreting MS Digby 86</hi>. Pp. 255–73.</bibl>
+ <bibl>Holsinger, Bruce. “Vernacular Legality: The English Jurisdictions of <hi rend="italic">The Owl and the Nightingale</hi>.” In <hi rend="italic">The Letter of the Law: Legal Practice and Literary Production in Medieval England</hi>. Ed. Emily Steiner and Candace Barrington. Ithaca, NY: Cornell University Press, 2002. Pp. 154–84.</bibl>
+ <bibl>Honegger, Thomas. <hi rend="italic">From Phoenix to Chauntecleer: Medieval English Animal Poetry</hi>. Tübingen: Francke Verlag, 1996.</bibl>
+ <bibl>Horrall, Sarah M. “Thomas of Hales, O.F.M.: His Life and Works.” <hi rend="italic">Traditio</hi> 42 (1986), 287–98.</bibl>
+ <bibl>Hoskin, Philippa. “The Church and the King: Canon Law and Kingship in England, 1257–61.” In <hi rend="italic">The Growth of Royal Government under Henry III</hi>. Ed. David Crook and Louise J. Wilkinson. Woodbridge: Boydell Press, 2015. Pp. 196–211.</bibl>
+ <bibl>Howell, Margaret. <hi rend="italic">Eleanor of Provence: Queenship in Thirteenth-Century England</hi>. Oxford: Blackwell Publishers, 1998.</bibl>
+ <bibl>Hume, Kathryn. <hi rend="italic">The Owl and the Nightingale: The Poem and Its Critics</hi>. Toronto: University of Toronto Press, 1975.</bibl>
+ <bibl>Hunt, Tony. “<hi rend="italic">Le Doctrinal Sauvage</hi> — Another Manuscript.” <hi rend="italic">French Studies Bulletin</hi> 17 (1985/86), 1–4.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Insular Trilingual Compilations.” In <hi rend="italic">Codices Miscellanearum</hi>. Ed. R. Jansen-Sieben and H. van Dijk. Archives et bibliothèques de Belgique, Numéro Spécial, 60. Brussels: Archives et Bibliothèques de Belgique, 1999. Pp. 51–70.</bibl>
+ <bibl>Jackson, Eleanor. “Medieval killer rabbits: when bunnies strike back.” <hi rend="italic">British Library Medieval manuscripts blog</hi>. 16 June 2021. <ref target="https://blogs.bl.uk/digitisedmanuscripts/2021/06/killer-rabbits.html" type="external">https://blogs.bl.uk/digitisedmanuscripts/2021/06/killer-rabbits.html</ref>.</bibl>
+ <bibl>Kehnel, Annette. “Poets, Preachers and Friars Revisited: Fourteenth-Century Multilingual Franciscan Manuscripts.” In <hi rend="italic">The Beginnings of Standardization: Language and Culture in Fourteenth-Century England</hi>. Ed. Ursula Schaefer. Frankfurt am Main: Peter Lang, 2006. Pp. 91–114.</bibl>
+ <bibl>Kerby-Fulton, Kathryn. <hi rend="italic">The Clerical Proletariat and the Resurgence of Medieval English Poetry</hi>. Philadelphia: University of Pennsylvania Press, 2021.</bibl>
+ <bibl>Laing, Margaret. “<hi rend="italic">The Owl and the Nightingale</hi>: Five New Readings and Further Notes.” <hi rend="italic">Neuphilologische Mitteilungen</hi> 108 (2007), 445–77.</bibl>
+ <bibl>Lavezzo, Kathy, ed. <hi rend="italic">Imagining a Medieval English Nation</hi>. Minneapolis: University of Minnesota Press, 2004.</bibl>
+ <bibl>Lepore, Jill. <hi rend="italic">These Truths: A History of the United States</hi>. New York: Norton, 2018.</bibl>
+ <bibl>Lerer, Seth. “The Owl, the Nightingale, and the Apes.” <hi rend="italic">English Studies</hi> 64 (1983), 102–05.</bibl>
+ <bibl>Levy, Bernard S. “The Annunciation in Thomas de Hales’ ‘Love Ron.’” <hi rend="italic">Mediaevalia</hi> 6 (1980), 123–34.</bibl>
+ <bibl>Louis, Cameron. “XXII. Proverbs, Precepts, and Monitory Pieces.” In <hi rend="italic">A Manual of the Writings in Middle English, 1050–1500</hi>. Vol. 9. Ed. Albert E. Hartung. New Haven: Connecticut Academy of Arts and Sciences, 1993. Pp. 2957–3048, 3349–3404.</bibl>
+ <bibl>Maddicott, J. R. <hi rend="italic">Simon de Montfort</hi>. Cambridge: Cambridge University Press, 1994.</bibl>
+ <bibl>Mann, Jill. <hi rend="italic">From Aesop to Reynard: Beast Literature in Medieval Britain</hi>. Oxford: Oxford University Press, 2009.</bibl>
+ <bibl>Matthews, David. <hi rend="italic">Writing to the King: Nation, Kingship, and Literature in England, 1250–1350</hi>. Cambridge: Cambridge University Press, 2010.</bibl>
+ <bibl>Mayr-Harting, Henry. <hi rend="italic">Religion, Politics and Society in Britain 1066–1272</hi>. Harlow: Pearson Education, 2011.</bibl>
+ <bibl>McGinn, Bernard. “The Language of Love in Christian and Jewish Mysticism.” In <hi rend="italic">Mysticism and Language</hi>. Ed. Steven T. Katz. Oxford: Oxford University Press, 1992. Pp. 202–35.</bibl>
+ <bibl>Medcalf, Stephen. “Literature and Drama.” In <hi rend="italic">The Cambridge Guide to the Arts in Britain. Vol. 2: The Middle Ages</hi>. Ed. Boris Ford. Cambridge: Cambridge University Press, 1988. Pp. 96–139.</bibl>
+ <bibl><hi rend="italic">Middle English Dictionary</hi>. Ed. Frances McSparran et al. Ann Arbor: University of Michigan Library, 2000–2021. Online at <ref target="http://quod.lib.umich.edu/m/middle-english-dictionary/" type="external">http://quod.lib.umich.edu/m/middle-english-dictionary/</ref>.</bibl>
+ <bibl>Millett, Bella. “Women in No Man’s Land: English Recluses and the Development of Vernacular Literature in the Twelfth and Thirteenth Centuries.” In <hi rend="italic">Women and Literature in Britain, 1150</hi><hi rend="italic">–1500</hi>. Ed. Carol M. Meale. Cambridge: Cambridge University Press, 1993. Pp. 86–103.</bibl>
+ <bibl>Morgan, Nigel. “Illustrated Apocalypses of Mid-thirteenth-century England: Historical Context, Patronage and Readership.” In McKitterick, <hi rend="italic">The Trinity Apocalypse</hi>. Pp. 3–22.</bibl>
+ <bibl>Muir, Laurence. “IV. Translations and Paraphrases of the Bible, and Commentaries.” In <hi rend="italic">A Manual of the Writings in Middle English, 1050–1500</hi>. Vol. 2. Ed. J. Burke Severs. New Haven: Connecticut Academy of Arts and Sciences, 1970. Pp. 381–409, 534–52.</bibl>
+ <bibl>Newman, Barbara. <hi rend="italic">From Virile Woman to WomanChrist: Studies in Medieval Religion and Literature</hi>. Philadelphia: University of Pennsylvania Press, 1995.</bibl>
+ <bibl><hi rend="italic">NIMEV: A New Index of Middle English Verse</hi>. Ed. Julia Boffey and A. S. G. Edwards. London: The British Library, 2005.</bibl>
+ <bibl>Nolan, Barbara. “Anthologizing Ribaldry: Five Anglo-Norman Fabliaux.” In Fein, <hi rend="italic">Studies in the Harley Manuscript</hi>. Pp. 289–327.</bibl>
+ <bibl>Oliver, Raymond. <hi rend="italic">Poems Without Names: The English Lyric, 1200–1500</hi>. Berkeley: University of California Press, 1970.</bibl>
+ <bibl>Page, Christopher. <hi rend="italic">The Owl and the Nightingale: Musical Life and Ideas in France 1100–1300</hi>. Berkeley: University of California Press, 1989.</bibl>
+ <bibl>Pearsall, Derek. <hi rend="italic">Old English and Middle English Poetry</hi>. London: Routledge and Kegan Paul, 1977.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Gothic Europe: 1200–1450</hi>. Harlow: Longman, 2001.</bibl>
+ <bibl>Reed, Thomas L., Jr. <hi rend="italic">Middle English Debate Poetry and the Aesthetics of Irresolution</hi>. Columbia: University of Missouri Press, 1990.</bibl>
+ <bibl>Reese, Gustave. <hi rend="italic">Music in the Middle Ages: With an Introduction on the Music of Ancient Times</hi>. New York: Norton, 1940.</bibl>
+ <bibl>Reiss, Edmund. “Religious Commonplaces and Poetic Artistry in the Middle English Lyric.” <hi rend="italic">Style</hi> 4 (1970), 97–106.</bibl>
+ <bibl>Renevey, Denis. “1215–1349: Texts.” In <hi rend="italic">The Cambridge Companion to Medieval English Mysticism</hi>. Ed. Samuel Fanous and Vincent Gillespie. Cambridge: Cambridge University Press, 2011. Pp. 91–112.</bibl>
+ <bibl>Robbins, Rossell Hope. “XIII. Poems Dealing with Contemporary Conditions.” In <hi rend="italic">A Manual of the Writings in Middle English, 1050–1500</hi>. Vol. 5. Ed. Albert E. Hartung. New Haven: Connecticut Academy of Arts and Sciences, 1975. Pp. 1385–1536, 1631–1725.</bibl>
+ <bibl>Ross, A. S. C. “The Middle English Poem on the Names of a Hare.” <hi rend="italic">Proceedings of the Leeds Philosophical and Literary Society: Literary and Historical Section</hi> 3 (1935), 347–77.</bibl>
+ <bibl>Russell, Josiah Cox. “The Canonization of Opposition to the King in Angevin England.” In <hi rend="italic">Anniversary Essays in Mediaeval History by Students of Charles Homer Haskins Presented on His Completion of Forty Years of Teaching</hi>. Ed. Charles H. Taylor and John L. La Monte. Boston: Houghton Mifflin Company, 1929. Pp. 279–90.</bibl>
+ <bibl>Scahill, John. “The Friar, the Maid, the Writer and the Reader.” <hi rend="italic">Poetica</hi> 36 (1992), 1–14.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Abbreviations in the Orthographies of <hi rend="italic">The Owl and the Nightingale</hi> and Their Textual Implications.” <hi rend="italic">Notes and Queries</hi> 42 (1995), 426–28.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Trilingualism in Early Middle English Miscellanies: Languages and Literature.” <hi rend="italic">Yearbook of English Studies</hi> 33 (2003), 18–32.</bibl>
+ <bibl>Scase, Wendy. <hi rend="italic">Literature and Complaint in England, 1272–1553</hi>. Oxford: Oxford University Press, 2007.</bibl>
+ <bibl>Severs, J. Burke, Albert E. Hartung, and Peter G. Beidler, eds. <hi rend="italic">A Manual of the Writings in Middle English, 1050–1500</hi>. 11 vols. New Haven: Connecticut Academy of Arts and Sciences, 1967–2005.</bibl>
+ <bibl>Short, Ian. “Introduction.” In McKitterick, <hi rend="italic">The Trinity Apocalypse</hi>. Pp. 123–38.</bibl>
+ <bibl>Sisam, Celia. “The Broken Leaf in MS. Jesus College, Oxford, 29.” <hi rend="italic">Review of English Studies</hi>, n.s. 5 (1954), 337–43.</bibl>
+ <bibl>Somerset, Fiona. “Complaining about the King in French in Thomas Wright’s <hi rend="italic">Political Songs of England</hi>.” In <hi rend="italic">The French of Medieval England: Essays in Honour of Jocelyn Wogan-Browne</hi>. Ed. Thelma Fenster and Carolyn P. Collette. Cambridge: D. S. Brewer, 2017. Pp. 82–99.</bibl>
+ <bibl>Spearing, A. C. “Central and Displaced Sovereignty in Three Medieval Poems.” <hi rend="italic">Review of English Studies</hi>, n.s. 33 (1982), 247–61.</bibl>
+ <bibl>Swanton, Michael. <hi rend="italic">English Literature before Chaucer</hi>. London: Longman, 1987.</bibl>
+ <bibl>ten Brink, Bernhard. <hi rend="italic">History of English Literature</hi>. Trans. Horace M. Kennedy. 2 vols. New York: Henry Holt, 1889.</bibl>
+ <bibl>Turville-Petre, Thorlac. <hi rend="italic">England the Nation: Language, Literature, and National Identity, 1290–1340</hi>. Oxford: Clarendon, 1996.</bibl>
+ <bibl>Utley, Francis Lee. “VII. Dialogues, Debates, and Catechisms.” In <hi rend="italic">A Manual of the Writings in Middle English, 1050–1500</hi>. Vol. 3. Ed. Albert E. Hartung. New Haven: Connecticut Academy of Arts and Sciences, 1972. Pp. 669–756, 829–902.</bibl>
+ <bibl>Wakelin, Daniel. <hi rend="italic">Designing English: Early Literature on the Page</hi>. Oxford: Bodleian Library, 2018.</bibl>
+ <bibl>Wallace, David, ed.<hi rend="italic"> The Cambridge History of Medieval English Literature</hi>. Cambridge: Cambridge University Press, 1999.</bibl>
+ <bibl>Wells, John Edwin. “‘A Luue Ron’ and ‘Of Clene Maydenhod.’” <hi rend="italic">Modern Language Review</hi> 9 (1914), 236–37.</bibl>
+ <bibl>Whiting, Bartlett Jere, and Helen Wescott Whiting. <hi rend="italic">Proverbs, Sentences, and Proverbial Phrases from English Writings Mainly before 1500</hi>. Cambridge, MA: Belknap Press of Harvard University Press, 1968.</bibl>
+ <bibl>Wilson, R. M. “The Medieval Library of Titchfield Abbey (Part I).” <hi rend="italic">Proceedings of the Leeds Philosophical and Literary Society: Literary &amp; Historical Section</hi> 5 (1940), 150–77.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Medieval Library of Titchfield Abbey (Part II).” <hi rend="italic">Proceedings of the Leeds Philosophical and Literary Society: Literary &amp; Historical Section</hi> 5 (1940), 252–76.</bibl>
+ <bibl>Wogan-Browne, Jocelyn. “The Tongues of the Nightingale: ‘hertely redyng’ at English Courts.” In <hi rend="italic">New Directions in Medieval Manuscript Studies and Reading Practices: Essays in Honor of Derek Pearsall</hi>. Ed. Kathryn Kerby-Fulton, John J. Thompson, and Sarah Baechle. Notre Dame, IN: University of Notre Dame Press, 2014. Pp. 78–98.</bibl>
+ <bibl>Woolf, Rosemary. “The Theme of Christ the Lover-Knight in Medieval English Literature.” <hi rend="italic">Review of English Studies</hi>, n.s. 13 (1962), 1–16.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The English Religious Lyric in the Middle Ages</hi>. Oxford: Clarendon, 1968.</bibl>
+ <bibl>Yeager, Stephen M. <hi rend="italic">From Lawmen to Plowmen: Anglo-Saxon Legal Tradition and the School of Langland</hi>. Toronto: University of Toronto Press, 2014.</bibl>
+ <bibl>Yunck, John A. <hi rend="italic">The Lineage of Lady Meed: The Development of Mediaeval Venality Satire.</hi> Notre Dame, IN: University of Notre Dame Press, 1963.</bibl>
+ <bibl>Zacher, Christian K. “XIX. Travel and Geographical Writings.” In <hi rend="italic">A Manual of the Writings in Middle English, 1050–1500.</hi> Vol. 7. Ed. Albert E. Hartung. New Haven: Connecticut Academy of Arts and Sciences, 1986. Pp. 2235–54, 2449–66.</bibl></listBibl>
+ </div></body></text></TEI>

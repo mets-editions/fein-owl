@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Fein-Owl-114-Art28-Eleven-Pains-Headnote-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Introduction to The Eleven Pains of Hell</title><author>Fein, Susanna</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp><resp from="2022-05" to="2023-09">Entered corrections for digital edition</resp><resp from="2022-05" to="2023-09">Entered corrections for print edition</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2020-07" to="2021-12">Checked and corrected bibliographic references</resp><resp from="2020-02" to="2020-03">Copyedited and proofread</resp><resp from="2020-07" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2022-05" to="2023-11">Entered corrections for digital edition</resp><resp from="2020-02" to="2023-09">Entered corrections for print edition</resp><resp from="2020-02" to="2020-03">Formatted for print edition</resp><resp from="2020-02" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2023-11" to="2024-01">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-01">Entered corrections for digital edition</resp><resp from="2023-11" to="2024-01">Formatted for XML export</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-02" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2023-10" to="2023-11">Entered corrections for digital edition</resp><resp from="2023-10" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2021-11" to="2024-05">Audited documents prior to print/export</resp><resp from="2021-11" to="2021-12">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2021-11" to="2021-12">Copyedited and proofread</resp><resp from="2021-11" to="2021-12">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-12">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-12">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Thomas of Hales</author><author>Unknown</author><editor>Fein, Susanna</editor><editor role="translator">Fein, Susanna</editor><title>The Owl and the Nightingale and the English Poems of Oxford, Jesus College, MS 29 (II)</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2022</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/fein-owl/blob/main/fein-owl-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Fein-Owl-114-Art28-Eleven-Pains-Headnote"/><div type="text">
+ <p style="bodyfirst" n="1"><hi rend="italic">The Eleven Pains of Hell</hi> is the only trilingual item in Jesus 29. It is mainly an English account of the different, gradated pains of hell as recounted by a newly (and inexplicably) resurrected dead sinner who speaks to the Devil — as if <hi rend="italic">he</hi> were not already the expert! — of what he saw and experienced in hell. The opening and closing lines form a framework in French, making <hi rend="italic">Eleven Pains</hi> seem to address a French-speaking audience being treated to the novelty of English. It starts off like a debate, or wonder, that will be narrated in French with the combatants (Satan and the dead sinner) conversing in English. But French narration and any sense of debate evaporate when the soul’s account carries on for nearly three hundred lines. The description concludes in English, after the eleventh pain, with a sizeable stint of moralizing (lines 261–80), and then a French explicit: “Ke ces .xi. peynes escryvera; / Bon aventure ly avendra” (Here are written the eleven pains; / Have good fortune by it). It can hardly be said that a French narrator has returned, but the explicit does seem to encase the English poem in French.</p>
+ <p style="body" n="1">But that is not the end of it, for in the Jesus 29 version there is an eight-line English epilogue <hi rend="italic">after</hi> the French explicit, which asks the reader to pray for Hugh or Hugo (<hi rend="italic">Hug’</hi>), evidently the scribe of Jesus 29 or an earlier copy. Hug’ then closes the whole poem with a Latin explicit: “Expliciunt .xj. pene inferni quas vidit beatus Paulus” (Here end the eleven pains of hell that Saint Paul saw). In content but not language, this second explicit matches the French incipit: “Ici comencent les unze peynes de enfern les queus Seynt Pool vist” (Here begin the eleven pains of hell that Saint Paul saw). The vernacularity of <hi rend="italic">Eleven Pains</hi> seems, therefore, to have a strange level of embeddedness, English within French within Latin, as it was appropriated by different settings that prioritized different languages. A later copy of <hi rend="italic">Eleven Pains</hi> found in Oxford, BodL, MS Digby 86 shares the French/English opening, but not the French/English/Latin close.</p>
+ <p style="body" n="2">As the French incipit and Latin explicit indicate, the poem is a variation of the Vision of Saint Paul, a very popular legend that circulated in many languages. In that tradition, the non-sinner Saint Paul receives an eyewitness tour of hell led by Archangel Michael — a circumstance that makes more sense than an account given to Satan by a dead sinner. Robust English specimens of the tradition survive in the Vernon manuscript (Oxford, BodL, MS Eng. poet. A.1) and the Audelay manuscript (Oxford, BodL, MS Douce 302). For the text of Audelay’s poem (ca. 1426) and comment on both works, see Audelay, <hi rend="italic">Poems and</hi><hi rend="italic"> Carols</hi>, ed. Fein, pp. 117–26, 269–73. As far apart as they are in time, several correspondences between <hi rend="italic">Eleven Pains</hi> and Audelay’s <hi rend="italic">Vision of Saint Paul</hi> are detectible: in both, the first four pains are burning trees, a hot furnace, a torturous wheel, and a foul river.</p>
+ <p style="body" n="3">A favorite device of the <hi rend="italic">Eleven Pains</hi> author is to express the incalculable extent of the pains through simile. In describing different circles, the dead sinner claims that the suffering souls number more than bees in a hive, or fish in the sea, or birds in the sky, or snowflakes in winter, or leaves on a tree. In one passage found in Digby 86 but not in Jesus 29, the sinners number more than the drops of wine in France! (See <ref target="insert-internal-link" type="internal">note to lines 219–32.</ref>) This particular rhetorical habit does not surface in any other Jesus 29 text. While it doubtless owes something to Latin models, its absence everywhere in the other poems of Jesus 29 suggests that <hi rend="italic">Eleven Pains</hi> does not share authorship with other poems in the manuscript.</p>
+ <p style="body" n="4">The following chart outlines the Eleven Pains as described in the Jesus/Digby poem. Line numbers are from the 290 lines of the Jesus poem and the 307 lines of the Digby poem.</p>
+ <table style="basictable">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <row>
+ <cell style="Figure"/>
+ <cell style="Figure">
+ <p style="horizontal-left"><hi rend="bold">Settings and tortures</hi></p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left"><hi rend="bold">Jesus 29</hi></p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left"><hi rend="bold">Digby 86</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Figure">
+ <p style="horizontal-left">Pain 1</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">Burning trees, hung with souls</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">33–40</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">33–40</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Figure">
+ <p style="horizontal-left">Pain 2</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">Hot furnace, souls tossed in</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">41–66</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">41–62</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Figure">
+ <p style="horizontal-left">Pain 3</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">Wheel of steel with burning spikes</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">67–74</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">63–116</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Figure">
+ <p style="horizontal-left">Pain 4</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">River of tar at different depths</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">75–118</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">117–28</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Figure">
+ <p style="horizontal-left">Pain 5</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">Deep swamp, especially for bad women</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">119–44</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">129–42</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Figure">
+ <p style="horizontal-left">Pain 6</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">Mutilation by fiends and vultures</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">145–62</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">143–62</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Figure">
+ <p style="horizontal-left">Pain 7</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">Bloody, burning stream, hunger and thirst</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">163–74</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">163–73</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Figure">
+ <p style="horizontal-left">Pain 8</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">Adders and snakes, disintegrating bones</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">175–218</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">174–217</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Figure">
+ <p style="horizontal-left">Pain 9</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">Dungeon with hot pool, souls torn up</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">219–32</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">218–43</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Figure">
+ <p style="horizontal-left">Pain 10</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">Pit with seven doors, and hellhounds</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">233–50</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">244–61</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Figure">
+ <p style="horizontal-left">Pain 11</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">Iron-walled enclosure, sinners fettered</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">251–60</p>
+ </cell>
+ <cell style="Figure">
+ <p style="horizontal-left">262–85</p>
+ </cell>
+ </row>
+ 
+ </table>
+ <p style="bodyfirst" n="2">Divisions between Pains are indicated by large initials in both manuscripts. Mostly they agree, but there are slight boundary differences for Pains 1, 3–5, 8–9. Each Pain is typically described as coming “further on,” as if one has embarked on a walking tour (as Saint Paul did). The final three Pains seem to descend deeper and deeper into a narrowing pit. There are a few apparent correspondences with Dante’s <hi rend="italic">Inferno</hi>; for example, the pit with adders and snakes is like <hi rend="italic">Inferno</hi>’s <hi rend="italic">bolgia</hi> for thieves in Cantos 24–25 (ed. and trans. Musa, 1.226–45). What accounts for these is the fact that Dante’s is the later work with inspirations borrowed from the well-disseminated Vision of Saint Paul.</p>
+ <p style="body" n="5">In its manuscript context — the sequence of English poems in Jesus 29 — <hi rend="italic">The Eleven Pains of Hell</hi> stands as the finale of sorts. The real finale for the English poetry is <hi rend="italic">A Homily on Sooth Love</hi> (art. 26). After it, a few other works, in French verse or Latin prose, appear before <hi rend="italic">Eleven Pains</hi>, the last English text. In subject matter, however, this text obviously caps the broad sequence (viewed whole) in its own type of moral and devotional logic; it over-delivers on the message about the afterlife, begun piously with Christ’s Resurrection in <hi rend="italic">The Passion</hi><hi rend="italic"> of Jesus Christ</hi> (art. 1). After that work, the pains of hell awaiting sinners haunts the collection, appearing most prominently in <hi rend="italic">Poema Morale</hi> (art. 3), lines 223–87, and the parade of hell-bound sinners in <hi rend="italic">The Saws of Saint Bede</hi> (art. 4), lines 91–174. <hi rend="italic">Eleven Pains</hi> is the endpoint for that thread — a fulsome demonstration of where Adam’s willfully delinquent children (as witnessed in <hi rend="italic">A Little Sooth Sermon</hi> (art. 16)) will ultimately land.</p>
+ <p style="body" n="6">The Digby version of <hi rend="italic">Eleven Pains</hi> may be viewed digitally at <ref target="https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4426" type="external">https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4426</ref>.</p>
+ <p style="bodysubection">[Fols. 198rb–200va. <hi rend="italic">NIMEV</hi> 3828. <hi rend="italic">DIMEV</hi> 6112. Foster, <hi rend="italic">MWME</hi>, 2:452–53, 645–46 [320]. <hi rend="bold">Quire</hi>: 5. <hi rend="bold">Meter</hi>: 290 lines, rhyming in couplets, <hi rend="italic">aa</hi><hi rend="subscript">3–4</hi>, with some prefatory and closing lines in Anglo-Norman. <hi rend="bold">Layout</hi>: Short lines written in two columns. Colored capitals (some enlarged) mark divisions of content (indicated in this edition by double spacing), except for three at the end. Lines 261, 282, 284 are not set off with colored initials; the separation of these lines is editorial, and based on shifts in content or language. <hi rend="bold">Edition from MS </hi><hi rend="bold">Jesus 29</hi>: Morris, pp. 147–55. <hi rend="bold">One other MS</hi>: Oxford, BodL, MS Digby 86, fols. 132r–134v (Horstmann, ed., “Nachträge zu den Legenden,” pp. 403–06).]</p>
+ </div></body></text></TEI>
