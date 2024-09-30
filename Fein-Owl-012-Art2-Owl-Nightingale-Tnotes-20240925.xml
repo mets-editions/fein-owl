@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Fein-Owl-012-Art2-Owl-Nightingale-Tnotes-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Textual Notes to The Owl and the Nightingale</title><author>Fein, Susanna</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp><resp from="2020-02" to="2020-04">Ensured adherence to METS Style Guide</resp><resp from="2022-05" to="2023-09">Entered corrections for digital edition</resp><resp from="2020-02" to="2023-09">Entered corrections for print edition</resp><resp from="2020-02" to="2020-04">Reviewed transcription of base manuscript or early print witness</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2020-02" to="2020-03">Copyedited and proofread</resp><resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2022-05" to="2023-11">Entered corrections for digital edition</resp><resp from="2020-02" to="2023-09">Entered corrections for print edition</resp><resp from="2020-02" to="2020-03">Formatted for print edition</resp><resp from="2020-02" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2023-11" to="2024-01">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-01">Entered corrections for digital edition</resp><resp from="2023-11" to="2024-01">Formatted for XML export</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-02" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2023-10" to="2023-11">Entered corrections for digital edition</resp><resp from="2023-10" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2021-11" to="2024-05">Audited documents prior to print/export</resp><resp from="2021-11" to="2021-12">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2021-11" to="2021-12">Copyedited and proofread</resp><resp from="2021-11" to="2021-12">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-12">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-12">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Thomas of Hales</author><author>Unknown</author><editor>Fein, Susanna</editor><editor role="translator">Fein, Susanna</editor><title>The Owl and the Nightingale and the English Poems of Oxford, Jesus College, MS 29 (II)</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2022</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/fein-owl/blob/main/fein-owl-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Fein-Owl-012-Art2-Owl-Nightingale-Tnotes"/><div type="text">
+ <note type="tnote" n="1">incipit<space rend="indent1"/><hi rend="italic">Incipit altercatio inter filomenam et bubonem</hi>. MS: Written in red ink (and not found in C).</note>
+ <note type="tnote" n="2">1<space rend="indent1"/><hi rend="italic">Ich</hi>. MS: Begins with blue capital <hi rend="italic">I</hi>, nine lines high.</note>
+ <note type="tnote" n="3">6<space rend="indent1"/><hi rend="italic">among</hi>. So MS (<hi rend="italic">amgng</hi> with <hi rend="italic">g</hi><hi rend="subscript">1</hi> corrected to <hi rend="italic">o</hi>), Wells, Hall, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="4">10<space rend="indent1"/><hi rend="italic">alre-wrste</hi>. So MS, Wells, Hall, Grattan-Sykes. Atkins: <hi rend="italic">alre-wurste</hi>.</note>
+ <note type="tnote" n="5">13<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with red capital <hi rend="italic">Þ</hi>, one line high.</note>
+ <note type="tnote" n="6">19<space rend="indent1"/><hi rend="italic">gladdur</hi>. So MS, Grattan-Sykes. Wells, Atkins: <hi rend="italic">gladder</hi>. Hall: <hi rend="italic">gladdre</hi>.</note>
+ <note type="tnote" n="7">25<space rend="indent1"/><hi rend="italic">Tho</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, one line high.</note>
+ <note type="tnote" n="8">29<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with red capital <hi rend="italic">Þ</hi>, one line high.</note>
+ <note type="tnote" n="9">30<space rend="indent1"/><hi rend="italic">bihold</hi>. So Wells, Atkins. MS, Hall, Grattan-Sykes: <hi rend="italic">biholdeþ</hi>.</note>
+ <note type="tnote" n="10">35<space rend="indent1"/><hi rend="italic">wle</hi>. So MS, Wells, Hall, Grattan-Sykes. Atkins: <hi rend="italic">vule</hi>.</note>
+ <note type="tnote" n="11">41<space rend="indent1"/><hi rend="italic">Theos</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, one line high.</note>
+ <note type="tnote" n="12">55<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with red capital <hi rend="italic">Þ</hi>, one line high.</note>
+ <note type="tnote" n="13">57<space rend="indent1"/><hi rend="italic">wit</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">yit</hi> (<hi rend="wynnitalic">ƿ</hi>/<hi rend="italic">y</hi> confusion). Hall: <hi rend="italic">wiþ</hi>.</note>
+ <note type="tnote" n="14"><space rend="indent1"/><hi rend="italic">blete</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">bléte</hi>.</note>
+ <note type="tnote" n="15">74<space rend="indent1"/><hi rend="italic">ne</hi>. So MS, Hall, Atkins, Grattan-Sykes. Wells: <hi rend="italic">þan</hi>.</note>
+ <note type="tnote" n="16">75<space rend="indent1"/><hi rend="italic">eyen</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">éyen</hi>.</note>
+ <note type="tnote" n="17">91 <space rend="indent1"/><hi rend="italic">and</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">&amp; and</hi>.</note>
+ <note type="tnote" n="18">93<space rend="indent1"/><hi rend="italic">brode</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">bróde</hi>.</note>
+ <note type="tnote" n="19">108<space rend="indent1"/><hi rend="italic">Biheold</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">Bihéold</hi>.</note>
+ <note type="tnote" n="20">139<space rend="indent1"/><hi rend="italic">Theos</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="21">146<space rend="indent1"/><hi rend="italic">iswolwe</hi>. So MS (<hi rend="italic">s</hi> inserted), Wells, Hall, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="22">148<space rend="indent1"/><hi rend="italic">bysemar</hi>. So MS, Wells, Atkins, Grattan-Sykes. Hall: <hi rend="italic">bisemar</hi>.</note>
+ <note type="tnote" n="23">150<space rend="indent1"/><hi rend="italic">bare</hi>. So MS, Hall, Atkins, Grattan-Sykes. Wells: <hi rend="italic">þe bare</hi>.</note>
+ <note type="tnote" n="24">152<space rend="indent1"/><hi rend="italic">brihtur</hi>. So MS, Grattan-Sykes. Wells, Hall, Atkins: <hi rend="italic">brihter</hi>.</note>
+ <note type="tnote" n="25">162<space rend="indent1"/><hi rend="italic">swikehede</hi>. So MS, Hall, Atkins, Grattan-Sykes. Wells: <hi rend="italic">swikelhede</hi>.</note>
+ <note type="tnote" n="26">163<space rend="indent1"/><hi rend="italic">swikedom</hi>. So MS, Hall, Atkins, Grattan-Sykes. Wells: <hi rend="italic">swikeldom</hi>.</note>
+ <note type="tnote" n="27">165<space rend="indent1"/><hi rend="italic">thu</hi><hi rend="subscript">2</hi>. So MS, Hall. Wells: <hi rend="italic">þin</hi>. Atkins: omitted. Grattan-Sykes: <hi rend="italic">þn</hi>.</note>
+ <note type="tnote" n="28">167<space rend="indent1"/><hi rend="italic">swikedom</hi>. So MS, Hall, Atkins, Grattan-Sykes. Wells: <hi rend="italic">swikeldom</hi>.</note>
+ <note type="tnote" n="29"><space rend="indent1"/><hi rend="italic">het</hi>. So MS (a final letter may be cut off), Hall, Grattan-Sykes. Wells, Atkins: <hi rend="italic">hete</hi>.</note>
+ <note type="tnote" n="30">177<space rend="indent1"/><hi rend="italic">lete </hi><hi rend="italic">we</hi>. So Wells, Atkins. MS, Hall, Grattan-Sykes: <hi rend="italic">lete</hi>.</note>
+ <note type="tnote" n="31">187<space rend="indent1"/><hi rend="italic">Tho</hi>. MS: Begins with red capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="32">199<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="33">202<space rend="indent1"/><hi rend="italic">breme</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">bréme</hi>.</note>
+ <note type="tnote" n="34">203<space rend="indent1"/><hi rend="italic">wre</hi>. So MS, Wells, Hall, Grattan-Sykes. Atkins: <hi rend="italic">were</hi>.</note>
+ <note type="tnote" n="35">205<space rend="indent1"/><hi rend="italic">nuthe</hi>. So MS, Hall, Grattan-Sykes. Wells, Atkins: <hi rend="italic">nu suþe</hi>.</note>
+ <note type="tnote" n="36">209<space rend="indent1"/><hi rend="italic">Ne</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">N</hi>.</note>
+ <note type="tnote" n="37">210<space rend="indent1"/><hi rend="italic">vor</hi>. So MS, Wells, Hall, Grattan-Sykes. Atkins: <hi rend="italic">for</hi>.</note>
+ <note type="tnote" n="38">215<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="39">223<space rend="indent1"/><hi rend="italic">Thu</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">Þu</hi>.</note>
+ <note type="tnote" n="40">224<space rend="indent1"/><hi rend="italic">ihere</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">ihére</hi>.</note>
+ <note type="tnote" n="41">226<space rend="indent1"/><hi rend="italic">ac that</hi>. So Wells, Atkins. MS, Hall, Grattan-Sykes: <hi rend="italic">at</hi>.</note>
+ <note type="tnote" n="42">229<space rend="indent1"/><hi rend="italic">uych</hi>. So MS, Wells, Atkins, Grattan-Sykes. Hall: <hi rend="italic">vich</hi>.</note>
+ <note type="tnote" n="43">232<space rend="indent1"/><hi rend="italic">Hit</hi>. So MS (<hi rend="italic">t</hi> smudged), Wells, Atkins, Grattan-Sykes. Hall: <hi rend="italic">hi</hi>.</note>
+ <note type="tnote" n="44">234<space rend="indent1"/><hi rend="italic">imene</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">iméne</hi>.</note>
+ <note type="tnote" n="45">239<space rend="indent1"/><hi rend="italic">And</hi>. So MS, Grattan-Sykes. Wells, Atkins: <hi rend="italic">An</hi>.</note>
+ <note type="tnote" n="46"><space rend="indent1"/><hi rend="italic">wene</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">wéne</hi>.</note>
+ <note type="tnote" n="47">253<space rend="indent1"/><hi rend="italic">Theos</hi>. MS: Begins with red capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="48">269<space rend="indent1"/><hi rend="italic">strong</hi>. So MS, Wells, Grattan-Sykes. Hall, Atkins: <hi rend="italic">stronge</hi>.</note>
+ <note type="tnote" n="49">272<space rend="indent1"/><hi rend="italic">wunne</hi>. So Atkins. MS, Hall, Grattan-Sykes: <hi rend="italic">ynne</hi>. Wells: <hi rend="italic">wune</hi>.</note>
+ <note type="tnote" n="50">284<space rend="indent1"/><hi rend="italic">chatere</hi>. So MS (word written above line for lack of space), Wells, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="51">288<space rend="indent1"/><hi rend="italic">wende</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">wénde</hi>.</note>
+ <note type="tnote" n="52">290<space rend="indent1"/><hi rend="italic">ilome</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">ilóme</hi>.</note>
+ <note type="tnote" n="53">301<space rend="indent1"/><hi rend="italic">imene</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">iméne</hi>.</note>
+ <note type="tnote" n="54">303<space rend="indent1"/><hi rend="italic">wrse</hi>. So MS, Wells, Hall, Grattan-Sykes. Atkins: <hi rend="italic">wurse</hi>.</note>
+ <note type="tnote" n="55">309<space rend="indent1"/><hi rend="italic">Yet</hi>. So Wells, Atkins. MS, Hall, Grattan-Sykes: <hi rend="italic">þet</hi> (<hi rend="italic">þ</hi>/<hi rend="italic">y</hi> confusion). Line begins with blue capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="56">312<space rend="indent1"/><hi rend="italic">ihere</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">ihére</hi>.</note>
+ <note type="tnote" n="57">321<space rend="indent1"/><hi rend="italic">singe</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: omitted.</note>
+ <note type="tnote" n="58">329<space rend="indent1"/><hi rend="italic">god</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">gód</hi>.</note>
+ <note type="tnote" n="59">358<space rend="indent1"/><hi rend="italic">That</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þa</hi>.</note>
+ <note type="tnote" n="60">359<space rend="indent1"/><hi rend="italic">of</hi>. So MS, Atkins, Grattan-Sykes. Wells: <hi rend="italic">euer of</hi>.</note>
+ <note type="tnote" n="61">363<space rend="indent1"/><hi rend="italic">Yet</hi>. MS: Begins with red capital <hi rend="italic">Y</hi>, two lines high.</note>
+ <note type="tnote" n="62">364<space rend="indent1"/><hi rend="italic">am</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">an</hi>.</note>
+ <note type="tnote" n="63">368<space rend="indent1"/><hi rend="italic">gode</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">góde</hi>.</note>
+ <note type="tnote" n="64">371<space rend="indent1"/><hi rend="italic">mwe</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">muwe</hi>.</note>
+ <note type="tnote" n="65">391<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="66">400<space rend="indent1"/><hi rend="italic">wrthe</hi>. So MS, Wells, Hall, Grattan-Sykes. Atkins: <hi rend="italic">wurþe</hi>.</note>
+ <note type="tnote" n="67">404<space rend="indent1"/><hi rend="italic">That</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">hwat</hi>.</note>
+ <note type="tnote" n="68">406<space rend="indent1"/><hi rend="italic">That</hi>. So MS (<hi rend="italic">Þat</hi> with <hi rend="italic">t</hi> inserted), Wells, Hall, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="69"><space rend="indent1"/><hi rend="italic">ne</hi>. So Wells, Atkins. MS, Hall, Grattan-Sykes: omitted.</note>
+ <note type="tnote" n="70">407<space rend="indent1"/><hi rend="italic">nart</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">art</hi>.</note>
+ <note type="tnote" n="71">411<space rend="indent1"/><hi rend="italic">Hule</hi>. So Hall, Atkins. MS, Wells, Grattan-Sykes: <hi rend="italic">þule</hi>. Line begins with capital red <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="72">426<space rend="indent1"/><hi rend="italic">Teres</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">Téres</hi>.</note>
+ <note type="tnote" n="73">427<space rend="indent1"/><hi rend="italic">he</hi>. So Wells, Atkins. MS, Hall, Grattan-Sykes: <hi rend="italic">þe</hi> (<hi rend="italic">þ</hi>/<hi rend="italic">h</hi> confusion).</note>
+ <note type="tnote" n="74">439<space rend="indent1"/><hi rend="italic">wlite</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">ylite</hi> (<hi rend="wynnitalic">ƿ</hi>/<hi rend="italic">y</hi> confuson).</note>
+ <note type="tnote" n="75">458<space rend="indent1"/><hi rend="italic">wyntres</hi>. So MS, Wells, Atkins. Grattan-Sykes: <hi rend="italic">wintres</hi>.</note>
+ <note type="tnote" n="76">467<space rend="indent1"/><hi rend="italic">Theos</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="77">473<space rend="indent1"/><hi rend="italic">Thu</hi>. MS: Begins with red capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="78">474<space rend="indent1"/><hi rend="italic">wynter</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">winter</hi>.</note>
+ <note type="tnote" n="79">477<space rend="indent1"/><hi rend="italic">iknowe</hi>. So MS, Wells, Atkins. Grattan-Sykes: <hi rend="italic">iknou</hi>.</note>
+ <note type="tnote" n="80">478<space rend="indent1"/><hi rend="italic">blissi</hi>. So MS, Wells, Atkins. Grattan-Sykes: <hi rend="italic">blisse</hi>.</note>
+ <note type="tnote" n="81"><space rend="indent1"/><hi rend="italic">throwe</hi>. So MS, Wells, Atkins. Grattan-Sykes: <hi rend="italic">þrou</hi>.</note>
+ <note type="tnote" n="82">499<space rend="indent1"/><hi rend="italic">thet</hi><hi rend="italic"> thu wilt teme</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þu </hi><hi rend="italic">wilt teme þet</hi>.</note>
+ <note type="tnote" n="83">505<space rend="indent1"/><hi rend="italic">wrse</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">worse</hi>.</note>
+ <note type="tnote" n="84"><space rend="indent1"/><hi rend="italic">hey-sugge</hi>. So MS (<hi rend="italic">gge</hi> written above line for lack of space), Wells, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="85">513<space rend="indent1"/><hi rend="italic">Vor</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">Vo</hi>.</note>
+ <note type="tnote" n="86">518<space rend="indent1"/><hi rend="italic">abrode</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">abróde</hi>.</note>
+ <note type="tnote" n="87">534<space rend="indent1"/><hi rend="italic">Vor</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">Vo</hi>.</note>
+ <note type="tnote" n="88">541<space rend="indent1"/><hi rend="italic">inume</hi>. So MS (in a later hand over erasure), Grattan-Sykes. Wells: <hi rend="italic">yet inome</hi>. Atkins: <hi rend="italic">inome</hi>.</note>
+ <note type="tnote" n="89">543<space rend="indent1"/><hi rend="italic">Nay</hi><hi rend="subscript">1</hi>. MS: Begins with blue capital <hi rend="italic">N</hi>, two lines high.</note>
+ <note type="tnote" n="90">546<space rend="indent1"/><hi rend="italic">to</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">tó</hi>.</note>
+ <note type="tnote" n="91">548<space rend="indent1"/><hi rend="italic">wrth</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">wurþ</hi>.</note>
+ <note type="tnote" n="92">549<space rend="indent1"/><hi rend="italic">That</hi>. MS: Begins with red capital <hi rend="italic">Þ</hi>, one line high.</note>
+ <note type="tnote" n="93">551<space rend="indent1"/><hi rend="italic">iyive</hi>. So Atkins. MS, Wells, Grattan-Sykes: <hi rend="italic">iyiue</hi>.</note>
+ <note type="tnote" n="94">554<space rend="indent1"/><hi rend="italic">speke</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">spéke</hi>.</note>
+ <note type="tnote" n="95">572<space rend="indent1"/><hi rend="italic">wrth</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">wurþ</hi>.</note>
+ <note type="tnote" n="96">573<space rend="indent1"/><hi rend="italic">furwrthe</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">furwurþe</hi>.</note>
+ <note type="tnote" n="97">575<space rend="indent1"/><hi rend="italic">furwrthe</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">furwurþe</hi>.</note>
+ <note type="tnote" n="98">584<space rend="indent1"/><hi rend="italic">Thu nart</hi>.<hi rend="subscript">1</hi> So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">Þnart</hi>.</note>
+ <note type="tnote" n="99">589<space rend="indent1"/><hi rend="italic">tharto</hi><hi rend="subscript">2</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þart to</hi>.</note>
+ <note type="tnote" n="100"><space rend="indent1"/><hi rend="italic">wunst</hi>. So Atkins. MS, Wells, Grattan-Sykes: <hi rend="italic">wenst</hi>.</note>
+ <note type="tnote" n="101">592<space rend="indent1"/><hi rend="italic">run-huse</hi>. So MS (<hi rend="italic">n</hi> abbreviated). Wells, Atkins, Grattan-Sykes: <hi rend="italic">rum hus</hi>.</note>
+ <note type="tnote" n="102">594<space rend="indent1"/><hi rend="italic">seotle</hi>. So MS, Atkins, Grattan-Sykes. Wells: <hi rend="italic">þe</hi>.</note>
+ <note type="tnote" n="103">614<space rend="indent1"/><hi rend="italic">other</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">oþe</hi>.</note>
+ <note type="tnote" n="104">620<space rend="indent1"/><hi rend="italic">frost</hi>. So MS, Grattan-Sykes. Wells, Atkins: <hi rend="italic">hwanne hit</hi>.</note>
+ <note type="tnote" n="105">627<space rend="indent1"/><hi rend="italic">nest</hi>. Wells, Atkins. MS, Grattan-Sykes: omitted.</note>
+ <note type="tnote" n="106">636<space rend="indent1"/><hi rend="italic">mysketh</hi>. So MS, Grattan-Sykes. Wells, Atkins: <hi rend="italic">mysdeþ</hi>.</note>
+ <note type="tnote" n="107">642<space rend="indent1"/><hi rend="italic">miht</hi>. So Atkins. MS, Wells, Grattan-Sykes: <hi rend="italic">mist</hi>.</note>
+ <note type="tnote" n="108">648<space rend="indent1"/><hi rend="italic">Ac</hi>. So MS, Grattan-Sykes. Wells, Atkins: <hi rend="italic">Ac hwat</hi>.</note>
+ <note type="tnote" n="109">649<space rend="indent1"/><hi rend="italic">We</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þe</hi> (<hi rend="wynnitalic">ƿ</hi>/<hi rend="italic">þ</hi> confusion).</note>
+ <note type="tnote" n="110">651<space rend="indent1"/><hi rend="italic">iyende</hi>. MS, Wells, Grattan-Sykes: <hi rend="italic">iwende</hi>. Atkins: <hi rend="italic">ihende</hi> (<hi rend="wynnitalic">ƿ</hi>/<hi rend="italic">ȝ</hi> confusion).</note>
+ <note type="tnote" n="111">652<space rend="indent1"/><hi rend="italic">run</hi><hi rend="italic">-hus</hi>. So MS (<hi rend="italic">n</hi> abbreviated). Wells, Atkins, Grattan-Sykes: <hi rend="italic">rum hus</hi>.</note>
+ <note type="tnote" n="112">659<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with red capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="113">667<space rend="indent1"/><hi rend="italic">strong</hi>. So MS, Atkins, Grattan-Sykes. Wells: <hi rend="italic">swiþe</hi><hi rend="italic"> strong</hi>.</note>
+ <note type="tnote" n="114">670<space rend="indent1"/><hi rend="italic">winne</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þinne</hi> (<hi rend="wynnitalic">ƿ</hi>/<hi rend="italic">þ</hi> confusion).</note>
+ <note type="tnote" n="115">679<space rend="indent1"/><hi rend="italic">hyet</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þ hyet</hi>.</note>
+ <note type="tnote" n="116">682<space rend="indent1"/><hi rend="italic">a wene</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">á </hi><hi rend="italic">wene</hi>.</note>
+ <note type="tnote" n="117">689<space rend="indent1"/><hi rend="italic">wit west</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">yit </hi><hi rend="italic">yest</hi> (<hi rend="wynnitalic">ƿ</hi>/<hi rend="italic">y</hi> confusion).</note>
+ <note type="tnote" n="118">696<space rend="indent1"/><hi rend="italic">Ne vynt</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">Nvynt</hi>.</note>
+ <note type="tnote" n="119">701<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="120"><space rend="indent1"/><hi rend="italic">hire howe</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">hit</hi>.</note>
+ <note type="tnote" n="121">703<space rend="indent1"/><hi rend="italic">towehte</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">towe</hi> (with <hi rend="italic">hte</hi> added in later hand).</note>
+ <note type="tnote" n="122">707<space rend="indent1"/><hi rend="italic">Ule</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: . . . <hi rend="italic">le</hi>.</note>
+ <note type="tnote" n="123">708<space rend="indent1"/><hi rend="italic">If</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: . . . <hi rend="italic">f</hi>.</note>
+ <note type="tnote" n="124">709<space rend="indent1"/><hi rend="italic">sumeretyde</hi>. MS, Wells, Hall, Atkins, Grattan-Sykes: <hi rend="italic">sumetyde</hi>.</note>
+ <note type="tnote" n="125">714<space rend="indent1"/><hi rend="italic">that</hi>. So MS, Wells, Hall, Grattan-Sykes. Atkins: <hi rend="italic">þat evre</hi>.</note>
+ <note type="tnote" n="126">721<space rend="indent1"/><hi rend="italic">Holy</hi>. So MS, Wells, Atkins, Grattan-Sykes. Hall: <hi rend="italic">holi</hi>.</note>
+ <note type="tnote" n="127">722<space rend="indent1"/><hi rend="italic">wrche</hi>. So MS, Wells, Hall, Grattan-Sykes. Atkins: <hi rend="italic">wirche</hi>.</note>
+ <note type="tnote" n="128">726<space rend="indent1"/><hi rend="italic">bigete</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">bi</hi><hi rend="italic"> gethe</hi>.</note>
+ <note type="tnote" n="129">729<space rend="indent1"/><hi rend="italic">canunes</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">canúnes</hi>.</note>
+ <note type="tnote" n="130">734<space rend="indent1"/><hi rend="italic">Hwenne the liht of day springeth</hi>. So C, Atkins. MS, Wells, Hall, Grattan-Sykes: omitted.</note>
+ <note type="tnote" n="131">746<space rend="indent1"/><hi rend="italic">Rome</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">róme</hi>.</note>
+ <note type="tnote" n="132">748<space rend="indent1"/><hi rend="italic">bles</hi>. So MS (in a later hand), Wells, Atkins, Grattan-Sykes. See<ref target="insert-internal-link" type="internal"> Explanatory Note.</ref></note>
+ <note type="tnote" n="133">768<space rend="indent1"/><hi rend="italic">knyhtes</hi>. So MS, Wells, Atkins. Grattan-Sykes: <hi rend="italic">knyhte</hi>.</note>
+ <note type="tnote" n="134">769<space rend="indent1"/><hi rend="italic">wrth</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">wurþ</hi>.</note>
+ <note type="tnote" n="135">770<space rend="indent1"/><hi rend="italic">wrth</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">wurþ</hi>.</note>
+ <note type="tnote" n="136"><space rend="indent1"/><hi rend="italic">unwrth</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">vnwurþ</hi>.</note>
+ <note type="tnote" n="137">782<space rend="indent1"/><hi rend="italic">hit</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">h</hi>.</note>
+ <note type="tnote" n="138">785<space rend="indent1"/><hi rend="italic">were</hi>. So C, Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">yere</hi> (<hi rend="wynnitalic">ƿ</hi>/<hi rend="italic">y</hi>/<hi rend="italic">þ</hi> confusion).</note>
+ <note type="tnote" n="139">793<space rend="indent1"/><hi rend="italic">wrs</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">wurs</hi>.</note>
+ <note type="tnote" n="140">799<space rend="indent1"/><hi rend="italic">anne</hi>. So MS, Grattan-Sykes. Wells, Atkins: <hi rend="italic">onne</hi>.</note>
+ <note type="tnote" n="141">802<space rend="indent1"/><hi rend="italic">other</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">oþe</hi>.</note>
+ <note type="tnote" n="142">805<space rend="indent1"/><hi rend="italic">Thu</hi>.<hi rend="subscript">1</hi> So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þe</hi>.</note>
+ <note type="tnote" n="143">812<space rend="indent1"/><hi rend="italic">fox</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">for</hi>.</note>
+ <note type="tnote" n="144">824<space rend="indent1"/><hi rend="italic">abak</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">ábak</hi>.</note>
+ <note type="tnote" n="145">826<space rend="indent1"/><hi rend="italic">creophth</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">creopþ</hi>.</note>
+ <note type="tnote" n="146">837<space rend="indent1"/><hi rend="italic">Abid</hi><hi rend="subscript">1</hi>. MS: Begins with red capital <hi rend="italic">A</hi>, two lines high.</note>
+ <note type="tnote" n="147">842<space rend="indent1"/><hi rend="italic">bisemed</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">bisemeþ</hi>.</note>
+ <note type="tnote" n="148"><space rend="indent1"/><hi rend="italic">biliked</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">bilikeþ</hi>.</note>
+ <note type="tnote" n="149">846<space rend="indent1"/><hi rend="italic">wrthe</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">wurþe</hi>.</note>
+ <note type="tnote" n="150">852<space rend="indent1"/><hi rend="italic">wndre</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">wundre</hi>.</note>
+ <note type="tnote" n="151">853<space rend="indent1"/><hi rend="italic">thu</hi>. So Wells, Atkins. MS, Grattan-Sykes: omitted.</note>
+ <note type="tnote" n="152">873<space rend="indent1"/><hi rend="italic">pulte</hi>. So MS (in a later hand), Wells, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="153">896<space rend="indent1"/><hi rend="italic">wileth</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">willeþ</hi>.</note>
+ <note type="tnote" n="154">897<space rend="indent1"/><hi rend="italic">hevene</hi>. So MS (<hi rend="italic">ne</hi> written above line for lack of space), Wells, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="155">905<space rend="indent1"/><hi rend="italic">onother</hi>. So MS, Grattan-Sykes. Wells, Atkins: <hi rend="italic">an oþer</hi>.</note>
+ <note type="tnote" n="156">906<space rend="indent1"/><hi rend="italic">Thar.</hi> So MS (<hi rend="italic">Þat</hi> with <hi rend="italic">t</hi> corrected to <hi rend="italic">r</hi>), Wells, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="157">917<space rend="indent1"/><hi rend="italic">ydel</hi>. So Wells. MS, Grattan-Sykes: <hi rend="italic">yde</hi>. Atkins: <hi rend="italic">an ydel</hi>.</note>
+ <note type="tnote" n="158">923<space rend="indent1"/><hi rend="italic">north</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">nórth</hi>.</note>
+ <note type="tnote" n="159">925<space rend="indent1"/><hi rend="italic">bere</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">bére</hi>.</note>
+ <note type="tnote" n="160">926<space rend="indent1"/><hi rend="italic">forlere</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">forlete</hi>.</note>
+ <note type="tnote" n="161">932<space rend="indent1"/><hi rend="italic">deovele</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">deoulene</hi>.</note>
+ <note type="tnote" n="162">933<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="163">943<space rend="indent1"/><hi rend="italic">lothe</hi>. So MS (<hi rend="italic">lowþe</hi> with <hi rend="italic">w</hi> cancelled), Wells, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="164">945<space rend="indent1"/><hi rend="italic">meynth</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">meyuþ</hi>.</note>
+ <note type="tnote" n="165">952<space rend="indent1"/><hi rend="italic">avergan</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">ouergan</hi>.</note>
+ <note type="tnote" n="166">955<space rend="indent1"/><hi rend="italic">Ule </hi><hi rend="italic">heo</hi>. So C, Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þe vle</hi>. Line begins with red capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="167">981<space rend="indent1"/><hi rend="italic">thar</hi>. So MS, Atkins, Grattan-Sykes. Wells: <hi rend="italic">war</hi>.</note>
+ <note type="tnote" n="168">983<space rend="indent1"/><hi rend="italic">nother</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">noþe</hi>.</note>
+ <note type="tnote" n="169">999<space rend="indent1"/><hi rend="italic">este</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">éste</hi>.</note>
+ <note type="tnote" n="170">1000<space rend="indent1"/><hi rend="italic">weste</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">wéste</hi>.</note>
+ <note type="tnote" n="171">1019<space rend="indent1"/><hi rend="italic">bet</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">be</hi>.</note>
+ <note type="tnote" n="172"><space rend="indent1"/><hi rend="italic">stille</hi>. So MS, Wells, Atkins. Grattan-Sykes: <hi rend="italic">stylle</hi>.</note>
+ <note type="tnote" n="173">1025<space rend="indent1"/><hi rend="italic">songe</hi>. So Wells, Atkins. MS (last letter cut off), Grattan-Sykes: <hi rend="italic">song</hi>.</note>
+ <note type="tnote" n="174">1030<space rend="indent1"/><hi rend="italic">ise</hi>. So Atkins. MS, Wells, Grattan-Sykes: <hi rend="italic">ire</hi>.</note>
+ <note type="tnote" n="175">1043<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with red capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="176">1051<space rend="indent1"/><hi rend="italic">luve</hi>. So Atkins. MS, Wells, Grattan-Sykes: <hi rend="italic">lyve</hi>.</note>
+ <note type="tnote" n="177">1052<space rend="indent1"/><hi rend="italic">sunge</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">singe</hi>.</note>
+ <note type="tnote" n="178">1062<space rend="indent1"/><hi rend="italic">were todrawe</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">todrawe</hi>.</note>
+ <note type="tnote" n="179">1067<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="180">1075<space rend="indent1"/><hi rend="italic">Hwat</hi>. MS: Begins with red capital <hi rend="italic">H</hi>, three lines high.</note>
+ <note type="tnote" n="181">1080<space rend="indent1"/><hi rend="italic">nolde</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">wolde</hi>.</note>
+ <note type="tnote" n="182">1092<space rend="indent1"/><hi rend="italic">Jhesu</hi>. So Grattan-Sykes. MS: <hi rend="italic">ihc</hi>. Wells, Atkins: <hi rend="italic">Jesu</hi>.</note>
+ <note type="tnote" n="183">1099<space rend="indent1"/><hi rend="italic">wrthsipe</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">wur</hi><hi rend="italic">þsipe</hi>.</note>
+ <note type="tnote" n="184">1100<space rend="indent1"/><hi rend="italic">wnne</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">wunne</hi>.</note>
+ <note type="tnote" n="185">1113<space rend="indent1"/><hi rend="italic">miht</hi>. C: <hi rend="italic">miȝt</hi>. MS, Wells, Atkins, Hall, Grattan-Sykes: <hi rend="italic">mist</hi> (<hi rend="italic">s</hi>/<hi rend="italic">ȝ</hi> confusion).</note>
+ <note type="tnote" n="186">1156<space rend="indent1"/><hi rend="italic">rune</hi>. So Wells, Atkins. MS (last letter cut off), Grattan-Sykes: <hi rend="italic">run</hi>.</note>
+ <note type="tnote" n="187">1158<space rend="indent1"/><hi rend="italic">wrth</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">wurþ</hi>.</note>
+ <note type="tnote" n="188">1173<space rend="indent1"/><hi rend="italic">wrthe</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">wurþe</hi>.</note>
+ <note type="tnote" n="189">1175<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="190">1177<space rend="indent1"/><hi rend="italic">ihoded</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">ihóded</hi>.</note>
+ <note type="tnote" n="191">1189<space rend="indent1"/><hi rend="italic">witi</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þin</hi>.</note>
+ <note type="tnote" n="192">1190<space rend="indent1"/><hi rend="italic">wot</hi>. So Atkins. MS, Wells, Grattan-Sykes: <hi rend="italic">wod</hi> (first letter is <hi rend="wynnitalic">ƿ</hi> or <hi rend="italic">þ</hi>).</note>
+ <note type="tnote" n="193">1198<space rend="indent1"/><hi rend="italic">wot</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">wt</hi>.</note>
+ <note type="tnote" n="194">1205<space rend="indent1"/><hi rend="italic">schipes</hi>. So MS (<hi rend="italic">i</hi> inserted), Wells, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="195">1208 <space rend="indent1"/><hi rend="italic">lore</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">lóre</hi>.</note>
+ <note type="tnote" n="196">1211<space rend="indent1"/><hi rend="italic">ilome</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">ilóme</hi>.</note>
+ <note type="tnote" n="197">1229<space rend="indent1"/><hi rend="italic">fleo</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">flo</hi>.</note>
+ <note type="tnote" n="198">1234<space rend="indent1"/><hi rend="italic">he me</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">me</hi>.</note>
+ <note type="tnote" n="199">1244<space rend="indent1"/><hi rend="italic">Hwanne</hi>. So C (<hi rend="wynnitalic">ƿ</hi> for <hi rend="italic">w</hi>). MS, Wells, Atkins, Hall, Grattan-Sykes: <hi rend="italic">þanne</hi> (<hi rend="italic">þ</hi>/<hi rend="wynnitalic">ƿ</hi> confusion).</note>
+ <note type="tnote" n="200">1246<space rend="indent1"/><hi rend="italic">thar-rihte</hi>. So MS (<hi rend="italic">te</hi> written above line for lack of space), Wells, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="201">1260<space rend="indent1"/><hi rend="italic">harem</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">a tem</hi>.</note>
+ <note type="tnote" n="202">1271<space rend="indent1"/><hi rend="italic">him beo</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">beo</hi>.</note>
+ <note type="tnote" n="203">1274<space rend="indent1"/><hi rend="italic">thah</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þat</hi>.</note>
+ <note type="tnote" n="204">1277<space rend="indent1"/><hi rend="italic">noht</hi>. So MS (<hi rend="italic">t</hi> inserted), Wells, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="205">1284<space rend="indent1"/><hi rend="italic">the-solve</hi>. So Atkins. MS, Grattan-Sykes: <hi rend="italic">þe soule</hi>. Wells: <hi rend="italic">þe seolue</hi>.</note>
+ <note type="tnote" n="206">1288<space rend="indent1"/><hi rend="italic">wrthsipe</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">wurþsipe</hi>.</note>
+ <note type="tnote" n="207">1291<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with red capital <hi rend="italic">Þ</hi>, three lines high.</note>
+ <note type="tnote" n="208">1307<space rend="indent1"/><hi rend="italic">thu</hi>. So Wells, Atkins. MS, Grattan-Sykes: omitted.</note>
+ <note type="tnote" n="209">1308<space rend="indent1"/><hi rend="italic">The wicchecrafte never</hi><hi rend="italic"> ne lete</hi>. C: <hi rend="italic">The wiecchecrafte neaver ne lete</hi>. MS, Wells, Atkins, Grattan-Sykes: omitted.</note>
+ <note type="tnote" n="210">1311<space rend="indent1"/><hi rend="italic">ihoded</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">ihóded</hi>.</note>
+ <note type="tnote" n="211">1315<space rend="indent1"/><hi rend="italic">child</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">chid</hi>.</note>
+ <note type="tnote" n="212">1321<space rend="indent1"/><hi rend="italic">wrecche</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">wrcche</hi>.</note>
+ <note type="tnote" n="213"><space rend="indent1"/><hi rend="italic">storre</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">storie</hi>.</note>
+ <note type="tnote" n="214">1322<space rend="indent1"/><hi rend="italic">bihaitest</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">behauest</hi>.</note>
+ <note type="tnote" n="215">1330<space rend="indent1"/><hi rend="italic">the</hi><hi rend="subscript">1</hi>.So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þu</hi>.</note>
+ <note type="tnote" n="216">1341<space rend="indent1"/><hi rend="italic">were</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">wére</hi>.</note>
+ <note type="tnote" n="217">1358<space rend="indent1"/><hi rend="italic">Ne may</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">Ne ne </hi><hi rend="italic">may</hi>.</note>
+ <note type="tnote" n="218">1369<space rend="indent1"/><hi rend="italic">gode</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">góde</hi>.</note>
+ <note type="tnote" n="219">1370<space rend="indent1"/><hi rend="italic">aquolde</hi>. So MS, Grattan-Sykes. Wells, Atkins: <hi rend="italic">aqolde</hi>.</note>
+ <note type="tnote" n="220">1374<space rend="indent1"/><hi rend="italic">mysfonge</hi>. So MS (<hi rend="italic">fonge</hi> written above line for lack of space), Wells, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="221">1380<space rend="indent1"/><hi rend="italic">atbroyde</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">abroyde</hi>.</note>
+ <note type="tnote" n="222">1381<space rend="indent1"/><hi rend="italic">unvele</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">unvéle</hi>.</note>
+ <note type="tnote" n="223">1384<space rend="indent1"/><hi rend="italic">hit is</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">his</hi>.</note>
+ <note type="tnote" n="224">1388<space rend="indent1"/><hi rend="italic">lustes</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">lust</hi>.</note>
+ <note type="tnote" n="225">1400<space rend="indent1"/><hi rend="italic">wlonkhede</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">wrouehede</hi>.</note>
+ <note type="tnote" n="226">1402<space rend="indent1"/><hi rend="italic">monne s</hi><hi rend="italic">honde</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">monnes honde</hi>.</note>
+ <note type="tnote" n="227">1405<space rend="indent1"/><hi rend="italic">thur</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">þurh</hi>.</note>
+ <note type="tnote" n="228">1410<space rend="indent1"/><hi rend="italic">fleyes</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">fleyses</hi>.</note>
+ <note type="tnote" n="229">1440<space rend="indent1"/><hi rend="italic">misfonge</hi>. So Wells, Atkins. MS (last letters cut off), Grattan-Sykes: <hi rend="italic">misfon</hi>.</note>
+ <note type="tnote" n="230">1441<space rend="indent1"/><hi rend="italic">hit</hi><hi rend="subscript">2</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">his</hi>.</note>
+ <note type="tnote" n="231">1447<space rend="indent1"/><hi rend="italic">the yunglinge</hi>. So C, Wells, Atkins. MS: <hi rend="italic">e</hi> (<hi rend="italic">me</hi> with <hi rend="italic">m</hi> canceled) <hi rend="italic">wunglinge</hi>. Grattan-Sykes: <hi rend="italic">me wunglinge</hi>.</note>
+ <note type="tnote" n="232">1451<space rend="indent1"/><hi rend="italic">lutle</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">lude</hi>.</note>
+ <note type="tnote" n="233">1454<space rend="indent1"/><hi rend="italic">hote breth</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">heorte bred</hi>.</note>
+ <note type="tnote" n="234">1458<space rend="indent1"/><hi rend="italic">lutle wile</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">lude wise</hi>.</note>
+ <note type="tnote" n="235">1459<space rend="indent1"/><hi rend="italic">swike</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">sike</hi>.</note>
+ <note type="tnote" n="236">1460<space rend="indent1"/><hi rend="italic">That</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">And</hi>.</note>
+ <note type="tnote" n="237"><space rend="indent1"/><hi rend="italic">iliche</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">ilike</hi>.</note>
+ <note type="tnote" n="238">1478<space rend="indent1"/><hi rend="italic">no</hi>. So MS, Wells, Atkins. Grattan-Sykes: <hi rend="italic">ne</hi>.</note>
+ <note type="tnote" n="239">1481<space rend="indent1"/><hi rend="italic">wrthful</hi>. So MS, Hall, Grattan-Sykes. Atkins: <hi rend="italic">wurþful</hi>.</note>
+ <note type="tnote" n="240">1494<space rend="indent1"/><hi rend="italic">buve</hi>. So MS (inserted at left margin marked <hi rend="italic">/.</hi> for insertion), Wells, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="241">1498<space rend="indent1"/><hi rend="italic">a reu</hi>. So C. MS: <hi rend="italic">at þeu</hi>. Wells, Atkins, Grattan-Sykes: <hi rend="italic">at þen</hi>.</note>
+ <note type="tnote" n="242">1511<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="243">1548<space rend="indent1"/><hi rend="italic">Thi</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">Forþi</hi>.</note>
+ <note type="tnote" n="244">1549<space rend="indent1"/><hi rend="italic">luve</hi>. So Wells, Atkins. MS, Grattan-Sykes: omitted.</note>
+ <note type="tnote" n="245">1556<space rend="indent1"/><hi rend="italic">monne</hi>. So MS, Grattan-Sykes. Wells, Atkins: <hi rend="italic">manne</hi>.</note>
+ <note type="tnote" n="246">1566<space rend="indent1"/><hi rend="italic">pine</hi>. So C, Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">wiue</hi>.</note>
+ <note type="tnote" n="247">1586<space rend="indent1"/><hi rend="italic">houth-sythe</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">houhsyþe</hi>.</note>
+ <note type="tnote" n="248">1602<space rend="indent1"/><hi rend="italic">ho geth</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">howeþ</hi>.</note>
+ <note type="tnote" n="249">1607<space rend="indent1"/><hi rend="italic">ic</hi>. So MS (word inserted), Wells, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="250">1610<space rend="indent1"/><hi rend="italic">tobursteth and tobeteth</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">to burste &amp; to bete</hi>.</note>
+ <note type="tnote" n="251">1619<space rend="indent1"/><hi rend="italic">thah</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þhah</hi>.</note>
+ <note type="tnote" n="252">1633<space rend="indent1"/><hi rend="italic">brod</hi>. So C. MS, Wells, Atkins, Grattan-Sykes: <hi rend="italic">word</hi>.</note>
+ <note type="tnote" n="253">1635<space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with red capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="254">1638<space rend="indent1"/><hi rend="italic">heo</hi>. So MS, Grattan-Sykes. Wells, Atkins: <hi rend="italic">he</hi>.</note>
+ <note type="tnote" n="255"><space rend="indent1"/><hi rend="italic">wer</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þer</hi> (<hi rend="italic">þ</hi>/<hi rend="wynnitalic">ƿ</hi> confusion).</note>
+ <note type="tnote" n="256">1640<space rend="indent1"/><hi rend="italic">thu</hi>. So MS (word inserted), Atkins, Grattan-Sykes. Wells: <hi rend="italic">þe</hi>.</note>
+ <note type="tnote" n="257">1641<space rend="indent1"/><hi rend="italic">Thu</hi><hi rend="subscript">1</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">þ</hi>.</note>
+ <note type="tnote" n="258">1653<space rend="indent1"/><hi rend="italic">icwede</hi>. So Wells, Atkins. MS, Grattan-Sykes: omitted.</note>
+ <note type="tnote" n="259">1662<space rend="indent1"/><hi rend="italic">forthan</hi>. So MS, Wells, Atkins. Grattan-Sykes: <hi rend="italic">vor þan</hi>.</note>
+ <note type="tnote" n="260">1667<space rend="indent1"/><hi rend="italic">Theos</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, two lines high.</note>
+ <note type="tnote" n="261">1681<space rend="indent1"/><hi rend="italic">bothe</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">beo þat</hi>.</note>
+ <note type="tnote" n="262">1685<space rend="indent1"/><hi rend="italic">That</hi>. So MS (<hi rend="italic">Þat</hi> with <hi rend="italic">t</hi> inserted), Wells, Hall, Atkins, Grattan-Sykes.</note>
+ <note type="tnote" n="263">1699<space rend="indent1"/><hi rend="italic">fihtlak</hi>. So MS, Wells, Grattan-Sykes. Atkins: <hi rend="italic">fihtlac</hi>.</note>
+ <note type="tnote" n="264">1705<space rend="indent1"/><hi rend="italic">non</hi>. So Wells, Atkins. MS, Grattan-Sykes: <hi rend="italic">nón</hi>.</note>
+ <note type="tnote" n="265"><space rend="indent1"/><hi rend="italic">so</hi>. So MS, Wells, Atkins. Grattan-Sykes: <hi rend="italic">o</hi>.</note>
+ <note type="tnote" n="266">1711 <space rend="indent1"/><hi rend="italic">The</hi>. MS: Begins with blue capital <hi rend="italic">Þ</hi>, two lines high. The error was in the exemplar shared with C for it appears in both copies. See <ref target="insert-internal-link" type="internal">Explanatory Note</ref>.</note>
+ <note type="tnote" n="267">1717<space rend="indent1"/><hi rend="italic">The</hi>. MS: Line does not begin with a colored or enlarged capital. The error was in the exemplar shared with C for it appears in both copies. See <ref target="insert-internal-link" type="internal">Explanatory Note to line 1711</ref>.</note>
+ <note type="tnote" n="268">1720<space rend="indent1"/><hi rend="italic">theih</hi>. So Wells, Atkins. MS, Hall, Grattan-Sykes: omitted.</note>
+ <note type="tnote" n="269">1731<space rend="indent1"/><hi rend="italic">kinge</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: omitted.</note>
+ <note type="tnote" n="270">1734<space rend="indent1"/><hi rend="italic">ye</hi>. So C. MS, Wells, Atkins, Hall, Grattan-Sykes: <hi rend="italic">we</hi> (<hi rend="italic">y</hi>/<hi rend="wynnitalic">ƿ</hi> confusion).</note>
+ <note type="tnote" n="271">1739<space rend="indent1"/><hi rend="italic">Ich</hi>. MS: Begins with red capital <hi rend="italic">I</hi>, one line high.</note>
+ <note type="tnote" n="272">1741<space rend="indent1"/><hi rend="italic">for</hi>. So MS, Wells, Hall, Grattan-Sykes. Atkins: omitted.</note>
+ <note type="tnote" n="273">1743<space rend="indent1"/><hi rend="italic">ende</hi>. So Wells, Atkins. MS, Hall, Grattan-Sykes: <hi rend="italic">ende me</hi>.</note>
+ <note type="tnote" n="274">1747<space rend="indent1"/><hi rend="italic">us</hi>. So Wells, Atkins. MS, Hall, Grattan-Sykes: <hi rend="italic">eu</hi>.</note>
+ <note type="tnote" n="275">1749<space rend="indent1"/><hi rend="italic">war</hi>. So Wells, Hall, Atkins. MS, Grattan-Sykes: <hi rend="italic">þar</hi> (<hi rend="italic">þ</hi>/<hi rend="wynnitalic">ƿ</hi> confusion).</note>
+ <note type="tnote" n="276">1751<space rend="indent1"/><hi rend="italic">Nuhte ye</hi>. So Wells. MS: <hi rend="italic">mihte yet</hi> (<hi rend="italic">lyet</hi> with <hi rend="italic">l</hi> canceled). Hall, Grattan-Sykes: <hi rend="italic">mihte yet</hi>. Atkins: <hi rend="italic">nute ye</hi>.</note>
+ <note type="tnote" n="277">1754<space rend="indent1"/><hi rend="italic">see</hi>. So Wells, Atkins. MS, Hall, Grattan-Sykes: <hi rend="italic">séé</hi>.</note>
+ <note type="tnote" n="278">1765<space rend="indent1"/><hi rend="italic">ilome</hi>. So Wells, Hall, Atkins, Grattan-Sykes. MS: <hi rend="italic">ilóme</hi>.</note>
+ <note type="tnote" n="279">1769<space rend="indent1"/><hi rend="italic">Certes</hi>. MS: Begins with red capital <hi rend="italic">C</hi>, one line high.</note>
+ <note type="tnote" n="280">1780<space rend="indent1"/><hi rend="italic">thar</hi>. So Wells, Atkins. MS, Hall, Grattan-Sykes: <hi rend="italic">þat</hi>.</note>
+ <note type="tnote" n="281">1781<space rend="indent1"/><hi rend="italic">Do</hi>. MS: Begins with blue capital <hi rend="italic">D</hi>, one line high.</note>
+ <note type="tnote" n="282">1783<space rend="indent1"/><hi rend="italic">deme</hi>. So Wells, Atkins. MS, Hall, Grattan-Sykes: <hi rend="italic">dome</hi>.</note>
+ <note type="tnote" n="283">1791<space rend="indent1"/><hi rend="italic">hi</hi>. So MS, Hall, Grattan-Sykes. Wells, Atkins: <hi rend="italic">heo</hi>.</note>
+ <note type="tnote" n="284">explicit<space rend="indent1"/><hi rend="italic">Explicit</hi>. MS: Written in black ink (and not found in C).</note>
+ </div></body></text></TEI>

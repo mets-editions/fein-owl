@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Fein-Owl-004-Gen-Intro-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>General Introduction</title><author>Fein, Susanna</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp><resp from="2022-05" to="2023-09">Entered corrections for digital edition</resp><resp from="2022-05" to="2023-09">Entered corrections for print edition</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2020-07" to="2021-12">Checked and corrected bibliographic references</resp><resp from="2020-02" to="2020-03">Copyedited and proofread</resp><resp from="2020-07" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2022-05" to="2023-11">Entered corrections for digital edition</resp><resp from="2020-02" to="2023-09">Entered corrections for print edition</resp><resp from="2020-02" to="2020-03">Formatted for print edition</resp><resp from="2020-02" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2023-11" to="2024-01">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-01">Entered corrections for digital edition</resp><resp from="2023-11" to="2024-01">Formatted for XML export</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-02" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2023-10" to="2023-11">Entered corrections for digital edition</resp><resp from="2023-10" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2021-11" to="2024-05">Audited documents prior to print/export</resp><resp from="2021-11" to="2021-12">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2021-11" to="2021-12">Copyedited and proofread</resp><resp from="2021-11" to="2021-12">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-12">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-12">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Thomas of Hales</author><author>Unknown</author><editor>Fein, Susanna</editor><editor role="translator">Fein, Susanna</editor><title>The Owl and the Nightingale and the English Poems of Oxford, Jesus College, MS 29 (II)</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2022</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/fein-owl/blob/main/fein-owl-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Fein-Owl-004-Gen-Intro"/><div type="text">
+ <p style="bodyfirst" n="1">Historian Jill Lepore ruminates on the random contingencies that permit some traces of the past to survive, others to disintegrate and vanish:</p>
+ <quote>Most of what once existed is gone. Flesh decays, wood rots, walls fall, books burn. Nature takes one toll, malice another. History is the study of what remains, what’s left behind, which can be almost anything, so long as it survives the ravages of time and war: letters, diaries, DNA, gravestones, coins, television broadcasts, paintings, DVDs, viruses, abandoned Facebook pages, the transcripts of congressional hearings, the ruins of buildings. Some of these things are saved by chance or accident, like the one house that, as if by miracle, still stands after a hurricane razes a town. But most of what historians study survives because it was purposely kept — placed in a box and carried up to an attic, shelved in a library, stored in a museum, photographed or recorded, downloaded to a server — carefully preserved and even catalogued. All of it, together, the accidental and the intentional, this archive of the past — remains, relics, a repository of knowledge, the evidence of what came before, this inheritance — is called the historical record, and it is maddeningly uneven, asymmetrical, and unfair.<note target="#1" type="footnotelink">1</note></quote>
+ <p style="bodyfirst" n="2">The subject of Lepore’s book is American history, which she brilliantly recalibrates by telling the familiar story of the political founding of the United States beside the deeply troubling co-narrative of the slave trade, of how “liberty and slavery became the American Abel and Cain.”<note target="#2" type="footnotelink">2</note></p>
+ <p style="body" n="1">My subject here is less sweeping, but it is likewise about a space being preserved wherein people from the past may reveal to us their fears and desires — may sing in verse of passions and pieties, of aspirations and fervently held beliefs — only because a singular document has fortuitously survived. Inscribed some seven hundred and fifty years ago (that is, two centuries before Columbus sailed), Oxford, Jesus College, MS 29 (II) can tell us nothing of the still-unknown Americas and their indigenous peoples, themselves innocent of ships yet to sail from Europe and Africa. Instead, what this compact book from the thirteenth-century West Midlands records are enigmatic facts about vernacular English poetry as it circulated in the same dialectal region that had spawned, a half-century before, the landmarks of early Middle English prose <hi rend="italic">Ancrene Wisse</hi> and the <hi rend="italic">Katherine Group</hi>.<note target="#3" type="footnotelink">3</note> Most of all, the Jesus manuscript brings into focus an English cultural context — a thirteenth-century trilingual nexus of authors and readers — for the dazzling <hi rend="italic">Owl and the Nightingale</hi>, the earliest instance of large-scale English secular literature not shaped as a warrior epic (as <hi rend="italic">Beowulf</hi> and <hi rend="italic">Brut</hi> are), but instead as a comic debate infused with an encyclopedia of insights on human nature.</p>
+ <p style="body" n="2">The Jesus manuscript has survived merely by dint of a series of fortunate accidents. In the early sixteenth century the book was apparently retrieved from the library of a dissolved monastery by someone who saw in it a text or two of interest (not likely the poems we now value most). It was the same person, probably, who bound it as an add-on with another volume — a Latin chronicle — seen as having surer value. Clothed in this new suit, it managed to pass for generations, ever at risk of loss, through a network of families related by marriage. By the late seventeenth century, this precarious trek brought it and its chronicle-partner, at last, to a spot of relative security in the library of Jesus College in Oxford, where it rests today.</p>
+ <p style="heading" n="1">The English Contents of MS Jesus 29</p>
+ <p style="bodyfirst" n="3">Oxford, Jesus College, MS 29 is a composite manuscript holding two codices that were originally separate and utterly unrelated: a fifteenth-century Latin chronicle of English history (Part I) and a late-thirteenth-century anthology of verse in French and English (Part II). The two are now bound together and have been so joined since at least the end of the seventeenth century, and probably much earlier. They were contained in one volume when the Rev. Thomas Wilkins, a Jesus College alumnus, donated the book to the college on January 9, 1693 CE, describing the donation as “An Antient Cronicle ab A<hi rend="italic">nn</hi>o 900 usq<hi rend="italic">ue</hi> ad An<hi rend="italic">n</hi>um 1444 [from the year 900 to the year 1444]. Latine, &amp; a Saxon-Manuscript bound with it.”<note target="#4" type="footnotelink">4</note> Part II, the trilingual portion of interest here, is what Wilkins termed the “Saxon-Manuscript bound with it.”</p>
+ <p style="body" n="3">By careful study of physical clues and historical records, Betty Hill, the chief scholar of the manuscript’s history, surmises that the likeliest point of origin for the pairing occurred shortly after both books were retrieved from libraries of unknown religious houses in the aftermath of England’s Dissolution, when monastic property was seized, dispersed, and frequently destroyed. The two books seem to have piqued a well-read person’s interest in law and history, especially as related to England. For Part I, a chronicle, such value is inherent. For Part II, it is less obviously so, but this much older volume holds a brief English text on <hi rend="italic">The Shires and Hundreds of England </hi>(ca. 1086–1133) and a Latin statute on the pricing of bread (ca. 1256). Both works lend Part II a legal-historical interest that someone valuing a chronicle of England might have noted with pleasure. The owner who bound them together probably had scant interest in Part II’s literary character — its anthology of English verse and set of French poems by Chardri — but the happenstance of a literary volume being attached to a Latin chronicle paved that book’s path to survival.<note target="#5" type="footnotelink">5</note></p>
+ <p style="body" n="4">Hereafter, my references to “Jesus 29” or the “Jesus manuscript” will denote Part II (fols. 144–257), a manuscript that, before the post-medieval joint-binding process, was (and remains) entirely distinct from Part I (fols. 1–143). The 114 parchment leaves of Jesus 29 measure 185 mm x 140 mm as cropped for the rebinding that Wilkins gave it in the seventeenth century. A full collation reveals ten quires of twelve with some losses. The first half of Jesus 29 is filled with an extraordinarily sustained sequence of nearly all English verse (quires i–v; fols. 144–201). In 108 pages of concentrated English, the losses amount to just two missing folios — a conjugate bifolia in the fourth quire. The following chart outlines the works appearing in the English-content quires, with the two points of loss in quire iv indicated: </p>
+ <table style="basictable">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <row>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">quire i<hi rend="superscript">12</hi></p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">(fols. 144–55)</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 1</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">The Passion of Jesus Christ in English</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">quire ii<hi rend="superscript">12</hi></p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">(fols. 156–67)</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 2</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">The Owl and the Nightingale</hi> (lines 1–1670)</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">quire iii<hi rend="superscript">12</hi></p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">(fols. 168–79)</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 2</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">The Owl and the Nightingale</hi> (lines 1671–1794)</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 3</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">Poema Morale</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 4</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">The Saws of Saint Bede</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 5</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">The Woman of Samaria</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 6</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">Weal</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 7</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">Death’s Wither-Clench</hi> (lines 1–12)</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">quire iv<hi rend="superscript">12 (-2, -11)</hi></p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">(fols. 180–89)</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 7</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">Death’s Wither-Clench</hi> (lines 13–50)</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 8</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">An Orison to Our Lady</hi> (lacks ending)<note target="#6" type="footnotelink">6</note></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 10</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">The Annunciation</hi> (lacks opening)</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 11</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">The Five Joys of Our Lady Saint Mary</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 12</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">When Holy Church Is Under Foot</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 13</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">Doomsday</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 14</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">Death</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 15</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">Ten Abuses</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 16</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">A Little Sooth Sermon</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 17</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">Antiphon of Saint Thomas the Martyr in English</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 18</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">On Serving Christ</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 19</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">Thomas of Hales, <hi rend="italic">Love Rune</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 20</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">Song of the Annunciation</hi> (lacks ending)</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 21</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">Fire and Ice</hi> (last 5 lines; lacks opening)</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 22</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">Signs of Death</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 23</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">Three Sorrowful Tidings</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 24</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">The Proverbs of Alfred</hi> (lines 1–79)</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">quire v<hi rend="superscript">12</hi></p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">(fols. 190–200)</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 24</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">The Proverbs of Alfred</hi> (lines 80–318)</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 25</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">An Orison to Our Lord</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 26</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">A Homily on Sooth Love</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 27</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">The Shires and Hundreds of England</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">[Latin]</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">Assisa panis Anglie</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">[French]</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">The Four Daughters of God</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table"/>
+ <cell style="Basic-Table">
+ <p style="horizontal-left">art. 28</p>
+ </cell>
+ <cell style="Basic-Table">
+ <p style="horizontal-left"><hi rend="italic">The Eleven Pains of Hell</hi></p>
+ </cell>
+ </row>
+ 
+ </table>
+ <p style="bodyfirst" n="4">In the English first half, linguistic interruptions occur only near the end of the long sequence: the brief <hi rend="italic">Assisa panis Anglie</hi> (<hi rend="italic">Assize of English Bread</hi>) followed by <hi rend="italic">The Four Daughters of God</hi>, a French verse extract copied on five pages. These two non-English works appear before the long English finale to the sequence: <hi rend="italic">The Eleven Pains of Hell</hi> (art. 28). The second half of Jesus 29 (fols. 201–57) is entirely in Anglo-French: <hi rend="italic">Le Doctrinal Sauvage</hi>, a poem on courtly manners, followed by three long works, the entire known oeuvre of a poet named Chardri (“Richard” in anagram).<note target="#7" type="footnotelink">7</note></p>
+ <p style="heading" n="2">MS Jesus 29: A History of Ownership, ca. 1540–1693</p>
+ <p style="bodyfirst" n="5">Clues allow us to construct a plausible narrative of Jesus 29’s sequence of owners from the onset of the Dissolution until Rev. Wilkins’s gifting of it to Jesus College, that is, from about 1540 until 1693. The first known owner of both parts of Jesus 29 was Thomas Ragland, a gentleman who wrote his name in the book sometime before the year 1547.<note target="#8" type="footnotelink">8</note> Thomas was the eldest son of Sir John Ragland of Carnlwdd in Llancarven, Glamorganshire. His mother was Anne Dennis, Sir John’s second wife; they were married in 1521. In 1537, after Sir John had died, Anne Ragland née Dennis married Sir Edward Carne of Ewenny, Glamorganshire. A likely scenario for the chain of ownership in the sixteenth and seventeenth centuries — that is, the interval after removal from a monastic library and donation to Jesus College Oxford — is that Carne gifted the joined manuscripts to his stepson Thomas Ragland, from whom the volume continued to descend across generations, via family and marriage, until it came into the hands of Wilkins, the donor.</p>
+ <p style="body" n="5">The chain likely begins with Sir Edward Carne because he “acted as Commissioner for the dissolution of certain monastic houses in Gloucestershire and in Bristol, then part of Somerset.”<note target="#9" type="footnotelink">9</note> Carne provided distinguished service to the crown during the reign of Henry VIII, as Hill details:</p>
+ <quote>The Commissioners started with St. Swithun’s, Winchester in November 1539. From there they proceeded to St. Mary’s, Winchester, Wherwell, Christ Church, Twynham, Amesbury, St. Augustine’s Abbey and Gaunt’s Hospital, Bristol, Malmesbury, Cirencester, Hales, Winchcombe, St. Peter’s, Gloucester and finally, in January 1540, to Tewkesbury.<note target="#10" type="footnotelink">10</note> </quote>
+ <p style="bodyfirst" n="6">Hill postulates that Carne, with his “outstanding legal and diplomatic qualifications,” would have valued the historical interests contained in both books, and possessed sufficient bibliophilic care to have wanted them bound together.<note target="#11" type="footnotelink">11</note></p>
+ <p style="body" n="6">Carne died in 1561, but the book was in his stepson’s possession before then. It later passed from Thomas Ragland back to the direct Carne lineage, probably to his younger half-sibling Thomas Carne (d. 1602). James Carne, a cousin of Thomas Carne, enters his name in a sixteenth-century hand on fol. 47r: “thys ys Ihames carne ys hand record of ma[yster] thomas carne and.”<note target="#12" type="footnotelink">12</note> There are various ways by which the book might have changed owners over the next century, fostered by “the complex relationships between the families of Ragland, Carne of Ewenny, Carne of Nash, Lewis of Llanishen, and Wilkins of Llanquian.”<note target="#13" type="footnotelink">13</note> Here is one of Hill’s most plausible accounts:</p>
+ <quote>Thomas Ragland, who was living at Ewenny in 1546–7, . . . eventually married Anne Woodhouse of Norfolk and, after 1566, sold his Glamorganshire estates. By, or at, this time the MS passed to his half-brother Thomas Carne of Ewenny, whose cousin James wrote in it. The MS was later handed down from Thomas’ son Sir John Carne of Ewenny to John’s daughter Elinor who married William Thomas of Llanvihangel, to their daughter Jane Thomas who married William Carne of Nash, and to their son Thomas Carne of Nash whose daughter Jane married the Rev. Thomas Wilkins.<note target="#14" type="footnotelink">14</note></quote>
+ <p style="bodyfirst" n="7">By this series of events and genealogical relationships, or a some variation of it, Wilkins “acquired from generations of Carnes one volume containing both parts.”<note target="#15" type="footnotelink">15</note></p>
+ <p style="body" n="7">It would be good to know the precise religious house from which Sir Edward Carne rescued Jesus 29. His wife Anne (Thomas Ragland’s mother) was a Berkeley on her mother’s side, and the lords Berkeley were longstanding patrons of St. Augustine’s Abbey, Gloucestershire, where many family members had been buried. Hill notes that the Berkeleys acquired the cartulary of that abbey — one of the religious houses included in Sir Edward’s commission. In Hill’s final statement on the matter, she asserts that St. Augustine’s Abbey is “where I think Carne picked up at least part II of the manuscript.”<note target="#16" type="footnotelink">16</note> There is no way to prove this hypothesis, though much respect is due to Hill’s decades of devotion to the study of Jesus 29. Unfortunately, she mentions no findings that directly connect St. Augustine’s Abbey with Jesus. The clues we do have point more directly toward Herefordshire (Ledbury and Hereford), to judge by scribal dialect; toward Halesowen (Worcestershire) and its daughter-house Titchfield Abbey (Hampshire), to judge by contents; and toward Amesbury (Wiltshire), to judge by certain aristocratic affiliations. The curious clues that have led scholars to Titchfield arise from an excavation of Jesus 29’s most important exemplar: the extraordinary lost MS X.</p>
+ <p style="heading" n="3">MS X: Exemplar for MS Jesus 29 and MS Cotton Caligula A.ix</p>
+ <p style="bodyfirst" n="8">The story of <hi rend="italic">The Owl and the Nightingale</hi>’s presence in Jesus 29 begins with a now-vanished yet discernible exemplar known as MS X. This volume, a “stable binding-together of a number of different texts — in other words, a book . . . carefully arranged and displayed,” written by at least four hands, served as the model for Jesus 29 in many of its particulars.<note target="#17" type="footnotelink">17</note> The items found in two other manuscripts overlap with those of Jesus 29 to such a marked degree of replication that one can see the lineaments of a lost ancestor in them all. These others are London, BL, MS Cotton Caligula A.ix, and Rome, Vatican Library, MS Reg. lat. 1659. We can deduce many features of MS X by examining the texts, layout, and letter-forms found in Jesus 29 alongside these volumes, especially Cotton, the sister manuscript of Jesus. The Vatican manuscript holds just one Chardi poem, <hi rend="italic">The Little Debate</hi>, and is a minor witness in the matter. Cotton holds <hi rend="italic">Owl</hi> and seven additional English items (arts. 2, 7–9, 13–16, in that order), as well as the three French Chardri poems. It is distinctive, too, for its preservation of Layamon’s <hi rend="italic">Brut</hi>; it holds one of only two surviving copies of that long work. The exceptionally close resemblance of Cotton to Jesus has led their corresponding texts to be termed the “CJ-group.”<note target="#18" type="footnotelink">18</note></p>
+ <p style="body" n="8">The points of agreement, especially those between Cotton and Jesus, allow for a hypothetical reconstruction of MS X, firmly defined in broad outline but tentative as to the full scope of contents, particularly when it comes to poems found in Jesus but not Cotton. The task of recreating the shape of X from the physical evidence has been nimbly performed by <hi rend="italic">Owl</hi> scholar Neil Cartlidge. According to Cartlidge, the Cotton sequence of English verse is likely to be an abridged selection of what X held. In contrast, the Jesus scribe probably copied all that he found in X <hi rend="italic">ad seriatim</hi>. Cartlidge draws this conclusion by observing that some short poems such as <hi rend="italic">Weal</hi> (art. 6) were probably fillers in X, but in Jesus they are not obviously copied as such, suggesting that the Jesus scribe placed them seamlessly into his flow of texts, one after the next, erasing signs of their earlier filler status.<note target="#19" type="footnotelink">19</note> Cartlidge postulates that wherever Cotton lacks internal blocks of texts compared to Jesus — that is, arts. 3–6, 10–12 — those blocks were present in MS X. The end conclusion is that MS X contained the entire long string of texts from <hi rend="italic">Owl</hi> to <hi rend="italic">A Little Sooth Sermon</hi> as it appears in Jesus (arts. 2–16). This reasoning leads to a startling appraisal of the lost MS X, envisioning it as an older, purposefully constructed anthology of English verse that was almost as long and ambitious as what we now have in Jesus 29. That is, it was a well-ordered sequence with <hi rend="italic">Owl</hi> at or near its head, establishing a remarkably early set of English verse that invited and received canonical treatment by subsequent copyists and readers.</p>
+ <p style="body" n="9">We can guess at the shape of MS X in somewhat more detail by considering another source of vital evidence. This one is not a manuscript but rather a book catalogue compiled in 1400 as a record of the holdings of the library at the Premonstratensian abbey of Titchfield in Hampshire.<note target="#20" type="footnotelink">20</note> The catalogue lists five volumes that, when taken together, correspond in tantalizing detail to the contents of Cotton and (especially) Jesus, <hi rend="italic">viz</hi>: </p>
+ <list rend="nobullets"><item style="indent1">MS C.II</item></list>
+ <list rend="nobullets"><item style="indent2">item 7: “Hystoria britoneum” (= Layamon’s <hi rend="italic">Brut</hi> found in Cotton, perhaps)<note target="#21" type="footnotelink">21</note></item></list>
+ <list rend="nobullets"><item style="indent2">item 8: “De conflictu inter philomenam et bubonem in anglicis” (= <hi rend="italic">Owl</hi> found in CJ)<note target="#22" type="footnotelink">22</note></item></list>
+ <list rend="nobullets"><item style="indent1">MS M.XI</item></list>
+ <list rend="nobullets"><item style="indent2">item 8: “Liber tobie uersificatus” (= <hi rend="italic">The Four Daughters of God</hi> found in Jesus)<note target="#23" type="footnotelink">23</note></item></list>
+ <list rend="nobullets"><item style="indent1">MS N.III</item></list>
+ <list rend="nobullets"><item style="indent2">item 11: “De comitatibus quot sunt in anglia et quibus subiacet diocesibus”</item></list>
+ <list rend="nobullets"><item style="indent2">item 12: “De longitudine et latitudine anglie” (= <hi rend="italic">Shires</hi> found in Jesus, perhaps)<note target="#24" type="footnotelink">24</note></item></list>
+ <list rend="nobullets"><item style="indent1">MS Q.III<note target="#25" type="footnotelink">25</note></item></list>
+ <list rend="nobullets"><item style="indent2">item 2: “Vita septem dormientum” (= Chardri’s <hi rend="italic">Life of the Seven Sleepers</hi> found in CJ)<note target="#26" type="footnotelink">26</note></item></list>
+ <list rend="nobullets"><item style="indent2">item 5: “Passio christi” (= <hi rend="italic">Passion</hi> found in Jesus, perhaps)<note target="#27" type="footnotelink">27</note></item></list>
+ <list rend="nobullets"><item style="indent2">item 6: “Predicacio sancti pauli” (= <hi rend="italic">Eleven Pains</hi> found in Jesus, perhaps)<note target="#28" type="footnotelink">28</note></item></list>
+ <list rend="nobullets"><item style="indent2">item 11: “Vita sancti thome martiris” (= <hi rend="italic">Antiphon</hi> found in Jesus, perhaps)<note target="#29" type="footnotelink">29</note></item></list>
+ <list rend="nobullets"><item style="indent2">item 12: “Vita sancti iosaphat” (= Chardri’s <hi rend="italic">Life of Saint Josaphaz</hi> found in CJ)<note target="#30" type="footnotelink">30</note></item></list>
+ <list rend="nobullets"><item style="indent2">item 14: “Altercacio inter iuuentutem et senectutem” (= Chardri’s <hi rend="italic">Little Debate</hi> found in CJ)<note target="#31" type="footnotelink">31</note></item></list>
+ <list rend="nobullets"><item style="indent1">MS Q.XI</item></list>
+ <list rend="nobullets"><item style="indent2">item 16: “De die iudicij in anglicis” (= <hi rend="italic">Doomsday</hi> found in CJ)<note target="#32" type="footnotelink">32</note></item></list>
+ <p style="bodysubection">Of these five books, the miscellaneous content of MS Q.III attracts keen interest because it offers circumstantial evidence regarding the nature of MS X. According to Cartlidge, “we can perhaps assume that where J and Q.III seem to have contained other texts in common . . . these texts were also once present in X.”<note target="#33" type="footnotelink">33</note> Thus, set beside the evidence of Cotton and Jesus, the lost MS Q.III seems to testify further that the literary anthology of MS X became a force for distributing English poetry and Chardri’s French works to an ever-widening audience of readers. It seems, then, hardly a coincidence that <hi rend="italic">The Owl and the Nightingale</hi> — verifiably present in MS X, from which the Cotton and Jesus scribes extracted it — sat in another volume in the same library. In MS C.II, <hi rend="italic">Owl</hi> is the work that follows a history of Britain, which might have been a lost copy of Layamon’s <hi rend="italic">Brut</hi>. A factual pairing of <hi rend="italic">Brut</hi> with <hi rend="italic">Owl</hi> survives in Cotton.<note target="#34" type="footnotelink">34</note></p>
+ <p style="heading" n="4">The Scribe of MS Jesus 29</p>
+ <p style="bodyfirst" n="9">Jesus 29 is the product of a single scribe who took it upon himself to fashion the layout of the poetry according to its line length (short-line in double columns, long-line in single columns) and metrics, providing, for example, an innovative, avant garde layout for the unusual tail-rhyme stanzas of <hi rend="italic">The Saws of Saint Bede</hi> (art. 4).<note target="#35" type="footnotelink">35</note> He created a beautiful book with colored initials and red titles. The rubrics heading most English poems provide a Latin title, or a Latin transition like “Tractatus quidam” (Another treatise), but several items have no rubric, while the two that frame the collection are in French (<hi rend="italic">Passion</hi>, <hi rend="italic">Eleven Pains</hi>) and four others are in English (<hi rend="italic">Five Joys</hi>, <hi rend="italic">Holy Church</hi>, <hi rend="italic">Antiphon</hi>, <hi rend="italic">Shires</hi>). Three headings proclaim a work’s Englishness: “en Engleys” (<hi rend="italic">Passion</hi>) or “in anglico” (<hi rend="italic">Poema Morale</hi>, <hi rend="italic">Antiphon</hi>). The scribe took special care in how he applied color, marking stanza initials in alternating red and blue and forming large, bicolored ornamental initials to betoken the openings of substantial texts (<hi rend="italic">Passion</hi>, <hi rend="italic">Owl</hi>, and <hi rend="italic">Poema Morale</hi>, for example). Because the scribe wrote above the top line, which was not the professional manner in the thirteenth century, N. R. Ker names him a skilled amateur and characterizes his bookhand script as “admirably plain and simple, and, when possible, spacious.”<note target="#36" type="footnotelink">36</note> Because the book “is presentable and easy to consult,” John Scahill suggests that “the compiler intended it to be used and possessed at least partly by others.”<note target="#37" type="footnotelink">37</note></p>
+ <p style="body" n="10">How <hi rend="italic">did</hi> the scribe of Jesus 29 come to create an anthology of English verse? His anthology is the most abundant, most persistently English assemblage of imaginative short poems to turn up in the period between the tenth-century Old English Exeter Book and the mid-fourteenth-century Harley 2253 manuscript.<note target="#38" type="footnotelink">38</note> Testimony from the Titchfield Abbey catalogue, and, in particular, the contents of MS Q.III, widens considerably the scope of what the scribe might have found in the MS X anthology when it rested on a table before his eyes and open inkpot. From it, he obtained <hi rend="italic">The Owl and the Nightingale</hi>, Chardri, and more. He must have taken from it arts. 7–9, 13–16 (as found in Cotton), with a good chance that the entire sequence, arts. 2–16 (<hi rend="italic">Owl</hi> to <hi rend="italic">A Little Sooth Sermon</hi>), came from MS X.</p>
+ <p style="body" n="11">What else might he have obtained from this source? Did he find there the opening work to his own anthology, <hi rend="italic">The Passion of Jesus Christ in English</hi>? This could be the item listed as “Passio christi” in MS Q.III. Did he find there the conclusion to his English anthology, <hi rend="italic">The Eleven Pains of Hell</hi>? This could be identical to the “Predicacio sancti pauli” in MS Q.III. The question of what the MS X anthology had in it, and in what order, takes us to the heart of assessing the Jesus scribe’s originality and purpose for making the anthology so crucially preserved in Jesus 29. Knowing that the scribe closely adhered to a model for some of it obstructs an evaluation of his activity. What did he receive ready-made? What did he add? Did the Jesus scribe make something new (an expansive anthology), or was he mainly an unimaginative copyist? Does credit for the sequence belong to the maker of MS X, or even a predecessor of X?</p>
+ <p style="body" n="12">At this point of speculation, it becomes necessary to move away from what cannot be known of the scribe’s agency in selection and arrangement, and turn instead to the nature and qualities of Jesus 29, the manuscript that actually survives. The English sequence found in Jesus may well have been borrowed from more than one exemplar, with MS X’s copies of <hi rend="italic">Owl</hi> and Chardri becoming key determinants in its formation. Opening with a long, sometimes homiletic, scriptural paraphrase of Christ’s Passion and closing with hell’s pains represents a preacherly penchant for linking the torture of Christ to the eschatological punishment of unrepentant sinners. In this manner, the Jesus scribe’s exercise in English bookmaking conveys an overaching moral frame for an English-speaking reader. It structures the Jesus sequence in ways that can be felt, observed, and sensed as alive with meaning, compared to the purely generic titles in Q.III — Latin names that may only wishfully be determined to denote the <hi rend="italic">same</hi> texts, in <hi rend="italic">English</hi>, as are found in Jesus. Nor does the discovery of these works in Q.III lead to more than a hope that they were ever in MS X.<note target="#39" type="footnotelink">39</note> Such hints are fascinating and suggestive, but they do not supply us with facts.</p>
+ <p style="body" n="13">The weight of the evidence bends toward seeing the Jesus scribe as having made some insertions and structural shapings on his own. A “canon” of imaginative and moral verse, as it must have existed in MS X — <hi rend="italic">Owl</hi>, Chardri, and perhaps <hi rend="italic">Poema Morale</hi> — was vigorously augmented by the addition, in Jesus, of the ancient <hi rend="italic">Proverbs of Alfred</hi> and the incandescent <hi rend="italic">Love Rune</hi> by Thomas of Hales, a delicately crafted lyric on Christ as mystic Lover. No sign exists that either MS X or the Titchfield Abbey library held these works. Moreover, the Jesus scribe may have made purposeful choices of omission as well as of selection. While <hi rend="italic">Brut</hi> sometimes accompanies <hi rend="italic">Owl</hi>, as happens in Cotton and perhaps C.II, the Jesus scribe did not repeat this pairing. Cartlidge’s reconstruction of MS X shows us not just what MS X possibly held; it also indicates how more than that exists in Jesus 29 — namely, arts. 17–26 — most of them unique in the surviving record. Interestingly, here is where more secular strains tend to be added, as are dominant in <hi rend="italic">Owl</hi>, and also a softened theme of God’s love rather than divine vengeance. Here is also where poems in the distinctive “<hi rend="italic">Love Rune</hi> meter” predominate.<note target="#40" type="footnotelink">40</note> It thus seems likelier than not that the Jesus scribe had more exemplars at his disposal, that is, that the Jesus anthology is not just a copy of the MS X anthology but instead an enlargement of it, set in an original framing structure of Christ’s Passion and judgment of sinners.</p>
+ <p style="body" n="14">The first name of the Jesus scribe may be preserved in a signature that ends the final English work, <hi rend="italic">The Eleven Pains of Hell</hi>:</p>
+ <quote><lg><l>Hwoso wrot thes pynen ellevene,</l><l>His soule mote cumme te hevene</l><l>And pleye ther myd engles bryhte,</l><l>Ther heo beoth in hevene lyhte;</l><l>And nabbe he never Godes grome,</l><l>For Hug’ is his rihte nome,</l><l>And he is curteys and hendy.</l><l>Thi, god him lete wel endy.</l></lg></quote>
+ <quote><lg><l>Amen.</l><l>(lines 283–91)<note target="#41" type="footnotelink">41</note></l></lg></quote>
+ <p style="bodyfirst" n="10">The scribe may be the “curteys and hendy” Hugh (or Hugo) named here. Conversely, the one who “wrot thes pynen ellevene” may be the poet, or even a previous scribe. These closing lines are absent from the second version of <hi rend="italic">Eleven Pains</hi> found in Oxford, BodL, MS Digby 86 (ca. 1280). The two versions exhibit wide variation because both scribes assumed the revisionist privileges of literary scribes and freely dabbled in verse alterations. So behind this stanza there are various possibilities: the scribe signs his accomplishment (claiming inscription, or recomposition, or both), or he preserves the original author’s name, or he mechanically reproduces the name of a previous scribe. Given that the effort before a reader’s eye is the scribe’s own handiwork, it is tempting to believe that this little prayer with self-praise comes directly from the Jesus scribe “Hugh,” who thus signs <hi rend="italic">Pains</hi> in a personal manner.</p>
+ <p style="body" n="15">Another unique closure appears as the last couplet of <hi rend="italic">Poema Morale</hi>. This work circulated widely and the couplet occurs nowhere else, so it logically belongs to the scribe:</p>
+ <quote><lg><l>Bidde we nu, leove freond,<caesura/>yong and ek olde,</l><l>That he that this wryt wrot,<caesura/>his saule beo ther atholde. Amen. </l><l>(lines 389–90)<note target="#42" type="footnotelink">42</note></l></lg></quote>
+ <p style="bodyfirst" n="11">Like the ending of <hi rend="italic">Eleven Pains</hi>, this add-on petitions for the writer’s reward in heaven. On the written page, it also displays a stylistic feature characteristic of the scribe’s visual repertoire. Other poems conclude with a prayer-stanza that opens “Bidde we.” In each instance, the scribe draws the initial <hi rend="italic">B</hi> in red. In the visual aesthetics of Jesus 29, it is striking how often the red <hi rend="italic">B</hi> of “Bidde we” catches the eye. Here this feature marks the closing couplet of <hi rend="italic">Poema Morale</hi>, likely composed by the scribe; it is also present in <hi rend="italic">Passion</hi> (end of first section), <hi rend="italic">The Saws of Saint Bede</hi>, <hi rend="italic">The Annunciation</hi>, and <hi rend="italic">Fire and Ice</hi>.</p>
+ <p style="body" n="16">Another matter to consider is how the Jesus scribe typically treated his exemplars. With older texts, such as <hi rend="italic">Proverbs</hi> and <hi rend="italic">Shires</hi>, he does not copy exactly what he sees, but instead displays a tendency to edit and modernize.<note target="#43" type="footnotelink">43</note> Ker notes that, when the Jesus scribe copied <hi rend="italic">Owl</hi> from MS X, he was prone to “introduce improvements of his own and to leave verses incomplete rather than copy what he could not understand.”<note target="#44" type="footnotelink">44</note> Comparing the Jesus scribe to the Cotton scribe, Cartlidge calls him “characteristically more willing to edit (though not always intelligently).”<note target="#45" type="footnotelink">45</note> He was, like the Cotton scribe and both X copyists of <hi rend="italic">Owl</hi>, a native English speaker whose dialect was of the West Midlands. His own speech is localized specifically to the area of Ledbury, Herefordshire, indicating “the area where the scribe learnt to write,” and he “picked up his texts in a similar language area which included parts of the dioceses of Hereford and Worcester.”<note target="#46" type="footnotelink">46</note></p>
+ <p style="body" n="17">The time period that has long been accepted for the making of Jesus 29 is the second half of the thirteenth century. Recent assessments have narrowed the window to 1275–1300.<note target="#47" type="footnotelink">47</note> Speculating on the scribe’s profession and shortening the range to 1285–1300, Hill proposes that he operated as a secular clerk in the familia of Richard Swinfield, bishop of Hereford (1283–1317), a prelate known for frequently visiting and lodging at “various Monasteries of different Orders or at one of his manor houses.”<note target="#48" type="footnotelink">48</note> In his travels, Swinfield welcomed minstrel entertainments, as did those who hosted him, and expenses in his account books include fees paid to professional musicians and jongleurs.<note target="#49" type="footnotelink">49</note> Hill suggests that the scribe or others he knew acquired the different poems in religious houses of various orders as they accompanied the bishop on his diocesan travels. She speculates as to the manner of borrowing and copying:</p>
+ <quote>The exemplars of the contents of MS J were probably borrowed and copied over a period of time at some provincial centre. The copies were then checked and amended about 1300 by the corrector before the exemplars were returned. Whether or not the J scribe himself modernized and ‘edited’, he was apparently responsible for the lay-out and compilation of texts designed to edify and entertain an audience of secular clerics such as those of Swinfield’s familia and/or Swinfield himself.<note target="#50" type="footnotelink">50</note></quote>
+ <p style="bodyfirst" n="12">Hill’s hypothesis as to the scribe’s profession, provenance, and collaboration with a corrector is of considerable interest, but it all remains shadowy and in need of reconciliation with the scholarly reconstruction of MS X. In sum, both lines of research — those of Hill and Cartlidge — form a reasonable narrative when they are merged. The lost MS X did exist: it shaped the forms in which <hi rend="italic">Owl</hi> and Chardri are now preserved, and it contained more English poetry, the CJ group in particular. Other exemplars contributed to the making of Jesus, however, and the scribe somehow had the means to access them. A closer look at the Jesus sequence and its authors supplies further clues as to how Jesus 29 came into being.</p>
+ <p style="heading" n="5">MS Jesus 29: Dating the Texts, Naming the Authors</p>
+ <p style="bodyfirst" n="13">Jesus 29 used to be typically classed as a “friar’s miscellany”: a collection of English verse authored by proselytizing friars to provide learned, pious instruction to a largely unlettered laity.<note target="#51" type="footnotelink">51</note> This theory offered a memorable label but was never tenable because it contradicts statements about authors and audiences found in the texts themselves. The writers — some named, most not — hail from various religious professions: friars, canons, secular priests, lay clerks.<note target="#52" type="footnotelink">52</note> A thorough sifting through the known facts of authors, origins, and dates allows suggestive associations to arise. While definitive answers are few, we are able to achieve a sharpened picture of the puzzle before us in Jesus 29.</p>
+ <p style="body" n="18">The oldest poems in Jesus 29 are probably <hi rend="italic">The Proverbs of Alfred</hi> and <hi rend="italic">Poema Morale</hi>, both written in the twelfth century before the first Franciscans arrived in England in 1224. How eagerly the friars were received as spiritual reformers may be seen in how the author of <hi rend="italic">Ancrene Wisse</hi> (ca. 1225–1230) urged recluses to beware of using secular priests and monks as confessors while also advising them to go ahead and trust friars.<note target="#53" type="footnotelink">53</note> But, prior to the friars’ coming, <hi rend="italic">Proverbs</hi> and <hi rend="italic">Poema Morale</hi> circulated as compendia of moral advice — secular and pious, respectively — well-trusted instances of sagacious truth-telling in the vernacular. The Jesus 29 compilation is, therefore, not simply a miscellany of texts by friars that illustrates their preaching in vernacular verse. And, to examine authorship further, the early Middle English proverb-set <hi rend="italic">Proverbs</hi> is not, of course, authentically by the revered King Alfred; it merely trades on his reputation for wisdom, as do the two contestive birds in <hi rend="italic">Owl</hi>, who invoke Alfred’s name over and over again. “So says Alfred” brightens their barbs with the sheen of English good sense and judicial authority. Correspondingly, other poems in Jesus 29 cite Bede’s wit (<hi rend="italic">Ten Abuses</hi>) or Solomon’s wisdom (<hi rend="italic">Love Rune</hi>). The title of one, <hi rend="italic">The Saws of Saint Bede</hi>, derives from the medieval bent for mythically ascribing authorship to men revered for wise words.<note target="#54" type="footnotelink">54</note></p>
+ <p style="body" n="19">An author’s prayer occurs at the end of <hi rend="italic">The Passion of Jesus Christ in English</hi>, the first item in the Jesus sequence. The passage petitions God to bless the poet and his “ordre”:</p>
+ <quote><lg><l>And he that haveth this rym iwryten,<caesura/>beo hwat he beo,</l><l>God, in thisse lyve<caesura/>hyne lete wel itheo,</l><l>And alle his iveren,<caesura/>bothe yonge and olde.</l><l>God, heom lete heore ordre<caesura/>trewliche her holde,</l><l>That hi mote togadere<caesura/>cume to heveriche blysse</l><l>Hwanne hi schullen toparty<caesura/>ut of lyve thisse.</l><l>(lines 697–702)<note target="#55" type="footnotelink">55</note></l></lg></quote>
+ <p style="bodyfirst" n="14">These lines indicate an original audience of brethren, young and old, in a religious house of canons, monks, or friars. The reference is, however, too general to offer more detail than that.</p>
+ <p style="body" n="20">In the following paragraphs I survey the authorial names, or other authorial indications, attached to particular works in Jesus 29, English and French. I also include a look at those texts that are the most reliably datable, in particular the two anomalous prose works. The only verifiable English author is Thomas of Hales. His profession as Franciscan friar, named in the rubric to <hi rend="italic">Love Rune</hi>, is largely responsible for the “friar’s miscellany” misnomer that formerly attached to Jesus 29. While that effort can now be dismissed as flawed, it remains critically important that we focus attention on this single named historical presence in the English lyrics of the Jesus anthology.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Thomas of Hales</hi>. The only English author whose name is unequivocally preserved in the Jesus manuscript is the Franciscan friar Thomas of Hales (fl. 1220–1280). His name and profession appear at the head of <hi rend="italic">Love Rune</hi> in a long incipit.<note target="#56" type="footnotelink">56</note> <hi rend="italic">Love Rune</hi> was composed ca. 1240–1272 during the reign of Henry III, the king honored by name in the verse. Confirmed facts about Thomas’s life are few, yet clearly indicative of his significance. He was a young chorister at Hereford Cathedral in the early thirteenth century, perhaps during the bishopric of Ralph of Maidstone, 1234–1239. Maidstone left his position in 1239 to enter the Franciscan order, and others followed him. Quite possibly, young Thomas was among them. In 1252–1256, Thomas was associated by name with Adam Marsh (ca. 1200–1259) and other important Franciscans in London, so he may have belonged to the London house.<note target="#57" type="footnotelink">57</note> The prominent Marsh was a protégé and intimate friend of Robert Grosseteste (ca. 1175–1253), bishop of Lincoln (1235–1253), and both had political influence as spiritual advisors to Henry’s Queen Eleanor of Provence, as well as to Henry’s sister Eleanor de Montfort and her husband Simon de Montfort.<note target="#58" type="footnotelink">58</note></p>
+ <p style="body" n="21">New life-records about Thomas of Hales, reported in 1998 by a historian-biographer of Queen Eleanor, have not yet been stitched into literary scholars’ accounts of this author. Prior to Eleanor’s surviving correspondence with the much-trusted Marsh and the very learned Grosseteste, and prior to Thomas’s own record of association with Adam Marsh in London, Thomas of Hales served, for about six years, 1246–ca. 1252, as counselor to the queen, perhaps as her personal chaplain.<note target="#59" type="footnotelink">59</note> Discovery of documents placing Thomas fully in the ambit of Queen Eleanor radically deepens the level of familiarity to be understood in the compliment paid to Henry III’s piety in <hi rend="italic">Love Rune</hi>. Humility in kingship was a quality that Henry cultivated publicly and privately. Thomas’s adroit compliment pays homage to this virtue by praising the king’s fealty and humility before Christ’s kingship while simultaneously honoring his royal primacy. Positioning the compliment at the center of the poem, Thomas designed it to be displayed prominently at the head of a recto.<note target="#60" type="footnotelink">60</note> Both king and queen were avid supporters of the Franciscan order. It is therefore very reasonable, now, taking into account Thomas’s career at court, to postulate that <hi rend="italic">Love Rune</hi> was created under the auspices of royal patronage.<note target="#61" type="footnotelink">61</note></p>
+ <p style="body" n="22">We can confirm only a few literary works made for Queen Eleanor under her or the king’s commission. Unsurprisingly, two are deluxe productions rendered in French, the language the queen spoke by birth and at court.<note target="#62" type="footnotelink">62</note> Because she spent most of her life in England, she surely could speak English too, but we have no external evidence that an English work like <hi rend="italic">Love Rune</hi> was ever produced for her.<note target="#63" type="footnotelink">63</note> One elite Anglo-French product dedicated to the queen is the elegant, illustrated <hi rend="italic">Estoire de seint Aedward le rei</hi> (<hi rend="italic">History of Saint Edward the King</hi>) (1236–1245) by Matthew Paris (ca. 1200–1259).<note target="#64" type="footnotelink">64</note> Henry III adopted Edward the Confessor as his own patron saint, a model of holy kingship — a stance put on bold public display in his sumptuous rebuilding of Westminster Abbey (the Confessor’s church and burial site). Christened in the saint’s honor was Henry and Eleanor’s eldest son, the future Edward I. A second fine book believed to be produced for Eleanor is the exquisite Trinity Apocalypse (1255–1260).<note target="#65" type="footnotelink">65</note> Another one, openly dedicated to her, is John of Howden’s <hi rend="italic">Rossignos</hi> (<hi rend="italic">The Nightingale</hi>) (1273–1282).<note target="#66" type="footnotelink">66</note> Unfortunately, <hi rend="italic">Rossignos</hi> does not survive in its original mode of presentation — presumably another delicate book — but only in a manuscript of about a century later.<note target="#67" type="footnotelink">67</note></p>
+ <p style="body" n="23">The remainder of what we can confirm about Thomas of Hales comes from a limited oeuvre of religious writings in Latin and French. Beyond <hi rend="italic">Love Rune</hi>, Thomas authored a Latin prose life of Mary (surviving in many copies) and an Anglo-Norman sermon with Latin prayers on Christ’s Judgment likened to the parable of the talents.<note target="#68" type="footnotelink">68</note> Significantly, Thomas’s extant corpus seems always directed toward aristocratic women, individual or plural. Given his recorded relationship with Queen Eleanor and his documented presence in London, it is intriguing that his French sermon survives solely in a thirteenth-century volume associated with Westminster Abbey, where it is “written down very much as it was delivered” in a hand “of about 1270 or earlier.”<note target="#69" type="footnotelink">69</note> His popular <hi rend="italic">vita</hi> of Mary includes an “intrusive passage” on the founding of the order of Fontevrault, a house particularly close to the royal family, as burial site of Henry’s mother, uncle, and grandparents (Henry II and Eleanor of Aquitaine).<note target="#70" type="footnotelink">70</note></p>
+ <p style="body" n="24">Thomas was likely more prolific than we can document. A sign of his writerly stature abides in how his works carried on in late Middle English. The Latin life of Mary, a work of affective piety, was translated as <hi rend="italic">The Lyf of Oure Lady</hi>, and <hi rend="italic">Love Rune</hi> also continued to circulate because it was modernized a century later as the simpler poem <hi rend="italic">Clene Maydenhod</hi> found in the late-fourteenth-century Vernon manuscript.<note target="#71" type="footnotelink">71</note> It may be that we lack further attributions to Thomas because contemporary, close-knit circles recognized his oeuvre and felt no urgency to label it. It is worth considering how there could be more English verse by Thomas hidden in the Jesus sequence. Because Jesus 29 is the only known repository for an English lyric by Thomas, it follows that the Jesus 29 thread of anonymous poems is the best site for others to be preserved in, if any are.</p>
+ <p style="body" n="25">Consequently, it is important that the evidence be reexamined. Where <hi rend="italic">was</hi> the Jesus manuscript deposited when the monasteries of England were dissolved and their libraries dispersed? Hill proposes that Jesus 29 (Part II) came from St. Augustine’s Abbey, Gloucestershire, citing its association with the Berkeleys. But among the religious houses visited by Commissioner Carne were also Hales (i.e., Halesowen) in Worcestershire and Amesbury in Wiltshire. The former is attached to Thomas as chosen place-name, his probable birthplace. The latter is tied to Queen Eleanor, for that is where she died a nun in 1291. These links surely bear as much consideration as the birth family of Carne’s wife, a Berkeley. Carne could have picked up the valuable anthology at Halesowen, in the region belonging to Thomas and the scribe; or at Amesbury, from a library used by the queen dowager and her granddaughters — Mary and Eleanor, age seven and eleven — who lived with her there as nuns, from 1286 until her death in 1291.<note target="#72" type="footnotelink">72</note></p>
+ <p style="body" n="26">We also should ask how poetry by Thomas of Hales fell into the hands of the Jesus scribe. A tantalizing hint exists in the array of texts in the medieval library of Titchfield Abbey. As I have noted, the search for exemplars leads to a lost verifiable MS X (bearer of <hi rend="italic">Owl</hi>, Chardri, and English verse) and to the Titchfield Abbey library known only by its 1400 catalogue. A Premonstratensian house of white canons, Titchfield was founded in 1232–1233 by its mother house Halesowen Abbey, itself founded in 1218.<note target="#73" type="footnotelink">73</note> Titchfield’s first abbot, Richard, was a recruit from Halesowen; in following years the mother house made regular visitations to its colony house. Holding about two hundred books, the Titchfield Abbey library likely contained material that had circulated there from Halesowen, whose patrons were the powerful Cantilupes.<note target="#74" type="footnotelink">74</note></p>
+ <p style="body" n="27">These potent associations raise the matter of where a cache of Thomas’s English verse, if it existed, would have been stored and read. Would it have been in a West Midlands religious foundation (Hales, i.e., Halesowen); or in an episcopal library frequented by a cohort of clerks (Hereford); or in a Franciscan house of learned, well-connected friars (London); or in a library tailored to a wealthy patron, perhaps in a nunnery (Amesbury)? Thomas’s English lyrics might have numbered only one, or many. They might have circulated only narrowly among close-knit circles (friars and aristocrats), or more widely. One can only speculate. But, to stay within the confines of Jesus 29 and the evidence it gives, one finds <hi rend="italic">Love Rune</hi>’s distinctive meter in other poems. It is the stanza form used for <hi rend="italic">Will and Wit</hi>, <hi rend="italic">The Five Joys of Our Lady Saint Mary</hi>, <hi rend="italic">Fire and Ice</hi>, and <hi rend="italic">A Homily on Sooth Love</hi>.<note target="#75" type="footnotelink">75</note> A delicate lyric in a different meter, <hi rend="italic">Song of the Annunciation</hi>, is paired with <hi rend="italic">Love Rune</hi>, following it as <hi rend="italic">cantus</hi> — a thematic yoking that seems likely to be from Thomas’s pen. Others stand as contenders: the homiletic, female-centered <hi rend="italic">Woman of Samaria</hi>; the polemic, chivalry-tinged <hi rend="italic">When Holy Church Is Under Foot</hi>; the clever, gentle preaching in <hi rend="italic">A Little Sooth Sermon</hi>; the idealistic, St. Thomas-centered <hi rend="italic">On Serving Christ</hi>; and the lyrically affective <hi rend="italic">Orison to Our Lord</hi>. At the very least, Jesus 29 stands as witness, in thirteenth-century English religious verse, to a pressing demand and ready response for expressive modes more rich and varied than mere dreariness and doom.<note target="#76" type="footnotelink">76</note> The very presence of Thomas of Hales’s <hi rend="italic">Love Rune</hi> tells us that this is so, and also requires that we delve deep in scrutinizing the whole sequence.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Two Mysteries from Guildford: Nicholas and John</hi>. In seeking clues on the authorship of <hi rend="italic">The Owl and the Nightingale</hi>, scholars are confronted by two names, both said to be “of Guildford.”<note target="#77" type="footnotelink">77</note> The identities of Nicholas of Guildford and John of Guildford cannot be traced to specific individuals with any level of certainty. However, in light of Thomas of Hales’s documented association with Eleanor of Provence, it is worth observing (as has not been previously in <hi rend="italic">Owl</hi> scholarship) that Guildford, Surrey, located seventeen miles south of Windsor, was counted among Queen Eleanor’s many holdings during her marriage and widowhood, 1235–1291.<note target="#78" type="footnotelink">78</note> In 1274, two years after Henry III’s death, she established a Dominican house, the Guildford Black Friary, dedicated to the memory of a grandson, Prince Henry, who died that year at age six. The queen dowager, in mourning, arranged for the boy’s heart to be buried there.</p>
+ <p style="body" n="28">A more tenuous hypothetical link might further associate the poem with Queen Eleanor and the reading practices of women in her circle. <hi rend="italic">Owl</hi> may borrow obliquely from a contemporary fashion among wealthy pious readers for nightingale imagery, taking this stylized affectation and transmuting it to secular English expression. The debate-poem’s name in Jesus 29 is <hi rend="italic">not</hi> the title we know today, but rather the reverse: “altercacio inter filomenam et bubonem,” a debate between <hi rend="italic">a nightingale and an owl</hi>, setting “filomenam” first.<note target="#79" type="footnotelink">79</note> As mentioned above, an Anglo-French work of guided meditation named <hi rend="italic">The Nightingale</hi> (<hi rend="italic">Rossignos</hi>) was dedicated to Queen Eleanor by its author John of Howden. Like Thomas of Hales in the 1240s and 50s, John served as spiritual counselor to a then-widowed Eleanor in the 1270s and 80s. In documents, he is listed as both queen’s clerk (referring to Eleanor) and king’s clerk (referring to Edward I).<note target="#80" type="footnotelink">80</note> While little is known of his life, John ranks among the most important of thirteenth-century Anglo-Latin authors. <hi rend="italic">Rossignos</hi>, his only Anglo-French work, is styled similarly to his more learned <hi rend="italic">Philomena</hi> (again, <hi rend="italic">The Nightingale</hi>).<note target="#81" type="footnotelink">81</note> Both are long texts of lyrical devotion based on the Life, Passion, and Resurrection of Christ and the Ascension of his Mother, adorned with bird imagery and clerical erudition.<note target="#82" type="footnotelink">82</note> The title is explained in the prose incipit:</p>
+ <quote>Et a non ceste pensee ‘Rossignos’, pur ce ke, sicome li rossignos feit de diverses notes une melodie, auci feit cest livres de diverses matires une acordaunce. Et pur ce enkores a il non ‘Rossignos’ que il estoit fez e trové en un beau verger flori ou rossignol adés chauntoient. Et pur ce fu il faiz que li quor celi qui le lira soit esprys en l’amour nostre Seignour. Benoit soit qui le lira!</quote>
+ <quote>(And this meditation has the name “Nightingale,” because, just as the nightingale makes from diverse notes a melody, so too this book makes from diverse subjects a harmony. And also it has the name “Nightingale” because it was composed and invented in a beautiful flowering garden where nightingales were accustomed to sing. And it was made in order that the heart of one who reads it may be inspired in the love of our Lord. Blessed be the reader!)<note target="#83" type="footnotelink">83</note></quote>
+ <p style="bodyfirst" n="15">When <hi rend="italic">Owl</hi> is thus read against a contemporary courtly fashion of elegant piety and nightingale lyricism, the sequential joining of <hi rend="italic">The Passion of Jesus Christ in English </hi>with an English “nightingale” becomes, in Jesus 29, subtly imitative of a literary trend, remade, recharged, and bifurcated, “en engleys.”<note target="#84" type="footnotelink">84</note></p>
+ <p style="body" n="29">To return to the clues of authorship in Jesus 29, the stronger of the two claimants is Master Nicholas of Guildford, a name provocatively cited in two passages in <hi rend="italic">Owl</hi>. First, Nicholas is said to have formerly been a wild adherent of the nightingale’s ways but now he is a man of more sober judgment (lines 192–214). Second, Nicholas is recommended as someone deserving of clerical advancement but regrettably overlooked (lines 1760–78). Then the birds fly off, at poem’s end, to seek Nicholas as the best judge of their debate (lines 1779–81).<note target="#85" type="footnotelink">85</note> These passages do not state that Nicholas is the poet but they hint at it. As Cartlidge observes, Nicholas is “a mystery to scholarship but plainly very familiar to those who first received the poem.”<note target="#86" type="footnotelink">86</note> In research published in 2010, after he had edited <hi rend="italic">Owl</hi>, Cartlidge dissects a promising lead. Having convincingly argued that <hi rend="italic">Owl</hi> is to be dated post-1272 (that is, after Henry III’s death), Cartlidge locates a Nicholas of Guildford who was a king’s clerk in the 1290s to 1320s.<note target="#87" type="footnotelink">87</note> He was presented to the living of Chesterton, Warwickshire, in 1297, dwelt in Oxford in 1322, and died around 1324. Records show him belonging to a circle of king’s clerks that included, importantly, John Langton, Master of the Rolls, 1286–1292, later Lord Chancellor, 1292–1302. If this is the actual Nicholas, then references to the deceased King Henry in <hi rend="italic">Owl</hi> ought to be reconsidered in light of this man’s probable ties in the 1270s and 80s — connections that led him to an eventual West Midlands benefice and powerful allies in academic and royal circles. Might this king’s clerk have had, in earlier days as a precocious poet, a motive to focus on women’s feelings on love and marriage, so as to please Queen Eleanor and those of her circle?</p>
+ <p style="body" n="30">The second man of Guildford is even more elusive. Without any knowledge of who he was, the presence of another “Guildford” in Jesus 29 certainly makes it seem that this place-name or family surname was recognizable to the Cotton and Jesus scribes and their anticipated audiences. On blank space on fol. 155v, at the end of <hi rend="italic">Passion</hi>, Rev. Wilkins (the seventeenth-century owner of Jesus 29) recorded a passage from a leaf that had evidently been damaged and become detached from the book:</p>
+ <quote><lg><l>On parte of a broaken leafe of this</l><l>MS. I found these verses written, </l><l>whereby the Author may bee gues’t at.</l><l><space rend="indent1"/>viz.’</l><l>Mayster Iohan eu greteþ . of Guldeuorde þo.</l><l>And sendeþ eu to Seggen . þat synge nul he no.</l><l>Ac on þisse wise he wille endy his song:</l><l>God Louerd of heuene . beo vs alle among:</l><l><space rend="indent1"/>AMEN.<note target="#88" type="footnotelink">88</note></l></lg></quote>
+ <p style="bodyfirst" n="16">Multiple discussions of this inserted passage have not resolved who John was or even what the passage indicates.<note target="#89" type="footnotelink">89</note> No one knows where the damaged “broaken leafe” (now long gone) was originally positioned in the book. Its placement is perhaps indicated by where Wilkins added the note, that is, before or after <hi rend="italic">Passion</hi> (which fills the first quire), whose meter it matches. Or, possibly, the “broaken leafe” refers to a later folio, one that is now discernibly lost. Other unknowables arise from this passage. Wilkins “gues’t” John of Guildford to be “the Author,” but of what? Were the couplets drawn from a longer poem, or did they stand alone? Were they in the hand of the scribe, the corrector, or an early owner? (The punctuation suggests the scribe’s hand.) <hi rend="italic">Passion</hi> precedes <hi rend="italic">Owl</hi>, so might these lines name the <hi rend="italic">Owl</hi> poet — a friend or relative of Nicholas? None of these questions has a clear answer. The two Guildford men named in Jesus 29 remain enigmas. Yet Nicholas, who is named within <hi rend="italic">Owl</hi>’s lines, remains the stronger candidate for authorship of the debate-poem.</p>
+ <p style="body" n="31">We are not likely to ever know the name of this English nightingale’s author, but to glean a sense of the cultural ambience that summoned its making, many signs steer us into the fluid, multilingual, secular, and elite settings that fed literary activity in the thirteenth century. What Cartlidge has urged of readers is clearly true: “The sources and analogues of <hi rend="italic">The Owl and the Nightingale</hi> . . . need to be sought in French and Latin as well as in English.”<note target="#90" type="footnotelink">90</note></p>
+ <p style="bodysubection"><hi rend="bolditalic">The French Authors: Chardri, William the Clerk of Normandy, and Sauvage d’Arras.</hi> All of the Anglo-French items in Jesus 29 have authors whose names are known by attributions found in their works. Of Chardri, the most prominent presence, nothing is recorded outside his oeuvre of three poems totaling nearly 7,000 lines, preserved in the Jesus and Cotton manuscripts: <hi rend="italic">The Life of the Seven Sleepers</hi>, <hi rend="italic">The Life of Saint Josaphaz</hi>, and <hi rend="italic">The Little Debate</hi>.<note target="#91" type="footnotelink">91</note> “Chardri” seems to be the pen name of an unidentifiable churchman (not a friar) named Richard who lived and wrote in the late twelfth to early thirteenth century for an aristocratic audience.</p>
+ <p style="body" n="32">Of the second French author, William the Clerk of Normandy, more is known because his surviving literary corpus, larger and more dispersed than Chardri’s, contains hints as to his life and environs.<note target="#92" type="footnotelink">92</note> Writing in French not Anglo-Norman, William resided in the diocese of Lichfield, was married, and had children. The text found in Jesus 29 is an allegorical debate, <hi rend="italic">The Four Daughters of God</hi>, extracted from the prologue of a longer work: the Clerk’s <hi rend="italic">Life of Tobie</hi> (pre-1227), dedicated to William, prior of Kenilworth, a house of regular canons. The Clerk’s earliest, most popular work was <hi rend="italic">The Divine Bestiary</hi> (ca. 1210–1211), dedicated to a patron named Raoul, thought to be Ralph of Maidstone, who in 1223 was treasurer of Lichfield Cathedral, then bishop of Hereford, 1234–1239 — and possible early mentor of young Thomas of Hales.<note target="#93" type="footnotelink">93</note> William the Clerk wrote many long religio-didactic poems in the period 1210–1238. The subject of the Jesus 29 extract — the debate of Justice and Mercy, Peace and Truth — was very popular and had already appeared most famously in Robert Grosseteste’s <hi rend="italic">Castle of Love</hi> (ca. 1215).<note target="#94" type="footnotelink">94</note></p>
+ <p style="body" n="33">Sauvage, the third French poet in Jesus 29, has a shadowy identity. He is perhaps the “Sauvage d’Arras who was responsible for a <hi rend="italic">chanson</hi> and the <hi rend="italic">Dit de Dame Guile</hi> and who is thought to have died in 1305.”<note target="#95" type="footnotelink">95</note> His <hi rend="italic">Doctrinal</hi> (ca. 1267) appears in the second, all-French half of Jesus 29, occupying six folios that immediately precede the final fifty that hold Chardri’s poems. A text that deals with courtly virtues and manners, the <hi rend="italic">Doctrinal</hi> was popular in France and England, surviving in some thirty copies. Its original language was Continental French, and Jesus 29 is one of just a few Anglo-Norman copies. Another is MS Digby 86, a trilingual miscellany of similar provenance and date (Worcestershire, ca. 1280).<note target="#96" type="footnotelink">96</note> The intended reception for the <hi rend="italic">Doctrinal</hi> was, according to Cartlidge, clearly “the laity and, in particular, . . . the aristocracy”; Sauvage’s topic “evokes the demands of life in a noble household, and in this sense it is a ‘courtly’ rather than a religious text.”<note target="#97" type="footnotelink">97</note></p>
+ <p style="body" n="34">All in all, the French contents of Jesus 29 — the well-circulated works by William the Clerk and Sauvage, the more narrowly disseminated Anglo-French corpus of Chardri — indicate an anthologist’s desire to include didactic subjects in popular forms of allegorical debate, hagiographical narrative, and courtly instruction, all suitable for a lay elite audience.</p>
+ <p style="bodysubection"><hi rend="bolditalic">The Practical Prose: </hi><hi rend="bold">Shires</hi><hi rend="bolditalic"> and </hi><hi rend="bold">Assisa</hi><hi rend="bolditalic">.</hi> Two anonymous prose texts of practical reference, one in English, one in Latin, interrupt the flow of poetry in Jesus 29. Both come at the end of the English sequence before the French <hi rend="italic">Four Daughters of God</hi> and the English <hi rend="italic">Eleven Pains of Hell</hi>. <hi rend="italic">The Shires and Hundreds of England </hi>opens with a rubric and large ornate initial, showing that it belongs to the scribe’s overall plan. <hi rend="italic">Assisa panis Anglie </hi>fills blank space on a recto. While the hand is the scribe’s same spacious script, this bit of Latin, the only instance aside from rubricated titles, might be a filler designed to keep a useful item on hand. But it is also possible that these two items are intentionally joined: what is most notable about seeing them together is their stated, shared, legalistic Englishness.</p>
+ <p style="body" n="35"><hi rend="italic">Shires</hi> is probably the oldest text in Jesus 29. It describes the geographical length and breadth of England (categorized by jurisdictional law), itemizes the nation’s episcopal sees, and records the hidages of its shires. Hill detects internal evidence — mainly outdated descriptors — that establish an original date of 1086–1133.<note target="#98" type="footnotelink">98</note> The version in Jesus 29 has been modernized, a normal practice for the scribe. Cartlidge characterizes <hi rend="italic">Shires</hi> as “a handy geographical mnemonic . . . at odds with the literary character” of Jesus.<note target="#99" type="footnotelink">99</note> The Latin <hi rend="italic">Assisa</hi> on the pricing of bread, another reference text, dates from after 1256, the year it took force as a legal statute under Henry III.<note target="#100" type="footnotelink">100</note> The <hi rend="italic">Assisa</hi> protected consumers from pricing abuses by bakers.<note target="#101" type="footnotelink">101</note> It is the kind of text that would be kept in lay households as well as monasteries, serving as a way to control bakers’ charges — a swindling problem named in <hi rend="italic">A Little Sooth Sermon</hi> (lines 21–26). Such disputes continually plagued the diocese of Hereford and became an issue that led to public quarreling between the citizens of Hereford and Bishop Swinfield in 1262.<note target="#102" type="footnotelink">102</note> According to Hill’s theory, the Jesus scribe worked within Swinfield’s familia. But, by an alternative theory, Scahill notes that <hi rend="italic">Assisa</hi> “would be appropriate to, say, a gentle household as a centre of reference and authority, as well as of grain production,” and adds that <hi rend="italic">Shires</hi> might well have been included for a similar reason.<note target="#103" type="footnotelink">103</note></p>
+ <p style="bodysubection">With the exception of Thomas of Hales — and a possible clerk of Guildford — the authors of Jesus 29’s English poems remain anonymous, their vital ties having disappeared long ago. In contrast, the French authors of Jesus 29 are identifiable. Taken whole, the contents of Jesus 29 represent a scribe’s assemblage of English and French works drawn from West Midland exemplars, authored by a mixture of religious professionals: friars, lay clerks, canons, secular priests. As a compilation of both older and recent works, it illustrates the ready movement of vernacular texts amongst churchmen, cloistered or not, and the further flow of such texts to a laity receptive of instruction and entertainment. Some items speak to secular life (<hi rend="italic">Owl</hi>, <hi rend="italic">Proverbs</hi>). Others emanate from the imperative of preachers — saving souls — delivered as apocalyptic warnings, meditative prayers, or gentle homilies to individuals or communities in want of spiritual counsel.</p>
+ <p style="heading" n="6">An English Verse Anthology: Arrangements and Patterns</p>
+ <p style="bodyfirst" n="17">Aflame with warnings of death, hell, and Doomsday, the English verse of Jesus 29 has garnered a “decidedly austere” reputation.<note target="#104" type="footnotelink">104</note> A deeper look, however, yields substantial nuance, variety, and even cheer and humor in the collection. Influenced by <hi rend="italic">Owl</hi>’s presence, Annette Kehnel defines Jesus 29 as mainly a literary book, a “poetic anthology.”<note target="#105" type="footnotelink">105</note> John Frankis terms Jesus a “neat anthology for churchmen,” “strikingly literary” in its nature; he pinpoints tonal differences between the English and French parts: English lyrics brandish “evangelical puritanism,” while French texts adhere to “religious sobriety and conformity.”<note target="#106" type="footnotelink">106</note> Scahill detects in Jesus 29 the “strong compilatory tendency” that marked its period and region:</p>
+ <quote>The thirteenth century was an age of compilations of all kinds, and the impulse which led to the making of its great <hi rend="italic">summae</hi> is reflected also in the Jesus manuscript. The drawing together of diverse texts, not simply between the covers of the one volume, but in what appears to be a single enterprise, was an important aspect of vernacular literary activity in the South-West Midlands during the thirteenth and fourteenth centuries.<note target="#107" type="footnotelink">107</note></quote>
+ <p style="bodyfirst" n="18">Viewed as a coherent anthology, the Jesus lyrics reel modern readers into patterns of thought and sensibilities from the thirteenth century, fine-grained and shaded from religious to secular.</p>
+ <p style="body" n="36">In overall shape, the sequence begins with the Passion of Jesus and ends with the punishments of sinners in hell. Here is the eschatological logic of salvation history, with a soul’s final end depicted as damnation — a deterrent warning. Set inside these first and last items are the second and penultimate poems, an inner frame based on debate: the irresolvable wrangling of opposite birds set in the natural world; the debate and accord of the Four Daughters of God set in heaven. The first contest brandishes a lively vernacular English idiom, the second is recounted in the more subdued register of William the Clerk’s French.</p>
+ <p style="body" n="37">Another approach to seeing the sequence whole is to note the linguistic stress on “Englishness” in the three long opening works: a rubric announces that <hi rend="italic">Passion</hi> is in English, then <hi rend="italic">Owl</hi> features the language at high voltage, then a rubric announces <hi rend="italic">Poema Morale</hi> as “another treatise in English.” The English medium is self-consciously front and center, and capped most emphatically when the scribe includes, near the end, the prose <hi rend="italic">Shires</hi>, which literally delineates the mapped borders of England, followed by <hi rend="italic">Assisa</hi>, which records an English law. Trilingualism visibly returns in the last three items: the Latin <hi rend="italic">Assisa panis Anglie</hi>, French <hi rend="italic">Four Daughters</hi>, and English <hi rend="italic">Eleven Pains</hi> (with French/Latin rubrics). Each hell-pain serves as a warning to English people <hi rend="italic">in</hi> English.</p>
+ <p style="body" n="38">Embedded in the sequence are groupings — mainly pairings — that sustain the feel of an anthology. At least two pairs seem to show single authorship. <hi rend="italic">Doomsday</hi> and <hi rend="italic">Death</hi> occur side by side in every manuscript that holds them, and they match tonally and metrically. <hi rend="italic">Song of the Annunciation</hi> is appended as <hi rend="italic">cantus</hi> to the end of <hi rend="italic">Love Rune</hi>, an apt coda to the longer work’s sophisticated allusions to Gabriel’s message, intimating that the pairing is composed by Thomas of Hales himself.<note target="#108" type="footnotelink">108</note> Another set of poems, paired as <hi rend="italic">contrafacta</hi>, are songs sung to the same tune but opposed in meaning: <hi rend="italic">Death’s Wither-Clench</hi> and <hi rend="italic">An Orison to Our Lady</hi>. Here the authors are probably different: one has reformed an existing death lyric to convert it to religious piety.<note target="#109" type="footnotelink">109</note></p>
+ <p style="body" n="39">Other pairings are thematic. The aphoristic <hi rend="italic">Signs of Death</hi> and <hi rend="italic">Three Sorrowful Tidings</hi> are copied together without a visible break, and both admonitions on mortality serve visually on the page as a preface to <hi rend="italic">The Proverbs of Alfred</hi>. The <hi rend="italic">Antiphon of Saint Thomas the Martyr</hi> similarly acts as a musical introit to the next lyric, <hi rend="italic">On Serving Christ</hi>, which celebrates the English saint’s heroic martyrdom. <hi rend="italic">An Orison to Our Lord</hi> is matched to <hi rend="italic">A Homily on Sooth Love</hi> with a shared theme of patient forbearance; both items may stem from the pen of Thomas of Hales, to judge by style, content, and (for <hi rend="italic">Homily</hi>) meter. As already mentioned, the dramatic, expansive opening items, <hi rend="italic">Passion</hi> and <hi rend="italic">Owl</hi>, if taken to be a deliberate pairing, may elliptically gesture toward a thirteenth-century courtly fashion, in Latin and French, for guided, wide-ranging meditations on the Life and Passion of Christ, styled by their authors as lyric “nightingales.”</p>
+ <p style="heading" n="7">The Jesus 29 Sequence: An Index of Topics</p>
+ <p style="bodyfirst" n="19">Fitting the many topics of the Jesus poems into a single box is impossible, but taken together, they paint a lively social and intellectual milieu for <hi rend="italic">The Owl and the Nightingale</hi>. Reading the bird-debate in Jesus 29 — where it resides in a sustained display of English word-art — refutes how <hi rend="italic">Owl</hi> has been traditionally regarded as an inexplicable phenomenon, without precedent, without context. When read amid the Jesus sequence, <hi rend="italic">Owl</hi> gains a historical groundedness, while <hi rend="italic">still</hi> being an astonishing specimen of vernacular originality. The Jesus manuscript affirms <hi rend="italic">Owl</hi>’s status as a virtuoso performance that glories in its English medium and is <hi rend="italic">situated</hi> in just that way.</p>
+ <p style="body" n="40">The following paragraphs provide a brief index of topics that appear often enough in the Jesus lyrics to become thematic threads. Inquisitive readers will find many others. The Jesus lyrics have a character of their own. It is not precisely like the blend of secular and religious love lyric, and the fluent trilingual exchanges, that make the later Harley Lyrics so distinctive. It is instead a kind of sturdily moralizing, confidently English bravura (linguistic, religious, political), with flashes of humor and wit, and, most of all, a pragmatic realism about how to thrive in life and what to fear most in the afterlife.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Adam’s Fall.</hi> The original sinful condition of humankind is ever on the minds of poets who urge confession and repentance. “Ure forme-faderes gult” (Our first father’s guilt) has ushered in every man and woman’s sad fate of aging and death (<hi rend="italic">Poema Morale</hi>, line 195). The poet of <hi rend="italic">A Little Sooth Sermon</hi> preaches the doctrine of the Fall before colorfully painting portraits of human malfeasance. The poet of <hi rend="italic">On Serving Christ</hi> stresses that Jesus died not for his own sins, but for Adam’s, and as Adam’s heirs we are headed to hell if we do not repent.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Central Sovereignty. </hi>Middle English poets often reveal core beliefs in how they structure poems symmetrically around an event or image fixed at the lyric’s center.<note target="#110" type="footnotelink">110</note> Kingship, especially the sovereignty of Christ crucified, is often the pinnacle event for such structures. This device appears in <hi rend="italic">Love Rune</hi> (Christ on the Cross, contrasted to Henry III’s royal humility); <hi rend="italic">An Orison to Our Lord</hi> (the Passion read doubly as torture and divine kingship); and <hi rend="italic">On Serving Christ</hi> (another cross, creatively invoked in Saint Peter’s upside-down crucifixion).<note target="#111" type="footnotelink">111</note> The single poet of <hi rend="italic">Doomsday</hi> and <hi rend="italic">Death</hi> uses this device to embed remedies for end-point terror: in <hi rend="italic">Doomsday</hi>, Mary’s intercession; in <hi rend="italic">Death</hi>, almsgiving. In <hi rend="italic">A Little Sooth Sermon</hi>, a perverted Eucharist marks the poem’s center. In <hi rend="italic">Holy Church</hi>, the female Church suffers stoning in the middle <hi rend="italic">laisse</hi>. In <hi rend="italic">Homily</hi>, the sacrament of confession grounds the central turning-point.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Childrearing.</hi> Childrearing, particularly of unmannered little owlets, provides comic material in <hi rend="italic">Owl</hi>, drawn from animal fables. <hi rend="italic">The Proverbs of Alfred</hi> also concerns itself with instilling good habits in children so that they bring credit to their parents. After this thread closes <hi rend="italic">Proverbs</hi>, the next item, <hi rend="italic">An Orison to Our Lord</hi>, invokes a meditative, affective imagining of the Christ Child as a vulnerable youngster. <hi rend="italic">A Little Sooth Sermon</hi> depicts the challenges faced by the parents of teenagers who ignore curfews and flaunt the rules.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Comedy.</hi> Despite its reputation for death and doom, the Jesus sequence is a treasure house of early Middle English comic verse. Most of the laughter erupts from the exuberant taunts and aggressive insults that fly in <hi rend="italic">Owl</hi>, which, at more than 1,700 lines, occupies nearly a third of the sequence. On a smaller scale, yet also acute in human observation, are the village foibles painted by a moral satirist in <hi rend="italic">A Little Sooth Sermon</hi>. <hi rend="italic">Will and Wit</hi> is a funny epigram on wayward Will frustrating the ever-sensible Wit. Dark humor marks the personifications of Death in <hi rend="italic">Death’s Wither-Clench</hi> (Death lurks in your shoe). <hi rend="italic">Proverbs</hi> and <hi rend="italic">Ten Abuses</hi> preserve valuable instances of pithy, understated vernacular wit.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Confession.</hi> A tenet of the Christian faith in thirteenth-century England, post-Lateran IV (1215), was the necessity of confession. The author of <hi rend="italic">Passion</hi> explains that confession is required for salvation: it destroys the Devil. Opening in the voice of a old man with rueful regrets, <hi rend="italic">Poema Morale</hi> serves as a confessional aid, spurring a reader’s mindfulness of his or her spiritual state. In <hi rend="italic">Saws</hi>, readers are exhorted to “Makie we us clene and skere” (Let’s make ourselves clean and pure) (line 28) by repenting all seven sins. <hi rend="italic">Homily</hi> warns that doom is nigh for any who neglect confession, and <hi rend="italic">Eleven Pains</hi> reinforces that warning by showing the unconfessed groaning and lamenting in hell.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Courtly Aesthetics.</hi> In introductory lines, the poet of <hi rend="italic">Passion</hi> sets his religious poem in opposition to courtly romances of Charlemagne, yet he also restyles Roman soldiers as “knyhtes” (line 379). <hi rend="italic">Holy Church</hi> suggests a chivalric defense of Holy Church, gendered as an abused female in need of rescue. <hi rend="italic">On Serving Christ</hi> celebrates Saint Thomas in a spectacularly epic mode, blending the alliterative long line of Layamon’s <hi rend="italic">Brut</hi> with the <hi rend="italic">laisse</hi> of French <hi rend="italic">chansons de geste</hi>. Composed in a rich style, evocative of courtly values and fine aesthetics, <hi rend="italic">Love Rune</hi> urges the soul’s acceptance of Christ as her mystic Lover Knight.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Death.</hi> Jesus 29 merits its grim reputation as a gathering spot for early Middle English lyrics on death. The collection holds <hi rend="italic">Death’s Wither-Clench</hi>, a song that personifies Death; <hi rend="italic">Death</hi>, a fearsome companion to <hi rend="italic">Doomsday</hi>; <hi rend="italic">Saws</hi>, a vivid imagining of the enshrouded corpse; and <hi rend="italic">Signs of Death</hi>, a visceral, step-by-step enactment of dying. Two items focus on Christ’s death on the Cross: <hi rend="italic">Passion</hi> and <hi rend="italic">An Orison to Our Lord</hi>. The <hi rend="italic">Passion</hi> poet remarks upon Christ’s fear of death. Likewise, mortal fears infect <hi rend="italic">Poema Morale</hi>, <hi rend="italic">An Orison to Our Lady</hi>, and <hi rend="italic">Three Sorrowful Tidings</hi>. Even the comic <hi rend="italic">Owl</hi> looks at mortality: how the owl is a harbinger of death, and what is the use of each bird postmortem. <hi rend="italic">On Serving Christ</hi> takes a heroic stance on the subject of martyrdom. <hi rend="italic">Homily</hi> sums up the material truth: “Crist us haveth of eorthe iwrouht; to eorthe he wule us sende” (Christ has created us from earth; to earth he will send us) (line 13).</p>
+ <p style="bodysubection"><hi rend="bolditalic">Debate.</hi> In the English works, a debate mode is found only in <hi rend="italic">Owl</hi>, but it is wrong to consider it absent from the rest of Jesus 29. A debate structure defines two French works: Chardri’s <hi rend="italic">Little Debate</hi> and <hi rend="italic">The Four Daughters of God</hi> extracted from William the Clerk of Normandy’s <hi rend="italic">Life of Tobie</hi>. If one takes the whole English sequence as spanning <hi rend="italic">Passion</hi> to <hi rend="italic">Eleven Pains</hi>, then within that frame is another frame, the second and penultimate items: secular <hi rend="italic">Owl</hi> and celestial <hi rend="italic">Four Daughters</hi>. There are also one-sided speeches, the addressee silent but vividly imagined: in <hi rend="italic">Doomsday</hi>, God speaks to the wicked and the good; in <hi rend="italic">Death</hi>, a soul blames its body. Oppositional dialogue also marks <hi rend="italic">Passion</hi>’s gospel narrative, and <hi rend="italic">Eleven Pains</hi> opens as a dialogue between a sinner and Satan.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Doomsday.</hi> In the poems of Jesus 29, the Last Judgment is a popular inflection point for terror and drama. <hi rend="italic">Doomsday</hi> announces the signs and sights of the Last Day. The subject colors the final prayer of the fragment <hi rend="italic">Fire and Ice</hi>. In <hi rend="italic">Poema Morale</hi>, Doomsday is vividly imagined as the moment when all of a life’s hidden secrets will be revealed, and the author of <hi rend="italic">On Serving Christ</hi> declares that all people must expect to be judged for their deeds. A vivid scene of Judgment in <hi rend="italic">Saws</hi> paints God addressing, in turn, the wicked and the good. In <hi rend="italic">Homily</hi>, it is declared that the Doom will come down on all who fail to confess.</p>
+ <p style="bodysubection"><hi rend="bolditalic">England as Nation.</hi> <hi rend="italic">Shires</hi> explores England as a bordered nation with defined shires and episcopal sees. Interest in the concept of “England” and “the English people” lurks in other items. In <hi rend="italic">Proverbs</hi>, King Alfred is “Englene hurde, / Englene durlyng” (shepherd of the English, / Beloved by the English) in “Englene londe” (the land of the English) (lines 6–8). Veneration is shown for English saints, particularly Saint Thomas (<hi rend="italic">Holy Church</hi>, <hi rend="italic">Antiphon</hi>, <hi rend="italic">On Serving Christ</hi>). Besides Beckett, <hi rend="italic">Holy Church</hi> venerates the Canterbury archbishops Stephen Langton and Saint Edmund Rich (older contemporaries of Henry III). King Henry is named thrice (once in <hi rend="italic">Owl</hi>, twice in <hi rend="italic">Love Rune</hi>), and in <hi rend="italic">Owl</hi> some xenophobia arises in how savage men of other nations are described. In the Jesus 29 sequence, a showcasing of the vernacular tongue merges emphatically with geography, law, and a religious sense of nation.<note target="#112" type="footnotelink">112</note></p>
+ <p style="bodysubection"><hi rend="bolditalic">English Language.</hi> The English sequence of Jesus 29 is an avowedly self-conscious display of the native vernacular that, when compared to French, appeared historically much less often in manuscripts. The first poem of Jesus 29 signals, with a French title, the thirteenth-century novelty of poetry in English: <hi rend="italic">La passyun Jhesu Crist en Engleys</hi>. It ends, too, with a kind of linguistic manifesto: the apostles receive the Holy Spirit and accept the mandate to go forth and preach in different tongues. The message to preach Christianity in a new linguistic medium is thus a self-reflexive move suggestive of the sequence itself. Most rubrics are in Latin or French, as if either is the ruling matrix language. Two more announce, however, that English is on display: “in anglico” (<hi rend="italic">Poema Morale</hi>, <hi rend="italic">Antiphon</hi>). Praying to Thomas is said to be especially valuable because he knows English (<hi rend="italic">Antiphon</hi>, line 8).</p>
+ <p style="bodysubection"><hi rend="bolditalic">Estates Satire.</hi> The Middle English genre of estates satire is known best as the model for Chaucer’s General Prologue to <hi rend="italic">The Canterbury Tales</hi>. Small evocations of this lively motif — a satiric parade of people from different professions or social ranks — occur in various settings. In <hi rend="italic">Saws</hi>, the poet, being serious and also a little comic, matches occupation traits to fates in hell. In <hi rend="italic">Holy Church</hi>, the writer names each estate that abuses the Church, and in <hi rend="italic">Ten Abuses</hi> the list signals how each estate wreaks havoc on the social order. The topos is cleverly deployed in <hi rend="italic">A Little Sooth Sermon</hi>, where the estates graduate in style from generalized male stereotypes to recognizable neighbors, male and female. <hi rend="italic">Proverbs</hi> lays out the conservative social model: God is supreme, a king must be wise, nobles must judge justly, and knights must keep order.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Heaven and Hell.</hi> A vivid sense of the extremes awaiting humans in the afterlife — hell’s pain or heaven’s bliss — colors the moral imagination of the Jesus poems. An eye-popping tour of hell is undertaken in <hi rend="italic">Eleven Pains</hi>, based on the well-known Vision of Saint Paul. In a final personal gesture, the scribe prays that his soul be sent to heaven. <hi rend="italic">Poema Morale</hi> paints horrific scenes of hell’s terrors succeeded by a telling of heaven’s joys, apportioned not equally but according to individual merit (lines 353–54). More imaginings of hell may be found in <hi rend="italic">Death</hi>, where Satan has hideous horns and flaming nostrils, and <hi rend="italic">Saws</hi>, where sinners lament and suffer hunger and thirst, heat and cold. Heaven is a rich dwelling suffused with love and harmony, where commoner and knight are equal, in <hi rend="italic">Homily</hi>. Based in the physical here and now, <hi rend="italic">Owl</hi> lacks these setpieces, yet the nightingale proudly claims that her song allows a foretaste of heaven.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Kingship.</hi> The general attitude is religious, hierarchical, and conservative: God is the supreme King. Ruling under God, the nation’s king must be wise, humble, and measured, not willful (<hi rend="italic">Ten Abuses</hi>, <hi rend="italic">Proverbs</hi>).<note target="#113" type="footnotelink">113</note> Henry III is the monarch who hovers in the political background of the Jesus lyrics. He is living and enthroned when named in <hi rend="italic">Love Rune</hi> by Thomas of Hales (lines 41, 51), but deceased in <hi rend="italic">Owl</hi> (line 1091) (the king named here is likelier to be Henry III than Henry II). Thomas’s royal compliment subjugates Henry to Christ (humbling the king’s power), and so too does <hi rend="italic">Passion</hi> set Charlemagne beneath Christ. In <hi rend="italic">The Woman of Samaria</hi>, it is affirmed that Jesus is the Messiah. <hi rend="italic">An Orison of Our Lord</hi> locates God’s sovereign Kingship in his Son’s patient acceptance of pain.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Law.</hi> Legal wrangling, rhetorical ingenuity, and closely parsed logic form the comic essence of <hi rend="italic">Owl</hi>, lasting until the debaters fly off to seek outside judgment. The jurisdictional divisions of England — West Saxon law, Danelaw, and Mercian law — are spelled out in <hi rend="italic">The Shires and Hundreds of England</hi>. Following that geographical account is a Latin statute on the pricing of bread, named specifically as English (<hi rend="italic">Assisa panis Anglie</hi>). Legal authority informs <hi rend="italic">Proverbs</hi>, with Alfred acting as the wise, law-bound arbiter of social order.<note target="#114" type="footnotelink">114</note> Lawlessness is bemoaned in <hi rend="italic">Holy Church</hi>, and, in a more local and comic manner, in <hi rend="italic">A Little Sooth Sermon</hi>. On the idea of God as divine Judge, see the category “Doomsday.”</p>
+ <p style="bodysubection"><hi rend="bolditalic">Love Lyric.</hi> The transfer of secular love language to religious song is rare in Jesus 29, especially in comparison to the lyrics of the later Harley 2253 manuscript. Songs to God and the Virgin adopt the worshipful stance of salutation, and dwell at an awed distance from the divine addressee, as in <hi rend="italic">An Orison to Our Lord</hi>, <hi rend="italic">An Orison to Our Lady</hi>, <hi rend="italic">The Five Joys</hi>, and the two Annunciation hymns. The chief locus for an emotional transfer of the language of secular love-longing to God is <hi rend="italic">Love Rune</hi>. <hi rend="italic">Homily</hi> stresses God’s love for humanity and the love that mortals owe to him in return, but here the attitude is that of a community, not an individual. Traditional strains of secular love lyric are evoked in <hi rend="italic">Owl</hi>, in the nightingale’s spirited defense of how her song heartens and soothes lovers.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Mary.</hi> Marian devotion runs as a hopeful lifeline through the Jesus lyrics’ pessimism. Veneration of the Blessed Virgin Mother offers an intercessory remedy to death. The poet of <hi rend="italic">Death</hi> states this relationship directly by placing Mary’s aid at the center of the poem. In like manner, <hi rend="italic">An Orison to Our Lady</hi> transforms its immediate predecessor, <hi rend="italic">Death’s Wither-Clench</hi>, by stating the Marian remedy for dying; they are <hi rend="italic">contrafacta</hi>, opposite in content, joined by the same tune. Straightforward devotions appear in a poem on Mary’s Five Joys and two on the Annunciation. One of the Annunciation hymns is paired with <hi rend="italic">Love Rune</hi>, a poem modeled in part on Mary as handmaiden and Gabriel as God’s emissary. <hi rend="italic">A Little Sooth Sermon</hi> utters a final prayer to Mary to set right the troubles of humanity caused by Adam’s Fall. Alongside this ameliorative devotional strain, the Jesus lyrics also project an interest in the concerns of secular women (see the category <ref target="insert-internal-link" type="internal">“Women”</ref> below).</p>
+ <p style="bodysubection"><hi rend="bolditalic">Maxims for Good Living.</hi> Sententious advice for prospering is to be valued, repeated, stored in memory, assiduously collected. The items that most display this cultural love are the lengthy <hi rend="italic">Poema Morale</hi> (religious adages) and <hi rend="italic">Proverbs of Alfred</hi> (secular adages), with the French <hi rend="italic">Doctrinal Sauvage</hi> included to offer tips on virtuous manners. The Jesus sequence boasts an exceptional cache of mnemonic maxims wrought in catchy rhythms: <hi rend="italic">Weal</hi>, <hi rend="italic">Will and Wit</hi>, <hi rend="italic">Ten Abuses</hi>, <hi rend="italic">Signs of Death</hi>, and <hi rend="italic">Three Sorrowful Tidings</hi>. And, of course, <hi rend="italic">Owl</hi> preserves a slew of Alfred-ascribed sayings, while modeling how proverbs can be used not only for self-improvement but also for self-defense.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Passion.</hi> Two poems meditate on the Crucifixion of Christ: <hi rend="italic">Passion</hi> and <hi rend="italic">An Orison to Our Lord</hi>. The first is a long, occasionally homiletic, biblical paraphrase. By opening with <hi rend="italic">Passion</hi>, the sequence presents the promised salvation for repentant Christians, counterbalancing the message of many later poems on death and doom. In contrast to them, <hi rend="italic">Passion</hi> shows an audience the signs of resurrection: an empty tomb and Jesus’s ascent to heaven. At the far end of the sequence, <hi rend="italic">An Orison to Our Lord</hi> and <hi rend="italic">Homily</hi> revisit the topic: first, <hi rend="italic">Orison</hi> sets an intense, affective focus on the Crucifixion as a desecration of holy flesh (a paradoxical victory), and both poems stress that Jesus accepted suffering without resistance. The Christ-like virtue of patient submission to evil persecution is lauded, too, in <hi rend="italic">On Serving Christ</hi>.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Saint Thomas.</hi> A religio-patriotic desire to venerate a paramount English martyr, Thomas of Canterbury, arises in three items. Two are overtly paired: <hi rend="italic">Antiphon</hi> and <hi rend="italic">On Serving Christ</hi> — a sung introit with a miraculous origin story, and then a tribute to Thomas in alliterative verse, honoring his acceptance of martyrdom in the heroic manner of Jesus and Saints Peter, Lawrence, and John the Baptist. Another item, <hi rend="italic">Holy Church</hi>, establishes Thomas in a lineage of exemplary, uncorrupted holy men: three popes, himself, and two later archbishops of Canterbury: Stephen Langton and Edmund Rich. Another work, <hi rend="italic">Shires</hi>, records all the episcopal sees of England.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Seven Sins.</hi> The doctrine of the Seven Deadly Sins is rarely invoked in the Jesus lyrics, and never as a formal enumeration. It comes up in <hi rend="italic">Saws</hi>, lines 79–85, where the sins are rattled off casually, and in <hi rend="italic">Owl</hi>, lines 1395–1408, where sins of the spirit are distinguished from sins of the flesh. There are also general depictions in <hi rend="italic">A Little Sooth Sermon</hi> and <hi rend="italic">Homily</hi>.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Three Sorrowful Tidings.</hi> The Three Sorrowful Tidings belong to a collective store of wisdom. The distressing news is that “I must die,” “I do not know when,” and “I do not know where my soul will go.” The formula crops up many times, most succinctly in the brief maxim <hi rend="italic">Three Sorrowful Tidings</hi>. It is echoed, as well, in <hi rend="italic">Poema Morale</hi>, <hi rend="italic">Saws</hi>, <hi rend="italic">Death’s Wither-Clench</hi>, <hi rend="italic">Annunciation</hi>, and <hi rend="italic">Proverbs</hi>. At the slightest echo, a listener’s memory fills in the rest. The sentiment derives from a public corpus of lyric expression, repeated and adapted in many settings.</p>
+ <p style="bodysubection"><hi rend="bold">Ubi Sunt</hi><hi rend="bolditalic">.</hi> Elegaic yearnings for a courtly past with strains of <hi rend="italic">ubi sunt</hi> — “where are they now?” — surface in a few lyrics. Most notable is the famous passage in <hi rend="italic">Love Rune</hi> that begins: “Hwer is Paris and Heleyne, that weren so bryht and feyre on bleo?” (Where are Paris and Helen, so beautiful and fair in face?) (line 33). In <hi rend="italic">Death</hi>, the soul asks the body, “Hwer beoth alle thine freond, . . . thine disches myd thine swete sonde?” (Where are all your friends, . . . your dishes amid your pleasant banquets?”) (lines 49, 53). <hi rend="italic">On Serving Christ</hi> varies the trope by telling the proud they will miss their fine things when they meet their doom on Doomsday. The poet of <hi rend="italic">Poema Morale</hi> explains that in heaven fine trappings are gone because no worldly wealth exists there: “Al the murehthe that me us bihat, al hit is God one” (All the joy promised to us, it’s all from God alone) (line 360).</p>
+ <p style="bodysubection"><hi rend="bolditalic">Wealth.</hi> Many passages image forth the opulent clothing of the proud, misguided rich, which will come to nothing on Doomsday (see the category <ref target="insert-internal-link" type="internal">“Ubi sunt”</ref> above). Less predictable maxims on worldly wealth and prosperity occur, however, in <hi rend="italic">Weal</hi> and <hi rend="italic">Proverbs</hi>. In <hi rend="italic">Weal</hi>, one hears a statement on social inequality, how wealth is cruelly unfair to those who lack it. In <hi rend="italic">Proverbs</hi>, some typical messages are: wisdom and friends count more than wealth; property is temporary and derives from God; wealth gained in youth will aid a man in old age. Such advice is pragmatic, if not always consistent, and it does not stray from the worldly mindset of <hi rend="italic">Proverbs</hi>. In <hi rend="italic">Holy Church</hi>, a contemptible love of marks and pounds, silver and gold overthrows the Church by simony and corruption. Meanwhile, thievery abounds in the antics of the townsfolk in <hi rend="italic">A Little Sooth Sermon</hi>.</p>
+ <p style="bodysubection"><hi rend="bolditalic">Women.</hi> The Jesus lyrics display an intriguing investment in female subjects. This interest, while infrequent in the whole sequence, is emphatic and original when it does occur. The poet of <hi rend="italic">Passion</hi> sensitively portrays Mary Magdalene at Christ’s tomb. <hi rend="italic">The Woman of Samaria</hi> deftly treats Christ’s meeting with the Samaritan woman at the well. Both biblical paraphrases examine women’s moments of emotional intimacy with Jesus. A third work latched to female desire — pious and heartfelt — is <hi rend="italic">Love Rune</hi>, styled as a wooing poem to bring a maiden to Christ, her truest Lover. In quite an opposite fashion, a subset of Alfred’s <hi rend="italic">Proverbs</hi> on women and marriage are infected with cultural misogyny.<note target="#115" type="footnotelink">115</note> <hi rend="italic">A Little Sooth Sermon</hi> shows a wayward girl’s flirtatious dalliance and accidental pregnancy. <hi rend="italic">Eleven Pains</hi> takes the rewards of sin further by showing the women who eternally suffer hell’s Pain 5 and Pain 6. The freshest, most extended discourse on female experience, in love and marriage, occurs in the provocative final third of <hi rend="italic">Owl</hi>. Beside all of these arresting instances in Jesus 29 stands, too, a solid body of Marian verse (see the category <ref target="insert-internal-link" type="internal">“Mary”</ref> above).</p>
+ <p style="heading" n="8">Conclusion</p>
+ <p style="bodyfirst" n="20">Jesus 29 is a fortuitous accident of survival from the English West Midlands of the thirteenth century. But what should we make of this literary document? Its physical features present us with only piecemeal clues as to who crafted it, who wanted it made, how each item came to be selected and arranged, and how each one has a history of its own. Even its story of survival is fragmentary: what were its exemplars, where and when did it become a book, where did it reside for over two centuries, who rescued it after the Dissolution, and how did it arrive in Wilkins’s hands before he donated it to Jesus College in Oxford?</p>
+ <p style="body" n="41">From the same region, the West Midlands, we have other provocative survivals, to which Jesus 29 is joined in literary history. Earlier than Jesus 29: the Worcester Fragments, Layamon’s <hi rend="italic">Brut</hi>, <hi rend="italic">Ancrene Wisse</hi>, the <hi rend="italic">Katherine Group</hi>. Contemporaneously: the other important trilingual miscellanies, each one distinctly of its own character, Cotton Caligula A.ix, Digby 86, and Cambridge, Trinity College, B.14.39. And later on: the extraordinary, magnificent Harley 2253. These literary documents are more than mere shards; they are whole books. Set beside historical texts and records, they supply some of our best insights upon lives and passions, fears and beliefs in a region that witnessed vigorous textual production and exchange — a region roiling, too, with religio-political upheavals in the 1250s and 60s (the Second Barons’ War, its build-up and aftermath), which imprinted trauma upon inhabitants’ collective memory.<note target="#116" type="footnotelink">116</note></p>
+ <p style="body" n="42">What is most new, right now, in modern research on Jesus 29 are its revised dating (later than 1272); <hi rend="italic">Owl</hi>’s plausibly revised dating (also later than 1272, the year of Henry III’s death); the revelation that Nicholas of Guildford could have been a king’s clerk with Oxford connections; records showing that Thomas of Hales acted, mid-century, as friar-counselor to Queen Eleanor; the concomitant adjacency of elite meditative “nightingales” with the making of <hi rend="italic">Owl</hi> and <hi rend="italic">Love Rune</hi>; and the correlation of Carne’s monastic surveys to sites of keen interest, especially Halesowen and Amesbury. These new data start to persuasively nudge Jesus 29 (certainly its two best texts) toward an aristocratic circle of readers, quite plausibly occupied by royals and bishops, alongside the friars and royal clerks who mingled with them, making texts and manuscripts under patronage, so as to spiritually counsel elites and entertainingly cater to their tastes.</p>
+ <p style="body" n="43">While Jesus 29 is a volume of careful planning and appealing mise-en-page, it does not in any obvious way approach the aesthetics of aristocratic display one looks for in books made under royal commission. Moreover, half of it is in English. Even so, the Jesus scribe has preserved <hi rend="italic">Love Rune</hi> with its halfway-point compliment to royalty prominently displayed. It thus seems to retain a vestigial trace of a lofty tier of patronage for which the friar once wrote. Judging by Jesus 29’s generous layout and beautiful colored-ink display, Scahill infers that its recipients were “members of some substantial household.”<note target="#117" type="footnotelink">117</note> Perhaps the more glorious manuscript was MS X, the lost exemplar for <hi rend="italic">Owl</hi> and Chardri, partially mirrored in Jesus and Cotton. But it is not entirely impossible, either, that Jesus 29 is, itself, an attractive, compact book of English and French verse that was read for enjoyment and spiritual enrichment by queen dowager Eleanor, granddaughters Mary and Eleanor, and other nuns in Amesbury Priory.</p>
+ <p style="body" n="44">In our present understanding of the expanse of poetry and tidbits of prose in Jesus 29, it now has to be acknowledged that an intriguing network of potential and real historical affiliations — alongside hints of political dissensions that plagued the day — has become discernible and is still too lightly examined. In his lifetime, Thomas of Hales crossed paths of familiarity with Hereford Bishop Ralph of Maidstone, Oxford Franciscan Adam Marsh, and English Queen Eleanor of Provence. The association with Maidstone calls up the diocese headed later by Richard Swinfield, with whom Hill tentatively associates the Jesus scribe. The Marsh connection readily leads to the fiercely intellectual, religio-political zeal of Robert Grosseteste, bishop of Lincoln and forceful proponent for ecclesiastical reform, as called for in <hi rend="italic">When Holy Church Is Under Foot</hi>.<note target="#118" type="footnotelink">118</note> Thomas’s ties to the royal family — not only Eleanor but also the king honored in <hi rend="italic">Love Rune</hi> — implicitly set him among more celebrated authors like Matthew Paris and John of Howden, and alongside the influential Marsh and Grosseteste, who were also close to Simon de Montfort. Three poems written to defend Holy Church and honor Saint Thomas intimate that a proud sense of Englishness, tied to the Church’s independence from onerous papal and royal demands for revenue, lurks in the book’s rare notes of political resistence and complaint.</p>
+ <p style="body" n="45">The web of literary, religious, political, and historical threads in the Jesus manuscript justifies many more investigations of each of its items and all of its making. With the Jesus 29 sequence of English lyrics reedited and newly translated, it is my hope that what this rare document adds to our comprehension of early Middle English literary vitality in a trilingual landscape will become a story more fully told.</p>
+ <p style="heading" n="9">Note on the Presentation of Texts</p>
+ <p style="bodyfirst" n="21"><hi rend="italic">Transcriptions</hi>. Medieval letter-forms are converted to modern forms in accordance with METS practice: <hi rend="italic">i</hi>/<hi rend="italic">j</hi>, <hi rend="italic">u</hi>/<hi rend="italic">v</hi>, <hi rend="italic">vv</hi>/<hi rend="italic">w</hi>, <hi rend="italic">th</hi> (for thorn and eth), <hi rend="italic">g</hi>/<hi rend="italic">gh</hi>/<hi rend="italic">y</hi> (for yogh), <hi rend="italic">w</hi> (for wynn). Word breaks are modern. Unambiguous scribal corrections (e.g., inserted or canceled letters) are not recorded in the Textual Notes. However, substantive corrections, such as inverted words or lines, are noted. Aberrations in layout (e.g., two lines accidentally copied on a single line, and then corrected in subsequent lines) are also noted.</p>
+ <p style="body" n="46">Recorded in the Textual Notes (but not duplicated in the transcriptions) are accent marks on vowels (<hi rend="italic">ó</hi>, <hi rend="italic">é</hi>, <hi rend="italic">á</hi>, <hi rend="italic">ý</hi>) found in MS Jesus 29. The accent marks may indicate vowel length, oral delivery, or nothing in particular. They are not inserted with regularity and are actually rather infrequent. They do not appear in the Cotton MS. The accents — a slash slanting upward to the right — look identical to the way <hi rend="italic">i</hi> is normally dotted.</p>
+ <p style="body" n="47">Abbreviations are silently expanded. The Jesus scribe’s abbreviations <hi rend="italic">ihc</hi> and <hi rend="italic">ihu</hi> are expanded to <hi rend="italic">Jhesu</hi> (in accordance with Morris’s practice). Various expansions of <hi rend="italic">ihc</hi> by previous editors are not listed in the Textual Notes. When the scribe spells out the name in full, he writes <hi rend="italic">Iesus</hi>.</p>
+ <p style="body" n="48">Corrections made by a contemporary corrector are recorded in the Textual Notes. On the occasional appearance of this later hand “not long after the manuscript was written,” see N. R. Ker, ed., <hi rend="italic">The Owl and the Nightingale Reproduced in Facsimile</hi>, pp. xviii–xix.</p>
+ <p style="bodysubection"><hi rend="italic">Punctuation and caesuras</hi>. Punctuation is modern, yet it is determined in part by close observation of the scribe’s system of punctuation, which appears in all of Jesus 29’s English texts (reproduced in Morris). It seems meant to indicate how the poetry is to be read aloud.<note target="#119" type="footnotelink">119</note> Accordingly, I have been guided by scribal punctuation in determining where caesuras should fall. Caesuras in long lines of poetry (usually septenaries) are indicated by extra spacing.</p>
+ <p style="bodysubection"><hi rend="italic">Colored capitals and scribal sections</hi>. The meters of the Jesus lyrics exhibit much variation, and the scribe presents each poem with deliberation and care. He is strikingly attentive to graphic detail: the length of lines; the placement, size, and color of capitals; and the demarcation of stanzas or variable-length groupings of lines. Colored capitals mark section divisions of irregular length in two long poems composed in short-line couplets: <hi rend="italic">Owl</hi> and <hi rend="italic">Eleven Pains</hi> (arts. 2, 28). These large colored capitals are detailed in the Textual Notes.</p>
+ <p style="body" n="49">For items that follow uniform stanza structures (arts. 4, 7, 8, 10, 11, 13, 14, 19, 21, 26), the scribe marks stanza openings with one-line-high capitals in alternating red and blue. He uses the same method to denote variable-length divisions in four works composed in long-line couplets (arts. 1, 3, 5, 25) and two works composed in <hi rend="italic">laisses</hi> (arts. 12, 18). This edition records these scribe-marked divisions by means of double spacing. Where colored capitals are only one line high and adhere to the pattern of alternating red and blue ink, they are not listed in the Textual Notes. Aberrations from these regular patterns are listed. For <hi rend="italic">A Little Sooth Sermon</hi> (art. 16), the double-couplet groupings are editorial.</p>
+ <p style="bodysubection"><hi rend="italic">Article numbers</hi>. The items in this edition, numbered arts. 1–8, 10–28, include every English text preserved in MS Jesus 29, with the addition of <hi rend="italic">Will and Wit</hi> from London, BL, MS Cotton Caligula A.ix (art. 9) because its presence on a folio now missing from Jesus 29 is virtually certain. Omitted from this edition are instances of Latin prose (<hi rend="italic">Assisa panie Anglie</hi>) and French verse (<hi rend="italic">The Four Daughters of God</hi>) occurring at the end of the sequence, between <hi rend="italic">The Shires and Hundreds of England</hi> (art. 27) and <hi rend="italic">The Eleven Pains of Hell</hi> (art. 28). For the full contents of the Jesus and Cotton manuscripts, see Ker, ed., <hi rend="italic">The Owl and the Nightingale Reproduced in Facsimile</hi>, pp. ix–xi.</p>
+ <p style="bodysubection"><hi rend="italic">Lacunae</hi>. Because two folios holding English verse are missing, lacunae occur in arts. 8, 10, 20, 21. Imperfect beginnings and endings are indicated in this edition by dotted lines. Lines missing from the end of <hi rend="italic">An Orison to Our Lady </hi>(art. 8) are supplied from the Cotton manuscript. <hi rend="italic">Will and Wit</hi> (art. 9) is also supplied from the Cotton manuscript. An internal gap of three lines, indicated by dotted lines, occurs in <hi rend="italic">The Saws of Saint Bede</hi> (art. 4).</p>
+ <p style="bodysubection"><hi rend="italic">Foliation</hi>. Material from the manuscript is cited in the left margin by folio number, recto or verso (“r” or “v”). Where folios are ruled in two columns and the writing is continuous from the first to second column, as in arts. 2 (<hi rend="italic">Owl</hi>) and 28 (<hi rend="italic">Eleven Pains</hi>), column designators (“a” or “b”) are also supplied. One poem — <hi rend="italic">The Saws of Saint Bede</hi> (art. 4) — is written across columns, so columns are not designated for this piece.</p>
+ <p style="bodysubection"><hi rend="italic">Titles</hi>. The modern titles given to the Middle English and translated texts generally conform to titles that have become those most commonly used in the critical literature on these poems. Their creation is guided, too, by incipits supplied by the scribe, wherever they appear. Several works have acquired alternative titles, and an attempt has been made to establish the better one: for example, <hi rend="italic">The Saws of Saint Bede</hi>, not <hi rend="italic">Sinners Beware</hi>; <hi rend="italic">Poema Morale</hi>, not <hi rend="italic">The Conduct of Life</hi>; <hi rend="italic">Homily on Sooth Love</hi>, not <hi rend="italic">The Duty of Christians</hi>; and so on. Titles are frequently discussed in the Explanatory headnotes to individual poems.</p>
+ <p style="bodysubection"><hi rend="italic">Variant readings</hi>. The Textual Notes record the variants and editorial choices among editors of the Jesus 29 poems. Variants from other manuscripts and from editions not based on Jesus 29 are not recorded. The only exception to this rule occurs when readings from Cotton Caligula A.ix (the second witness to many of the poems, derived from a shared exemplar) are relevant to editorial choices made in this edition. Poems found in both manuscripts, Jesus and Cotton, are marked “(C)” in the Textual Notes.</p>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="1"><space rend="indent1"/>Lepore, <hi rend="italic">These Truths</hi>, p. 4.</note>
+ 
+ 
+ <note type="footnote" n="2"><space rend="indent1"/>Lepore, <hi rend="italic">These Truths</hi>, p. 38.</note>
+ 
+ 
+ <note type="footnote" n="3"><space rend="indent1"/>Savage and Watson, trans., <hi rend="italic">Anchoritic Spirituality</hi>.</note>
+ 
+ 
+ <note type="footnote" n="4"><space rend="indent1"/>Hill-Addenda, p. 99. My discussion of the history of Jesus 29 is much informed by Hill’s research spanning forty years. See also Hill-History and Hill-Part2.</note>
+ 
+ 
+ <note type="footnote" n="5"><space rend="indent1"/>Hill-History, pp. 208, 212–13; see also Hill-Part2, p. 275. </note>
+ 
+ 
+ <note type="footnote" n="6"><space rend="indent1"/><hi rend="italic">Will and Wit</hi> (art. 9), probably copied on the leaf missing after fol. 180, is supplied in this edition from London, BL, MS Cotton Caligula A.ix.</note>
+ 
+ 
+ <note type="footnote" n="7"><space rend="indent1"/>Chardri, <hi rend="italic">The Works</hi>, trans. Cartlidge.</note>
+ 
+ 
+ <note type="footnote" n="8"><space rend="indent1"/>The inscriptions on fol. 143b read: “thys ys thomas ragland / ys boke he that ste[leth] hym salbe / hangyd by a crowke and thomas,” and “god saue the kynge and the quyne and thomas”; the latter dates the writing before the end of Henry VIII’s reign (1509–1547). See Hill-History, p. 209.</note>
+ 
+ 
+ <note type="footnote" n="9"><space rend="indent1"/>Hill-History, p. 212.</note>
+ 
+ 
+ <note type="footnote" n="10"><space rend="indent1"/>Hill-History, p. 212.</note>
+ 
+ 
+ <note type="footnote" n="11"><space rend="indent1"/>Hill-History, p. 213. See also Hill-Addenda, p. 99. Reading the evidence differently, N. R. Ker proposes that it was Wilkins who bound the books together (Ker, ed., <hi rend="italic">The Owl and the Nightingale Reproduced in Facsimile</hi>, p. xx).</note>
+ 
+ 
+ <note type="footnote" n="12"><space rend="indent1"/>Hill-History, p. 210 (transcribed with the aid of N. R. Ker).</note>
+ 
+ 
+ <note type="footnote" n="13"><space rend="indent1"/>Hill-Part2, p. 276.</note>
+ 
+ 
+ <note type="footnote" n="14"><space rend="indent1"/>Hill-History, p. 211.</note>
+ 
+ 
+ <note type="footnote" n="15"><space rend="indent1"/>Hill-Part2, p. 276.</note>
+ 
+ 
+ <note type="footnote" n="16"><space rend="indent1"/>Hill-Part2, p. 275, specifying that Anne Dennis was the “daughter of Sir William Dennis of Dyrham, Gloucestershire and of Lady Anne, sixth daughter of Maurice, the fifth Lord Berkeley.”</note>
+ 
+ 
+ <note type="footnote" n="17"><space rend="indent1"/>Cartlidge, “Imagining X,” p. 33.</note>
+ 
+ 
+ <note type="footnote" n="18"><space rend="indent1"/>Cartlidge, “Imagining X,” p. 33.</note>
+ 
+ 
+ <note type="footnote" n="19"><space rend="indent1"/>The matter of which lyrics might be short fillers in Jesus 29 is not clear-cut, however, because while MS X was likely ruled in columns throughout (as is Cotton), the long-line lyric matter in Jesus is written on pages without columns. The use of no columns for long-line verse is a planned program attributable to the Jesus scribe. See Fein, “Designing English,” p. 49; and Scahill, “The Friar,” p. 8n14.</note>
+ 
+ 
+ <note type="footnote" n="20"><space rend="indent1"/>On the Titchfield Library catalogue, see Wilson, “The Medieval Library of Titchfield Abbey (Part I),” pp. 152, 159n16; and Wilson, “The Medieval Library of Titchfield Abbey (Part II),” pp. 255, 259. On its correspondences to Cotton, Jesus, and the lost MS X, see Hill-Addenda, pp. 102–03; Cartlidge-Composition, p. 251; Hill-Part2, pp. 271–72; and Cartlidge, “Imagining X,” p. 40. </note>
+ 
+ 
+ <note type="footnote" n="21"><space rend="indent1"/>In Cotton, the rubric is “Incipit hystoria brutonum.” Alternatively, this item could have been Geoffrey of Monmouth’s <hi rend="italic">Historia</hi>; see Ker, ed., <hi rend="italic">The Owl and the Nightingale Reproduced in Facsimile</hi>, p. ix.</note>
+ 
+ 
+ <note type="footnote" n="22"><space rend="indent1"/>In Jesus, the rubric is “Incipit altercacio inter filomenam et bubonem”; there is no rubric in Cotton.</note>
+ 
+ 
+ <note type="footnote" n="23"><space rend="indent1"/>In Jesus, the rubric is “Ici comence de Tobye.” The text is an extract from <hi rend="italic">Tobie</hi>. See <ref target="insert-internal-link" type="internal">note 92,</ref> below.</note>
+ 
+ 
+ <note type="footnote" n="24"><space rend="indent1"/>Items 11 and 12 of Titchfield Abbey, MS N.III seem to be the two parts of <hi rend="italic">Shires</hi> in reverse order. In Jesus, the rubric is “Her bigynneþ þe Syren and þe hundredes of engelonde.”</note>
+ 
+ 
+ <note type="footnote" n="25"><space rend="indent1"/>Titchfield Abbey, MS Q.III also held “Salutaciones beate marie,” which could denote one of the Marian poems found in Jesus (arts. 8, 10, 11). In addition, it held “Pene Saluatoris” and “Tractatus de yconomia,” which, according to Cartlidge, might denote Jesus 29’s <hi rend="italic">An Orison to Our Lord</hi> (art. 25) and the French <hi rend="italic">Doctrinal Sauvage</hi> (“Imagining X,” pp. 42–43n31,32).</note>
+ 
+ 
+ <note type="footnote" n="26"><space rend="indent1"/>In Jesus, the rubric is “Ici comence la vie de Set Dormaunz”; in Cotton, it is “Ici comence la vie de Set Domanz.”</note>
+ 
+ 
+ <note type="footnote" n="27"><space rend="indent1"/>In Jesus, the rubric is “Ici cumence la passyun ihesu christ en engleys.”</note>
+ 
+ 
+ <note type="footnote" n="28"><space rend="indent1"/>In Jesus, the rubric is “Ici comencent les vnze peynes de enfern les queus synt pool vi[st].”</note>
+ 
+ 
+ <note type="footnote" n="29"><space rend="indent1"/>In Jesus, the rubric is “Incipit Antiphona de sancto Thome Martyre in Anglico.”</note>
+ 
+ 
+ <note type="footnote" n="30"><space rend="indent1"/>In Jesus, the rubric is “Ici comence la vie Seynt Iosaphat”; in Cotton, it is “Ici comence la vie de Seint Iosaphaz.”</note>
+ 
+ 
+ <note type="footnote" n="31"><space rend="indent1"/>In Jesus, the rubric is “Ici comence le petyt ple entre le Iuuencel e le Veylard”; in Cotton, it is “Ici Comence le petit plet.”</note>
+ 
+ 
+ <note type="footnote" n="32"><space rend="indent1"/>In Jesus, the rubric is “Incipit de die iudicii”; there is no rubric in Cotton.</note>
+ 
+ 
+ <note type="footnote" n="33"><space rend="indent1"/>Cartlidge, “Imagining X,” p. 40, who adds that Q.III “must have been a descendant (or possibly ancestor) of X.”</note>
+ 
+ 
+ <note type="footnote" n="34"><space rend="indent1"/>On the contents of Cotton, see Ker, ed., <hi rend="italic">The Owl and the Nightingale Reproduced in Facsimile</hi>, p. xi. </note>
+ 
+ 
+ <note type="footnote" n="35"><space rend="indent1"/>Fein, “Designing English”; and Wakelin, <hi rend="italic">Designing English</hi>, p. 136. The Cotton manuscript is laid out in double columns throughout, as was apparently MS X. Cotton is the product of four scribes, but just one for the English verse. At least four hands were involved in the making of MS X, with two copying <hi rend="italic">Owl</hi> (Cartlidge, “Imagining X,” pp. 42–43). On punctuation and letter-forms in Jesus compared to Cotton, see Ker, ed., <hi rend="italic">The Owl and the Nightingale Reproduced in Facsimile</hi>, pp. xvi–xviii.</note>
+ 
+ 
+ <note type="footnote" n="36"><space rend="indent1"/>Ker, ed., <hi rend="italic">The Owl and the Nightingale Reproduced in Facsimile</hi>, p. xvi. See also Hill-History, p. 204; and Hill-Part2, p. 273n34 (“not essentially different from a twelfth-century hand”). The Jesus scribe’s handwriting is reproduced in Ker’s facsimile edition of <hi rend="italic">Owl</hi>, where it may be compared to the Cotton’s scribe’s quite different gothic style.</note>
+ 
+ 
+ <note type="footnote" n="37"><space rend="indent1"/>Scahill, “The Friar,” p. 10.</note>
+ 
+ 
+ <note type="footnote" n="38"><space rend="indent1"/>The Exeter Book (tenth century) is Exeter, Exeter Cathedral Library, MS 3501 (Williamson, trans., <hi rend="italic">The Complete Old English Poems,</hi> pp. 299–595). London, BL, MS Harley 2253 (ca. 1340) is edited in <hi rend="italic">CHMS</hi>. For a discussion of Jesus 29 and the other early Middle English trilingual miscellanies, see Hunt, “Insular Trilingual Compilations”; Frankis, “The Social Context”; and Scahill, “Trilingualism.” Also notable are the two virtually all-English miscellanies: Auchinleck (Edinburgh, National Library of Scotland, Advocates MS 19.2.1) (ca. 1330), mainly romances, with some saints’ lives and lyrics; and Oxford, BodL, MS Laud misc. 108 (ca. 1280), mainly saints’ lives, with two romances and a few lyrics. See Fein, ed., <hi rend="italic">The Auchinleck Manuscript</hi>; and Bell and Couch, eds., <hi rend="italic">The Texts and Contexts of Oxford, Bodleian Library, MS Laud Misc. 108</hi>.</note>
+ 
+ 
+ <note type="footnote" n="39"><space rend="indent1"/>Cartlidge assigns these works a tentative place in his reconstruction (“Imagining X,” pp. 42–43).</note>
+ 
+ 
+ <note type="footnote" n="40"><space rend="indent1"/>Fein, “Designing English,” p. 57.</note>
+ 
+ 
+ <note type="footnote" n="41"><space rend="indent1"/>“He who wrote these eleven pains, / May his soul come to heaven / And play there with bright angels, / When they’re in heaven’s light; / And may he never have God’s anger, / For Hugh is his true name, / And he is courteous and kind. / For that, may his ending be good. / Amen.” On Hugh, see Hill-Addenda, pp. 101–02n24; and Cartlidge-Composition, p. 258.</note>
+ 
+ 
+ <note type="footnote" n="42"><space rend="indent1"/>“Pray we now, dear friend, young and also old, / That he who wrote this writ, his soul be admitted there. Amen.” On this addition, see Hill-Addenda, pp. 101–02n24.</note>
+ 
+ 
+ <note type="footnote" n="43"><space rend="indent1"/>See <ref target="insert-internal-link" type="internal">especially, in this edition, the Explanatory headnote to <hi rend="italic">Proverbs</hi>,</ref> where the kinds of changes wrought by the scribe are summarized.</note>
+ 
+ 
+ <note type="footnote" n="44"><space rend="indent1"/>Ker, ed., <hi rend="italic">The Owl and the Nightingale Reproduced in Facsimile</hi>, p. xviii. According to Scahill, this “interventionist attitude . . . suggests that the scribe himself was in charge of the operation” (“The Friar,” p. 8).</note>
+ 
+ 
+ <note type="footnote" n="45"><space rend="indent1"/>Cartlidge, “Imagining X,” p. 36. See also Cartlidge-<hi rend="italic">Owl</hi>, pp. xli–xliv.</note>
+ 
+ 
+ <note type="footnote" n="46"><space rend="indent1"/>Hill-Part2, p. 272. See also Cartlidge, “Imagining X,” p. 40.</note>
+ 
+ 
+ <note type="footnote" n="47"><space rend="indent1"/>For evolving opinions regarding the date of Jesus 29, see Ker, ed., <hi rend="italic">The Owl and the Nightingale Reproduced in Facsimile</hi>, p. ix (1250–1300); Hill-History, p. 204 (1256–1300); Hill-Addenda, p. 105 (1272–1300); Cartlidge, “The Date,” pp. 230–47 (after 1272, his new date for <hi rend="italic">Owl</hi>); Hill-Part2, p. 273 (1285–1300, connected with Swinfield’s episcopacy); and Cartlidge, “<hi rend="italic">The Owl and the Nightingale.</hi>”</note>
+ 
+ 
+ <note type="footnote" n="48"><space rend="indent1"/>Hill-Part2, pp. 272–74; quote appears on p. 274.</note>
+ 
+ 
+ <note type="footnote" n="49"><space rend="indent1"/>Hill-Part2, p. 274. See Webb, ed., <hi rend="italic">Roll of the Household Expenses of Richard de Swinfield</hi>, especially 1:147–52.</note>
+ 
+ 
+ <note type="footnote" n="50"><space rend="indent1"/>Hill-Part2, p. 274. See also Cartlidge-Composition, pp. 261–62: “Whether or not J and C were <hi rend="italic">produced</hi> within a religious house, there is no evidence that they were necessarily <hi rend="italic">used</hi> within an institutional setting . . . There is, in short, no way of determining the original contexts of the manuscripts from the nature of their contents.” A near-contemporary hand inserted corrections in Jesus 29, detailed in Ker, ed., <hi rend="italic">The Owl and the Nightingale Reproduced in Facsimile</hi>, p. xix. Hill dates the corrector’s hand 1297–1305 (Hill-Part2, p. 273).</note>
+ 
+ 
+ <note type="footnote" n="51"><space rend="indent1"/>For refutations of the theory, see especially Frankis, “The Social Context,” pp. 179–82; Scahill, “The Friar,” pp. 8–10; and Cartlidge-Composition, pp. 258–62.</note>
+ 
+ 
+ <note type="footnote" n="52"><space rend="indent1"/>In dissecting the evidence for diverse types of authorship, Cartlidge links the lyrics only in how they, together, “carefully submerg[e] their authors’ identities in the fiction of prophetic utterance” (Cartlidge-Composition, p. 258).</note>
+ 
+ 
+ <note type="footnote" n="53"><space rend="indent1"/>Savage and Watson, trans., <hi rend="italic">Anchoritic Spirituality</hi>, p. 73; and Duffy, “Religious Belief,” p. 299. See also D’Angelo, “English Franciscan Poetry”; and Fleming, “The Friars and Medieval English Literature.”</note>
+ 
+ 
+ <note type="footnote" n="54"><space rend="indent1"/>Unnamed in Jesus 29, this item’s title is supplied from its second manuscript, Oxford, BodL, MS Digby 86.</note>
+ 
+ 
+ <note type="footnote" n="55"><space rend="indent1"/>“And he who’s written this rhyme, be what he may, / God in this life allow him to thrive, / And all his comrades, both young and old. / God allow them their order truly to maintain here, / So that they may together come to heavenly bliss / When they depart out of this life.” On this passage, see Cartlidge-Composition, pp. 258–59. <hi rend="italic">Love Rune</hi> also ends by petitioning a prayer for the author, Thomas of Hales.</note>
+ 
+ 
+ <note type="footnote" n="56"><space rend="indent1"/>The Latin incipit belongs to the original poem. See Fein-<hi rend="italic">MLSL</hi>, pp. 11, 23; and Fein, “Roll or Codex?,” p. 18. </note>
+ 
+ 
+ <note type="footnote" n="57"><space rend="indent1"/>On Thomas of Hales’s life-records, see Hill, “The ‘Luue-Ron’”; Horrall, “Thomas of Hales, O.F.M.”; Hill-Part2, pp. 272–73; and Lawrence, ed. and trans., <hi rend="italic">Letters of Adam Marsh</hi>, 1:176–77, 2:542–43.</note>
+ 
+ 
+ <note type="footnote" n="58"><space rend="indent1"/>Howell, <hi rend="italic">Eleanor of Provence</hi>, pp. 64, 90, 93–94; and Maddicott, <hi rend="italic">Simon de Montfort</hi>, pp. 40–41, 79–85, 117–18. </note>
+ 
+ 
+ <note type="footnote" n="59"><space rend="indent1"/>Howell, <hi rend="italic">Eleanor of Provence</hi>, pp. 92–94. The new fact is briefly noted by Renevey, “1215–1349: Texts,” pp. 99–101.</note>
+ 
+ 
+ <note type="footnote" n="60"><space rend="indent1"/>The Jesus scribe preserves the important mise-en-page of the original poem; to do so, he had to decrease the number of lines per page (Fein, “Roll or Codex?,” pp. 21–22).</note>
+ 
+ 
+ <note type="footnote" n="61"><space rend="indent1"/>Without knowledge of the new life-records, I suggested royal patronage for <hi rend="italic">Love Rune</hi> in 1999: Fein, “Roll or Codex?,” p. 21. Knowing of them, Renevey assumes it to be so (“1215–1349: Texts,” pp. 99–101).</note>
+ 
+ 
+ <note type="footnote" n="62"><space rend="indent1"/>On Eleanor’s languages and dialects, see Wogan-Browne, “The Tongues of the Nightingale,” p. 91.</note>
+ 
+ 
+ <note type="footnote" n="63"><space rend="indent1"/>Queen Eleanor collected chivalric and Arthurian romances in French, and certainly owned Latin psalters and books of hours (Howell, <hi rend="italic">Eleanor of Provence</hi>, pp. 82–83, 87–92).</note>
+ 
+ 
+ <note type="footnote" n="64"><space rend="indent1"/>Dean, no. 522. See Howell, <hi rend="italic">Eleanor of Provence</hi>, p. 91; and Paris, <hi rend="italic">The History of Saint Edward</hi>, trans. Fenster and Wogan-Browne, pp. 3, 10, 18–19, 54. The manuscript, Cambridge, Cambridge University Library, MS Ee.3.59, is viewable at <ref target="https://iiif.biblissima.fr/collections/manifest/6c5301d59a190827bb1d1bd36c468b122d7bbc5f" type="external">https://iiif.biblissima.fr/collections/manifest/6c5301d59a190827bb1d1bd36c468b122d7bbc5f</ref>. This book is a copy of the original book presented to Queen Eleanor (which does not survive), executed ca. 1255, probably for her daughter-in-law Eleanor of Castile (Paris, <hi rend="italic">The History of Saint Edward</hi>, trans. Fenster and Wogan-Browne, pp. 27–28).</note>
+ 
+ 
+ <note type="footnote" n="65"><space rend="indent1"/>Howell, <hi rend="italic">Eleanor of Provence</hi>, p. 90. Both Morgan, “Illustrated Apocalypses,” pp. 12–15, and Short, “Introduction,” p. 135, explore clues of Franciscanism and female patronage in the making of the <hi rend="italic">Trinity Apocalypse</hi>. See also, in general, Short, ed., <hi rend="italic">The Trinity Apocalypse</hi>; and the essays in McKitterick, ed., <hi rend="italic">The Trinity Apocalypse</hi>.</note>
+ 
+ 
+ <note type="footnote" n="66"><space rend="indent1"/>Dean, no. 626. See Howell, <hi rend="italic">Eleanor of Provence</hi>, pp. 83–85, 93, 97–98, 248; John of Howden, <hi rend="italic">Rossignos</hi>, ed. Hesketh; and <hi rend="italic">VLT</hi>, pp. 204–11. Renevey compares the mysticism of <hi rend="italic">Love Rune</hi> to the devotional aesthetic of <hi rend="italic">Rossignol</hi> (“1215–1349: Texts,” pp. 99–105).</note>
+ 
+ 
+ <note type="footnote" n="67"><space rend="indent1"/>The manuscript, Cambridge, Corpus Christi College, MS 471, is viewable at <ref target="https://parker.stanford.edu/parker/catalog/mj062xw5755" type="external">https://parker.stanford.edu/parker/catalog/mj062xw5755</ref>.</note>
+ 
+ 
+ <note type="footnote" n="68"><space rend="indent1"/>Legge, ed., “The Anglo-Norman Sermon.” For the Latin life, see Horrall, ed., <hi rend="italic">The Lyf of Oure Lady</hi>. See also Horrall, “Thomas of Hales, O.F.M.,” pp. 293–94.</note>
+ 
+ 
+ <note type="footnote" n="69"><space rend="indent1"/>Legge, ed., “The Anglo-Norman Sermon,” pp. 212, 214. The sermon is preserved in Oxford, St. John’s College, MS 190, with Latin sermons and the French <hi rend="italic">Mirour de seinte eglise</hi> ascribed to Edmund Rich (see <ref target="insert-internal-link" type="internal">note 83,</ref> below). A record locates Thomas at Westminster in 1246 as witness to a charter in which Queen Eleanor states her wish to be buried there (Howell, <hi rend="italic">Eleanor of Provence</hi>, p. 93).</note>
+ 
+ 
+ <note type="footnote" n="70"><space rend="indent1"/>Horrall, “Thomas of Hales, O.F.M.,” p. 297, who notes Thomas’s “great respect for royalty” (p. 296). See also Horrall, ed., <hi rend="italic">The Lyf of Oure Lady</hi>, pp. 86, 120n86/10–20. On Fontevrault (mother house of Amesbury Priory), see Howell, <hi rend="italic">Eleanor of Provence</hi>, pp. 303–04.</note>
+ 
+ 
+ <note type="footnote" n="71"><space rend="indent1"/>Furnivall, ed., <hi rend="italic">The Minor Poems of the Vernon MS., Part II</hi>, pp. 464–68; and Wells, “‘A Luue Ron’ and ‘Of Clene Maydenhod,’” pp. 236–37.</note>
+ 
+ 
+ <note type="footnote" n="72"><space rend="indent1"/>Howell, <hi rend="italic">Eleanor of Provence</hi>, pp. 300–03. Wogan-Browne et al. speculate that Eleanor had a copy of <hi rend="italic">Rossignos</hi> with her in her somewhat active life at Amesbury: “Unlike King Arthur’s Guenevere, her legendary precedessor [<hi rend="italic">sic</hi>] in retirement to Amesbury, Eleanor seems less to have been seeking refuge from the world than an alternative base from which to follow the interests of the crown” (<hi rend="italic">VLT</hi>, p. 205).</note>
+ 
+ 
+ <note type="footnote" n="73"><space rend="indent1"/>Hill-Addenda, pp. 102–03. “Hales,” probably designating Thomas’s birthplace, is Halesowen, not Hailes (Gloucestershire), where a Cistercian abbey was founded in 1246; see D’Angelo, “English Franciscan Poetry,” p. 236.</note>
+ 
+ 
+ <note type="footnote" n="74"><space rend="indent1"/>Hill-Part2, p. 272; and Cartlidge-Composition, p. 251. Walter de Cantilupe was bishop of Worcester, 1237–1266, and allied (against crown and papacy) with Edmund Rich and Robert Grosseteste in matters of ecclesiastical reform, as expressed in the Jesus lyric <hi rend="italic">Holy Church</hi> (art. 12). His nephew, Thomas de Cantilupe, was bishop of Hereford, 1275–1282, preceding the tenure of Richard Swinfield. He had earlier served as Chancellor of England, 1264–1267, but lost his royal appointment because he sided with Simon de Montfort during the Second Barons’ War. Walter also sided with de Montfort’s cause.</note>
+ 
+ 
+ <note type="footnote" n="75"><space rend="indent1"/>Fein, “Designing English,” pp. 57–58.</note>
+ 
+ 
+ <note type="footnote" n="76"><space rend="indent1"/>On the peak modes of religious verse (devotion to the Virgin, warnings of the afterlife, affective stirrings of compassion and joy), see Pearsall, <hi rend="italic">Gothic Europe</hi>, p. 47. The full range is amply represented in the Jesus 29 English sequence.</note>
+ 
+ 
+ <note type="footnote" n="77"><space rend="indent1"/>By a different line of thought, some have proposed that <hi rend="italic">Owl</hi> was authored by a woman. See Eadie, “The Authorship”; and Barratt, “Flying in the Face of Tradition.”</note>
+ 
+ 
+ <note type="footnote" n="78"><space rend="indent1"/>Howell, <hi rend="italic">Eleanor of Provence</hi>, pp. 288–89, 293, 302. In <hi rend="italic">Owl</hi> scholarship, the place-name has been a puzzle; see Cartlidge-<hi rend="italic">Owl</hi>, p. 101.</note>
+ 
+ 
+ <note type="footnote" n="79"><space rend="indent1"/>The title found in Titchfield Abbey, MS C.II is likewise “De conflictu inter philomenam et bubonem in anglicis.” See <ref target="insert-internal-link" type="internal">note 22</ref>, above.</note>
+ 
+ 
+ <note type="footnote" n="80"><space rend="indent1"/>On John of Howden’s identity, see John of Howden, <hi rend="italic">Rossignos</hi>, ed. Hesketh, pp. 2–7.</note>
+ 
+ 
+ <note type="footnote" n="81"><space rend="indent1"/>Howden’s <hi rend="italic">Philomena</hi> was translated from Latin to Middle English: D’Evelyn, ed., <hi rend="italic">Meditations on the Life and Passion of Christ</hi>.</note>
+ 
+ 
+ <note type="footnote" n="82"><space rend="indent1"/>Consisting of forty-three meditations of about 125 lines each, <hi rend="italic">Rossignos</hi> is touched with affective piety, chivalric language, and praise of crusaders, including Eleanor’s own illustrious kin (lines 3969–4052). See John of Howden, <hi rend="italic">Rossignos</hi>, ed. Hesketh, pp. 141–44, 218–21; Howell, <hi rend="italic">Eleanor of Provence</hi>, pp. 60, 83–85, 93; Wogan-Browne, “The Tongues of the Nightingale,” p. 85; and <hi rend="italic">VLT</hi>, pp. 204–05.</note>
+ 
+ 
+ <note type="footnote" n="83"><space rend="indent1"/>John of Howden, <hi rend="italic">Rossignos</hi>, ed. Hesketh, p. 33 (translation mine). Another important late-thirteenth-century “nightingale” is John Pecham’s Latin verse <hi rend="italic">Philomena</hi>, which survives in over thirty manuscripts. In it the nightingale represents both the Passion and the Christian soul meditating on mankind’s history from creation to salvation; at each hour, the nightingale sings a different song. Pecham, a Franciscan, was archbishop of Canterbury, 1279–1292. On Pecham’s poem, see Bestul, <hi rend="italic">Texts of the Passion: Latin Devotional Literature and Medieval Society</hi>, pp. 100–03. Wogan-Browne et al. usefully summarize the nightingale tradition as it evolved into thirteenth-century meditations that imagistically retained secular, naturalistic notes: “Traditions concerning the nightingales are long-lived, from the rape of Philomena in Ovid onwards: their medieval versions embrace the range of secular and divine passions, with the nightingale frequently representing both Christ and the believer’s response, as well as the poet’s voice. Structured meditations on Christ’s death of the kind influentially modelled in Edmund of Abingdon’s <hi rend="italic">Mirour de seinte eglyse</hi> . . . were often equated with the nightingale’s singing at the different canonical hours” (<hi rend="italic">VLT</hi>, p. 204). See too the introductory essay in Baird and Kane, eds. and trans., <hi rend="italic">Rossignol</hi> (pp. 1–53), a medieval French translation of Pecham’s poem. On the very popular <hi rend="italic">Mirour</hi> (a French translation of Edmund’s <hi rend="italic">Speculum ecclesiae</hi>) as meditative model, see <hi rend="italic">VLT</hi>, pp. 212–22. Edmund’s sanctity is celebrated in the Jesus lyric <hi rend="italic">When Holy Church Is Under Foot</hi> (art. 12).</note>
+ 
+ 
+ <note type="footnote" n="84"><space rend="indent1"/>Stressing its debate form and secularity, editors of <hi rend="italic">Owl</hi> have barely considered how the poem might be related to the vibrant, aristocratic, meditative nightingale tradition; see, for example, the brief mention in Cartlidge-<hi rend="italic">Owl</hi>, pp. 65–66n736–42; and the speculation in Reed, <hi rend="italic">Middle English Debate Poetry</hi>, pp. 245–46. Wogan-Browne, however, writes of a “a common polyglot ‘nightingale’ discourse” existing “in and out of Latin, insular and continental Frenches and Englishes” and exerting “varying linguistic and cultural contacts” (“The Tongues of the Nightingale,” p. 91). In her opinion, the corpus includes the English <hi rend="italic">The Thrush and the Nightingale</hi> (contemporary with <hi rend="italic">Owl</hi>) as well as the much later <hi rend="italic">Nightingale</hi> by John Lydgate; she does not include <hi rend="italic">The Owl and the Nightingale</hi>. </note>
+ 
+ 
+ <note type="footnote" n="85"><space rend="indent1"/>In <hi rend="italic">Owl</hi>, Nicholas is styled as a “Master,” that is, a man with a university education, implicitly “a parish priest at Portesham in Dorset,” an advowson “held by the nearby Benedictine abbey of Abbotsbury” (Cartlidge-Composition, p. 257).</note>
+ 
+ 
+ <note type="footnote" n="86"><space rend="indent1"/>Cartlidge, “The Date,” p. 230.</note>
+ 
+ 
+ <note type="footnote" n="87"><space rend="indent1"/>Cartlidge, “Nicholas of Guildford.” The revised date signifies that <hi rend="italic">Owl</hi> is not so old as previously thought, and that it is close, within a decade or so, of its two scribes’ own temporal milieus. On Nicholas’s identity and the authorship question, see especially Atkins, pp. xxxviii–xlvi; Stanley, pp. 20–22; Cartlidge-<hi rend="italic">Owl</hi>, pp. 101–02; and, most recently, Kerby-Fulton, <hi rend="italic">The Clerical Proletariat</hi>, pp. 41–48. I agree with Cartlidge that there is a strong case for dating <hi rend="italic">Owl</hi> post-1272 and for dating Jesus and Cotton accordingly.</note>
+ 
+ 
+ <note type="footnote" n="88"><space rend="indent1"/>Master John of Guildford greets you thus, / And approaches you to say that he won’t sing, / But in this manner he’ll end his song: / God, Lord of heaven, be among us all. / Amen (translation mine).</note>
+ 
+ 
+ <note type="footnote" n="89"><space rend="indent1"/>See especially Sisam, “The Broken Leaf”; and Hill-Addenda, pp. 99–102.</note>
+ 
+ 
+   <note type="footnote" n="90"><space rend="indent1"/>Cartlidge-<hi rend="italic">Owl</hi>, p. xxx. He identifies several analogues in Latin and French secular debate literature (pp. xxxi–xl); see <ref target="insert-internal-link" type="internal">the Explanatory headnote to <hi rend="italic">Owl</hi></ref>.</note>
+ 
+ 
+ <note type="footnote" n="91"><space rend="indent1"/>Dean, nos. 265, 532, 534. On Chardri as author, see Chardri, <hi rend="italic">The Works</hi>, trans. Cartlidge, pp. 7–11; and Chardri, <hi rend="italic">La Vie des Set Dormanz</hi>, ed. Merrilees, p. 8.</note>
+ 
+ 
+ <note type="footnote" n="92"><space rend="indent1"/>Dean, nos. 468 (<hi rend="italic">Tobie</hi>), 702–05, 579. See Reinsch, ed., “La vie de Tobie”; and Dean, “A Missing Chapter.” The extract is lines 1–344. On the item in Jesus 29, see Hill-History, pp. 203–04; Hill-Addenda, p. 104; Hill-Part2, p. 272; and Cartlidge-Composition, pp. 250–51, 257, 259.</note>
+ 
+ 
+ <note type="footnote" n="93"><space rend="indent1"/>On <hi rend="italic">The Divine Bestiary</hi> (Dean, no. 702), see Mead, “17. Guillaume le Clerc de Normandie, <hi rend="italic">Le Bestiaire divin</hi>.”</note>
+ 
+ 
+ <note type="footnote" n="94"><space rend="indent1"/>Dean, no. 622. See Boulton, trans., <hi rend="italic">Piety and Persecution</hi>, pp. 61–89; and <hi rend="italic">VLT</hi>, pp. 40–45. See also Dean, no. 685.</note>
+ 
+ 
+ <note type="footnote" n="95"><space rend="indent1"/>Hunt, “<hi rend="italic">Le Doctrinal Sauvage</hi> — Another Manuscript,” p. 1. See Dean, no. 244; and Sakari, ed., <hi rend="italic">Doctrinal Sauvage</hi>. On the item in Jesus 29, see Hill-Addenda, p. 105; and Cartlidge-Composition, pp. 257–58. For a questioning of the date, see Cartlidge-<hi rend="italic">Owl</hi>, p. xxxn67. </note>
+ 
+ 
+ <note type="footnote" n="96"><space rend="indent1"/>On this manuscript, see the essays in Fein, ed., <hi rend="italic">Interpreting MS Digby 86</hi>.</note>
+ 
+ 
+ <note type="footnote" n="97"><space rend="indent1"/>Cartlidge-Composition, pp. 257–58.</note>
+ 
+ 
+ <note type="footnote" n="98"><space rend="indent1"/>Hill-History, pp. 206–07. See also Hill-Part2, p. 274n45; and Hill-Addenda, p. 105.</note>
+ 
+ 
+ <note type="footnote" n="99"><space rend="indent1"/>Cartlidge-Composition, p. 259.</note>
+ 
+ 
+ <note type="footnote" n="100"><space rend="indent1"/>Hill-History, p. 204; and Cartlidge-Composition, p. 259.</note>
+ 
+ 
+ <note type="footnote" n="101"><space rend="indent1"/>Cartlidge-Composition, p. 259: as a price-setting scale, it “correlates the weight of a farthing loaf with the market value of a quarter of grain.”</note>
+ 
+ 
+ <note type="footnote" n="102"><space rend="indent1"/>Hill-Part2, p. 273. See Capes, ed., <hi rend="italic">Register of Richard de Swinfield</hi>, p. ix.</note>
+ 
+ 
+ <note type="footnote" n="103"><space rend="indent1"/>Scahill, “The Friar,” p. 10.</note>
+ 
+ 
+ <note type="footnote" n="104"><space rend="indent1"/>Chardri, <hi rend="italic">The Works</hi>, trans. Cartlidge, p. 4. See also Sisam, “The Broken Leaf,” p. 343 (a “serious and edifying collectio[n]”).</note>
+ 
+ 
+ <note type="footnote" n="105"><space rend="indent1"/>Kehnel, “Poets, Preachers and Friars Revisited,” p. 96. </note>
+ 
+ 
+ <note type="footnote" n="106"><space rend="indent1"/>Frankis, “The Social Context,” pp. 183, 181.</note>
+ 
+ 
+ <note type="footnote" n="107"><space rend="indent1"/>Scahill, “The Friar,” p. 11, specifically comparing Jesus 29 to Harley 2253.</note>
+ 
+ 
+ <note type="footnote" n="108"><space rend="indent1"/>See Levy, “The Annunciation”; and compare Thomas’s <hi rend="italic">vita</hi> of Mary (Horrall, ed., <hi rend="italic">The Lyf of Oure Lady</hi>, pp. 47–51).</note>
+ 
+ 
+ <note type="footnote" n="109"><space rend="indent1"/>Interestingly, this song pair follows <hi rend="italic">Owl</hi> in the Cotton manuscript, presenting opposite musical exempla after the birds have defended their different musical styles, in effect, “the contrast of plainchant and polyphony” (Medcalf, “Literature and Drama,” p. 102; see also Page, <hi rend="italic">The Owl and the Nightingale</hi>, p. 208n5).</note>
+ 
+ 
+ <note type="footnote" n="110"><space rend="indent1"/>Spearing, “Central and Displaced Sovereignty.”</note>
+ 
+ 
+ <note type="footnote" n="111"><space rend="indent1"/>This shared feature suggests that Thomas of Hales authored not just <hi rend="italic">Love Rune</hi>, where the device is prominent, but also, perhaps, some of the others, where it is more subtle.</note>
+ 
+ 
+ <note type="footnote" n="112"><space rend="indent1"/>Elsewhere in Jesus 29, Chardri, too, pauses to praise England in the Anglo-French <hi rend="italic">Little Debate</hi> (Chardri, <hi rend="italic">The Works</hi>, trans. Cartlidge, p. 8). On the amorphous idea of “nation” in the thirteenth century, see Turville-Petre, <hi rend="italic">England the Nation</hi>, pp. 1–22; Pearsall, <hi rend="italic">Gothic Europe</hi>, pp. 248–49; and essays in Lavezzo, ed., <hi rend="italic">Imagining a Medieval English Nation</hi>.</note>
+ 
+ 
+ <note type="footnote" n="113"><space rend="indent1"/>On concepts of kingship in this period, see Matthews, <hi rend="italic">Writing to the King</hi>, pp. 47–51, and compare the category “England as Nation,” above.</note>
+ 
+ 
+ <note type="footnote" n="114"><space rend="indent1"/>See Yeager, <hi rend="italic">From Lawmen to Plowmen</hi>, pp. 117–18.</note>
+ 
+ 
+ <note type="footnote" n="115"><space rend="indent1"/>See Yeager, <hi rend="italic">From Lawmen to Plowmen</hi>, p. 118.</note>
+ 
+ 
+ <note type="footnote" n="116"><space rend="indent1"/>See Hines and Julian-Jones, “Below Malvern,” pp. 269–73.</note>
+ 
+ 
+ <note type="footnote" n="117"><space rend="indent1"/>Scahill, “The Friar,” p. 10.</note>
+ 
+ 
+ <note type="footnote" n="118"><space rend="indent1"/>See Mayr-Harting, <hi rend="italic">Religion, Politics and Society in Britain 1066–1272</hi>, pp. 264–66.</note>
+ 
+ 
+ <note type="footnote" n="119"><space rend="indent1"/>See Fein, “Designing English,” p. 46.</note>
+ 
+ </div></body></text></TEI>

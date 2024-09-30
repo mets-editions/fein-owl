@@ -1,0 +1,2942 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Fein-Owl-005-Art1-Passion-Jesus-FP-Verse-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1. The Passion of Jesus Christ in English</title>
+        <author>Unknown</author>
+        <editor>Fein, Susanna</editor>
+        <editor role="translator">Fein, Susanna</editor>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Conklin, Ashley R.</persName>
+          <resp>Audited documents prior to print/export</resp>
+          <resp from="2020-02" to="2020-04">Ensured adherence to METS Style Guide</resp>
+          <resp from="2022-05" to="2023-09">Entered corrections for digital edition</resp>
+          <resp from="2020-02" to="2023-09">Entered corrections for print edition</resp>
+          <resp from="2020-02" to="2020-04">Reviewed transcription of base manuscript or early print
+            witness</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2023-11" to="2024-05">Audited documents prior to print/export</resp>
+          <resp from="2020-02" to="2020-03">Copyedited and proofread</resp>
+          <resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2022-05" to="2023-11">Entered corrections for digital edition</resp>
+          <resp from="2020-02" to="2023-09">Entered corrections for print edition</resp>
+          <resp from="2020-02" to="2020-03">Formatted for print edition</resp>
+          <resp from="2020-02" to="2023-11">Formatted for XML export</resp>
+          <resp from="2024-05" to="2024-06">Encoded TEI</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp>
+          <resp from="2023-10" to="2023-10">Collected metadata</resp>
+          <resp from="2023-11" to="2024-01">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-11" to="2024-01">Entered corrections for digital edition</resp>
+          <resp from="2023-11" to="2024-01">Formatted for XML export</resp>
+          <resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2021-11" to="2021-11">Copyedited and proofread</resp>
+          <resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2021-11" to="2021-11">Reviewed and suggested glosses</resp>
+          <resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp>
+          <resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp>
+          <resp from="2021-11" to="2021-11">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2024-02" to="2024-05">Collected metadata</resp>
+          <resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp from="2021-11" to="2021-11">Copyedited and proofread</resp>
+          <resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2021-11" to="2021-11">Reviewed and suggested glosses</resp>
+          <resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp>
+          <resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp>
+          <resp from="2021-11" to="2021-11">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2024-05" to="2024-06">Encoded TEI</resp>
+          <resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp>
+          <resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-10" to="2023-11">Entered corrections for digital edition</resp>
+          <resp from="2023-10" to="2023-11">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2021-11" to="2024-05">Audited documents prior to print/export</resp>
+          <resp>Collated and entered corrections</resp>
+          <resp from="2021-11" to="2021-12">Copyedited and proofread</resp>
+          <resp from="2021-11" to="2021-12">Ensured adherence to METS Style Guide</resp>
+          <resp from="2023-05" to="2023-08">Entered corrections for digital edition</resp>
+          <resp from="2023-05" to="2023-08">Entered corrections for print edition</resp>
+          <resp from="2021-11" to="2021-12">Reviewed edition for consistency and audience</resp>
+          <resp from="2021-11" to="2021-12">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2024</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mead Bowen</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Theresa Coletti</persName>
+          <orgName>University of Maryland</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ashley R. Conklin</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa Fagin Davis</persName>
+          <orgName>Medieval Academy of America</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Steffi Delcourt</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Margaret Dull</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Director of Metadata Strategies, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Susanna Fein</persName>
+          <orgName>Kent State University</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John Geck</persName>
+          <orgName>Memorial University of Newfoundland</orgName>
+          <resp>TEI Consultant, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alexandra Gillespie</persName>
+          <orgName>University of Toronto</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas Goodmann</persName>
+          <orgName>University of Miami</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Consulting Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David A. Lawton</persName>
+          <orgName>Washington University in St. Louis</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Michael Livingston</persName>
+          <orgName>The Citadel</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peter Nowak</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>IT Support Specialist, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Katie Papas</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eleanor Price</persName>
+          <orgName>Eastman School of Music at the University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Raybin</persName>
+          <orgName>Eastern Illinois University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Eve Salisbury</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Anna Siebach-Larsen</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lynn Staley</persName>
+          <orgName>Colgate University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jeff Suszczynski</persName>
+          <orgName>Univeristy of Rochester</orgName>
+          <resp>Web Applications Programmer, Technical Support Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Victoria Szabo</persName>
+          <orgName>Duke University</orgName>
+          <resp>Consulting Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>David Wallace</persName>
+          <orgName>University of Pennsylvania</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Pamela M. Yee</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Thomas of Hales</author>
+            <author>Unknown</author>
+            <editor>Fein, Susanna</editor>
+            <editor role="translator">Fein, Susanna</editor>
+            <title>The Owl and the Nightingale and the English Poems of Oxford, Jesus College, MS 29
+              (II)</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/fein-owl/blob/main/fein-owl-export-corrections-log.docx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="enm">English, Middle (1100-1500)</language>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Fein-Owl-005-Art1-Passion-Jesus-FP-Verse"/>
+      <div type="versotext" xml:lang="enm">
+        <p style="incipit"><l><locus type="foliation">fol. 144r</locus><space
+                rend="indent1"/><foreign xml:lang="fro">Ici cumence <title>la passyun
+                <persName><hi rend="italic">Jhesu Crist</hi></persName> en Engleys</title></foreign>.</l></p>
+        <p style="incipit"><l><space rend="indent1"/><foreign xml:lang="lat">Incipit
+              prologus</foreign><note type="tnote-indicator" n="1">T</note>
+          </l></p>
+        <lg>
+          <l><space rend="indent1"/>Ihereth<note type="tnote-indicator" n="2">T</note> nu one lutele
+            tale<caesura/>that ich eu wille telle,</l>
+          <l><space rend="indent1"/>As we vyndeth hit iwrite<caesura/>in the godspelle —</l>
+          <l><space rend="indent1"/>Nis hit nouht of <persName>Karlemeyne</persName><caesura/>ne of
+            the duzeper,<note type="enote-indicator" n="1">N</note>
+          </l>
+          <l><space rend="indent1"/>Ac of <persName>Cristes</persName> thuwinge<caesura/>thet he
+            tholede her.</l>
+        </lg>
+        <lg>
+          <l><milestone n="5" unit="line"/><space rend="indent1"/>Al volk wes todreved,<caesura/>so
+            schep beoth in the wolde;<note type="enote-indicator" n="2">N</note>
+          </l>
+          <l><space rend="indent1"/>Lute ymunde hi hedde of
+            <persName>Gode</persName>,<caesura/>heore heorten weren so colde.</l>
+          <l><space rend="indent1"/>He thet is and ever wes<caesura/>in
+              <placeName>hevene</placeName> myd his Fadere,</l>
+          <l><space rend="indent1"/>Ful lowe he alyhte<caesura/>for bryngen heom togadere.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Thurst and hunger, chele and hete,<caesura/>this beoth stronge
+            pyne;</l>
+          <l><milestone n="10" unit="line"/><space rend="indent1"/>Theos he tholede al vor
+            us,<caesura/>that turnde water to wyne.</l>
+          <l><space rend="indent1"/>Thrytty wyntre and more<caesura/>he wes among monkunne,</l>
+          <l><space rend="indent1"/>Seoththe that Mayde hyne yber,<caesura/>al withute sunne.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Tho he hedde so longe ibeo<caesura/>ine wrecche lyve thisse,</l>
+          <l><space rend="indent1"/>He wes swythe oflonged<caesura/>to his Fader blysse,</l>
+          <l><milestone n="15" unit="line"/><space rend="indent1"/>Nouht for than that he
+            nedde<caesura/>in his god cunnesse,</l>
+          <l><space rend="indent1"/>Ac he wolde that we myd him,<caesura/>bothe more and lesse.</l>
+          <l><space rend="indent1"/>Heo habbe scolde, and so we muwe,<caesura/>ne therfth ther non
+              adrede.<note type="enote-indicator" n="3">N</note>
+          </l>
+          <l><space rend="indent1"/>Yf we us wyteth from heued-sunne<caesura/>and doth al by his
+            rede,</l>
+          <l><space rend="indent1"/>The Louerd thet alle thing ischop<note type="tnote-indicator"
+              n="3">T</note>
+            <caesura/>to there blysse us brynge.</l>
+          <l><milestone n="20" unit="line"/><space rend="indent1"/>Nu bigynneth ure tale
+            —<caesura/>nys hit no lesynge.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><hi rend="italic">Her biginneth </hi><persName><hi rend="italic"
+                >Cristes</hi></persName><hi rend="italic"> throwynge .i. sa Passyun.</hi><note
+              type="tnote-indicator" n="4">T</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Levedi,<note type="tnote-indicator" n="5">T</note> thu bere that
+            beste child<caesura/>that ever wes ibore;</l>
+          <l><space rend="indent1"/>Of the he makede his moder,<caesura/>vor he the hedde
+              ycore.<note type="tnote-indicator" n="6">T</note>
+          </l>
+          <l><space rend="indent1"/><persName>Adam</persName> and his ofsprung<caesura/>al hit were
+            furlore</l>
+          <l><space rend="indent1"/>Yf thi Sune nere<note type="tnote-indicator" n="7">T</note>
+            —<caesura/>iblessed thu beo thervore.</l>
+        </lg>
+        <lg>
+          <l><milestone n="25" unit="line"/><space rend="indent1"/>After that he was
+            yvolled<caesura/>in the <placeName>Flum Jurdan</placeName></l>
+          <l><space rend="indent1"/>Of the prophete<caesura/>that hatte Seynt
+              <persName>Johan</persName>.<note type="enote-indicator" n="4">N</note>
+          </l>
+          <l><space rend="indent1"/>The Holy Gost hyne ledde<caesura/>up into the wolde</l>
+          <l><space rend="indent1"/>For to beon yvonded<caesura/>of <persName>Sathanas</persName>
+            then olde.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Ther he wes fourty<note type="tnote-indicator" n="8">T</note>
+            dawes<caesura/>al withute mete;</l>
+          <l><milestone n="30" unit="line"/><space rend="indent1"/>Tho he hedde heom
+            yvast,<caesura/>tho luste hym ete.</l>
+          <l><locus type="foliation">fol. 144v</locus><space rend="indent1"/>Ther hym com
+              <persName>Sathanas</persName>,<caesura/>that is ful of hete;</l>
+          <l><space rend="indent1"/>Mid his false wordes<caesura/>he gon myd him to speke.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>A thre cunne wise<caesura/>he vondi hyne bigon,</l>
+          <l><space rend="indent1"/>As he vondede <persName>Adam</persName><caesura/>and hyne
+            overcom:</l>
+          <l><milestone n="35" unit="line"/><space rend="indent1"/>Mid<note type="tnote-indicator"
+              n="9">T</note> yvernesse and prude<caesura/>and yssyng<note type="enote-indicator"
+              n="5">N</note> wes that on.</l>
+          <l><space rend="indent1"/>He nuste nouht that he wes<caesura/>bothe
+              <persName>God</persName> and mon.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Tho seyde <persName>Jhesu Crist</persName>,<caesura/>thet is
+              <persName>Godes</persName> Sune,</l>
+          <l><space rend="indent1"/>“Ga abak, <persName>Sathanas</persName>!<caesura/>To hwan artu
+              ycume?”<note type="enote-indicator" n="6">N</note>
+          </l>
+          <l><space rend="indent1"/>Anon he hyne bylevede<caesura/>more to vondy,</l>
+          <l><milestone n="40" unit="line"/><space rend="indent1"/>And ther comen
+            engles<caesura/>hym to servy.<note type="enote-indicator" n="7">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Tho he bygon to prechi.<caesura/>Wel mylde weren his dede.</l>
+          <l><space rend="indent1"/>He ches hym twolve yvere<note type="tnote-indicator" n="10"
+              >T</note>
+            <caesura/>myd him vor to lede;</l>
+          <l><space rend="indent1"/>Summe hi weren wyse<caesura/>and duden al bi his rede,</l>
+          <l><space rend="indent1"/>Ac on hyne bitrayede,<caesura/>that et of his brede.</l>
+        </lg>
+        <lg>
+          <l><milestone n="45" unit="line"/><space rend="indent1"/>Alle men he tauhte<caesura/>to
+            holde treowe luve:</l>
+          <l><space rend="indent1"/>Erest to <persName>God</persName> Almyhti<caesura/>that is us
+            alle abuve;</l>
+          <l><space rend="indent1"/>Seththe to luvye his evenyng<caesura/>al so hymseolve wolde,</l>
+          <l><space rend="indent1"/>And everuich beo to othre<caesura/>bothe treowe and holde.<note
+              type="enote-indicator" n="8">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Muchel volk hym vulede.<caesura/>Wyte ye for-hwon?<note
+              type="enote-indicator" n="9">N</note>
+          </l>
+          <l><milestone n="50" unit="line"/><space rend="indent1"/>Summe to beon hole<caesura/>of
+            uvele thet wes heom on;</l>
+          <l><space rend="indent1"/>Summe for beon yvedde<caesura/>of lykamlyche vode;</l>
+          <l><space rend="indent1"/>And summe al for uvele<caesura/>and for none gode.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Men he helde, and wymmen,<caesura/>a vele kunne wise:</l>
+          <l><space rend="indent1"/>The blynde he makede loki<caesura/>and the dede aryse;</l>
+          <l><milestone n="55" unit="line"/><space rend="indent1"/>Dumbe speke, deve
+            ihere,<caesura/>and the holte gon.</l>
+          <l><space rend="indent1"/>Swich leche bivore hym<caesura/>ne com her never non!</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The Gywes and the Faryseus<caesura/>therof hi hedden onde —</l>
+          <l><space rend="indent1"/>That swich leche wes ycume<caesura/>into heore londe.</l>
+          <l><space rend="indent1"/>Hi seyden, “He is a smythes sune.<note type="enote-indicator"
+              n="10">N</note>
+            <caesura/>Ne beo we noht his frend!</l>
+          <l><milestone n="60" unit="line"/><space rend="indent1"/>Alle his wndres that he
+            doth<caesura/>is thurch thene Vend.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Vor alle the gode that he heom dude,<caesura/>hi yolde him
+            luthre mede.</l>
+          <l><space rend="indent1"/>Me seyth, “His hwile he vorleost<caesura/>that doth for the
+              quede.”<note type="enote-indicator" n="11">N</note>
+          </l>
+          <l><locus type="foliation">fol. 145r</locus><space rend="indent1"/>Also dude
+              <persName>Jhesu Crist</persName>:<caesura/>vor uvele he dude god;</l>
+          <l><space rend="indent1"/>Thervore hi, at then ende,<caesura/>schedden his swete blod.</l>
+        </lg>
+        <lg>
+          <l><milestone n="65" unit="line"/><space rend="indent1"/>Tho he com toward
+              <placeName>Jerusalem</placeName><caesura/>a <date>Palme Suneday</date>,</l>
+          <l><space rend="indent1"/>Ne hedde he none robe<caesura/>of fowe ne of gray,<note
+              type="enote-indicator" n="12">N</note>
+          </l>
+          <l><space rend="indent1"/>Ne he nedde stede<caesura/>ne no palefray,</l>
+          <l><space rend="indent1"/>Ac rod uppe on asse,<caesura/>as ich eu segge may.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>As he com into the bureh,<caesura/>so rydinde,</l>
+          <l><milestone n="70" unit="line"/><space rend="indent1"/>The children of the
+            tune<caesura/>comen syngynde.</l>
+          <l><space rend="indent1"/>“Iblessed,” hi seyde, “mote he beo.”<note type="enote-indicator"
+              n="13">N</note>
+            <caesura/>The cumeth on <persName>Godes</persName><note type="tnote-indicator" n="11"
+              >T</note> nome.</l>
+          <l><space rend="indent1"/>The Gywes and the Fariseus<caesura/>therof hi hedde grome.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Tho he com to the temple<caesura/>and wolde prechi,</l>
+          <l><space rend="indent1"/>He vunde therynne chepmen<caesura/>thet were mody.</l>
+          <l><milestone n="75" unit="line"/><space rend="indent1"/>Theyh hi were prute,<caesura/>he
+            heom ut drof;</l>
+          <l><space rend="indent1"/>The byspes and the maystres,<caesura/>hi were swythe wroth.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>And hym anon axede<caesura/>hwy he so dude.</l>
+          <l><space rend="indent1"/>Ure Louerd heom onswerede<caesura/>anon yne the stude:</l>
+          <l><space rend="indent1"/>“Hit is iwrithe that myn hus<caesura/>is bede-hus icleped,</l>
+          <l><milestone n="80" unit="line"/><space rend="indent1"/>And ye theovene dich<caesura/>hit
+            habbeth ymaked.”<note type="enote-indicator" n="14">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The maystres of the temple,<caesura/>hi were swithe prute,</l>
+          <l><space rend="indent1"/>For to undernyme ure Louerd,<caesura/>hi were ever abute<note
+              type="tnote-indicator" n="12">T</note> —</l>
+          <l><space rend="indent1"/>If he ouht prechede<caesura/>toyeynes there lawe —</l>
+          <l><space rend="indent1"/>Thet heo hyne myhte wreye<caesura/>and don of lyf-dawe.<note
+              type="tnote-indicator" n="13">T</note>
+          </l>
+        </lg>
+        <lg>
+          <l><milestone n="85" unit="line"/><space rend="indent1"/>As hit neyhlechet<note
+              type="enote-indicator" n="15">N</note>
+            <caesura/>to heore muchele feste —</l>
+          <l><space rend="indent1"/>Of alle the twelf moneth<caesura/>that wes the alre meste —</l>
+          <l><space rend="indent1"/>Hi nomen heom to rede<caesura/>at heore motynge</l>
+          <l><space rend="indent1"/>Hw hi myhten ure Louerd<caesura/>to the dethe brynge.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>At the <date>Schere Thursday</date>,<caesura/>as ye mawen
+              ihere,<note type="tnote-indicator" n="14">T</note>
+          </l>
+          <l><milestone n="90" unit="line"/><space rend="indent1"/>Tho ure Louerd wes
+            isethe<caesura/>to his supere,</l>
+          <l><space rend="indent1"/>He byheold abute<caesura/>myd swithe veyre chere,</l>
+          <l><space rend="indent1"/>And seyde to his disciples<caesura/>that tho myd hym were:</l>
+          <l><space rend="indent1"/>“On me scal bitraye<caesura/>that nu is ure yvere;</l>
+          <l><space rend="indent1"/>Iwis, hym were betere<caesura/>that he ibore nere.”</l>
+          <l><locus type="foliation">fol. 145v</locus><space rend="indent1"/>Everuych lokede to
+            othre;<caesura/>hi were sore ofdredde.</l>
+          <l><milestone n="96" unit="line"/><space rend="indent1"/>Hi nuste never bi hwich of
+            heom<caesura/>he hit iseyd hedde.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Tho quethen his disciples,<caesura/>on after on:</l>
+          <l><space rend="indent1"/>“Louerd,” hi seyden alle,<caesura/>“hwo is so hardy mon</l>
+          <l><space rend="indent1"/>That durre the bytraye,<caesura/>of us everuych on?</l>
+          <l><milestone n="100" unit="line"/><space rend="indent1"/>We willeth to the
+            dethe<caesura/>alle myd the gon.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Tho seyde ure Louerd <persName>Crist</persName>,<caesura/>that
+            is ful of blysse:</l>
+          <l><space rend="indent1"/>“Nymeth gode yeme<caesura/>that ye nouht ne mysse:</l>
+          <l><space rend="indent1"/>Hwam ich biteche that bred<caesura/>that ich on wyne wete,</l>
+          <l><space rend="indent1"/>He me schal bitraye<caesura/>tonyht er he slepe.”</l>
+          <l><milestone n="105" unit="line"/><space rend="indent1"/>He hit bitauhte
+              <persName>Judas</persName><caesura/>that alle hit myhte iseo,</l>
+          <l><space rend="indent1"/>Ther he wes bivoren him<caesura/>and set on his kneo.</l>
+          <l><space rend="indent1"/>He hit et blutheliche<caesura/>and lokede ful brode,</l>
+          <l><space rend="indent1"/>And the Veond him on bicom<caesura/>myd therylke snode.<note
+              type="enote-indicator" n="16">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Judas</persName> tho onswerede,<caesura/>and spek myd
+            ure Dryhte:</l>
+          <l><milestone n="110" unit="line"/><space rend="indent1"/>“Mayster, am ich
+            thilke<caesura/>that the wile so dyhte?”</l>
+          <l><space rend="indent1"/>“Thu hit seyst,” queth ure Louerd,<caesura/>“and dest al thine
+              mihte.”<note type="enote-indicator" n="17">N</note>
+          </l>
+          <l><space rend="indent1"/>And he hym ut iwende<caesura/>al bi thuster nyhte.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>He com to the Gywes<caesura/>ther heo togadere were,</l>
+          <l><space rend="indent1"/>Al hymseolf one —<caesura/>nedde he nenne yvere —</l>
+          <l><milestone n="115" unit="line"/><space rend="indent1"/>And chepte heom to
+            sullen<caesura/>ure Helare.</l>
+          <l><space rend="indent1"/>Hi were swithe blythe<caesura/>for there cheffare.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>He queth to the Gywes:<caesura/>“If ich so ispede</l>
+          <l><space rend="indent1"/>That ich bitraye <persName>Jhesu</persName>,<caesura/>hwat schal
+            beon my mede?”</l>
+          <l><space rend="indent1"/>“Thrytty panewes,” hi seyden,<caesura/>“Hi beoth alle
+              irede.”<note type="enote-indicator" n="18">N</note>
+          </l>
+          <l><milestone n="120" unit="line"/><space rend="indent1"/>“Cumeth mid me,” queth
+              <persName>Judas</persName>,<caesura/>“and ich eu wile lede.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Cumeth swithe myd me,<caesura/>bothe yonge and olde;</l>
+          <l><space rend="indent1"/>Thene that ich cusse,<caesura/>vaste ye hyne holde</l>
+          <l><space rend="indent1"/>And ledeth hyne warlyche —<caesura/>he con wndres monye.</l>
+          <l><space rend="indent1"/>If he nuthe eu askapeth,<caesura/>eu schal sore schomye.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="125" unit="line"/><space rend="indent1"/>After thet <persName>Judas
+              Skariot</persName><caesura/>him wes ut igon.</l>
+          <l><space rend="indent1"/>Ure Louerd nom his apostles,<caesura/>everuychon,</l>
+          <l><locus type="foliation">fol. 146r</locus><space rend="indent1"/>And forth myd him
+            ledde<caesura/>to the <placeName>Munt of Olyvete</placeName>,</l>
+          <l><space rend="indent1"/>Ther he to heom wordes spek<caesura/>myd his muthe swete.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Ye seggeth alle,” queth ure Louerd,<caesura/>“ye willeth myd me
+            deye;</l>
+          <l><milestone n="130" unit="line"/><space rend="indent1"/>Tonyht eu schal
+            scomye<caesura/>that ye me evere yseye.</l>
+          <l><space rend="indent1"/>Hit is write in the bok<caesura/>ther me hit may rede.</l>
+          <l><space rend="indent1"/>Vele wintre hit is ago<note type="tnote-indicator" n="15"
+              >T</note>
+            <caesura/>the prophete hit seyde:</l>
+          <l><space rend="indent1"/>‘Beo the seopheorde aquold<caesura/>and of lyve bireved,</l>
+          <l><space rend="indent1"/>Thenne scule sone his seop<caesura/>alle beon todreved.’<note
+              type="enote-indicator" n="19">N</note>
+          </l>
+          <l><milestone n="135" unit="line"/><space rend="indent1"/>After that ich from
+            dethe<caesura/>eft aryse beo;</l>
+          <l><space rend="indent1"/>Ich wile bivoren eu alle<caesura/>cumen to
+              <placeName>Galyle</placeName>.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Tho queth Seynte <persName>Peter</persName>,<caesura/>theyh alle
+            ofschomed beo:</l>
+          <l><space rend="indent1"/>“Ne schal me never schomye, Louerd, for theo.”</l>
+          <l><space rend="indent1"/>“<persName>Peter</persName>,” queth ure Louerd, <caesura/>“nu
+            thu seyst so.</l>
+          <l><milestone n="140" unit="line"/><space rend="indent1"/>Er hit beo day
+            tomorewe,<caesura/>al other hit schal go.</l>
+          <l><space rend="indent1"/>Thu ne knowest nouht thiseolve,<caesura/>ac ich the yknowe,</l>
+          <l><space rend="indent1"/>Thu me schalt thryes fursake<caesura/>er the cok crowe.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Louerd,” queth Seynte <persName>Peter</persName>
+            —<caesura/>iwis, hym wes ful wo —</l>
+          <l><space rend="indent1"/>“Theyh ich to the dethe<caesura/>schulle myd the go,</l>
+          <l><milestone n="145" unit="line"/><space rend="indent1"/>Other into
+            prysune,<caesura/>hwether hit wile byvalle,</l>
+          <l><space rend="indent1"/>Ic nele never the vorsake.”<caesura/>And so hi seyden alle.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Tho hi hedden al this iherd,<caesura/>heo were ful sori.</l>
+          <l><space rend="indent1"/>Ure Louerd myd heom iwende<caesura/>to
+              <placeName>Gethsemany</placeName>.</l>
+          <l><space rend="indent1"/>Seththe he to heom seyde —<caesura/>iblessed mote heo beo:</l>
+          <l><milestone n="150" unit="line"/><space rend="indent1"/>“Sytteth her the hwile ich
+            go<caesura/>to abidde me.”</l>
+          <l><space rend="indent1"/>He nom Seynte <persName>Peter</persName>,<caesura/>Seynt
+              <persName>Jame</persName>, and Seynt <persName>Jon</persName>.</l>
+          <l><space rend="indent1"/>He wes ofdred of the deth,<caesura/>thet is
+              <persName>God</persName> and mon —</l>
+          <l><space rend="indent1"/>Wel ouhte we beon aferd<caesura/>if we wyse were,</l>
+          <l><space rend="indent1"/>And ure sunnes bete<caesura/>the hwile we beoth here!<note
+              type="enote-indicator" n="20">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><milestone n="155" unit="line"/><space rend="indent1"/><persName>Jesus</persName> from
+            heom iwende<caesura/>the wrp of o ston,</l>
+          <l><space rend="indent1"/>And gon hyne to abidde<caesura/>al himseolf on.</l>
+          <l><space rend="indent1"/>“Vader,” he seyde, <persName>Jhesu
+            Crist</persName>,<caesura/>“if hit may so beo,</l>
+          <l><space rend="indent1"/>Of this ilche calche<caesura/>nu forber thu me.</l>
+          <l><locus type="foliation">fol. 146v</locus><space rend="indent1"/>If ich hine schal
+            drynke,<caesura/>iworthe thine wille.”</l>
+          <l><milestone n="160" unit="line"/><space rend="indent1"/>He wyste that the
+            Gywes<caesura/>hyne thouhte spille.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>As ure Louerd hine ybed,<caesura/>he bigon to swete,</l>
+          <l><space rend="indent1"/>That blod orn adun of hym,<caesura/>dropes swythe grete.</l>
+          <l><space rend="indent1"/>Ther com of <placeName>hevene</placeName> on engel<caesura/>and
+            stod hym vaste by;</l>
+          <l><space rend="indent1"/>Hyne vor to gladye<caesura/>he wes ful redi.</l>
+          <l><milestone n="165" unit="line"/><space rend="indent1"/>Tho he hedde hyne
+            ibede<caesura/>one gode stunde,</l>
+          <l><space rend="indent1"/>He com to his apostles<caesura/>and heom aslepe funde.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Slepestu,” he seyde, “<persName>Symon</persName>?”<caesura/>He
+            wes on of the thre.<note type="enote-indicator" n="21">N</note>
+          </l>
+          <l><space rend="indent1"/>“Ne myhtestu one tyde<caesura/>wakien myd me?</l>
+          <l><space rend="indent1"/>Wakieth and ybiddeth eu,<caesura/>alle togadere,</l>
+          <l><milestone n="170" unit="line"/><space rend="indent1"/>That ye ne cumen in
+            vondinge,<caesura/>up to myne Vadere.</l>
+          <l><space rend="indent1"/>The tyde is wel neyh icume,<caesura/>ich do eu to
+            understonde,</l>
+          <l><space rend="indent1"/>And monnes Sune bith bitauht<caesura/>in sunvulle honde.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Ariseth up,” he seyde,<caesura/>“and ute we heonne go.</l>
+          <l><space rend="indent1"/>Ther him cumeth <persName>Judas</persName>,<caesura/>that is my
+            fulle ivo.</l>
+          <l><milestone n="175" unit="line"/><space rend="indent1"/>He me hafth tonyht
+            isold.<caesura/>Ever wrthe him wo,</l>
+          <l><space rend="indent1"/>And alle that other bitraye,<caesura/>nu and evermo.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Nedde he bute thet word
+              iseyd,<caesura/><persName>Judas</persName> him com thrynge</l>
+          <l><space rend="indent1"/>Mid Gyues and myd Phariseus<caesura/>from heore motynge,</l>
+          <l><space rend="indent1"/>Mid speres and myd staves<caesura/>and othe vele thinge.</l>
+          <l><milestone n="180" unit="line"/><space rend="indent1"/>Lutle luve hi beren<caesura/>to
+            then hevene Kynge.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Jesus</persName> com toyeynes heom<caesura/>myd alle
+            his ivere,</l>
+          <l><space rend="indent1"/>And he to heom seyde,<caesura/>“Hwam ye seche here?”</l>
+          <l><space rend="indent1"/>Heo hym onswerede,<caesura/>“<persName>Jhesum</persName>
+            Nazaren.”</l>
+          <l><space rend="indent1"/><persName>Jhesu</persName> heom to seyde,<caesura/>“Lo, ich hit
+            em.</l>
+        </lg>
+        <lg>
+          <l><milestone n="185" unit="line"/><space rend="indent1"/>Yf ye me secheth,<caesura/>her
+            ich am yfunde.</l>
+          <l><space rend="indent1"/>Leteth theos bileven<caesura/>hol and isunde;</l>
+          <l><space rend="indent1"/>Ne schullen hi nouht yete<caesura/>tholie none wnde.”</l>
+          <l><space rend="indent1"/>The Gywes myd thon worde<caesura/>veollen to the grunde.<note
+              type="enote-indicator" n="22">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Judas</persName> com avoreward,<caesura/>thet al that
+            baleu wrouhte,</l>
+          <l><locus type="foliation">fol. 147r</locus><space rend="indent1"/>Mid Gywes and other
+            volke<caesura/>that he myd hym brouhte.</l>
+          <l><milestone n="191" unit="line"/><space rend="indent1"/>“Heyl,” he seyde, “Mayster,”
+            <caesura/>to <persName>Jhesu</persName> that hi souhte,</l>
+          <l><space rend="indent1"/>And hyne myd muthe custe<caesura/>as he non uvel ne thouhte.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Freond,” seyde <persName>Jhesu Crist</persName>.<caesura/>“To
+            hwan ertu ycume?<note type="enote-indicator" n="23">N</note>
+          </l>
+          <l><space rend="indent1"/>Mid thine valse cosse<caesura/>thu trayest monnes Sune.”</l>
+          <l><milestone n="195" unit="line"/><space rend="indent1"/>The Gywes up
+            asturte,<caesura/>that leyen in the grunde,</l>
+          <l><space rend="indent1"/>And nomen anon <persName>Jhesu Crist</persName><caesura/>and
+            hyne vaste bunde.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Seynte <persName>Peter</persName> hedde o swerd,<caesura/>and he
+            hit ut drouh</l>
+          <l><space rend="indent1"/>And smot of <persName>Malkes</persName><note
+              type="enote-indicator" n="24">N</note> ere<caesura/>and nouht hyne ne slouh.</l>
+          <l><space rend="indent1"/>Tho iseyh <persName>Jhesu Crist</persName><caesura/>that
+              <persName>Peter</persName> so dude,</l>
+          <l><milestone n="200" unit="line"/><space rend="indent1"/>“Put in,” he seyde, “thi
+            sweord<caesura/>anon in the stude;</l>
+          <l><space rend="indent1"/>Ne mot ich nouht drynke,<caesura/><persName>Peter</persName>,
+            vor the,</l>
+          <l><space rend="indent1"/>Thene calch that my Vader<caesura/>haveth yyeve me.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Seoththe him spek <persName>Jhesu Crist</persName>
+            —<caesura/>iheried beo his mihte —</l>
+          <l><space rend="indent1"/>And seyde to the Gywes<caesura/>nolde he nowiht vyhte:</l>
+          <l><milestone n="205" unit="line"/><space rend="indent1"/>“Mid sweordes and myd
+            bottes<caesura/>ye beoth her icume</l>
+          <l><space rend="indent1"/>So me doth to theove<caesura/>that schal beon ynume.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Uyche day in the temple<caesura/>wes myne ywune</l>
+          <l><space rend="indent1"/>To techen eu <persName>Godes</persName> lore,<caesura/>ther ye
+            were summe.</l>
+          <l><space rend="indent1"/>Nes tho non so hardy<caesura/>that on me leyde honde,</l>
+          <l><milestone n="210" unit="line"/><space rend="indent1"/>Bute nu, by nyhte,<caesura/>thet
+            is for muchel onde.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Peter</persName> iseyh the Gywes<caesura/>ure Louerd
+            vaste bynde.</l>
+          <l><space rend="indent1"/>Anon he drouh hyne abak<caesura/>and eode heom byhynde;</l>
+          <l><space rend="indent1"/>Leste he were iknowe,<caesura/>he wes swithe ofdred.</l>
+          <l><space rend="indent1"/>Notheles he wolde iwite<caesura/>hwuder he were iled.</l>
+        </lg>
+        <lg>
+          <l><milestone n="215" unit="line"/><space rend="indent1"/>The Gywes nomen <persName>Jhesu
+              Crist</persName><caesura/>and forth hine ledde —</l>
+          <l><space rend="indent1"/>Of all his apostles,<caesura/>nenne help he nedde;</l>
+          <l><space rend="indent1"/>Alle heo hyne bylevede,<caesura/>so sore hi weren ofdredde,</l>
+          <l><space rend="indent1"/>As ure Louerd therbyvore<caesura/>heom iseyd hedde.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Heo brouhte hyne to <persName>Kayphas</persName><caesura/>al
+            wythute ivere;</l>
+          <l><milestone n="220" unit="line"/><space rend="indent1"/>Heo wes heore biscop<caesura/>in
+            then ylke yere.</l>
+          <l><locus type="foliation">fol. 147v</locus><space rend="indent1"/>Of alle his
+            disciples,<caesura/>ne vulede hym never on</l>
+          <l><space rend="indent1"/>Bute Seynte <persName>Peter</persName><caesura/>and on yong
+            mon.</l>
+          <l><space rend="indent1"/><persName>Jon</persName> hedde enne mantel<caesura/>of
+              cendal<note type="enote-indicator" n="25">N</note> hym abute.</l>
+          <l><space rend="indent1"/>He wende in myd <persName>Jhesu Crist</persName>,<caesura/>and
+              <persName>Peter</persName> stod therute —</l>
+          <l><milestone n="225" unit="line"/><space rend="indent1"/>For he wes iknowe,<caesura/>he
+            wes more bold.</l>
+          <l><space rend="indent1"/>He stod bi the fure<caesura/>and wermd hym for the cold.</l>
+          <l><space rend="indent1"/>He bed thene dureward<caesura/>lete in his ivere;</l>
+          <l><space rend="indent1"/>Hi wolden heore Louerdes dom<caesura/>iseon and ihere.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The dureward hine in lette<caesura/>al wythute mede;</l>
+          <l><milestone n="230" unit="line"/><space rend="indent1"/><persName>Peter</persName> stod
+            myd thon othre<caesura/>and wermede hym at the glede.</l>
+          <l><space rend="indent1"/>Summe of thet ther weren<caesura/>ykeneu Seynt
+              <persName>Jon</persName></l>
+          <l><space rend="indent1"/>And nom<note type="tnote-indicator" n="16">T</note> him by the
+            mantel<caesura/>that he hedde upon.</l>
+          <l><space rend="indent1"/>He bilevede his mantel<caesura/>in thes Gywes hond,</l>
+          <l><space rend="indent1"/>And, himseolf al naked,<caesura/>at there dure ut wond.</l>
+          <l><milestone n="235" unit="line"/><space rend="indent1"/>Er he were him
+            atbroke,<caesura/>him thuhte ful long</l>
+          <l><space rend="indent1"/>For the dute of the deth<caesura/>is swithe strong.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Tho ure Louerd wes ibrouht<caesura/>byvore
+              <persName>Kayphas</persName>,</l>
+          <l><space rend="indent1"/>Thet mayster and byscop<caesura/>in than yere was,</l>
+          <l><space rend="indent1"/>The princes and the Phariseus<caesura/>hi were swithe
+            blythe.</l>
+          <l><milestone n="240" unit="line"/><space rend="indent1"/>Tho heo iseyen <persName>Jhesu
+              Crist</persName>,<caesura/>hi thouhte hyne do of lyve.</l>
+          <l><space rend="indent1"/>A veole kunne wise<caesura/>hi lowen him upon</l>
+          <l><space rend="indent1"/>To bryngen hyne to dethe.<caesura/>Hi nusten vor-hwon.<note
+              type="enote-indicator" n="26">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Ther arysen tweyne<caesura/>and bigunne to speke,</l>
+          <l><space rend="indent1"/>Thes seyde hwat he wolde<caesura/>the temple al tobreke,</l>
+          <l><milestone n="245" unit="line"/><space rend="indent1"/>That the Kyng
+              <persName>Salomon</persName><caesura/>makede ful yere,</l>
+          <l><space rend="indent1"/>And thene thridde day<caesura/>himseolf a new a areare:<note
+              type="enote-indicator" n="27">N</note>
+          </l>
+          <l><space rend="indent1"/>“This we iherde;<caesura/>herof we bereth witnesse.”</l>
+          <l><space rend="indent1"/>Tho onswerede<caesura/>the more and the lasse:</l>
+          <l><space rend="indent1"/>“Theyh he nedde no more ydo,<caesura/>he ouhte hit forbeode!</l>
+          <l><milestone n="250" unit="line"/><space rend="indent1"/>Al his wndres that he
+            doth<caesura/>is thureh thene quede!”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Cayphas</persName> spek to <persName>Jhesu
+              Crist</persName> —<caesura/>he thouhte hine derye:</l>
+          <l><space rend="indent1"/>“Ne herestu hwat theos seggeth?<caesura/>Hwy neltu
+            onswerye?”</l>
+          <l><locus type="foliation">fol. 148r</locus><space rend="indent1"
+              /><persName>Jhesu</persName> hym wes stille.<caesura/>Nolde heo nowyht speke.</l>
+          <l><space rend="indent1"/>He mihte, if he wolde,<caesura/>ful sone hyne awreke.</l>
+          <l><milestone n="255" unit="line"/><space rend="indent1"/>Seoththe he hym
+            axede<caesura/>of his techinge,</l>
+          <l><space rend="indent1"/>And of his disciples,<caesura/>and feole other thinge.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Ure Louerd hym onswerede<caesura/>myd swythe veyre speche:</l>
+          <l><space rend="indent1"/>“Ofte in the temple<caesura/>ich wes iwuned to preche</l>
+          <l><space rend="indent1"/>Al by lyhte daye,<caesura/>ther men hit mihte ihere.</l>
+          <l><milestone n="260" unit="line"/><space rend="indent1"/>And thu and othre
+            ynowe<caesura/>that weren thine ivere,</l>
+          <l><space rend="indent1"/>Hwat ich to heom seyde,<caesura/>wel wyten heo —</l>
+          <l><space rend="indent1"/>Iwyte at heom that hit iherde,<caesura/>and nouht ne axe
+            me.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Ther leop forth o<note type="tnote-indicator" n="17">T</note>
+            gadelyng,<caesura/>as ye mawen ihere,</l>
+          <l><space rend="indent1"/>And smot anon<note type="tnote-indicator" n="18">T</note>
+            <persName>Jhesu Crist</persName><caesura/>anunder that ere.</l>
+          <l><milestone n="265" unit="line"/><space rend="indent1"/>“Hit is the byscop,” he
+            queth,<caesura/>“schaltu so onswerie!</l>
+          <l><space rend="indent1"/>He is the hexte of there lawe!<caesura/>We hyne willeth
+            werie!”</l>
+          <l><space rend="indent1"/><persName>Jhesu</persName> to hym seyde<caesura/>and yef hym
+            onswere:</l>
+          <l><space rend="indent1"/>“If ich habbe uvele iseyd,<caesura/>witnesse thu myht bere,</l>
+          <l><space rend="indent1"/>And if ich habbe wel ispeke,<caesura/>therof thu nym gome,<note
+              type="enote-indicator" n="28">N</note>
+          </l>
+          <l><milestone n="270" unit="line"/><space rend="indent1"/>And nouht me vor to
+            beten<caesura/>al wythute dome.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The Gywes that heolde <persName>Jhesu
+            Crist</persName><caesura/>muchele schome him dude,</l>
+          <l><space rend="indent1"/>Blyndfellede and spatten him on<caesura/>in then ilke stude,</l>
+          <l><space rend="indent1"/>And smyten under that ere,<caesura/>and thus to him seyde:</l>
+          <l><space rend="indent1"/>“Hwo is that the smot tho?<caesura/>Constu hit arede?”<note
+              type="enote-indicator" n="29">N</note>
+          </l>
+          <l><milestone n="275" unit="line"/><space rend="indent1"/>Muchele schendnesse<caesura/>hi
+            duden ure Dryhte;</l>
+          <l><space rend="indent1"/>For bryngen hyne to dethe<caesura/>hi duden heore myhte.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Peter</persName> stod bi the fur;<caesura/>he wes
+            swithe ofdred!</l>
+          <l><space rend="indent1"/>He iseyh hw <persName>Jhesu Crist</persName><caesura/>wes uvele
+            biled.</l>
+          <l><space rend="indent1"/>Ther com o schelchene gon<caesura/>that wes myd
+              <persName>Kayphas</persName>;</l>
+          <l><milestone n="280" unit="line"/><space rend="indent1"/>Heo bywste the
+            dure<caesura/>ther al that mot was.</l>
+          <l><space rend="indent1"/>Heo byheold <persName>Peter</persName><caesura/>and seyde to
+            heom that sete:</l>
+          <l><space rend="indent1"/>“Iwis, thes is myd <persName>Jhesu</persName><caesura/>thene
+            valse prophete!”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Peter</persName> tho onswerede:<caesura/>“Ne yknowe
+            ich hyne nouht.</l>
+          <l><space rend="indent1"/>Never er ich hyne ne yseyh.<caesura/>Thu ert mysbythouht.”</l>
+          <l><locus type="foliation">fol. 148v</locus><space rend="indent1"/>Sone
+            herafter<caesura/>on other ther com gon,</l>
+          <l>286<space rend="indent1"/>And seyde: “Siker thu ert myd him,<caesura/>a Galilewis
+            mon.”</l>
+          <l><space rend="indent1"/>“Mon,” queth Seynte <persName>Peter</persName>,<note
+              type="tnote-indicator" n="19">T</note>
+            <caesura/>“Y not hwat seyst thu.</l>
+          <l><space rend="indent1"/>Ne ikneu ich hyne<caesura/>nevere ne yseyh bute nu.”</l>
+          <l><space rend="indent1"/>Tho onswerede on other<caesura/>thet wes hire yvere;</l>
+          <l><milestone n="290" unit="line"/><space rend="indent1"/>He wes <persName>Malkes
+            </persName>kunesmon<caesura/>thet <persName>Peter</persName> smot of that ere:</l>
+          <l><space rend="indent1"/>“Iwis, thu were myd <persName>Jhesu Crist</persName><caesura/>in
+            the leyhtune.</l>
+          <l><space rend="indent1"/>Ich iknowe the ful wel.<caesura/>Ther he wes ynume.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Peter</persName> atsok and seyde:<caesura/>“Awaryed
+            mote heo beo</l>
+          <l><space rend="indent1"/>That ever hyne iknewe.<caesura/>Ich segge vor me.”</l>
+          <l><milestone n="295" unit="line"/><space rend="indent1"/>Nedde he bute thet word
+            iseyd,<caesura/>the cok crowe bigon.</l>
+          <l><space rend="indent1"/><persName>Jhesu</persName> hyne bywende<caesura/>and lokede him
+            upon.</l>
+          <l><space rend="indent1"/><persName>Peter</persName> anon therafter<caesura/>hyne
+            understod</l>
+          <l><space rend="indent1"/>Hwat his Louerd hedde iseyd.<caesura/>He wes sori-mod.<note
+              type="enote-indicator" n="30">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Anon he ut iwende<caesura/>and bigon to wepe.<note
+              type="enote-indicator" n="31">N</note>
+          </l>
+          <l><milestone n="300" unit="line"/><space rend="indent1"/>Theyh he hedde his Louerd
+            fursake,<caesura/>he thoughte for to bete.</l>
+          <l><space rend="indent1"/>Anon, an ernemorewe<caesura/>so sone so hit wes day,</l>
+          <l><space rend="indent1"/>Hi comen alle togadere,<caesura/>as ich eu seggen may.</l>
+          <l><space rend="indent1"/>The Gywes and al that other volk<caesura/>hi weren swithe
+              vouse,<note type="tnote-indicator" n="20">T</note>
+          </l>
+          <l><space rend="indent1"/>And brouhten ure Louerd <persName>Crist</persName><caesura/>to
+            heore mothuse.</l>
+          <l><milestone n="305" unit="line"/><space rend="indent1"/>Heo him to seyden:<caesura/>“Nu
+            thu ert her ibrouht.</l>
+          <l><space rend="indent1"/>Say us nuthe if thu ert <persName>Crist</persName><caesura/>that
+            we habbeth isouht.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Ure Louerd heom onswerede:<caesura/>“Theyh ich eu segge
+            soth,</l>
+          <l><space rend="indent1"/>Ye nelleth me nouht ileve,<note type="tnote-indicator" n="21"
+              >T</note>
+            <caesura/>ich hit wot inouh.</l>
+          <l><space rend="indent1"/>If ich eu ouht axi,<caesura/>ye nelleth me nouht telle,</l>
+          <l><milestone n="310" unit="line"/><space rend="indent1"/>Ne lete me gon
+            quite.<caesura/>Ye thencheth me to quelle.</l>
+          <l><space rend="indent1"/>Thervore ich ine <placeName>hevene</placeName><caesura/>schal
+            sytte by myne Vadere,</l>
+          <l><space rend="indent1"/>And seththe cumen and deme<caesura/>eu alle togadere.”</l>
+          <l><space rend="indent1"/>Tho sayden hi alle:<caesura/>“Thenne ertu
+              <persName>Godes</persName> Sune?”</l>
+          <l><space rend="indent1"/>“Ye hit seggeth, for ich hit am.<caesura/>Thervore ich am
+            ynume.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="315" unit="line"/><space rend="indent1"/>This iherde
+              <persName>Kayphas</persName>.<caesura/>His weden he tobrek,</l>
+          <l><space rend="indent1"/>And sethth to then volke<caesura/>theos wordes he spek:</l>
+          <l><space rend="indent1"/>“Hwat abyde ye nuthe<caesura/>to habben mo wytnesse?</l>
+          <l><locus type="foliation">fol. 149r</locus><space rend="indent1"/>Alle ye habbeth this
+            iherd,<caesura/>the more and the lesse.</l>
+          <l><space rend="indent1"/>Hw he haveth her ispeke.<caesura/>Hwat is eur red?”</l>
+          <l><milestone n="320" unit="line"/><space rend="indent1"/>Alle hi onswerede:<caesura/>“He
+            is wrthe to beo ded.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Seththe hi alle arysen up<caesura/>and forth hyne ledde;</l>
+          <l><space rend="indent1"/>Of the Kynge of <placeName>hevene</placeName><caesura/>none
+            reuthe hi nedde.</l>
+          <l><space rend="indent1"/>“Heo brouhten hyne to
+            <persName>Pylates</persName>,<caesura/>thet wes heore herre.</l>
+          <l><space rend="indent1"/>Herkne nu,” hi seyden,<caesura/>“we nelleth the nouht
+            bicherre.</l>
+          <l><milestone n="325" unit="line"/><space rend="indent1"/>Thesne mon, we
+            funde,<caesura/>vorbeoden ure lawe</l>
+          <l><space rend="indent1"/>That we nu and ure eldre<caesura/>heolde by olde dawe.<note
+              type="tnote-indicator" n="22">T</note>
+          </l>
+          <l><space rend="indent1"/>Muchel of ure volke<caesura/>he haveth iturnd therfrom;</l>
+          <l><space rend="indent1"/>He seyth that he is <persName>Godes</persName> Sune<caesura/>and
+            is a dedlich mon,</l>
+          <l><space rend="indent1"/>And he vorbeod <persName>Cesares</persName> gavel<caesura/>of
+            alle kunnes thing.</l>
+          <l><milestone n="330" unit="line"/><space rend="indent1"/>He yelp tovore us
+            alle<caesura/>that he is ure king.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Pilates</persName> queth to <persName>Jhesu
+              Crist</persName>:<caesura/>“Seye thu me soth,</l>
+          <l><space rend="indent1"/>Yf thu ert Gywene Kyng<caesura/>other hi habbeth woh.”</l>
+          <l><space rend="indent1"/>“Thu hit seyst,” queth ure Louerd,<caesura/>“that ich am
+              <persName>Godes</persName> Sune,</l>
+          <l><space rend="indent1"/>I not for hwiche gulte<caesura/>hi me habbeth inume.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="335" unit="line"/><space rend="indent1"/><persName>Pilates</persName> him
+            ut iwende<caesura/>therafter ful sone.</l>
+          <l><space rend="indent1"/>He seyde: “Hwat haveth thes mon ido<caesura/>that is ibrouht to
+            me?”</l>
+          <l><space rend="indent1"/>The Gywes him onswereden:<caesura/>“If he nedde mysdo,</l>
+          <l><space rend="indent1"/>Nere he nouht for us inume<caesura/>ne ibrouht the to.”</l>
+          <l><space rend="indent1"/><persName>Pylates</persName> heom to seyde:<caesura/>“After eure
+            lawe,</l>
+          <l><milestone n="340" unit="line"/><space rend="indent1"/>That ye nu habbeth<caesura/>and
+            heolde bi olde dawe,</l>
+          <l><space rend="indent1"/>Demyth hyne nuthe<caesura/>other leteth hyne beo.</l>
+          <l><space rend="indent1"/>Nenne gult of dethe<caesura/>ich on hym iseo.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The Gywes onswerede:<caesura/>“After ure lawe,</l>
+          <l><space rend="indent1"/>We ne mote nenne mon<caesura/>do of lyf-dawe.”</l>
+          <l><milestone n="345" unit="line"/><space rend="indent1"/><persName>Pilates</persName> eft
+            iwende him in<caesura/>ther ure Louerd stod.</l>
+          <l><space rend="indent1"/>The Gywes were ful bysie<caesura/>to scheden his blod.</l>
+          <l><space rend="indent1"/><persName>Pilates</persName> clepede ure Louerd,<caesura/>and
+            thus hym seyde to:</l>
+          <l><space rend="indent1"/>Thu ert Gywene Kyng,<caesura/>theyh hi the schome do.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Ure Louerd him onswerede —<caesura/>iblessed mote he beo:</l>
+          <l><milestone n="350" unit="line"/><space rend="indent1"/>“Hwether seystu hit
+            thiseolf,<caesura/>other othre hit seyde by me.”</l>
+          <l><locus type="foliation">fol. 149v</locus><space rend="indent1"
+              /><persName>Pilates</persName> hym onswerede:<caesura/>“Am ich Gyu thenne?</l>
+          <l><space rend="indent1"/>The byspes the me bitauhte<caesura/>and mo of thine menne.</l>
+          <l><space rend="indent1"/>Hwat havestu ido?<caesura/>For hwan ertu inume?”</l>
+          <l><space rend="indent1"/><persName>Jhesu</persName> him onswerede,<caesura/>Seynte
+              <persName>Marie</persName> Sune,</l>
+        </lg>
+        <lg>
+          <l><milestone n="355" unit="line"/><space rend="indent1"/>“Yf mi kyneriche<caesura/>were
+            ine worlde thisse,</l>
+          <l><space rend="indent1"/>Mine men wolde wythstonde,<caesura/>wite thu myd iwisse,</l>
+          <l><space rend="indent1"/>That ich nere nouht bitauht<caesura/>in Gywene honde,</l>
+          <l><space rend="indent1"/>Ac my kyneriche<caesura/>is in other londe.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Pilates</persName> tho him seyde:<caesura/>“Thenne
+            ertu kyng?”</l>
+          <l><milestone n="360" unit="line"/><space rend="indent1"/>“Thu hit seyst,” queth ure
+            Louerd. <caesura/>“Nabbe ich non evenyng.</l>
+          <l><space rend="indent1"/>Ich theron am ibore<caesura/>and to this world icume;</l>
+          <l><space rend="indent1"/>And bere witnesse of sothe:<caesura/>thervore, ich am inume.</l>
+          <l><space rend="indent1"/>Alle that beoth in sothe,<caesura/>ihereth myne word,</l>
+          <l><space rend="indent1"/>And heo wel atholdeth,<caesura/>and leggeth ine hord.”<note
+              type="enote-indicator" n="32">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><milestone n="365" unit="line"/><space rend="indent1"/>Tho seyde
+              <persName>Pilates</persName> him to:<caesura/>“Hwat is sothnesse?”</l>
+          <l><space rend="indent1"/>Ure Louerd ne onswerede,<caesura/>more ne lesse.</l>
+          <l><space rend="indent1"/><persName>Pilates</persName> eft ut eode<caesura/>and bilevede
+              <persName>Jhesus</persName>,</l>
+          <l><space rend="indent1"/>And com to than volke<caesura/>and seyde to heom thus:</l>
+          <l><space rend="indent1"/>“I ne vynde nenne gult<caesura/>in thisse monne.</l>
+          <l><milestone n="370" unit="line"/><space rend="indent1"/>Hit is eur kustume<caesura/>to
+            habbe quyt enne</l>
+          <l><space rend="indent1"/>At eure muchele feste<caesura/>everuyche yere.</l>
+          <l><space rend="indent1"/>Schal ich there Gywene Kyng<caesura/>lete gon al skere?”<note
+              type="enote-indicator" n="33">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>And hi alle gradden<caesura/><persName>Pilates</persName>
+            upon:</l>
+          <l><space rend="indent1"/>“Nouht hyne,” hi seyden,<caesura/>“ac yef us
+              <persName>Barraban</persName>!”</l>
+          <l><milestone n="375" unit="line"/><space rend="indent1"/><persName>Barraban</persName>
+            wes a theof;<caesura/>thervore he wes inume</l>
+          <l><space rend="indent1"/>And myd other theoves<caesura/>ido ine prysune.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Pilates</persName> nom tho <persName>Jhesu
+              Crist</persName><caesura/>and hyne heyhte bete</l>
+          <l><space rend="indent1"/>That al his swete likame<caesura/>of blode gon to swete.</l>
+          <l><space rend="indent1"/>The knyhtes<note type="enote-indicator" n="34">N</note> hyne
+            nomen<caesura/>and in hyne ledde,</l>
+          <l><milestone n="380" unit="line"/><space rend="indent1"/>And duden al of his
+            clothes<caesura/>thet he on hym hedde;</l>
+          <l><space rend="indent1"/>Seththe hi nomen a red cloth<caesura/>and duden him abute,</l>
+          <l><space rend="indent1"/>And one yerd on his hond,<caesura/>and gunnen him alute;</l>
+          <l><locus type="foliation">fol. 150r</locus><space rend="indent1"/>Of one wrase of
+            thornes<caesura/>he wrythen hym one crune,</l>
+          <l><space rend="indent1"/>Of than alre kennuste<caesura/>that grewen in the tune.</l>
+          <l><milestone n="385" unit="line"/><space rend="indent1"/>Hi setten heo on his
+            heued<caesura/>and vaste ther tobeote.</l>
+          <l><space rend="indent1"/>On everyche halve<caesura/>that blod gon ut yeote.</l>
+          <l><space rend="indent1"/>Seththe hi knowede and seyde,<caesura/>“Hayl, Gywene King,”</l>
+          <l><space rend="indent1"/>And smyten under that ere,<caesura/>ne sparede hi no thing.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Pilates</persName> eft ut eode<caesura/>and to the
+            Gywes seyde:</l>
+          <l><milestone n="390" unit="line"/><space rend="indent1"/>“Lo, her ich brynge thisne
+            mon<caesura/>and tovore eu lede;</l>
+          <l><space rend="indent1"/>Ich nenne gult ne vynde on him,<caesura/>i do eu to
+            understonde.”</l>
+          <l><space rend="indent1"/>He wuste thet he wes inume<caesura/>vor heore muchel onde.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Ure Louerd ber his crune<caesura/>and com him ut gon.</l>
+          <l><space rend="indent1"/>“Lo,” seyde <persName>Pilates</persName>,<caesura/>“her is thes
+            ilke mon.”</l>
+          <l><milestone n="395" unit="line"/><space rend="indent1"/>The byspes and thet other
+            volk<caesura/>gradden him upon.</l>
+          <l><space rend="indent1"/>“Do a rode! Do a rode!”<caesura/>hi seyden hyne anon.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Pilates</persName> tho onswerede<caesura/>and thus
+            heom seyde to:</l>
+          <l><space rend="indent1"/>“Nymeth hym euseolve<caesura/>and on rode do.”</l>
+          <l><space rend="indent1"/>The Gywes hym onswereden:<caesura/>“We habbeth ure lawe.</l>
+          <l><milestone n="400" unit="line"/><space rend="indent1"/>Therafter, he schal beo
+            idon<caesura/>ut of lyf-dawe;</l>
+          <l><space rend="indent1"/>Vor he maketh him <persName>Godes</persName> Sune, <caesura/>we
+            holdeth hyne amed.”</l>
+          <l><space rend="indent1"/><persName>Pilates</persName> theos word iherde.<caesura/>Tho wes
+            heo more ofdred.</l>
+          <l><space rend="indent1"/>He iwende eft ayeyn<caesura/>thar he wes ere,</l>
+          <l><space rend="indent1"/>And axede tho <persName>Jhesu Crist</persName><caesura/>hwenene
+            heo were.</l>
+        </lg>
+        <lg>
+          <l><milestone n="405" unit="line"/><space rend="indent1"/>Ure Louerd ne yef nenne
+            onswere<caesura/>ac stod him al stille.</l>
+          <l><space rend="indent1"/>He myhte sone hyne awreke<caesura/>if hit were his wille.</l>
+          <l><space rend="indent1"/>He ne onswerede hym nowiht —<caesura/>iblessed beo he.</l>
+          <l><space rend="indent1"/><persName>Pilates</persName> to hym seyde:<caesura/>“Thu ne
+            spekest nouht with me;</l>
+          <l><space rend="indent1"/>Nostu that ich habbe myhte<caesura/>on rode to do the?</l>
+          <l><milestone n="410" unit="line"/><space rend="indent1"/>And ich habbe myhte<caesura/>to
+            lete the quyte beo?”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Ure Louerd him onswerede:<caesura/>“Neddestu none myhte</l>
+          <l><space rend="indent1"/>Me vor do to<note type="tnote-indicator" n="23">T</note>
+            dethe,<caesura/>myd wowe ne myd ryhte,</l>
+          <l><space rend="indent1"/>Bute hit were the iyeve,<caesura/>wite thu to iwisse,</l>
+          <l><space rend="indent1"/>Of him that is us alle abuve<caesura/>in heveryche blysse.</l>
+          <l><locus type="foliation">fol. 150v</locus><space rend="indent1"/>Vor than he more sunne
+            hafth<caesura/>nuthe, of me,</l>
+          <l><milestone n="416" unit="line"/><space rend="indent1"/>He that me bitrayde<caesura/>and
+            seththe bitauhte the.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Therafter <persName>Pilates</persName> thouhte<caesura/>to leten
+            hyne go,</l>
+          <l><space rend="indent1"/>Ac the Gywes him seyden:<caesura/>“Ever wurthe heom wo.</l>
+          <l><space rend="indent1"/>If thu thysne bilevest<caesura/>and hine letest<note
+              type="enote-indicator" n="35">N</note> so,</l>
+          <l><milestone n="420" unit="line"/><space rend="indent1"/>Nertu nouht <persName>Cesares
+            </persName>freond<caesura/>ac ert his ivo.</l>
+          <l><space rend="indent1"/>Everuych mon that maketh hym king,<caesura/>we hit seggeth
+            the.</l>
+          <l><space rend="indent1"/>He wythseyth <persName>Cesare</persName>.<caesura/>No king nys
+            bute he.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Pilates</persName> ladde ut ure Louerd;<caesura/>he
+            nolde no leng abyde —</l>
+          <l><space rend="indent1"/>Thet wes a <date>longe Vryday</date><caesura/>at thare sixte
+              tide<note type="enote-indicator" n="36">N</note> —</l>
+          <l><milestone n="425" unit="line"/><space rend="indent1"/>And seyde to thon
+            Gywes:<caesura/>“Lo, her eur kyng.”</l>
+          <l><space rend="indent1"/>“Do hine awey!” hi gredden.<caesura/>“Anhong an hying!<note
+              type="enote-indicator" n="37">N</note> ”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Pilates</persName> heom onswerede<caesura/>and thus
+            heom seyde to:</l>
+          <l><space rend="indent1"/>“Wille ye that eur king<caesura/>on rode beo ido?”</l>
+          <l><space rend="indent1"/>The bispes tho onswereden<caesura/>and seyden to him thar:</l>
+          <l><milestone n="430" unit="line"/><space rend="indent1"/>“We nabbeth nenne
+            other<caesura/>king bute <persName>Cesar</persName>.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Pilates</persName> nom tho ure Louerd<caesura/>and
+            heom bitauhte on honde.</l>
+          <l><space rend="indent1"/>Heo hine bitauhte knyhtes<caesura/>that duden him muchele
+            schonde.</l>
+          <l><space rend="indent1"/>The knyhtes thet hine ledden<caesura/>bitauhten him the rode</l>
+          <l><space rend="indent1"/>Theron he deth tholede<caesura/>and bouhte us myd his
+              blode.<note type="enote-indicator" n="38">N</note>
+          </l>
+          <l><milestone n="435" unit="line"/><space rend="indent1"/>He ber heo on his
+            schuldre<caesura/>toward than ilke stude</l>
+          <l><space rend="indent1"/>That hatte <placeName>Kalvarie</placeName>,<caesura/>theron hi
+            hine dude.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Tho he wes on the rode idon,<caesura/>the Gywes were ful
+            gled.</l>
+          <l><space rend="indent1"/>Hi nome twey theoves<caesura/>that weren myd him iled.</l>
+          <l><space rend="indent1"/>Thene enne hi honge in one half<caesura/>for to don him
+            teone,</l>
+          <l><milestone n="440" unit="line"/><space rend="indent1"/>And on bi that other
+            half,<caesura/>and <persName>Jhesu</persName> heom bitweone.</l>
+          <l><space rend="indent1"/>Ure Louerd tho this seyde,<caesura/>that is ful of soth:</l>
+          <l><space rend="indent1"/>“Vader, voryef heom thisne gult;<caesura/>hy nuten hwat hi
+            doth.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Tho <persName>Jhesu</persName> wes uppe the rode<caesura/>that
+            tholede pyne strong.</l>
+          <l><space rend="indent1"/>The knyhtes nome his clothes<caesura/>to delen heom among.</l>
+          <l><milestone n="445" unit="line"/><space rend="indent1"/>Tho funden heo his
+            curtel,<caesura/>that he wes al ihol.</l>
+          <l><space rend="indent1"/>Hi nolden therof makie<caesura/>nones cunnes dol,</l>
+          <l><locus type="foliation">fol. 151r</locus><space rend="indent1"/>Ac hi casten heore
+            lot<caesura/>hwes he scolde beo.</l>
+          <l><space rend="indent1"/>Hi nolden hyne nouht delen<caesura/>a-to ne a-threo.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The princes and thet other volk<caesura/>hokerede him upon.</l>
+          <l><milestone n="450" unit="line"/><space rend="indent1"/>Thes hi seyde haveth
+            iheld<caesura/>mony en other mon</l>
+          <l><space rend="indent1"/><persName>Crist</persName> thet other havest iheld,<caesura/>
+            Kyng of <placeName>Yrahel</placeName>.</l>
+          <l><space rend="indent1"/>“Help nu thiseolve<caesura/>for thu myht ful wel.</l>
+          <l><space rend="indent1"/>Yf thu ert so myhti<caesura/>so thu seyst that thu beo,</l>
+          <l><space rend="indent1"/>Lyht adun of the croyz<caesura/>that we hit alle iseo.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="455" unit="line"/><space rend="indent1"/>On of the theoves<caesura/>that
+            him heng by,</l>
+          <l><space rend="indent1"/>He seyde to ure Louerde<caesura/>and gon him hokeri:</l>
+          <l><space rend="indent1"/>“<persName>Crist</persName>, help thiseolve,<caesura/>and eke
+            help us.”</l>
+          <l><space rend="indent1"/>The other him onswerede,<caesura/>and to him seyde thus:</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Thu nert, wrecche, of <persName>Gode</persName><note
+              type="tnote-indicator" n="24">T</note> ofdred<caesura/>that her ert anhonge.</l>
+          <l><milestone n="460" unit="line"/><space rend="indent1"/>We after ure
+            gultes<caesura/>mede habbeth yvonge;</l>
+          <l><space rend="indent1"/>Thes<note type="tnote-indicator" n="25">T</note> thet uppe the
+            rode<caesura/>is nevere uvel ne dude.”</l>
+          <l><space rend="indent1"/>He seyde to ure Louerde<caesura/>anon in the stude:</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Louerd,”<note type="tnote-indicator" n="26">T</note> he seyde,
+            “thench on me,”<caesura/>and bigon to syche,</l>
+          <l><space rend="indent1"/>“Hwenne thu cumest to
+            <placeName>hevene</placeName><caesura/>ther is thi<note type="tnote-indicator" n="27"
+              >T</note> kyneriche.”</l>
+          <l><milestone n="465" unit="line"/><space rend="indent1"/><persName>Jhesu</persName> him
+            onswerede:<caesura/>“Soth, ich segge the,</l>
+          <l><space rend="indent1"/>Today in <placeName>paradyse</placeName><caesura/>thu schalt beo
+            myd me.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Pilates</persName> wrot himseolf<caesura/>a wryt al on
+              hying:<note type="enote-indicator" n="39">N</note>
+          </l>
+          <l><space rend="indent1"/>Thar<note type="tnote-indicator" n="28">T</note> is
+              <persName>Jhesu</persName> of <placeName>Nazareth</placeName>, the Gywene Kyng.”</l>
+          <l><space rend="indent1"/>Monye Gywes hit radden<caesura/>and were swythe grym.</l>
+          <l><milestone n="470" unit="line"/><space rend="indent1"/>Hit wes iwryten en
+            Ebreu,<caesura/>on Gryv, and Latyn.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The bispes of the Gywes<caesura/>seyden
+              <persName>Pilates</persName> to:</l>
+          <l><space rend="indent1"/>“Thu ne schuldest nouht thi wryt<caesura/>habben iwryte so,</l>
+          <l><space rend="indent1"/>Ne wryt thu nouht<caesura/>‘Her is there Gywene Kyng.’</l>
+          <l><space rend="indent1"/>Theyh he seyde that he hit wes,<caesura/>hit is lesyng.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="475" unit="line"/><space rend="indent1"/><persName>Pilates</persName> tho
+            onswerede<caesura/>and thus heom seyde to:</l>
+          <l><space rend="indent1"/>“Thet ich wrot beo iwryte;<caesura/>ne may hit no mon undo.”</l>
+          <l><space rend="indent1"/>Hit wes welneyh mydday<caesura/>tho thusternesse com</l>
+          <l><space rend="indent1"/>In alle <placeName>midden-herde</placeName>,<note
+              type="enote-indicator" n="40">N</note>
+            <caesura/>fort thet hit wes non.<note type="enote-indicator" n="41">N</note>
+          </l>
+          <l><locus type="foliation">fol. 151v</locus><space rend="indent1"/>The sonne bilevede hire
+            lyht,<caesura/>and the mone al so,</l>
+          <l><milestone n="480" unit="line"/><space rend="indent1"/>That huding-cloth
+            todelde<caesura/>in the temple a-to.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Jhesu</persName> him gon clepyen<caesura/>myd<note
+              type="tnote-indicator" n="29">T</note> stefne<note type="tnote-indicator" n="30"
+              >T</note> vul stronge:</l>
+          <l><space rend="indent1"/>“Vader, ich myne soule<caesura/>biteche in thyne honde.”</l>
+          <l><space rend="indent1"/>Tho he hedde so yseyd<caesura/>that scop the sunne and mone,</l>
+          <l><space rend="indent1"/>He deyede therafter<caesura/>wel swithe sone.</l>
+        </lg>
+        <lg>
+          <l><milestone n="485" unit="line"/><space rend="indent1"/>Thet iseyh
+            centurio,<caesura/>that ther bisydes stod,</l>
+          <l><space rend="indent1"/>Hw ure Louerd gon deye,<caesura/>that bouhte us myd his
+            blod.</l>
+          <l><space rend="indent1"/>He seyde to the knyhtes<caesura/>that weren his ivere:</l>
+          <l><space rend="indent1"/>“Iwis, thes mon wes <persName>Godes</persName> Sune
+            <caesura/>thet we iseoth here.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The Gywes to <persName>Pilates</persName> comen<caesura/>and
+            thus him seyden to:</l>
+          <l><milestone n="490" unit="line"/><space rend="indent1"/>“We biddeth that heore
+            thyes<caesura/>beon tobroken a-to,</l>
+          <l><space rend="indent1"/>And seoththe let heom don adun<caesura/>of the waritreo,</l>
+          <l><space rend="indent1"/>Vor ure muchele feste<caesura/>tomorewe schal beo.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Of then one theove hi breken<caesura/>his thyes a-to,</l>
+          <l><space rend="indent1"/>And of his yvere<caesura/>hi duden al so.</l>
+          <l><milestone n="495" unit="line"/><space rend="indent1"/>Tho heo comen to <persName>Jhesu
+              Crist</persName><caesura/>and seyen hine ded,</l>
+          <l><space rend="indent1"/>Ne breken hi nouht his thyes —<caesura/>the bok hit forbed.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Hi bitauhte one knyhte<caesura/>a sper on his hond</l>
+          <l><space rend="indent1"/>And setten to his syde;<caesura/>hit wes sarp and long.</l>
+          <l><space rend="indent1"/>He schef hit myd strenkthe<caesura/>that to his heorte hit
+            com.</l>
+          <l><milestone n="500" unit="line"/><space rend="indent1"/>Bothe blod and eke
+            water<caesura/>therafter ut ron.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The ilke that hit iseyh,<caesura/>he wrot this godspel:</l>
+          <l><space rend="indent1"/>“That he soth segge.<caesura/>We leveth hit ful well.”</l>
+          <l><space rend="indent1"/>Tho hit wes wel neyh eve,<caesura/><persName>Joseph</persName>
+            ther com gon,</l>
+          <l><space rend="indent1"/>Of <placeName>Arymathia</placeName> —<caesura/>he wes a riche
+            mon.</l>
+          <l><milestone n="505" unit="line"/><space rend="indent1"/>He com to
+              <persName>Pilates</persName><caesura/>and sayde to him thus:</l>
+          <l><space rend="indent1"/>“Yef me thes prophetes body<caesura/>that hatte
+              <persName>Jesus</persName>.”</l>
+          <l><space rend="indent1"/>Tho heyhte <persName>Pilates</persName><caesura/>that body him
+            biteche</l>
+          <l><space rend="indent1"/>Of ure Louerd <persName>Jhesu Crist</persName>,<caesura/>that is
+            soule leche.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Joseph</persName> nom ure Louerd<caesura/>adun of the
+            rode</l>
+          <l><milestone n="510" unit="line"/><space rend="indent1"/>And wond him on o cheysil
+            cloth,<caesura/>thet bouhte us mid his blode.</l>
+          <l><locus type="foliation">fol. 152r</locus><space rend="indent1"/>Seoththe he hyne
+            leyde<caesura/>in one thruh of stone</l>
+          <l><space rend="indent1"/>That he hedde newe imaked<caesura/>to himself one.</l>
+          <l><space rend="indent1"/>He hwelfde<note type="enote-indicator" n="42">N</note> at thare
+            sepulchre dure<caesura/>enne grete ston.</l>
+          <l><space rend="indent1"/>Seththe he wende forth his wey<caesura/>hwer he hedde to
+            gon.</l>
+        </lg>
+        <lg>
+          <l><milestone n="515" unit="line"/><space rend="indent1"/>Thene other day
+            therafter<caesura/>that <persName>Jhesu Crist</persName> wes ded,</l>
+          <l><space rend="indent1"/>The Gywes and the Phariseus<caesura/>nomen alle enne red.</l>
+          <l><space rend="indent1"/>Hi comen to <persName>Pilates</persName>,<caesura/>then maystre
+            of the londe.</l>
+          <l><space rend="indent1"/>“Louerd,” hi to hym seyde,<caesura/>“we beoth understonde</l>
+          <l><space rend="indent1"/>Thes ilke swike seyde,<caesura/>for hwan we beoth unblythe,</l>
+          <l><milestone n="520" unit="line"/><space rend="indent1"/>‘Ich wile thene thridde
+            day<caesura/>aryse from dethe to lyve.’</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Let wite the sepulchre<caesura/>fort thene thridde day</l>
+          <l><space rend="indent1"/>That his disciples hine ne stele<caesura/>and beren hyne
+            away,</l>
+          <l><space rend="indent1"/>And seggen to the volke<caesura/>thet beoth of ure lawe,</l>
+          <l><space rend="indent1"/>‘He is aryse from dethe<caesura/>thet Gywes hedden islawe,’</l>
+          <l><milestone n="525" unit="line"/><space rend="indent1"/>Thenne wrth the laste dwele
+            —<caesura/>wurse to alegge</l>
+          <l><space rend="indent1"/>Thene the vorme were,<caesura/>hwatevere men segge.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Pilates</persName> heom onswerede,<caesura/>that wes
+            icume of <placeName>Rome</placeName>:</l>
+          <l><space rend="indent1"/>“Goth nu and wyteth hyne<caesura/>wel hyedliche and sone.”</l>
+          <l><space rend="indent1"/>The Gywes tho vorth wende,<caesura/>and nomen heore knyhtes</l>
+          <l><milestone n="530" unit="line"/><space rend="indent1"/>To witen the
+            sepulchre<caesura/>bothe a day and nyhtes.</l>
+          <l><space rend="indent1"/>Seththe hi dude heore sel<caesura/>upe thene ston.<note
+              type="enote-indicator" n="43">N</note>
+          </l>
+          <l><space rend="indent1"/>Lutel hi wiste wrecches<caesura/>hw hit sculde gon.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The Gywes weren wode<caesura/>that yeven thene red,</l>
+          <l><space rend="indent1"/>And wende holde <persName>Jhesu Crist</persName><caesura/>theyh
+            he were ded.</l>
+          <l><milestone n="535" unit="line"/><space rend="indent1"/>Nu wolden heo hyne atholden
+            —<caesura/>that scop alle thing</l>
+          <l><space rend="indent1"/>Ne<note type="enote-indicator" n="44">N</note> tobrek he
+              <placeName>helle</placeName> dure! —<caesura/>and overcom heore King.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><persName>Jesus</persName>, tho his wille wes,<caesura/>aros
+            from dethe to lyve.</l>
+          <l><space rend="indent1"/>Theyh hyne biwusten knyhtes,<caesura/>voure other vyve,</l>
+          <l><space rend="indent1"/>Hwy nolden hi hine atholden<caesura/>so the Gywes redde,</l>
+          <l><milestone n="540" unit="line"/><space rend="indent1"/>Ne hi ne<note
+              type="tnote-indicator" n="31">T</note> myhten hyne iseon,<caesura/>so hi weren
+              ofdredde.<note type="tnote-indicator" n="32">T</note>
+          </l>
+          <l><space rend="indent1"/>Of then engel thet ther com<caesura/>tho hi iseyen that
+            lyht.</l>
+          <l><space rend="indent1"/>Hi vellen so hi were ded,<caesura/>anon vorth riht.</l>
+        </lg>
+        <lg>
+          <l><locus type="foliation">fol. 152v</locus><space rend="indent1"/><persName>Jesus
+              Crist</persName>, thet suo aros<caesura/>thurh his muchele myhte</l>
+          <l><space rend="indent1"/>And com into this
+            <placeName>mydden-erd</placeName><caesura/>sunfulle men to ryhte,</l>
+          <l><milestone n="545" unit="line"/><space rend="indent1"/>Lete us so ure lyf<caesura/>in
+            this world dihte</l>
+          <l><space rend="indent1"/>That we mote alle cumen<caesura/>to than eche lyhte.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Bidde we<note type="enote-indicator" n="45">N</note> alle, leove
+              men,<caesura/><persName>God</persName> that is so hende</l>
+          <l><space rend="indent1"/>That he of the Holy Gost<caesura/>so ure heorte atende,</l>
+          <l><space rend="indent1"/>That we mote at ure scrift<caesura/>thane Veond schende</l>
+          <l><milestone n="550" unit="line"/><space rend="indent1"/>That myd fule sunnes<caesura/>us
+            thencheth alle a blende,</l>
+          <l><space rend="indent1"/>And yef that eche lif<caesura/>that nevere ne haveth ende</l>
+          <l><space rend="indent1"/>Hwanne ure soule unbynd<caesura/>of lykamlyche bende.<note
+              type="enote-indicator" n="46">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><hi rend="italic">Her is hwon </hi><persName><hi rend="italic"
+                >Jhesu Crist</hi></persName><hi rend="italic"> aros from dethe to lyve.</hi><note
+              type="tnote-indicator" n="33">T</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Seoththe<note type="tnote-indicator" n="34">T</note>
+            <persName>Crist</persName> from dethe aros,<caesura/>thet is of sunnes clene,</l>
+          <l><space rend="indent1"/>The vorme that he myd spek<caesura/>wes <persName>Marie
+              Maudeleyne</persName>.</l>
+          <l><milestone n="555" unit="line"/><space rend="indent1"/>Tho heo com to his
+            buryles<caesura/>hyne for to seche,</l>
+          <l><space rend="indent1"/>Heo wende that the Gywes<caesura/>hedde furstole ure soule
+            leche.</l>
+          <l><space rend="indent1"/><persName>Marie</persName> stod withute the dure<caesura/>and
+            sore wepe bigon</l>
+          <l><space rend="indent1"/>Tho heo ne funde nouht <persName>Jhesu
+            Crist</persName>,<caesura/>thet wes hire leofmon.</l>
+          <l><space rend="indent1"/>He adun stupede<caesura/>and lokede myd eye</l>
+          <l><milestone n="560" unit="line"/><space rend="indent1"/>If heo, of ure
+            Louerde,<caesura/>ouht ther iseye.</l>
+          <l><space rend="indent1"/>Tho seyh heo ther twey engles<caesura/>myd hwite clothes and
+            swote;</l>
+          <l><space rend="indent1"/>The on set at the heuede,<caesura/>the other at the vote.</l>
+          <l><space rend="indent1"/>“Wymmon, hwi wepestu?”<caesura/>hi seyden hire to.</l>
+          <l><space rend="indent1"/>“For hi habbeth myne Louerd,<caesura/>I not hwer ido.”</l>
+          <l><milestone n="565" unit="line"/><space rend="indent1"/><persName>Marie</persName> hire
+            drouh abak<caesura/>and lokede heo bihynde.</l>
+          <l><space rend="indent1"/>Tho yseyh heo <persName>Jhesu Crist</persName>,<caesura/>thet
+            heo ther<note type="tnote-indicator" n="35">T</note> wende vynde.</l>
+          <l><space rend="indent1"/>Ure Louerd hire gon axi:<caesura/>“For hwi and for hwan</l>
+          <l><space rend="indent1"/>Wepestu, and hwam thu seche?<caesura/>Say me, wymmon.”</l>
+          <l><space rend="indent1"/><persName>Marie</persName> him onswerede<caesura/>and thus him
+            seyde to:</l>
+          <l><milestone n="570" unit="line"/><space rend="indent1"/>“The Gywes habbeth mynne Louerd
+            <caesura/>of thisse stude ido.</l>
+          <l><space rend="indent1"/>Ich not never hwydere<caesura/>hi habbeth hyne ibrouht.</l>
+          <l><space rend="indent1"/>Thervore ich am ful sori<caesura/>and habbe hyne isouht.</l>
+          <l><space rend="indent1"/>Havestu hyne awey ibore?<caesura/>Seye me, gode mon,</l>
+          <l><locus type="foliation">fol. 153r</locus><space rend="indent1"/>And ich hyne vecche
+            wille<caesura/>al myseolf on.”</l>
+          <l><milestone n="575" unit="line"/><space rend="indent1"/>Heo nuste nouht that he hit
+            wes<caesura/>thet ure bendes tobrek.</l>
+          <l><space rend="indent1"/>Heo wende hit were the leyhtunward<note type="enote-indicator"
+              n="47">N</note>
+            <caesura/>that to hire spek.</l>
+          <l><space rend="indent1"/><persName>Jesus</persName> tho nemde,
+              “<persName>Marie</persName>,”<caesura/>and cudde hwat he wes.</l>
+          <l><space rend="indent1"/><persName>Marie</persName> in hire lyve<caesura/>nevere so
+            blythe nes.</l>
+          <l><space rend="indent1"/>Heo clepede hyne “Mayster,”<caesura/>thet is, “Rabony,”</l>
+          <l><milestone n="580" unit="line"/><space rend="indent1"/>And fel to his fote<caesura/>and
+            bed hym mercy.</l>
+          <l><space rend="indent1"/><persName>Jhesu</persName> spek to
+            <persName>Marie</persName><caesura/>and hire tho forbed</l>
+          <l><space rend="indent1"/>That heo attryne ne scolde<caesura/>his honde ne his fet.</l>
+          <l><space rend="indent1"/>“Ich ne astey nouht yete<caesura/>up to myne Vadere,</l>
+          <l><space rend="indent1"/>Ac go to myne brothren<caesura/>ther hi beoth togadere.</l>
+          <l><milestone n="585" unit="line"/><space rend="indent1"/>Saye heom that ich
+            astye<caesura/>to mynes Vader riche,</l>
+          <l><space rend="indent1"/>Ther is my Vader and eke heore,<note type="enote-indicator"
+              n="48">N</note>
+            <caesura/>and joye ever ilyche.”<note type="enote-indicator" n="49">N</note>
+          </l>
+          <l><space rend="indent1"/>After thet <persName>Jhesu Crist</persName><caesura/>myd Marie
+            hedde ispeke,</l>
+          <l><space rend="indent1"/>Heo nolde vor none thinge<caesura/>his heste tho tobreke.</l>
+          <l><space rend="indent1"/>Heo com to his disciples<caesura/>ther hi togadere were.</l>
+          <l><milestone n="590" unit="line"/><space rend="indent1"/>Never of tydinge<caesura/>hy er
+            so glad nere!</l>
+          <l><space rend="indent1"/>Heo seyde to heom the wordes<caesura/>thet hire heyhte
+              <persName>Jhesu</persName>,</l>
+          <l><space rend="indent1"/>And that “he wes from dethe aryse<caesura/>and to me seyde
+            thus.”</l>
+          <l><space rend="indent1"/>Tho hi this iherde,<caesura/>hi were swythe blythe</l>
+          <l><space rend="indent1"/>That ure Louerd wes aryse<caesura/>from dethe to lyve.</l>
+        </lg>
+        <lg>
+          <l><milestone n="595" unit="line"/><space rend="indent1"/>As heo stode and
+            speken<caesura/>and weren at wenynge</l>
+          <l><space rend="indent1"/>Of ure Louerdes aryste<caesura/>and fele other thinge,</l>
+          <l><space rend="indent1"/>Ure Louerd <persName>Jhesu Crist</persName>,<caesura/>the wes
+            ibore of the meyde,</l>
+          <l><space rend="indent1"/>He stod amydde heom alle<caesura/>and to heom thus seyde:</l>
+          <l><space rend="indent1"/>“Sibsumnesse eu beo among.<caesura/>Ne beo ye nouht
+            ofdredde.</l>
+          <l><milestone n="600" unit="line"/><space rend="indent1"/>Ich hit am that her
+            bivore<caesura/>eu alle myd me ledde.”</l>
+          <l><space rend="indent1"/>Hi weren aferd and offruyht,<caesura/>and no wunder nes.</l>
+          <l><space rend="indent1"/>Heo wenden thet hit were a gost<caesura/>that among heom
+            wes.</l>
+          <l><space rend="indent1"/><persName>Jhesu</persName> to heom seyde:<caesura/>“Of hwan beo
+            ye offerde?</l>
+          <l><space rend="indent1"/>And beoth in eure heorte<caesura/>thouhtes fele arerde,</l>
+          <l><milestone n="605" unit="line"/><space rend="indent1"/>Iseoth nuthe bothe myne vet<note
+              type="tnote-indicator" n="36">T</note>
+            <caesura/>and ek myne honde,</l>
+          <l><locus type="foliation">fol. 153v</locus><space rend="indent1"/>That ich hit am
+              <persName>Jhesu Crist</persName><caesura/>that her myd eu stonde.</l>
+          <l><space rend="indent1"/>Hondleth<note type="enote-indicator" n="50">N</note> nu and
+            iseoth<caesura/>that gost naveth none bon —</l>
+          <l><space rend="indent1"/>Ne vleys ne bon nouther,<caesura/>as me is upon.”</l>
+          <l><space rend="indent1"/>Tho he hedde so yseyd,<caesura/>he dude more yet.</l>
+          <l><milestone n="610" unit="line"/><space rend="indent1"/>He schewede heom his
+            honde<caesura/>and so he dude his fet.</l>
+          <l><space rend="indent1"/>Yet heo hit ny levede,<caesura/>the more ne the lesse.<note
+              type="enote-indicator" n="51">N</note>
+          </l>
+          <l><space rend="indent1"/>Ac thuhte muche wunder,<caesura/>of heore gladnesse.</l>
+          <l><space rend="indent1"/>Ure Louerd <persName>Jhesu Crist</persName><caesura/>myd heom
+            bigon to speke:</l>
+          <l><space rend="indent1"/>“Habbe ye ouht here<caesura/>that mon may of ete?”</l>
+          <l><milestone n="615" unit="line"/><space rend="indent1"/>Hi hym bivore
+            brouhten<caesura/>of one visse ibred</l>
+          <l><space rend="indent1"/>And ek enne hunycomb.<caesura/>Hi weren swithe gled.</l>
+          <l><space rend="indent1"/>Ure Louerd nom and et therof<caesura/>tovore heom
+            everuychone,</l>
+          <l><space rend="indent1"/>And sewede that he wes aryse<caesura/>myd fleysse and myd
+            bone.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Aveole kunne wise<caesura/>ure Louerd him tok on</l>
+          <l><milestone n="620" unit="line"/><space rend="indent1"/>To schewen his
+            apostles<caesura/>thet he wes <persName>God</persName> and mon.</l>
+          <l><space rend="indent1"/>Seoththe that he wes aryse<caesura/>from dethe to lyve —</l>
+          <l><space rend="indent1"/>Thet us alle bouhte<caesura/>myd his wndes fyve.</l>
+          <l><space rend="indent1"/>Ofte he heom myd spek<caesura/>ther hi weren togedere</l>
+          <l><space rend="indent1"/>Er he wolde astyen<caesura/>to <placeName>hevene</placeName> to
+            his Vedere.</l>
+          <l><milestone n="625" unit="line"/><space rend="indent1"/>He heyhte heom “holde treowe
+            luve<caesura/>everych to othre,</l>
+          <l><space rend="indent1"/>As ich habbe eu yluved,<caesura/>for ye beoth all brothre.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Ure Louerd heom bleu upon,<caesura/>thet alle thing con
+            dyhte</l>
+          <l><space rend="indent1"/>Undervongeth, he seyde,<caesura/>the Holi Gostes myhte:</l>
+          <l><space rend="indent1"/>“Theo that ye aleseth here<caesura/>of heore sunnes bende</l>
+          <l><milestone n="630" unit="line"/><space rend="indent1"/>Hi schulle beon
+            unbunden<caesura/>ever buten ende;</l>
+          <l><space rend="indent1"/>And theo that ye her byndeth<caesura/>ine lyve thisse</l>
+          <l><space rend="indent1"/>Hi beoth ever ibunde,<caesura/>wyteth ye myd iwisse.”<note
+              type="enote-indicator" n="52">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Tho ure Louerd astye wolde<caesura/>from
+              <placeName>eorthe</placeName> to <placeName>hevene</placeName>,</l>
+          <l><space rend="indent1"/>He seyde to his apostles —<caesura/>hi weren elleovene:</l>
+          <l><milestone n="635" unit="line"/><space rend="indent1"/>“Herkneth alle to
+            me,<caesura/>the more and the leste.</l>
+          <l><space rend="indent1"/>Ich eu wille senden on<caesura/>mynes Fader biheste.</l>
+          <l><space rend="indent1"/>Sytteth in the burewe,<caesura/>and ich eu wille dihte</l>
+          <l><locus type="foliation">fol. 154r</locus><space rend="indent1"/>Fort ye beon
+            byweved<caesura/>of heveliche myhte.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>He seoththe heom ut ledde<caesura/>into
+              <placeName>Bethany</placeName>,</l>
+          <l><milestone n="640" unit="line"/><space rend="indent1"/>And myd his swete
+            honde<caesura/>gon heom blessy.</l>
+          <l><space rend="indent1"/>Tho he heom hedde iblessed,<caesura/>that scop the sunne and
+            mone,</l>
+          <l><space rend="indent1"/>He astey to <placeName>hevene</placeName><caesura/>therafter ful
+              sone.<note type="enote-indicator" n="53">N</note>
+          </l>
+          <l><space rend="indent1"/>Hi stoden and biheolden<caesura/>hw he to
+              <placeName>hevene</placeName> asteyh,</l>
+          <l><space rend="indent1"/>Mid his swete moder —<caesura/>he wes hire heorte neyh.</l>
+        </lg>
+        <lg>
+          <l><milestone n="645" unit="line"/><space rend="indent1"/>Ther stoden twei veyre
+            men;<caesura/>neren hi nouht ihud,</l>
+          <l><space rend="indent1"/>Ac were myd hwite clothes<note type="enote-indicator" n="54"
+              >N</note>
+            <caesura/>swythe veyre iscrud.</l>
+          <l><space rend="indent1"/>And hi to heom seyden:<caesura/>“Men of
+              <placeName>Galile</placeName>,</l>
+          <l><space rend="indent1"/>Toward thare <placeName>hevene</placeName>,<caesura/>hwat
+            biholde ye?</l>
+          <l><space rend="indent1"/>The ilke sulve <persName>Jhesu</persName><caesura/>that is from
+            eu ynume</l>
+          <l><milestone n="650" unit="line"/><space rend="indent1"/>He wile hymsulf
+            eftsone<caesura/>hider to eu cume</l>
+          <l><space rend="indent1"/>Mid fleysse and myd bone,<caesura/>as he heonne ywende.</l>
+          <l><space rend="indent1"/>He wile eft hider cume —<caesura/>theos word he eu sende.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Tho heo this iherden,<caesura/>hi turnden heom ayeyn</l>
+          <l><space rend="indent1"/>Mid muchele gladnesse<caesura/>eft to
+              <placeName>Jherusalem</placeName>,</l>
+          <l><milestone n="655" unit="line"/><space rend="indent1"/>And weren in the
+              temple,<caesura/><persName>God</persName> heryinde</l>
+          <l><space rend="indent1"/>And thene King of <placeName>hevene</placeName>,<caesura/>ever
+            blessynde.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>At thon heye undarne<caesura/>a <date>Witsuneday</date><note
+              type="enote-indicator" n="55">N</note>
+          </l>
+          <l><space rend="indent1"/>Ther hi were togadere,<caesura/>as ich eu segge may,</l>
+          <l><space rend="indent1"/>And heryeden ure Louerd <persName>Crist</persName><caesura/>and
+            heore bede sunge.</l>
+          <l><milestone n="660" unit="line"/><space rend="indent1"/>The Holy Gost heom com upon in
+            fury tunge.</l>
+          <l><space rend="indent1"/>So sone so hi weren of the Holy Goste attende,</l>
+          <l><space rend="indent1"/>Heo arysen alle togadere<caesura/>and ut heom iwende</l>
+          <l><space rend="indent1"/>And speken <persName>Godes</persName> Wordes.<caesura/>Hi weren
+            swithe gled.</l>
+          <l><space rend="indent1"/>Of none monne in eorthe<caesura/>nere hi tho ofdred.</l>
+        </lg>
+        <lg>
+          <l><milestone n="665" unit="line"/><space rend="indent1"/>Tho were in
+              <placeName>Jherusalem</placeName>,<caesura/>as ich me understonde,</l>
+          <l><space rend="indent1"/>Men wunyinde<caesura/>of alle kunnes londe.</l>
+          <l><space rend="indent1"/>Tho heo iherden the apostles<caesura/><persName>Godes</persName>
+            lore teche,</l>
+          <l><space rend="indent1"/>Everuych ther understod<caesura/>his icunde speche.<note
+              type="enote-indicator" n="56">N</note>
+          </l>
+          <l><space rend="indent1"/>Heo seyden heom bitwenen:<caesura/>“Hwat may this beo?</l>
+          <l><locus type="foliation">fol. 154v</locus><space rend="indent1"/>Theos men that we heren
+            speke,<caesura/>hi beoth of <placeName>Galile</placeName>,</l>
+          <l><milestone n="671" unit="line"/><space rend="indent1"/>And we iherden heom
+            heryen<caesura/>in heore preching</l>
+          <l><space rend="indent1"/>After ure tunge<caesura/>then heoveliche Kyng.”<note
+              type="enote-indicator" n="57">N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Seoththe in alle londes<caesura/>hi eoden vor to prechen,</l>
+          <l><space rend="indent1"/>And for to fully that folk,<caesura/>and
+              <persName>Godes</persName> lawe techen.</l>
+          <l><milestone n="675" unit="line"/><space rend="indent1"/>Hi nolden tho
+            bileve,<caesura/>vor kayser ne vor kynge,</l>
+          <l><space rend="indent1"/>Ne vor nore pyne,<caesura/>heore prechynge.</l>
+          <l><space rend="indent1"/>Thervore heo iwenden<caesura/>into alle londes</l>
+          <l><space rend="indent1"/>And fullede kinges,<caesura/>eorles, and bondes,</l>
+          <l><space rend="indent1"/>And alle men and wymmen<caesura/>that wolde to heom cume</l>
+          <l><milestone n="680" unit="line"/><space rend="indent1"/>And bileven on <persName>Jhesu
+              Crist</persName><caesura/>thet is <persName>Godes</persName> Sune.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Thervore the Veond of
+            <placeName>helle</placeName><caesura/>hedde muchel onde</l>
+          <l><space rend="indent1"/>Vor hi bynomen him saulen<caesura/>in water and in londe.</l>
+          <l><space rend="indent1"/>Thervore he hine bithouhte<caesura/>hw he don myhte</l>
+          <l><space rend="indent1"/>And ever wes abute<caesura/>bi daye and bi nyhte</l>
+          <l><milestone n="685" unit="line"/><space rend="indent1"/>Vor bryngen heom to
+            dethe<caesura/>thet spek myd his ycorene.<note type="enote-indicator" n="58">N</note>
+          </l>
+          <l><space rend="indent1"/>That wes <persName>Nerun</persName><note type="enote-indicator"
+              n="59">N</note> and <persName>Dacyen</persName><note type="enote-indicator" n="60"
+              >N</note>
+            <caesura/>and mo thet beoth vorlorene.</l>
+          <l><space rend="indent1"/>Theos nomen<note type="tnote-indicator" n="37">T</note> the
+            apostles<caesura/>and heom to dethe dude,</l>
+          <l><space rend="indent1"/>And ure Louerd heom underveng<caesura/>anon i the stude.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Nu hi beoth ine blisse<caesura/>myd thon
+              <placeName>hevene</placeName> Kynge —</l>
+          <l><milestone n="690" unit="line"/><space rend="indent1"/>That is heore mede<caesura/>vor
+            heore prechinge.<note type="enote-indicator" n="61">N</note>
+          </l>
+          <l><space rend="indent1"/>Bidde we alle <persName>Jhesu Crist</persName><caesura/>vor
+            heore erndinge,</l>
+          <l><space rend="indent1"/>That he ure saule<caesura/>to thare blisse brynge.</l>
+          <l><space rend="indent1"/>Vor his swete moder luve,<caesura/>of hwam he vleyss nom,</l>
+          <l><space rend="indent1"/>He habbe mercy of us<caesura/>that is <persName>God</persName>
+            and mon,</l>
+          <l><milestone n="695" unit="line"/><space rend="indent1"/>And lete us so her
+            libben<caesura/>in thisse wrecche lyve,</l>
+          <l><space rend="indent1"/>That we moten to him cume,<caesura/>for his wundes fyve.</l>
+          <l><space rend="indent1"/>And he that haveth this rym iwryten,<caesura/>beo hwat he
+            beo,</l>
+          <l><space rend="indent1"/><persName>God</persName> in thisse lyve<caesura/>hyne lete wel
+            itheo,</l>
+          <l><space rend="indent1"/>And alle his iveren,<caesura/>bothe yonge and olde.</l>
+          <l><milestone n="700" unit="line"/><space rend="indent1"/><persName>God</persName> heom
+            lete heore ordre<caesura/>trewliche her holde,</l>
+          <l><space rend="indent1"/>That hi mote togadere<caesura/>cume<note type="tnote-indicator"
+              n="38">T</note> to heveriche blysse</l>
+          <l><locus type="foliation">fol. 155r</locus><space rend="indent1"/>Hwanne hi schullen
+            toparty<caesura/>ut of lyve thisse.<note type="enote-indicator" n="62">N</note>
+          </l>
+          <l><space rend="indent1"/>He thet alle thing ischop,<caesura/>this us graunty,</l>
+          <l><space rend="indent1"/>Vor his leve moder luve<caesura/>Seynte
+              <persName>Mary</persName>,</l>
+          <l><milestone n="705" unit="line"/><space rend="indent1"/>And heo ure erende
+            bere,<caesura/>so is hire ywune,</l>
+          <l><space rend="indent1"/>Mid alle other halewe,<caesura/>to hire swete Sune. Amen.</l>
+        </lg>
+      </div>
+      <div type="rectotext" xml:lang="en">
+        <p style="incipit"><l><locus type="foliation">fol. 144r</locus><space rend="indent1"/>Here
+            begins the Passion of Jesus Christ in English.</l></p>
+        <p style="incipit"><l><space rend="indent1"/>Prologue</l></p>
+        <lg>
+          <l><space rend="indent1"/>Listen now to a little tale<caesura/>that I’ll tell you,</l>
+          <l><space rend="indent1"/>As we find it written<caesura/>in the gospel —</l>
+          <l><space rend="indent1"/>It’s not about Charlemagne<caesura/>or the twelve peers,</l>
+          <l><space rend="indent1"/>But rather about Christ’s suffering<caesura/>that he endured
+            here.</l>
+        </lg>
+        <lg>
+          <l>5<space rend="indent1"/>All folk were scattered,<caesura/>like sheep in the meadow;</l>
+          <l><space rend="indent1"/>They barely thought about God,<caesura/>their hearts were so
+            cold.</l>
+          <l><space rend="indent1"/>He who is and always was<caesura/>with his Father in heaven,</l>
+          <l><space rend="indent1"/>He descended very low<caesura/>to bring them together.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Thirst and hunger, cold and heat,<caesura/>these are rough
+            pains;</l>
+          <l><milestone n="10" unit="line"/><space rend="indent1"/>He suffered all these for
+            us,<caesura/>who turned water to wine.</l>
+          <l><space rend="indent1"/>For thirty winters and more<caesura/>he was among mankind,</l>
+          <l><space rend="indent1"/>After the Virgin bore him,<caesura/>entirely without sin.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>When he’d been long enough<caesura/>in this wretched life,</l>
+          <l><space rend="indent1"/>He was very eager<caesura/>for his Father’s bliss,</l>
+          <l><milestone n="15" unit="line"/><space rend="indent1"/>Not because he was
+            insufficient<caesura/>in his divine nature,</l>
+          <l><space rend="indent1"/>But because he wanted us with him,<caesura/>both rich and
+            poor.</l>
+          <l><space rend="indent1"/>He had, and thus we have,<caesura/>no need to be afraid.</l>
+          <l><space rend="indent1"/>If we avoid mortal sin<caesura/>and do all by his counsel,</l>
+          <l><space rend="indent1"/>May the Lord who created all<caesura/>bring us to that
+            bliss.</l>
+          <l><milestone n="20" unit="line"/><space rend="indent1"/>Now begins our tale —<caesura/>it
+            does not lie.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><hi rend="italic">Here begins Christ’s suffering in his
+              Passion.</hi></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Lady, you bore the best child<caesura/>who was ever born;</l>
+          <l><space rend="indent1"/>He made you his mother,<caesura/>for he had chosen you.</l>
+          <l><space rend="indent1"/>Adam and all his offspring<caesura/>would have been lost</l>
+          <l><space rend="indent1"/>Had your Son not existed —<caesura/>you are blessed
+            therefore.</l>
+        </lg>
+        <lg>
+          <l><milestone n="25" unit="line"/><space rend="indent1"/>After that he was
+            baptized<caesura/>in the River Jordan</l>
+          <l><space rend="indent1"/>By the prophet<caesura/>who was named Saint John.</l>
+          <l><space rend="indent1"/>The Holy Ghost led him<caesura/>into the wilderness</l>
+          <l><space rend="indent1"/>In order to be tempted<caesura/>by Satan the old.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>He was there forty days<caesura/>entirely without food;</l>
+          <l><milestone n="30" unit="line"/><space rend="indent1"/>Because he had
+            fasted,<caesura/>he wanted to eat.</l>
+          <l><locus type="foliation">fol. 144v</locus><space rend="indent1"/>There came to him
+            Satan,<caesura/>full of hatred;</l>
+          <l><space rend="indent1"/>With his false words<caesura/>he started to talk to him.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>In three different ways<caesura/>he tempted him,</l>
+          <l><space rend="indent1"/>Just as he’d tempted Adam<caesura/>and overcame him:</l>
+          <l><milestone n="35" unit="line"/><space rend="indent1"/>Through gluttony and
+            pride<caesura/>and avarice too.</l>
+          <l><space rend="indent1"/>He didn’t know he was<caesura/>both God and man.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Then said Jesus Christ,<caesura/>who is God’s Son,</l>
+          <l><space rend="indent1"/>“Depart, Satan!<caesura/>Why have you come?”</l>
+          <l><space rend="indent1"/>Immediately he left him<caesura/>to go tempt others,</l>
+          <l><milestone n="40" unit="line"/><space rend="indent1"/>And there arrived
+            angels<caesura/>to serve him.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Then he started to preach.<caesura/>Quite gentle were his
+            actions.</l>
+          <l><space rend="indent1"/>He chose for himself twelve comrades<caesura/>to be led by
+            him;</l>
+          <l><space rend="indent1"/>Some of them were wise<caesura/>and did all by his counsel,</l>
+          <l><space rend="indent1"/>But one of them betrayed him,<caesura/>who ate of his bread.</l>
+        </lg>
+        <lg>
+          <l><milestone n="45" unit="line"/><space rend="indent1"/>He taught all people<caesura/>to
+            uphold true love:</l>
+          <l><space rend="indent1"/>First toward God Almighty<caesura/>who’s above all of us;</l>
+          <l><space rend="indent1"/>Next to love his neighbor<caesura/>as he would himself,</l>
+          <l><space rend="indent1"/>And to be to each other<caesura/>both true and loyal.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Many folk followed him.<caesura/>Do you know why?</l>
+          <l><milestone n="50" unit="line"/><space rend="indent1"/>Some to be rid<caesura/>of evil
+            that was in them;</l>
+          <l><space rend="indent1"/>Some to be fed<caesura/>with bodily food;</l>
+          <l><space rend="indent1"/>And some just for evil<caesura/>and for no good.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Men he healed, and women,<caesura/>in different ways:</l>
+          <l><space rend="indent1"/>He caused the blind to see<caesura/>and the dead to rise;</l>
+          <l><milestone n="55" unit="line"/><space rend="indent1"/>The dumb speak, the deaf
+            hear,<caesura/>and the lame walk.</l>
+          <l><space rend="indent1"/>Such a physician before him<caesura/>had come never here!</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The Jews and the Pharisees<caesura/>were jealous of that —</l>
+          <l><space rend="indent1"/>That such a physician was come<caesura/>into their land.</l>
+          <l><space rend="indent1"/>They said, “He is a carpenter’s son.<caesura/>We’re not his
+            friends!</l>
+          <l><milestone n="60" unit="line"/><space rend="indent1"/>All the miracles he
+            works<caesura/>are done by the Fiend.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>For all the good he did them,<caesura/>they rewarded him
+            poorly.</l>
+          <l><space rend="indent1"/>As men say, “He loses his labor<caesura/>who serves the
+            wicked.”</l>
+          <l><locus type="foliation">fol. 145r</locus><space rend="indent1"/>Just so did Jesus
+            Christ:<caesura/>he did good for evil men;</l>
+          <l><space rend="indent1"/>Therefore, in the end,<caesura/>hey shed his precious blood.</l>
+        </lg>
+        <lg>
+          <l><milestone n="65" unit="line"/><space rend="indent1"/>When he came into
+            Jerusalem<caesura/>on Palm Sunday,</l>
+          <l><space rend="indent1"/>He had no robe<caesura/>of variegated or gray fur,</l>
+          <l><space rend="indent1"/>He had no fine horse<caesura/>and no palfrey,</l>
+          <l><space rend="indent1"/>But he rode upon an ass,<caesura/>as I tell you.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>As he came into the village,<caesura/>riding thus,</l>
+          <l><milestone n="70" unit="line"/><space rend="indent1"/>The town’s children<caesura/>came
+            singing.</l>
+          <l><space rend="indent1"/>“Blessed,” they said, “is he.”<caesura/>They come in God’s
+            name.</l>
+          <l><space rend="indent1"/>The Jews and the Pharisees<caesura/>were angry about that.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>When he came into the temple<caesura/>in order to preach,</l>
+          <l><space rend="indent1"/>He found therein merchants<caesura/>who were arrogant.</l>
+          <l><milestone n="75" unit="line"/><space rend="indent1"/>In spite of their
+            pride,<caesura/>he drove them out;</l>
+          <l><space rend="indent1"/>The bishops and masters,<caesura/>they were enraged.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>And they soon asked him<caesura/>why he’d acted so.</l>
+          <l><space rend="indent1"/>Our Lord answered them<caesura/>soon in the place:</l>
+          <l><space rend="indent1"/>“It is written that my house<caesura/>is called a
+            prayer-house,</l>
+          <l><milestone n="80" unit="line"/><space rend="indent1"/>And a den of thieves
+            you<caesura/>have made it.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The masters of the temple,<caesura/>they were very proud.</l>
+          <l><space rend="indent1"/>To capture our Lord,<caesura/>they lay always in wait —</l>
+          <l><space rend="indent1"/>If he were ever to preach<caesura/>against their law —</l>
+          <l><space rend="indent1"/>So that they could accuse him<caesura/>and take his life.</l>
+        </lg>
+        <lg>
+          <l><milestone n="85" unit="line"/><space rend="indent1"/>As the time drew
+            near<caesura/>for their great feast day —</l>
+          <l><space rend="indent1"/>Of all the twelve months<caesura/>it was the most important
+            —</l>
+          <l><space rend="indent1"/>They plotted among themselves<caesura/>at their meeting</l>
+          <l><space rend="indent1"/>About how our Lord they could<caesura/>bring to death.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>On Holy Thursday,<caesura/>as you may hear,</l>
+          <l><milestone n="90" unit="line"/><space rend="indent1"/>When our Lord was
+            seated<caesura/>at his supper,</l>
+          <l><space rend="indent1"/>He looked about<caesura/>with a gentle expression,</l>
+          <l><space rend="indent1"/>And said to his disciples<caesura/>who were then with him:</l>
+          <l><space rend="indent1"/>“One will betray me<caesura/>who’s now our comrade;</l>
+          <l><space rend="indent1"/>Indeed, it’d be better for him<caesura/>if he hadn’t been
+            born.”</l>
+          <l><locus type="foliation">fol. 145v</locus><space rend="indent1"/>Each looked at the
+            others;<caesura/>they were frightened.</l>
+          <l><milestone n="96" unit="line"/><space rend="indent1"/>They didn’t know which of
+            them<caesura/>he’d said it about.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Then his disciples asked,<caesura/>one after another:</l>
+          <l><space rend="indent1"/>“Lord,” they all said,<caesura/>“who’s the man so audacious</l>
+          <l><space rend="indent1"/>That he’d dare betray you,<caesura/>the one who’s among us?</l>
+          <l><milestone n="100" unit="line"/><space rend="indent1"/>We desire unto the
+            death<caesura/>to go all with you.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Then said our Lord Christ,<caesura/>who is full of bliss:</l>
+          <l><space rend="indent1"/>“Pay close attention<caesura/>so you don’t miss it:</l>
+          <l><space rend="indent1"/>He to whom I hand the bread<caesura/>that I wet in wine,</l>
+          <l><space rend="indent1"/>He will betray me<caesura/>tonight before he sleeps.”</l>
+          <l><milestone n="105" unit="line"/><space rend="indent1"/>He handed it to
+            Judas<caesura/>so that all could see it,</l>
+          <l><space rend="indent1"/>Where he was in front of him<caesura/>and sat at his knee.</l>
+          <l><space rend="indent1"/>He ate it pleasurably<caesura/>and looked all about,</l>
+          <l><space rend="indent1"/>And the Fiend came into him<caesura/>with that very morsel.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Judas then spoke,<caesura/>saying to our Lord:</l>
+          <l><milestone n="110" unit="line"/><space rend="indent1"/>“Master, am I the
+            one<caesura/>who will treat you so?”</l>
+          <l><space rend="indent1"/>“You say so,” said our Lord,<caesura/>“and do all you’re
+            able.”</l>
+          <l><space rend="indent1"/>And he removed himself out<caesura/>into the dark night.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>He came to the Jews<caesura/>where they were together,</l>
+          <l><space rend="indent1"/>All alone by himself —<caesura/>he had no companion —</l>
+          <l><milestone n="115" unit="line"/><space rend="indent1"/>And made a bargain to
+            sell<caesura/>our Savior.</l>
+          <l><space rend="indent1"/>They were very pleased<caesura/>with their purchase.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>He said to the Jews:<caesura/>“If I may so succeed</l>
+          <l><space rend="indent1"/>That I betray Jesus,<caesura/>what shall be my reward?”</l>
+          <l><space rend="indent1"/>“Thirty pennies,” they said,<caesura/>“They’re all ready.”</l>
+          <l><milestone n="120" unit="line"/><space rend="indent1"/>“Come with me,” said
+            Judas,<caesura/>“and I will lead you.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Come quickly with me,<caesura/>both young and old;</l>
+          <l><space rend="indent1"/>The one whom I kiss,<caesura/>you must hold him tightly</l>
+          <l><space rend="indent1"/>And lead him warily —<caesura/>he works many wonders.</l>
+          <l><space rend="indent1"/>If he now escapes you,<caesura/>you’ll be badly humiliated.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="125" unit="line"/><space rend="indent1"/>After that Judas
+            Iscariot<caesura/>went away.</l>
+          <l><space rend="indent1"/>Our Lord took his apostles,<caesura/>every one,</l>
+          <l><locus type="foliation">fol. 146r</locus><space rend="indent1"/>And led them with
+            him<caesura/>to the Mount of Olives,</l>
+          <l><space rend="indent1"/>Where he spoke to them<caesura/>with his sweet mouth.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“All of you say,” said our Lord,<caesura/>“you desire to die
+            with me;</l>
+          <l><milestone n="130" unit="line"/><space rend="indent1"/>Tonight you’ll be
+            ashamed<caesura/>that you ever saw me.</l>
+          <l><space rend="indent1"/>It’s written in the book<caesura/>where men may read it.</l>
+          <l><space rend="indent1"/>Many winters ago<caesura/>the prophet said it:</l>
+          <l><space rend="indent1"/>‘When the shepherd is killed<caesura/>and robbed of life,</l>
+          <l><space rend="indent1"/>Then soon will his sheep<caesura/>be entirely scattered.’</l>
+          <l><milestone n="135" unit="line"/><space rend="indent1"/>Afterwards from death
+            I<caesura/>will rise again;</l>
+          <l><space rend="indent1"/>I will before all of you<caesura/>come to Galilee.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Then said Saint Peter,<caesura/>as though abashed:</l>
+          <l><space rend="indent1"/>“I will never shame myself,<caesura/>Lord, on your account.”</l>
+          <l><space rend="indent1"/>“Peter,” said our Lord,<caesura/>“now you say so.</l>
+          <l><milestone n="140" unit="line"/><space rend="indent1"/>Before daylight
+            tomorrow,<caesura/>it shall go otherwise.</l>
+          <l><space rend="indent1"/>You know not yourself,<caesura/>but I do know you,</l>
+          <l><space rend="indent1"/>You shall forsake me thrice<caesura/>before the cock crows.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Lord,” said Saint Peter —<caesura/>truly, he was upset —</l>
+          <l><space rend="indent1"/>“Although even to death<caesura/>should I go with you,</l>
+          <l><milestone n="145" unit="line"/><space rend="indent1"/>Or else into
+            prison,<caesura/>whatever befalls,</l>
+          <l><space rend="indent1"/>I will never forsake you.”<caesura/>And so said they all.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>When they’d heard all this,<caesura/>they were quite
+            anxious.</l>
+          <l><space rend="indent1"/>Our Lord went with them<caesura/>to Gethsemane.</l>
+          <l><space rend="indent1"/>Next he said to them —<caesura/>blessed may they be:</l>
+          <l><milestone n="150" unit="line"/><space rend="indent1"/>“Sit here while I go<caesura/>to
+            pray by myself.”</l>
+          <l><space rend="indent1"/>He took Saint Peter,<caesura/>Saint James, and Saint John.</l>
+          <l><space rend="indent1"/>He was frightened of death,<caesura/>he who’s God and man —</l>
+          <l><space rend="indent1"/>Well ought we be afraid<caesura/>if we are wise,</l>
+          <l><space rend="indent1"/>And conquer our sins<caesura/>while we are here!</l>
+        </lg>
+        <lg>
+          <l><milestone n="155" unit="line"/><space rend="indent1"/>Jesus went from them<caesura/>a
+            stone throw’s length,</l>
+          <l><space rend="indent1"/>And left them to pray<caesura/>all by himself.</l>
+          <l><space rend="indent1"/>“Father,” he, Jesus Christ, said,<caesura/>“if it may so be,</l>
+          <l><space rend="indent1"/>From this very chalice<caesura/>spare me now.</l>
+          <l><locus type="foliation">fol. 146v</locus><space rend="indent1"/>If I must drink
+            it,<caesura/>thy will be done.”</l>
+          <l><milestone n="160" unit="line"/><space rend="indent1"/>He knew that the
+            Jews<caesura/>plotted to kill him.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>As our Lord prayed,<caesura/>he started to sweat,</l>
+          <l><space rend="indent1"/>So that blood flowed down him,<caesura/>very large drops.</l>
+          <l><space rend="indent1"/>An angel came from heaven<caesura/>and stood firm nearby;</l>
+          <l><space rend="indent1"/>To give him comfort<caesura/>he was fully ready.</l>
+          <l><milestone n="165" unit="line"/><space rend="indent1"/>After he’d said his
+            prayer<caesura/>a good while,</l>
+          <l><space rend="indent1"/>He came to his apostles<caesura/>and found them asleep.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Do you sleep,” he said, “Simon?”<caesura/>He was one of the
+            three.</l>
+          <l><space rend="indent1"/>“Couldn’t you one time<caesura/>stay awake with me?</l>
+          <l><space rend="indent1"/>Wake up and offer prayer,<caesura/>all together,</l>
+          <l><milestone n="170" unit="line"/><space rend="indent1"/>That you not enter into
+            temptation,<caesura/>up to my Father.</l>
+          <l><space rend="indent1"/>The time has drawn very near,<caesura/>understand,</l>
+          <l><space rend="indent1"/>When man’s Son will be handed<caesura/>into sinful hands.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Rise up,” he said,<caesura/>“and we will go from here.</l>
+          <l><space rend="indent1"/>There does Judas approach,<caesura/>my wicked foe.</l>
+          <l><milestone n="175" unit="line"/><space rend="indent1"/>He has sold me
+            tonight.<caesura/>May he be wretched,</l>
+          <l><space rend="indent1"/>And all who betray others,<caesura/>now and forevermore.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Barely had he said that<caesura/>when Judas hurried to him</l>
+          <l><space rend="indent1"/>With Jews and with Pharisees<caesura/>from their meeting,</l>
+          <l><space rend="indent1"/>With spears and staves<caesura/>and many other things.</l>
+          <l><milestone n="180" unit="line"/><space rend="indent1"/>They bore little
+            love<caesura/>for heaven’s King.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Jesus came toward them<caesura/>with all his comrades,</l>
+          <l><space rend="indent1"/>And he said to them,<caesura/>“Whom do you seek here?”</l>
+          <l><space rend="indent1"/>They answered him,<caesura/>“Jesus Nazarene.”</l>
+          <l><space rend="indent1"/>Jesus said to them,<caesura/>“Lo, I am he.</l>
+        </lg>
+        <lg>
+          <l><milestone n="185" unit="line"/><space rend="indent1"/>If you seek me,<caesura/>here I
+            am found.</l>
+          <l><space rend="indent1"/>Let these others stay<caesura/>whole and sound;</l>
+          <l><space rend="indent1"/>They don’t need<caesura/>to suffer any wounds.”</l>
+          <l><space rend="indent1"/>The Jews at that word<caesura/>fell to the ground.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Judas came forward,<caesura/>who’d created all that grief,</l>
+          <l><locus type="foliation">fol. 147r</locus><space rend="indent1"/>With Jews and other
+            folk<caesura/>whom he’d brought with him.</l>
+          <l><milestone n="191" unit="line"/><space rend="indent1"/>“Hail,” he said,
+            “Master,”<caesura/>to Jesus whom they sought,</l>
+          <l><space rend="indent1"/>And kissed him with his mouth<caesura/>as if he meant no
+            evil.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Friend,” said Jesus Christ.<caesura/>“Why have you come?</l>
+          <l><space rend="indent1"/>With your false kiss<caesura/>you betray man’s Son.”</l>
+          <l><milestone n="195" unit="line"/><space rend="indent1"/>The Jews leapt up,<caesura/>who
+            had lain on the ground,</l>
+          <l><space rend="indent1"/>And soon seized Jesus Christ<caesura/>and bound him fast.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Saint Peter had a sword,<caesura/>and he drew it out</l>
+          <l><space rend="indent1"/>And smote off Malchus’s ear<caesura/>but didn’t slay him.</l>
+          <l><space rend="indent1"/>When Jesus Christ saw<caesura/>what Peter had done,</l>
+          <l><milestone n="200" unit="line"/><space rend="indent1"/>He said, “Put aside your
+            sword<caesura/>from this spot now.</l>
+          <l><space rend="indent1"/>Must I not drink,<caesura/>Peter, for you,</l>
+          <l><space rend="indent1"/>The chalice that my Father<caesura/>has given to me?”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Next Jesus Christ spoke —<caesura/>praised be his might —</l>
+          <l><space rend="indent1"/>And said to the Jews<caesura/>that he’d not resist at all:</l>
+          <l><milestone n="205" unit="line"/><space rend="indent1"/>“With swords and with
+            clubs<caesura/>have you come here</l>
+          <l><space rend="indent1"/>To treat me like a thief<caesura/>who has to be caught.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Every day in the temple<caesura/>it was my custom</l>
+          <l><space rend="indent1"/>To teach you God’s lore,<caesura/>where you gathered.</l>
+          <l><space rend="indent1"/>Then no one was so rash<caesura/>as to lay hands on me,</l>
+          <l><milestone n="210" unit="line"/><space rend="indent1"/>But now, by night,<caesura/>it’s
+            done very hostilely.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Peter saw the Jews<caesura/>bind fast our Lord.</l>
+          <l><space rend="indent1"/>Soon he drew himself back<caesura/>and went behind them;</l>
+          <l><space rend="indent1"/>Lest he be known,<caesura/>he was deeply frightened.</l>
+          <l><space rend="indent1"/>Nonetheless he wanted to know<caesura/>where he’d be led.</l>
+        </lg>
+        <lg>
+          <l><milestone n="215" unit="line"/><space rend="indent1"/>The Jews seized Jesus
+            Christ<caesura/>and led him forth —</l>
+          <l><space rend="indent1"/>From all his apostles,<caesura/>he had no help;</l>
+          <l><space rend="indent1"/>All of them left him,<caesura/>so great was their fear,</l>
+          <l><space rend="indent1"/>Just as beforehand our Lord<caesura/>had told them.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>They brought him to Caiphas<caesura/>without any company;</l>
+          <l><milestone n="220" unit="line"/><space rend="indent1"/>He was their bishop<caesura/>in
+            that same year.</l>
+          <l><locus type="foliation">fol. 147v</locus><space rend="indent1"/>Of all his
+            disciples,<caesura/>not one followed him</l>
+          <l><space rend="indent1"/>Other than Saint Peter<caesura/>and one young man.</l>
+          <l><space rend="indent1"/>John wore a mantle<caesura/>of sendal upon him.</l>
+          <l><space rend="indent1"/>He went in with Jesus Christ,<caesura/>and Peter stood outside
+            —</l>
+          <l><milestone n="225" unit="line"/><space rend="indent1"/>Because he was
+            known,<caesura/>he was the more daring.</l>
+          <l><space rend="indent1"/>He stood by the fire<caesura/>and warmed himself from the
+            cold.</l>
+          <l><space rend="indent1"/>He entreated the gatekeeper<caesura/>to let in his comrade;</l>
+          <l><space rend="indent1"/>Their Lord’s trial he wanted<caesura/>to see and hear.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The gatekeeper let him in<caesura/>without any fee;</l>
+          <l><milestone n="230" unit="line"/><space rend="indent1"/>Peter stood with
+            others<caesura/>and warmed himself by the coals.</l>
+          <l><space rend="indent1"/>Some of those who were there<caesura/>knew Saint John</l>
+          <l><space rend="indent1"/>And grabbed him by the mantle<caesura/>that he wore.</l>
+          <l><space rend="indent1"/>He left behind his mantle<caesura/>in the Jews’ hands,</l>
+          <l><space rend="indent1"/>And, being wholly naked,<caesura/>ran out their door.</l>
+          <l><milestone n="235" unit="line"/><space rend="indent1"/>Before he broke
+            free,<caesura/>it seemed a long time,</l>
+          <l><space rend="indent1"/>For the fear of death<caesura/>is very strong.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>When our Lord was brought<caesura/>before Caiphas,</l>
+          <l><space rend="indent1"/>Who was a master and bishop<caesura/>in that year,</l>
+          <l><space rend="indent1"/>The leaders and the Pharisees<caesura/>were quite pleased.</l>
+          <l><milestone n="240" unit="line"/><space rend="indent1"/>When they saw Jesus
+            Christ,<caesura/>they plotted to kill him.</l>
+          <l><space rend="indent1"/>In many different ways<caesura/>they blamed him</l>
+          <l><space rend="indent1"/>To bring him death.<caesura/>They knew not for what cause.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>There arose two<caesura/>who began to speak,</l>
+          <l><space rend="indent1"/>Saying that he intended<caesura/>to destroy the temple,</l>
+          <l><milestone n="245" unit="line"/><space rend="indent1"/>Which King Solomon<caesura/>had
+            made long ago,</l>
+          <l><space rend="indent1"/>And on the third day<caesura/>he’d build a new one:</l>
+          <l><space rend="indent1"/>“This we heard;<caesura/>of this we bear witness.”</l>
+          <l><space rend="indent1"/>Then responded<caesura/>the great and the lowly:</l>
+          <l><space rend="indent1"/>“Even if he’s done nothing further,<caesura/>he should stop
+            it!</l>
+          <l><milestone n="250" unit="line"/><space rend="indent1"/>All the wonders he
+            performs<caesura/>are done by evil!”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Caiphas spoke to Jesus Christ —<caesura/>he hoped to hurt
+            him:</l>
+          <l><space rend="indent1"/>“Don’t you hear what they say?<caesura/>Why won’t you
+            answer?”</l>
+          <l><locus type="foliation">fol. 148r</locus><space rend="indent1"/>Jesus was
+            quiet.<caesura/>He wouldn’t speak at all.</l>
+          <l><space rend="indent1"/>He could, if he wanted,<caesura/>be suddenly avenged.</l>
+          <l><milestone n="255" unit="line"/><space rend="indent1"/>Afterwards he asked
+            him<caesura/>about his teachings,</l>
+          <l><space rend="indent1"/>And about his disciples,<caesura/>and many other things.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Our Lord answered him<caesura/>with very gentle speech:</l>
+          <l><space rend="indent1"/>“Often in the temple<caesura/>I was accustomed to preach</l>
+          <l><space rend="indent1"/>During the daylight,<caesura/>where men could hear it.</l>
+          <l><milestone n="260" unit="line"/><space rend="indent1"/>And you and many
+            others<caesura/>who were your comrades,</l>
+          <l><space rend="indent1"/>What I said to them,<caesura/>know it well —</l>
+          <l><space rend="indent1"/>Learn from those who heard it,<caesura/>and don’t ask me.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>There leapt forth a scoundrel,<caesura/>as you may hear,</l>
+          <l><space rend="indent1"/>And he suddenly struck Jesus Christ<caesura/>under the ear.</l>
+          <l><milestone n="265" unit="line"/><space rend="indent1"/>“He’s the bishop,” he
+            said,<caesura/>“so you must respond!</l>
+          <l><space rend="indent1"/>He’s chief of the law!<caesura/>We will defend him!”</l>
+          <l><space rend="indent1"/>Jesus spoke to him<caesura/>and gave him an answer:</l>
+          <l><space rend="indent1"/>“If I’ve spoken evil,<caesura/>you may bear witness,</l>
+          <l><space rend="indent1"/>And if I’ve spoken well,<caesura/>pay attention to it,</l>
+          <l><milestone n="270" unit="line"/><space rend="indent1"/>But don’t strike
+            me<caesura/>before a legal decision.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The Jews who held Jesus Christ<caesura/>did him much shame,</l>
+          <l><space rend="indent1"/>Blindfolded and spat on him<caesura/>in that very place,</l>
+          <l><space rend="indent1"/>And struck him under the ear,<caesura/>and spoke to him
+            thus:</l>
+          <l><space rend="indent1"/>“Who struck you then?<caesura/>Can you figure it out?”</l>
+          <l><milestone n="275" unit="line"/><space rend="indent1"/>Much dishonor<caesura/>they did
+            to our Lord;</l>
+          <l><space rend="indent1"/>To bring him to death<caesura/>they applied their power.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Peter stood by the fire;<caesura/>he was deeply afraid.</l>
+          <l><space rend="indent1"/>He saw how Jesus Christ<caesura/>was vilely treated.</l>
+          <l><space rend="indent1"/>There came a handmaid<caesura/>who was with Caiphas;</l>
+          <l><milestone n="280" unit="line"/><space rend="indent1"/>She guarded the
+            door<caesura/>where the meeting occurred.</l>
+          <l><space rend="indent1"/>She beheld Peter<caesura/>and said to those seated:</l>
+          <l><space rend="indent1"/>“Truly, he is with Jesus<caesura/>the false prophet!”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Peter then replied:<caesura/>“I know nothing about him.</l>
+          <l><space rend="indent1"/>Never before have I seen him.<caesura/>You’re mistaken.”</l>
+          <l><locus type="foliation">fol. 148v</locus><space rend="indent1"/>Soon after
+            that<caesura/>someone else came there,</l>
+          <l><milestone n="286" unit="line"/><space rend="indent1"/>And said: “Surely you’re with
+            him,<caesura/>a Galilean.”</l>
+          <l><space rend="indent1"/>“Man,” said Saint Peter,<caesura/>“I don’t know what you
+            mean.</l>
+          <l><space rend="indent1"/>I never knew him<caesura/>or saw him before now.”</l>
+          <l><space rend="indent1"/>Then answered another<caesura/>who was their comrade,</l>
+          <l><milestone n="290" unit="line"/><space rend="indent1"/>A kinsman of
+            Malchus<caesura/>whose ear Peter had cut off:</l>
+          <l><space rend="indent1"/>“Yes, you were with Jesus Christ<caesura/>in the garden.</l>
+          <l><space rend="indent1"/>I know you very well.<caesura/>He was apprehended there.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Peter denied and said:<caesura/>“Cursed be</l>
+          <l><space rend="indent1"/>Anyone who knew him.<caesura/>I speak for myself.”</l>
+          <l><milestone n="295" unit="line"/><space rend="indent1"/>As he uttered that
+            word,<caesura/>the cock crowed.</l>
+          <l><space rend="indent1"/>Jesus turned toward him<caesura/>and looked at him.</l>
+          <l><space rend="indent1"/>After that Peter suddenly<caesura/>understood</l>
+          <l><space rend="indent1"/>What his Lord had said.<caesura/>He was full of regret.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Immediately he ran out<caesura/>and started to weep.</l>
+          <l><milestone n="300" unit="line"/><space rend="indent1"/>Though he’d forsaken his
+            Lord,<caesura/>he wanted to make amends.</l>
+          <l><space rend="indent1"/>Soon, in the early morning<caesura/>just as it was daylight,</l>
+          <l><space rend="indent1"/>They came all together,<caesura/>as I tell you.</l>
+          <l><space rend="indent1"/>The Jews and all other folk<caesura/>were very eager,</l>
+          <l><space rend="indent1"/>And brought our Lord Christ<caesura/>to their meeting-house.</l>
+          <l><milestone n="305" unit="line"/><space rend="indent1"/>They said to him:<caesura/>“Now
+            that you’ve been brought here.</l>
+          <l><space rend="indent1"/>Tell us now whether you’re Christ<caesura/>whom we’ve
+            sought.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Our Lord answered them:<caesura/>“If I tell you the truth,</l>
+          <l><space rend="indent1"/>You won’t believe me,<caesura/>I’m certain.</l>
+          <l><space rend="indent1"/>If I ask you anything,<caesura/>you’ll tell me nothing,</l>
+          <l><milestone n="310" unit="line"/><space rend="indent1"/>And not let me go
+            free.<caesura/>You plan to kill me.</l>
+          <l><space rend="indent1"/>Therefore in heaven I<caesura/>shall sit by my Father,</l>
+          <l><space rend="indent1"/>And afterwards come and judge<caesura/>you all together.”</l>
+          <l><space rend="indent1"/>They all said:<caesura/>“Then are you God’s Son?”</l>
+          <l><space rend="indent1"/>“You say it, for I am it.<caesura/>Thus am I named.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="315" unit="line"/><space rend="indent1"/>Caiphas heard this.<caesura/>He
+            tore his clothes,</l>
+          <l><space rend="indent1"/>And then to the people<caesura/>he spoke these words:</l>
+          <l><space rend="indent1"/>“Why should you wait<caesura/>to have more witnesses?</l>
+          <l><locus type="foliation">fol. 149r</locus><space rend="indent1"/>All of you have heard
+            this,<caesura/>more or less,</l>
+          <l><space rend="indent1"/>How he’s spoken here.<caesura/>What is our verdict?”</l>
+          <l><milestone n="320" unit="line"/><space rend="indent1"/>All of them
+            answered:<caesura/>“He deserves to die.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Then they all rose up<caesura/>and led him forth;</l>
+          <l><space rend="indent1"/>For the King of heaven<caesura/>they felt no compassion.</l>
+          <l><space rend="indent1"/>They brought him to Pilate,<caesura/>their superior.</l>
+          <l><space rend="indent1"/>“Listen now,” they said,<caesura/>“we will not deceive you.</l>
+          <l><milestone n="325" unit="line"/><space rend="indent1"/>This man, we find,<caesura/>has
+            broken our law</l>
+          <l><space rend="indent1"/>That we and our elders<caesura/>have anciently held.</l>
+          <l><space rend="indent1"/>Many of our people<caesura/>he’s turned from it;</l>
+          <l><space rend="indent1"/>He says he’s God’s Son<caesura/>but is a mortal man,</l>
+          <l><space rend="indent1"/>And he forbade tribute to Caesar<caesura/>of any kind.</l>
+          <l><milestone n="330" unit="line"/><space rend="indent1"/>He boasted before us
+            all<caesura/>that he’s our king.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Pilate said to Jesus Christ:<caesura/>“Tell me the truth,</l>
+          <l><space rend="indent1"/>Whether you’re King of the Jews<caesura/>or whether they’re
+            wrong.”</l>
+          <l><space rend="indent1"/>“You say it,” spoke our Lord,<caesura/>“that I’m God’s Son,</l>
+          <l><space rend="indent1"/>I don’t know for what crime<caesura/>they’ve taken me.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="335" unit="line"/><space rend="indent1"/>Pilate went out<caesura/>very
+            soon after that.</l>
+          <l><space rend="indent1"/>He said: “What’s this man done<caesura/>who’s brought to
+            me?”</l>
+          <l><space rend="indent1"/>The Jews answered him:<caesura/>“If he’d done no wrong,</l>
+          <l><space rend="indent1"/>He’d not have been taken by us<caesura/>nor brought to you.”</l>
+          <l><space rend="indent1"/>Pilate said to them:<caesura/>“According to your law,</l>
+          <l><milestone n="340" unit="line"/><space rend="indent1"/>Which you now have<caesura/>and
+            have anciently held,</l>
+          <l><space rend="indent1"/>Judge him now<caesura/>or else leave him alone.</l>
+          <l><space rend="indent1"/>No guilt worthy of death<caesura/>do I see in him.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The Jews answered:<caesura/>“According to our law,</l>
+          <l><space rend="indent1"/>We may no man<caesura/>condemn to death.”</l>
+          <l><milestone n="345" unit="line"/><space rend="indent1"/>Pilate went again
+            to<caesura/>where our Lord stood.</l>
+          <l><space rend="indent1"/>The Jews were eager<caesura/>to shed his blood.</l>
+          <l><space rend="indent1"/>Pilate called our Lord,<caesura/>and said to him thus:</l>
+          <l><space rend="indent1"/>“You are King of the Jews,<caesura/>but they shame you.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Our Lord answered him —<caesura/>blessed may he be:</l>
+          <l><milestone n="350" unit="line"/><space rend="indent1"/>“You either say it
+            yourself,<caesura/>or else it’s said by me.”</l>
+          <l><locus type="foliation">fol. 149v</locus><space rend="indent1"/>Pilate answered
+            him:<caesura/>“Am I then a Jew?</l>
+          <l><space rend="indent1"/>The bishops handed you to me<caesura/>and some of your men.</l>
+          <l><space rend="indent1"/>What have you done?<caesura/>For whom are you taken?”</l>
+          <l><space rend="indent1"/>Jesus answered him,<caesura/>Saint Mary’s Son:</l>
+        </lg>
+        <lg>
+          <l><milestone n="355" unit="line"/><space rend="indent1"/>“If my kingdom<caesura/>were of
+            this world,</l>
+          <l><space rend="indent1"/>My men would have resisted,<caesura/>know truly,</l>
+          <l><space rend="indent1"/>And I wouldn’t be held<caesura/>in Jewish hands,</l>
+          <l><space rend="indent1"/>But my kingdom<caesura/>is of another land.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Pilate said to him:<caesura/>“Then are you king?”</l>
+          <l><milestone n="360" unit="line"/><space rend="indent1"/>“You say it,” spoke our
+            Lord.<caesura/>“I have no equal.</l>
+          <l><space rend="indent1"/>I am born for that purpose<caesura/>and come to this world;</l>
+          <l><space rend="indent1"/>And bear witness to truth:<caesura/>for that, I am taken.</l>
+          <l><space rend="indent1"/>All who dwell in truth,<caesura/>hear my words,</l>
+          <l><space rend="indent1"/>And heed them well,<caesura/>and store them up.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="365" unit="line"/><space rend="indent1"/>Then Pilate said to
+            him:<caesura/>“What is truth?”</l>
+          <l><space rend="indent1"/>Our Lord did not answer,<caesura/>more or less.</l>
+          <l><space rend="indent1"/>Pilate went away again<caesura/>and left Jesus,</l>
+          <l><space rend="indent1"/>And came to the folk<caesura/>and spoke to them thus:</l>
+          <l><space rend="indent1"/>“I don’t find any guilt<caesura/>in this man.</l>
+          <l><milestone n="370" unit="line"/><space rend="indent1"/>It’s your custom<caesura/>to
+            acquit one</l>
+          <l><space rend="indent1"/>At your great festival<caesura/>every year.</l>
+          <l><space rend="indent1"/>Shall I the King of the Jews<caesura/>release all free?”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>And they all cried out<caesura/>upon Pilate:</l>
+          <l><space rend="indent1"/>“Not him,” they said,<caesura/>“but give us Barrabas!”</l>
+          <l><milestone n="375" unit="line"/><space rend="indent1"/>Barrabas was a
+            thief;<caesura/>on that account he was taken</l>
+          <l><space rend="indent1"/>And with other thieves<caesura/>imprisoned.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Pilate took then Jesus Christ<caesura/>and ordered him
+            scourged</l>
+          <l><space rend="indent1"/>Until his entire precious body<caesura/>began to sweat
+            blood.</l>
+          <l><space rend="indent1"/>The knights took him<caesura/>and led him in,</l>
+          <l><milestone n="380" unit="line"/><space rend="indent1"/>And took off all the
+            clothes<caesura/>that he had on him;</l>
+          <l><space rend="indent1"/>Then they took a red cloth<caesura/>and put it on him,</l>
+          <l><space rend="indent1"/>And a rod in his hand,<caesura/>and began to bow to him;</l>
+          <l><locus type="foliation">fol. 150r</locus><space rend="indent1"/>From a wreath of
+            thorns<caesura/>they formed a crown for him,</l>
+          <l><space rend="indent1"/>Of the sharpest of all<caesura/>that grew in town.</l>
+          <l><milestone n="385" unit="line"/><space rend="indent1"/>They set it on his
+            head<caesura/>and violently fastened it there.</l>
+          <l><space rend="indent1"/>On every side<caesura/>blood gushed out.</l>
+          <l><space rend="indent1"/>Then they kneeled and said,<caesura/>“Hail, King of the
+            Jews,”</l>
+          <l><space rend="indent1"/>And struck him under the ear,<caesura/>spared him nothing.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Pilate then went out<caesura/>and said to the Jews:</l>
+          <l><milestone n="390" unit="line"/><space rend="indent1"/>“Lo, here I bring this
+            man<caesura/>and lead him before you;</l>
+          <l><space rend="indent1"/>I don’t find any guilt in him,<caesura/>I want you to
+            understand.”</l>
+          <l><space rend="indent1"/>He knew he’d been taken<caesura/>because they were envious.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Our Lord bore his crown<caesura/>and was put on display.</l>
+          <l><space rend="indent1"/>“Lo,” said Pilate,<caesura/>“here is the very man.”</l>
+          <l><milestone n="395" unit="line"/><space rend="indent1"/>The bishops and other
+            people<caesura/>cried out upon him.</l>
+          <l><space rend="indent1"/>“Crucify him! Crucify him!”<caesura/>they said immediately.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Pilate then answered<caesura/>and said to them thus:</l>
+          <l><space rend="indent1"/>“Take him yourselves<caesura/>and put him on the cross.”</l>
+          <l><space rend="indent1"/>The Jews answered him:<caesura/>“We have our law.</l>
+          <l><milestone n="400" unit="line"/><space rend="indent1"/>According to it, he must be
+            condemned<caesura/>to death;</l>
+          <l><space rend="indent1"/>Because he calls himself God’s Son,<caesura/>we consider him
+            mad.”</l>
+          <l><space rend="indent1"/>Pilate heard this word.<caesura/>Then he was more
+            frightened.</l>
+          <l><space rend="indent1"/>He went out again<caesura/>to where he stood before,</l>
+          <l><space rend="indent1"/>And then asked Jesus Christ<caesura/>where he was from.</l>
+        </lg>
+        <lg>
+          <l><milestone n="405" unit="line"/><space rend="indent1"/>Our Lord gave no
+            answer<caesura/>but stood completely silent.</l>
+          <l><space rend="indent1"/>He could’ve avenged himself<caesura/>had it been his will.</l>
+          <l><space rend="indent1"/>He didn’t answer him at all —<caesura/>blessed may he be.</l>
+          <l><space rend="indent1"/>Pilate said to him:<caesura/>“You do not talk to me;</l>
+          <l><space rend="indent1"/>Don’t you know I have the power<caesura/>to crucify you?</l>
+          <l><milestone n="410" unit="line"/><space rend="indent1"/>And I have the power<caesura/>to
+            let you go free?”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Our Lord answered him:<caesura/>“You don’t have the power</l>
+          <l><space rend="indent1"/>To put me to death,<caesura/>either wrongly or rightly,</l>
+          <l><space rend="indent1"/>Except as it’s given to you,<caesura/>know truly,</l>
+          <l><space rend="indent1"/>By him who’s over all of us<caesura/>in heaven’s bliss.</l>
+          <l><locus type="foliation">fol. 150v</locus><space rend="indent1"/>The one who has greater
+            sin<caesura/>now, regarding me,</l>
+          <l><milestone n="416" unit="line"/><space rend="indent1"/>Is he who betrayed
+            me<caesura/>and then handed me to you.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>After that Pilate wanted<caesura/>to let him go,</l>
+          <l><space rend="indent1"/>But the Jews told him:<caesura/>“Keep punishing him.</l>
+          <l><space rend="indent1"/>If you believe this<caesura/>and therefore release him,</l>
+          <l><milestone n="420" unit="line"/><space rend="indent1"/>You’re not Caesar’s
+            friend<caesura/>but rather his foe.</l>
+          <l><space rend="indent1"/>Every man who says he’s a king,<caesura/>we tell you about
+            it.</l>
+          <l><space rend="indent1"/>He defies Caesar.<caesura/>There’s no king but he.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Pilate led out our Lord;<caesura/>he would not delay —</l>
+          <l><space rend="indent1"/>It was on Good Friday<caesura/>at the sixth hour —</l>
+          <l><milestone n="425" unit="line"/><space rend="indent1"/>And said to the
+            Jews:<caesura/>“Lo, here’s your king.”</l>
+          <l><space rend="indent1"/>“Take him away!” they cried out,<caesura/>“Hang him at
+            once!”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Pilate answered them<caesura/>and said to them thus:</l>
+          <l><space rend="indent1"/>“Do you want your king<caesura/>to be crucified?”</l>
+          <l><space rend="indent1"/>The bishops then answered<caesura/>and said to him there:</l>
+          <l><milestone n="430" unit="line"/><space rend="indent1"/>“We have no other<caesura/>king
+            beside Caesar.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Pilate then took our Lord<caesura/>and handed him over.</l>
+          <l><space rend="indent1"/>He handed him to knights<caesura/>who shamed him greatly.</l>
+          <l><space rend="indent1"/>The knights leading him<caesura/>gave him the cross</l>
+          <l><space rend="indent1"/>Whereon he suffered death<caesura/>and bought us with his
+            blood.</l>
+          <l><milestone n="435" unit="line"/><space rend="indent1"/>He bore it on his
+            shoulder<caesura/>toward that very spot</l>
+          <l><space rend="indent1"/>Named Calvary,<caesura/>where they led him.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>When he was put on the cross,<caesura/>the Jews rejoiced.</l>
+          <l><space rend="indent1"/>They took two thieves<caesura/>who were led with him.</l>
+          <l><space rend="indent1"/>One hung high on one side<caesura/>to be subjected to
+            torture,</l>
+          <l><milestone n="440" unit="line"/><space rend="indent1"/>And one on the other
+            side,<caesura/>and Jesus between them.</l>
+          <l><space rend="indent1"/>Our Lord then said this,<caesura/>full of truth:</l>
+          <l><space rend="indent1"/>“Father, forgive them this guilt;<caesura/>they know not what
+            they do.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Then Jesus was on the cross<caesura/>suffering hard pain.</l>
+          <l><space rend="indent1"/>The knights took his clothes<caesura/>to divide among
+            themselves.</l>
+          <l><milestone n="445" unit="line"/><space rend="indent1"/>When they found his
+            cloak,<caesura/>it was all whole.</l>
+          <l><space rend="indent1"/>They didn’t want<caesura/>to divide it in any way,</l>
+          <l><locus type="foliation">fol. 151r</locus><space rend="indent1"/>So they cast their
+            lots<caesura/>for whose it would be.</l>
+          <l><space rend="indent1"/>They didn’t want to divide it<caesura/>into two or three.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The leaders and the other folk<caesura/>mocked him.</l>
+          <l><milestone n="450" unit="line"/><space rend="indent1"/>They said this cross had
+            held<caesura/>many another man</l>
+          <l><space rend="indent1"/>Whom others had called Christ,<caesura/>King of Israel.</l>
+          <l><space rend="indent1"/>“Help yourself now<caesura/>by your mighty power.</l>
+          <l><space rend="indent1"/>If you’re as powerful<caesura/>as you say you are,</l>
+          <l><space rend="indent1"/>Come down off the cross<caesura/>so that we can see all of
+            it.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="455" unit="line"/><space rend="indent1"/>One of the thieves<caesura/>who
+            hung beside him,</l>
+          <l><space rend="indent1"/>He spoke to our Lord<caesura/>and began to mock him:</l>
+          <l><space rend="indent1"/>“Christ, help yourself,<caesura/>and also help us.”</l>
+          <l><space rend="indent1"/>The other one answered him,<caesura/>saying this to him:</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“You, wretch, are unafraid of God<caesura/>who’s hung here.</l>
+          <l><milestone n="460" unit="line"/><space rend="indent1"/>For our crimes
+            we’ve<caesura/>received the punishment;</l>
+          <l><space rend="indent1"/>This one on the cross<caesura/>has never committed sin.”</l>
+          <l><space rend="indent1"/>He spoke to our Lord<caesura/>soon in that spot:</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Lord,” he said, “remember me,”<caesura/>and started to
+            sigh,</l>
+          <l><space rend="indent1"/>“When you come to heaven<caesura/>where your kingdom is.”</l>
+          <l><milestone n="465" unit="line"/><space rend="indent1"/>Jesus answered
+            him:<caesura/>“Truly, I say to you,</l>
+          <l><space rend="indent1"/>Today in paradise<caesura/>you will be with me.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Pilate himself wrote<caesura/>a sign very quickly:</l>
+          <l><space rend="indent1"/>“Here is Jesus of Nazareth,<caesura/>King of the Jews.”</l>
+          <l><space rend="indent1"/>Many Jews read it<caesura/>and were very angry.</l>
+          <l><milestone n="470" unit="line"/><space rend="indent1"/>It was written in
+            Hebrew,<caesura/>Greek, and Latin.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The bishops of the Jews<caesura/>said to Pilate:</l>
+          <l><space rend="indent1"/>“You shouldn’t have written<caesura/>your sign this way,</l>
+          <l><space rend="indent1"/>Nor written<caesura/>‘Here is the King of the Jews.’</l>
+          <l><space rend="indent1"/>Although he claimed he was,<caesura/>it is a lie.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="475" unit="line"/><space rend="indent1"/>Pilate answered
+            them<caesura/>and said to them thus:</l>
+          <l><space rend="indent1"/>“What I wrote is written;<caesura/>none may undo it.”</l>
+          <l><space rend="indent1"/>It was close to midday<caesura/>when darkness fell</l>
+          <l><space rend="indent1"/>Over all middle-earth,<caesura/>until it was noon.</l>
+          <l><locus type="foliation">fol. 151v</locus><space rend="indent1"/>The sun abandoned its
+            light,<caesura/>and the moon too,</l>
+          <l><milestone n="480" unit="line"/><space rend="indent1"/>So that the veil
+            split<caesura/>in two in the temple.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Jesus cried out<caesura/>in a very strong voice:</l>
+          <l><space rend="indent1"/>“Father, my soul I<caesura/>commend to your keeping.”</l>
+          <l><space rend="indent1"/>Once he’d said this,<caesura/>he who created sun and moon,</l>
+          <l><space rend="indent1"/>He died after that<caesura/>very soon.</l>
+        </lg>
+        <lg>
+          <l><milestone n="485" unit="line"/><space rend="indent1"/>The centurion
+            saw,<caesura/>standing nearby,</l>
+          <l><space rend="indent1"/>How our Lord died,<caesura/>who bought us with his blood.</l>
+          <l><space rend="indent1"/>He said to the knights<caesura/>who were his companions:</l>
+          <l><space rend="indent1"/>“Indeed, this man was God’s Son<caesura/>whom we see here.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The Jews came to Pilate<caesura/>and said to him thus:</l>
+          <l><milestone n="490" unit="line"/><space rend="indent1"/>“We ask that their
+            thighs<caesura/>be broken in two,</l>
+          <l><space rend="indent1"/>And then let them be brought down<caesura/>from the gallows,</l>
+          <l><space rend="indent1"/>For our great festival<caesura/>will be tomorrow.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Of one thief they broke<caesura/>his thighs in two,</l>
+          <l><space rend="indent1"/>And of his companion<caesura/>they did likewise.</l>
+          <l><milestone n="495" unit="line"/><space rend="indent1"/>When they came to Jesus
+            Christ<caesura/>and saw him dead,</l>
+          <l><space rend="indent1"/>They didn’t break his thighs —<caesura/>the book forebade
+            it.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>They gave to a knight<caesura/>a spear in his hand</l>
+          <l><space rend="indent1"/>To strike his side;<caesura/>it was sharp and long.</l>
+          <l><space rend="indent1"/>He stabbed it hard<caesura/>till it went into his heart.</l>
+          <l><milestone n="500" unit="line"/><space rend="indent1"/>Both blood and
+            water<caesura/>flowed out from it.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The same one who saw it,<caesura/>he wrote this testimony:</l>
+          <l><space rend="indent1"/>“He told the truth.<caesura/>We believe it completely.”</l>
+          <l><space rend="indent1"/>When it was almost evening,<caesura/>Joseph came there,</l>
+          <l><space rend="indent1"/>From Arimathea —<caesura/>he was a rich man.</l>
+          <l><milestone n="505" unit="line"/><space rend="indent1"/>He came to Pilate<caesura/>and
+            said to him thus:</l>
+          <l><space rend="indent1"/>“Give me the body of this prophet<caesura/>named Jesus.”</l>
+          <l><space rend="indent1"/>Then Pilate ordered<caesura/>the body be given to him</l>
+          <l><space rend="indent1"/>Of our Lord Jesus Christ,<caesura/>the soul’s physician.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Joseph took our Lord<caesura/>down from the cross</l>
+          <l><milestone n="510" unit="line"/><space rend="indent1"/>And wound him in
+            linen,<caesura/>who bought us with his blood.</l>
+          <l><locus type="foliation">fol. 152r</locus><space rend="indent1"/>Afterwards he laid
+            him<caesura/>in a grave of stone</l>
+          <l><space rend="indent1"/>That he’d newly made<caesura/>for himself alone.</l>
+          <l><space rend="indent1"/>He rolled to the sepulchre door<caesura/>a large stone.</l>
+          <l><space rend="indent1"/>Then he went on his way<caesura/>to where he needed to go.</l>
+        </lg>
+        <lg>
+          <l><milestone n="515" unit="line"/><space rend="indent1"/>On another day
+            after<caesura/>Jesus had died,</l>
+          <l><space rend="indent1"/>The Jews and the Pharisees<caesura/>conferred together.</l>
+          <l><space rend="indent1"/>They came to Pilate,<caesura/>governor of the land.</l>
+          <l><space rend="indent1"/>“Lord,” they said to him,<caesura/>“we understand</l>
+          <l><space rend="indent1"/>That this deceiver said,<caesura/>for which we’re unhappy,</l>
+          <l><milestone n="520" unit="line"/><space rend="indent1"/>‘On the third day I
+            will<caesura/>arise from death to life.’</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Let us guard the sepulchre<caesura/>until the third day</l>
+          <l><space rend="indent1"/>So that his disciples not steal<caesura/>and bear him away,</l>
+          <l><space rend="indent1"/>And then say to the folk<caesura/>who are of our faith,</l>
+          <l><space rend="indent1"/>‘He’s risen from death<caesura/>whom the Jews ordered
+            killed,’</l>
+          <l><milestone n="525" unit="line"/><space rend="indent1"/>Then carry out a final deception
+            —<caesura/>to claim something worse</l>
+          <l><space rend="indent1"/>Than happened before,<caesura/>whatever men say.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>They were answered by Pilate,<caesura/>who’d come from Rome:</l>
+          <l><space rend="indent1"/>“Go now and guard it<caesura/>attentively and quickly.”</l>
+          <l><space rend="indent1"/>The Jews then went forth,<caesura/>taking their knights</l>
+          <l><milestone n="530" unit="line"/><space rend="indent1"/>To guard the
+            sepulchre<caesura/>both day and night.</l>
+          <l><space rend="indent1"/>Later they sealed it<caesura/>up with a stone.</l>
+          <l><space rend="indent1"/>Little did those wretches know<caesura/>what would happen.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The Jews were foolish<caesura/>to give that order,</l>
+          <l><space rend="indent1"/>And expected to hold Jesus Christ<caesura/>as if he were
+            dead.</l>
+          <l><milestone n="535" unit="line"/><space rend="indent1"/>Now they thought to confine him
+            —<caesura/>he who created all</l>
+          <l><space rend="indent1"/>Immediately broke hell’s door! —<caesura/>and overcome their
+            King.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Jesus, by his will,<caesura/>arose from death to life.</l>
+          <l><space rend="indent1"/>Even though knights guarded him,<caesura/>four or five,</l>
+          <l><space rend="indent1"/>They couldn’t keep him<caesura/>as the Jews had ordered,</l>
+          <l><milestone n="540" unit="line"/><space rend="indent1"/>Nor might they see
+            him,<caesura/>so they were afraid.</l>
+          <l><space rend="indent1"/>Then from the angel coming there<caesura/>they saw the
+            light.</l>
+          <l><space rend="indent1"/>They fell as if dead,<caesura/>right there at once.</l>
+        </lg>
+        <lg>
+          <l><locus type="foliation">fol. 152v</locus><space rend="indent1"/>Jesus Christ, who
+            raised himself<caesura/>by his mighty power</l>
+          <l><space rend="indent1"/>And came to this middle-earth<caesura/>to redeem sinful men,</l>
+          <l><milestone n="545" unit="line"/><space rend="indent1"/>Let us be so that our
+            life<caesura/>in this world be arranged</l>
+          <l><space rend="indent1"/>That we may all come<caesura/>to the eternal light.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Let us all, beloved men,<caesura/>pray to God who’s so
+            gracious</l>
+          <l><space rend="indent1"/>That by the Holy Ghost<caesura/>he kindle our hearts,</l>
+          <l><space rend="indent1"/>So that we may by our confession<caesura/>destroy the Fiend</l>
+          <l><milestone n="550" unit="line"/><space rend="indent1"/>Who with foul
+            sins<caesura/>thinks to blind us completely,</l>
+          <l><space rend="indent1"/>And grant that each life<caesura/>may never have an end</l>
+          <l><space rend="indent1"/>When our soul is unbound<caesura/>from fleshly bonds.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/><hi rend="italic">Here is when Jesus Christ arose from death to
+              life.</hi></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>After Christ arose from death,<caesura/>clean of sin,</l>
+          <l><space rend="indent1"/>The first to whom he spoke<caesura/>was Mary Magdalene.</l>
+          <l><milestone n="555" unit="line"/><space rend="indent1"/>When she came to his
+            tomb<caesura/>in order to seek him,</l>
+          <l><space rend="indent1"/>She thought that the Jews<caesura/>had stolen our soul’s
+            doctor.</l>
+          <l><space rend="indent1"/>Mary stood outside the door<caesura/>and began to weep sadly</l>
+          <l><space rend="indent1"/>When she didn’t find Jesus Christ,<caesura/>her beloved.</l>
+          <l><space rend="indent1"/>She bent down<caesura/>and searched with her eyes</l>
+          <l><milestone n="560" unit="line"/><space rend="indent1"/>Whether she, of our
+            Lord,<caesura/>might see anything.</l>
+          <l><space rend="indent1"/>Then she saw there two angels<caesura/>in white clothes and
+            fragrant;</l>
+          <l><space rend="indent1"/>One sat at the head,<caesura/>the other at the foot.</l>
+          <l><space rend="indent1"/>“Woman, why do you weep?”<caesura/>they said to her.</l>
+          <l><space rend="indent1"/>“Because they’ve taken my Lord —<caesura/>I don’t know
+            where.”</l>
+          <l><milestone n="565" unit="line"/><space rend="indent1"/>Mary drew back<caesura/>and
+            looked behind her.</l>
+          <l><space rend="indent1"/>Then she saw Jesus Christ<caesura/>whom she’d gone there to
+            find.</l>
+          <l><space rend="indent1"/>Our Lord asked her:<caesura/>“Why and for whom</l>
+          <l><space rend="indent1"/>Do you weep, and whom do you seek?<caesura/>Tell me, woman.”</l>
+          <l><space rend="indent1"/>Mary answered him<caesura/>and said to him thus:</l>
+          <l><milestone n="570" unit="line"/><space rend="indent1"/>“The Jews have taken my
+            Lord<caesura/>from this place.</l>
+          <l><space rend="indent1"/>I don’t know where<caesura/>they’ve brought him.</l>
+          <l><space rend="indent1"/>Therefore I’m very sad<caesura/>and have sought him.</l>
+          <l><space rend="indent1"/>Have you borne him away?<caesura/>Tell me, good man,</l>
+          <l><locus type="foliation">fol. 153r</locus><space rend="indent1"/>And I’ll fetch
+            him<caesura/>all by myself.”</l>
+          <l><milestone n="575" unit="line"/><space rend="indent1"/>She didn’t know it was
+            he<caesura/>who’d broken our bonds.</l>
+          <l><space rend="indent1"/>She thought it was the gardener<caesura/>speaking to her.</l>
+          <l><space rend="indent1"/>Jesus then said, “Mary,”<caesura/>and revealed who he was.</l>
+          <l><space rend="indent1"/>In all her life Mary<caesura/>was never so joyful.</l>
+          <l><space rend="indent1"/>She called him “Master,”<caesura/>that is, “Rabbi,”</l>
+          <l><milestone n="580" unit="line"/><space rend="indent1"/>And fell at his
+            feet<caesura/>and asked his mercy.</l>
+          <l><space rend="indent1"/>Jesus spoke to Mary<caesura/>and then told her</l>
+          <l><space rend="indent1"/>That she must not touch<caesura/>his hands or his feet.</l>
+          <l><space rend="indent1"/>“I’ve not yet ascended<caesura/>up to my Father,</l>
+          <l><space rend="indent1"/>But go to my brethren<caesura/>where they’re gathered.</l>
+          <l><milestone n="585" unit="line"/><space rend="indent1"/>Tell them that I
+            ascend<caesura/>to my Father’s kingdom,</l>
+          <l><space rend="indent1"/>Where my Father and his own are,<caesura/>and joy
+            unceasingly.”</l>
+          <l><space rend="indent1"/>After Jesus Christ<caesura/>had spoken with Mary,</l>
+          <l><space rend="indent1"/>She wouldn’t for anything<caesura/>break his commandment.</l>
+          <l><space rend="indent1"/>She came to his disciples<caesura/>where they were gathered.</l>
+          <l><milestone n="590" unit="line"/><space rend="indent1"/>Never of tidings<caesura/>were
+            they ever so glad!</l>
+          <l><space rend="indent1"/>She told them the words<caesura/>Jesus had told her,</l>
+          <l><space rend="indent1"/>And that “he was risen from death<caesura/>and said thus to
+            me.”</l>
+          <l><space rend="indent1"/>When they heard this,<caesura/>they were jubilant</l>
+          <l><space rend="indent1"/>That our Lord had arisen<caesura/>from death to life.</l>
+        </lg>
+        <lg>
+          <l><milestone n="595" unit="line"/><space rend="indent1"/>As they stood and
+            spoke<caesura/>and were in doubt</l>
+          <l><space rend="indent1"/>Of our Lord’s resurrection<caesura/>and many other things,</l>
+          <l><space rend="indent1"/>Our Lord Jesus Christ,<caesura/>born of the Virgin,</l>
+          <l><space rend="indent1"/>Stood among them all<caesura/>and said to them thus:</l>
+          <l><space rend="indent1"/>“Peace be among you.<caesura/>Don’t be afraid.</l>
+          <l><milestone n="600" unit="line"/><space rend="indent1"/>It is I who’s here
+            before<caesura/>all of you whom I led.”</l>
+          <l><space rend="indent1"/>They were afraid and terrified,<caesura/>and it was no
+            wonder.</l>
+          <l><space rend="indent1"/>They thought it was a ghost<caesura/>who was among them.</l>
+          <l><space rend="indent1"/>Jesus said to them:<caesura/>“Of whom are you afraid?</l>
+          <l><space rend="indent1"/>And if now in your heart<caesura/>many questions arise,</l>
+          <l><milestone n="605" unit="line"/><space rend="indent1"/>See now both my
+            feet<caesura/>and also my hands,</l>
+          <l><locus type="foliation">fol. 153v</locus><space rend="indent1"/>And that I’m Jesus
+            Christ<caesura/>who stands among you.</l>
+          <l><space rend="indent1"/>Observe now and see<caesura/>that a ghost has no bones —</l>
+          <l><space rend="indent1"/>Neither flesh nor bone,<caesura/>as are upon me.”</l>
+          <l><space rend="indent1"/>After he’d said this,<caesura/>he did even more.</l>
+          <l><milestone n="610" unit="line"/><space rend="indent1"/>He showed them his
+            hands<caesura/>and likewise his feet.</l>
+          <l><space rend="indent1"/>But they believed it not,<caesura/>neither more nor less.</l>
+          <l><space rend="indent1"/>Yet they marveled much,<caesura/>in their happiness.</l>
+          <l><space rend="indent1"/>Our Lord Jesus Christ<caesura/>began to speak with them:</l>
+          <l><space rend="indent1"/>“Do you have anything here<caesura/>that one can eat?”</l>
+          <l><milestone n="615" unit="line"/><space rend="indent1"/>They brought before
+            him<caesura/>a roasted fish</l>
+          <l><space rend="indent1"/>And also a honeycomb.<caesura/>They were overjoyed.</l>
+          <l><space rend="indent1"/>Our Lord took and ate thereof<caesura/>before every one of
+            them,</l>
+          <l><space rend="indent1"/>And showed that he’d arisen<caesura/>with flesh and with
+            bone.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>In very many ways<caesura/>our Lord exerted himself</l>
+          <l><milestone n="620" unit="line"/><space rend="indent1"/>To show his
+            apostles<caesura/>that he was God and man,</l>
+          <l><space rend="indent1"/>After he arose<caesura/>from death to life —</l>
+          <l><space rend="indent1"/>He who bought us all<caesura/>with his five wounds.</l>
+          <l><space rend="indent1"/>Often he spoke with them<caesura/>when they were together</l>
+          <l><space rend="indent1"/>Before he wished to ascend<caesura/>to heaven to his Father.</l>
+          <l><milestone n="625" unit="line"/><space rend="indent1"/>He commanded them to “hold true
+            love<caesura/>for one another,</l>
+          <l><space rend="indent1"/>As I’ve loved you,<caesura/>because you’re all brothers.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Our Lord breathed upon them,<caesura/>he who rules all,</l>
+          <l><space rend="indent1"/>To receive, he said,<caesura/>the Holy Ghost’s power:</l>
+          <l><space rend="indent1"/>“Those whom you release here<caesura/>from their sinful
+            bonds</l>
+          <l><milestone n="630" unit="line"/><space rend="indent1"/>Shall be
+            unbound<caesura/>forever without end;</l>
+          <l><space rend="indent1"/>And those whom you bind here<caesura/>in this life</l>
+          <l><space rend="indent1"/>Are always bound,<caesura/>know this truly.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>When our Lord was ready to ascend<caesura/>from earth to
+            heaven,</l>
+          <l><space rend="indent1"/>He said to his apostles —<caesura/>they were eleven:</l>
+          <l><milestone n="635" unit="line"/><space rend="indent1"/>“All listen to me,<caesura/>the
+            highest and the lowest.</l>
+          <l><space rend="indent1"/>I will send you out on<caesura/>my Father’s behest.</l>
+          <l><space rend="indent1"/>Remain in the city,<caesura/>and I’ll make you ready</l>
+          <l><locus type="foliation">fol. 154r</locus><space rend="indent1"/>Until you are
+            girded<caesura/>in heavenly might.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Afterwards he led them out<caesura/>into Bethany,</l>
+          <l><milestone n="640" unit="line"/><space rend="indent1"/>And with his precious
+            hand<caesura/>began to bless them.</l>
+          <l><space rend="indent1"/>When he had blessed them,<caesura/>he who created sun and
+            moon,</l>
+          <l><space rend="indent1"/>He rose to heaven<caesura/>very soon after that.</l>
+          <l><space rend="indent1"/>They stood and beheld<caesura/>how he rose to heaven,</l>
+          <l><space rend="indent1"/>With his blessed mother —<caesura/>he was close to her
+            heart.</l>
+        </lg>
+        <lg>
+          <l><milestone n="645" unit="line"/><space rend="indent1"/>There stood two fair
+            men;<caesura/>they couldn’t be missed</l>
+          <l><space rend="indent1"/>Because they were in white clothes<caesura/>fairly shrouded.</l>
+          <l><space rend="indent1"/>And they spoke to them:<caesura/>“Men of Galilee,</l>
+          <l><space rend="indent1"/>Looking toward heaven,<caesura/>what do you see?</l>
+          <l><space rend="indent1"/>The very same Jesus<caesura/>who is taken from you</l>
+          <l><milestone n="650" unit="line"/><space rend="indent1"/>Will himself soon<caesura/>come
+            here to you</l>
+          <l><space rend="indent1"/>In flesh and in bone,<caesura/>just as he went forth.</l>
+          <l><space rend="indent1"/>He’ll come here again —<caesura/>he sends you this message.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>When they heard this,<caesura/>they turned again</l>
+          <l><space rend="indent1"/>With much rejoicing<caesura/>back to Jerusalem,</l>
+          <l><milestone n="655" unit="line"/><space rend="indent1"/>And went into the
+            temple,<caesura/>praising God</l>
+          <l><space rend="indent1"/>And the King of heaven,<caesura/>always rejoicing.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>At mid-morning<caesura/>on Whitsunday</l>
+          <l><space rend="indent1"/>They were there together,<caesura/>as I may tell you,</l>
+          <l><space rend="indent1"/>And praised our Lord Christ<caesura/>and sang their prayers.</l>
+          <l><milestone n="660" unit="line"/><space rend="indent1"/>The Holy Ghost came upon
+            them<caesura/>in fiery tongues.</l>
+          <l><space rend="indent1"/>As soon as they were<caesura/>kindled by the Holy Ghost,</l>
+          <l><space rend="indent1"/>They arose all together<caesura/>and went out</l>
+          <l><space rend="indent1"/>And spoke God’s Word.<caesura/>They were jubliant.</l>
+          <l><space rend="indent1"/>Of no man on earth<caesura/>were they then afraid.</l>
+        </lg>
+        <lg>
+          <l><milestone n="665" unit="line"/><space rend="indent1"/>Then there were in
+            Jerusalem,<caesura/>as I understand,</l>
+          <l><space rend="indent1"/>Men dwelling<caesura/>from all different lands.</l>
+          <l><space rend="indent1"/>When they heard the apostles<caesura/>teach God’s lore,</l>
+          <l><space rend="indent1"/>Everyone there understood<caesura/>his native speech.</l>
+          <l><space rend="indent1"/>They said among themselves:<caesura/>“How may this be?</l>
+          <l><locus type="foliation">fol. 154v</locus><space rend="indent1"/>These men whom we hear
+            speak,<caesura/>they’re from Galilee,</l>
+          <l><milestone n="671" unit="line"/><space rend="indent1"/>And yet we heard them
+            praise<caesura/>in their preaching</l>
+          <l><space rend="indent1"/>According to our language<caesura/>the heavenly King.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Afterwards into all lands<caesura/>they went forth to
+            preach,</l>
+          <l><space rend="indent1"/>And to baptize the people,<caesura/>and to teach God’s law.</l>
+          <l><milestone n="675" unit="line"/><space rend="indent1"/>They wouldn’t then
+            forsake,<caesura/>not for any kaiser or king,</l>
+          <l><space rend="indent1"/>Nor for any pain,<caesura/>their preaching.</l>
+          <l><space rend="indent1"/>Therefore they traveled<caesura/>into all lands</l>
+          <l><space rend="indent1"/>And baptized kings,<caesura/>earls, and servants,</l>
+          <l><space rend="indent1"/>And all men and women<caesura/>who wished to come to them</l>
+          <l><milestone n="680" unit="line"/><space rend="indent1"/>And believe in Jesus
+            Christ<caesura/>who is God’s Son.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>On that account the Fiend of hell<caesura/>felt much
+            jealousy</l>
+          <l><space rend="indent1"/>Because they took souls from him<caesura/>everywhere.</l>
+          <l><space rend="indent1"/>Therefore he plotted<caesura/>what he might do</l>
+          <l><space rend="indent1"/>And was always lurking about<caesura/>by day and by night</l>
+          <l><milestone n="685" unit="line"/><space rend="indent1"/>To bring to
+            death<caesura/>whoever spoke with his chosen ones.</l>
+          <l><space rend="indent1"/>Then Nero and Decius<caesura/>and more who were lost,</l>
+          <l><space rend="indent1"/>They seized the apostles<caesura/>and put them to death,</l>
+          <l><space rend="indent1"/>And our Lord received them<caesura/>soon in that place.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Now they’re in bliss<caesura/>with heaven’s King —</l>
+          <l><milestone n="690" unit="line"/><space rend="indent1"/>That’s their reward<caesura/>for
+            their preaching.</l>
+          <l><space rend="indent1"/>Let us all pray to Jesus Christ<caesura/>for their
+            intercession,</l>
+          <l><space rend="indent1"/>That he may our souls<caesura/>bring to that bliss.</l>
+          <l><space rend="indent1"/>For his blessed mother’s love,<caesura/>from whom he took
+            flesh,</l>
+          <l><space rend="indent1"/>May he have mercy on us<caesura/>who is God and man,</l>
+          <l><milestone n="695" unit="line"/><space rend="indent1"/>And allow us so to live
+            here<caesura/>in this wretched life,</l>
+          <l><space rend="indent1"/>That we may come to him,<caesura/>for his five wounds.</l>
+          <l><space rend="indent1"/>And he who’s written this rhyme,<caesura/>be what he may,</l>
+          <l><space rend="indent1"/>God in this life<caesura/>allow him to thrive,</l>
+          <l><space rend="indent1"/>And all his comrades,<caesura/>both young and old.</l>
+          <l><milestone n="700" unit="line"/><space rend="indent1"/>God allow them their
+            order<caesura/>truly to maintain here,</l>
+          <l><space rend="indent1"/>So that they may together<caesura/>come to heavenly bliss</l>
+          <l><locus type="foliation">fol. 155r</locus><space rend="indent1"/>When they
+            depart<caesura/>out of this life.</l>
+          <l><space rend="indent1"/>He who created all things,<caesura/>grant us this,</l>
+          <l><space rend="indent1"/>For love of his dear mother<caesura/>Saint Mary,</l>
+          <l><milestone n="705" unit="line"/><space rend="indent1"/>And may she bear our
+            message,<caesura/>as is her custom,</l>
+          <l><space rend="indent1"/>With all the other saints,<caesura/>to her precious Son.
+            Amen.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Fein-Owl-003-Abbreviations-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Abbreviations List</title><author>Fein, Susanna</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp><resp from="2022-05" to="2023-09">Entered corrections for digital edition</resp><resp from="2022-05" to="2023-09">Entered corrections for print edition</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2020-07" to="2021-12">Checked and corrected bibliographic references</resp><resp from="2020-02" to="2020-03">Copyedited and proofread</resp><resp from="2020-07" to="2023-09">Ensured adherence to METS Style Guide</resp><resp from="2022-05" to="2023-09">Entered corrections for digital edition</resp><resp from="2020-02" to="2023-09">Entered corrections for print edition</resp><resp from="2020-02" to="2020-03">Formatted for print edition</resp><resp from="2020-02" to="2023-09">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2023-11" to="2024-01">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-01">Entered corrections for digital edition</resp><resp from="2023-11" to="2024-01">Formatted for XML export</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-02" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2021-11" to="2021-11">Copyedited and proofread</resp><resp from="2021-11" to="2021-11">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-11">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-11">Reviewed edition for content and scholarship</resp><resp from="2021-11" to="2021-11">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-02" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-11">Ensured adherence to METS Style Guide</resp><resp from="2023-10" to="2023-11">Entered corrections for digital edition</resp><resp from="2023-10" to="2023-11">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2021-11" to="2024-05">Audited documents prior to print/export</resp><resp from="2021-11" to="2021-12">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2021-11" to="2021-12">Copyedited and proofread</resp><resp from="2021-11" to="2021-12">Ensured adherence to METS Style Guide</resp><resp from="2021-11" to="2021-12">Reviewed edition for consistency and audience</resp><resp from="2021-11" to="2021-12">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Thomas of Hales</author><author>Unknown</author><editor>Fein, Susanna</editor><editor role="translator">Fein, Susanna</editor><title>The Owl and the Nightingale and the English Poems of Oxford, Jesus College, MS 29 (II)</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2022</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/fein-owl/blob/main/fein-owl-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Fein-Owl-003-Abbreviations"/><div type="text">
+ <list><item style="abbreviation-listitem">ANTS<space rend="indent1"/>Anglo-Norman Text Society</item>
+ <item style="abbreviation-listitem">Atkins<space rend="indent1"/>Atkins, ed. and trans., <hi rend="italic">The Owl and the Nightingale</hi></item>
+ <item style="abbreviation-listitem">BL<space rend="indent1"/>British Library</item>
+ <item style="abbreviation-listitem">BodL<space rend="indent1"/>Bodleian Library</item>
+ <item style="abbreviation-listitem">Borgström<space rend="indent1"/>Borgström, ed., <hi rend="italic">The Proverbs of Alfred</hi></item>
+ <item style="abbreviation-listitem">Brown<space rend="indent1"/>Brown, ed., <hi rend="italic">English Lyrics of the XIIIth Century</hi></item>
+ <item style="abbreviation-listitem">C<space rend="indent1"/>London, British Library, MS Cotton Caligula A.ix</item>
+ <item style="abbreviation-listitem">Cartlidge-Composition<space rend="indent1"/>Cartlidge, “The Composition and Social Context”</item>
+ <item style="abbreviation-listitem">Cartlidge-<hi rend="italic">Owl</hi><space rend="indent1"/>Cartlidge, ed. and trans., <hi rend="italic">The Owl and the Nightingale</hi></item>
+ <item style="abbreviation-listitem"><hi rend="italic">CHMS</hi><space rend="indent1"/>Fein, ed. and trans., with Raybin and Ziolkowski, <hi rend="italic">The Complete Harley 2253 Manuscript</hi>, 3 vols.</item>
+ <item style="abbreviation-listitem"><hi rend="italic">CT</hi><space rend="indent1"/>Chaucer, <hi rend="italic">The Canterbury Tales</hi>, ed. Benson</item>
+ <item style="abbreviation-listitem">Dean<space rend="indent1"/>Dean, with Boulton, <hi rend="italic">Anglo-Norman Literature</hi></item>
+ <item style="abbreviation-listitem">Dickins<space rend="indent1"/>Dickins, ed., <hi rend="italic">The Conflict of Wit and Will</hi></item>
+ <item style="abbreviation-listitem">Dickins-Wilson<space rend="indent1"/>Dickins and Wilson, eds., <hi rend="italic">Early Middle English Texts</hi></item>
+ <item style="abbreviation-listitem"><hi rend="italic">DIMEV</hi><space rend="indent1"/><hi rend="italic">Digital Edition of the Index of Middle English Verse</hi>, ed. Mooney et al.</item>
+ <item style="abbreviation-listitem">Dunn-Byrnes<space rend="indent1"/>Dunn and Byrnes, eds., <hi rend="italic">Middle English Literature</hi></item>
+ <item style="abbreviation-listitem">EETS<space rend="indent1"/>Early English Text Society</item>
+ <item style="abbreviation-listitem">Fein-Children<space rend="indent1"/>Fein, “All Adam’s Children”</item>
+ <item style="abbreviation-listitem">Fein-<hi rend="italic">MLSL</hi><space rend="indent1"/>Fein, ed., <hi rend="italic">Moral Love Songs and Laments</hi></item>
+ <item style="abbreviation-listitem">FRETS<space rend="indent1"/>French of England Translation Series</item>
+ <item style="abbreviation-listitem">Grattan-Sykes<space rend="indent1"/>Grattan and Sykes, eds., <hi rend="italic">The Owl and the Nightingale</hi></item>
+ <item style="abbreviation-listitem">Hall<space rend="indent1"/>Hall, ed., <hi rend="italic">Selections from Early Middle English</hi>, 2 vols.</item>
+ <item style="abbreviation-listitem">Hill-Addenda<space rend="indent1"/>Hill, “Oxford, Jesus College MS. 29: Addenda”</item>
+ <item style="abbreviation-listitem">Hill-History<space rend="indent1"/>Hill, “The History of Jesus College, Oxford MS 29”</item>
+ <item style="abbreviation-listitem">Hill-Part2<space rend="indent1"/>Hill, “Oxford, Jesus College MS 29, Part II”</item>
+ <item style="abbreviation-listitem">Kaiser<space rend="indent1"/>Kaiser, ed., <hi rend="italic">Medieval English</hi></item>
+ <item style="abbreviation-listitem">Kluge<space rend="indent1"/>Kluge, ed., <hi rend="italic">Mittelenglisches Lesebuch</hi></item>
+ <item style="abbreviation-listitem">ME<space rend="indent1"/>Middle English</item>
+ <item style="abbreviation-listitem"><hi rend="italic">MED</hi><space rend="indent1"/><hi rend="italic">Middle English Dictionary</hi>, ed. McSparran et al.</item>
+ <item style="abbreviation-listitem">Millett<space rend="indent1"/>Millett, trans., <hi rend="italic">The Owl and the Nightingale</hi></item>
+ <item style="abbreviation-listitem">Morris<space rend="indent1"/>Morris, ed., <hi rend="italic">An Old English Miscellany</hi></item>
+ <item style="abbreviation-listitem">Morris-<hi rend="italic">Specimens</hi><space rend="indent1"/>Morris, ed., <hi rend="italic">Specimens of Early English</hi></item>
+ <item style="abbreviation-listitem">MS<space rend="indent1"/>Oxford, Jesus College, MS 29 (II) [base manuscript]</item>
+ <item style="abbreviation-listitem"><hi rend="italic">MWME</hi><space rend="indent1"/>Severs et al., eds., <hi rend="italic">A Manual of the Writings in Middle English</hi>, 11 vols.</item>
+ <item style="abbreviation-listitem"><hi rend="italic">NIMEV</hi><space rend="indent1"/><hi rend="italic">A New Index of Middle English Verse</hi>, ed. Boffey and Edwards</item>
+ <item style="abbreviation-listitem">OE<space rend="indent1"/>Old English</item>
+ <item style="abbreviation-listitem">OF<space rend="indent1"/>Old French</item>
+ <item style="abbreviation-listitem">Oliver<space rend="indent1"/>Oliver, <hi rend="italic">Poems Without Names</hi></item>
+ <item style="abbreviation-listitem">Patterson<space rend="indent1"/>Patterson, ed., <hi rend="italic">The Middle English Penitential Lyric</hi></item>
+ <item style="abbreviation-listitem">Reichl<space rend="indent1"/>Reichl, ed., <hi rend="italic">Religiöse Dichtung im englischen hochmittelalter</hi></item>
+ <item style="abbreviation-listitem">Saupe<space rend="indent1"/>Saupe, ed., <hi rend="italic">Middle English Marian Lyrics</hi></item>
+ <item style="abbreviation-listitem">Silverstein<space rend="indent1"/>Silverstein, ed., <hi rend="italic">English Lyrics Before 1500</hi></item>
+ <item style="abbreviation-listitem">Skeat<space rend="indent1"/>Skeat, ed., <hi rend="italic">The Proverbs of Alfred</hi></item>
+ <item style="abbreviation-listitem">Stanley<space rend="indent1"/>Stanley, ed., <hi rend="italic">The Owl and the Nightingale</hi></item>
+ <item style="abbreviation-listitem">Treharne<space rend="indent1"/>Treharne, ed., <hi rend="italic">Old and Middle English</hi></item>
+ <item style="abbreviation-listitem">TCC<space rend="indent1"/>Trinity College Cambridge</item>
+ <item style="abbreviation-listitem"><hi rend="italic">VLT</hi><space rend="indent1"/>Wogan-Browne et al., eds. and trans., <hi rend="italic">Vernacular Literary Theory</hi></item>
+ <item style="abbreviation-listitem">Wells<space rend="indent1"/>Wells, ed., <hi rend="italic">The Owl and the Nightingale</hi></item>
+ <item style="abbreviation-listitem">Whiting<space rend="indent1"/>Whiting and Whiting, <hi rend="italic">Proverbs, Sentences, and Proverbial Phrases</hi></item>
+ <item style="abbreviation-listitem">Woolf<space rend="indent1"/>Woolf, <hi rend="italic">The English Religious Lyric</hi></item>
+ <item style="abbreviation-listitem">Wright<space rend="indent1"/>Wright, ed., <hi rend="italic">The Owl and the Nightingale</hi></item>
+ <item style="abbreviation-listitem">Wright-Halliwell<space rend="indent1"/>Wright and Halliwell, eds., <hi rend="italic">Reliquiæ Antiquæ</hi></item>
+ <item style="abbreviation-listitem">Zupitza<space rend="indent1"/>Zupitza et al., eds., <hi rend="italic">Alt- und mittelenglisches Übungsbuch</hi></item>
+ </list></div></body></text></TEI>
