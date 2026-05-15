@@ -4,7 +4,7 @@ This repository is for the edition _The Owl and the Nightingale and the English 
 
 - TEI-XML files of the digital edition. Last file updated: 01/13/2025
 
-- A PDF of the entire edition. Current version: 10/01/2024
+- A PDF of the entire edition. Current version: 05/15/2026
 
 - A Corrections Log, where we record all typographic and editorial corrections made. Current version: 10/31/2024
 
